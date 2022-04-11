@@ -1,7 +1,7 @@
 # Spectator Sport
 what in the love of god is media doing? 
 
-> NLP based analysis and insight experiments on the US media and its reporting 
+> NLP based analysis and insight experiments on the US media and its reporting on the Russian invasion of Ukraing (2022)
 
 ## Notebooks 
 |Notebook|Description|Date|
@@ -16,7 +16,7 @@ what in the love of god is media doing?
 
 
 ## People 
-Neg
-Geog
-Overtak
+Neg [git](https://github.com/tigboatnc) <br/>
+Geog [git](https://github.com/SwagYangJH) <br/>
+Overtak [git](https://github.com/HenryVarro666) <br/>
 

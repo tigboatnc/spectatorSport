@@ -15,8 +15,16 @@ what in the love of god is media doing?
 |[input-data.csv](./data/processed/input-data.csv)|Processing of Raw Scrape Data|04-11-22|
 
 
+## Todo 
+- [] Sync notebook 1 for operating on new file names `samarth` <_only mac support rn_>
 ## People 
 Neg [git](https://github.com/tigboatnc) <br/>
 Geog [git](https://github.com/SwagYangJH) <br/>
 Overtak [git](https://github.com/HenryVarro666) <br/>
 
+
+```shell 
+python -m spacy download en_core_web_md
+python -m spacy download en_core_web_sm
+
+```

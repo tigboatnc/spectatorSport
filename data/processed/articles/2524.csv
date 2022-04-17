@@ -1,0 +1,1110 @@
+,uid,article_author,article_date,article_text,article_url
+0,b70bccd0-2066-42fc-8f52-2ebafd5ee9bc,[],,,https://www.reddit.com/r/ukraine/comments/t5r65o/unconfirmed_russian_soldier_filming_dozens_of_his/
+1,b70bccd0-2066-42fc-8f52-2ebafd5ee9bc,[],,,https://www.nbcnews.com/news/world/live-blog/russia-ukraine-war-live-updates-kherson-peril-more-1m-flee-n1290720
+2,b70bccd0-2066-42fc-8f52-2ebafd5ee9bc,[],2022-03-04,"Cyberattacks are a distinct concern in the Russia-Ukraine conflict, with the potential to impact individuals and organizations far beyond the physical frontlines. With events unfolding rapidly, we want to provide a single channel by which we can communicate to the security community the major cyber-related developments from the conflict each day.
+
+Each Wednesday, we will update this blog at 5 pm EST with what we believe are the need-to-know updates in cybersecurity and threat intelligence relating to the Russia-Ukraine conflict. We hope this blog will make it easier for you to stay current with these events during an uncertain and quickly changing time.
+
+April 13, 2022
+
+As the Russia-Ukraine conflict continues, the rapid pace of new cyber threat intelligence has not kept up. Starting today, we are moving to a weekly publishing schedule for these updates on Wednesdays at 5pm EST. We hope this cadence will allow us to curate the content of our updates and provide the most relevant information on the cybersecurity dimensions of the conflict.
+
+The Washington Post is reporting that the Pentagon is looking to transfer armored Humvees and a range of other sophisticated equipment and supplies totaling near $750 million (USD) to Ukraine. CNN has also reported on this.
+
+Threat Intelligence Update
+
+Anonymous claims to leaks the data of a Russian regional education department
+
+Anonymous continues to target Russian government facilities, claiming to hack the Russian Department of Education for the Strezhevoy City District Administration. The threat actors leaked 221 GB of data consisting of 250,000 email messages allegedly belonging to the department.
+
+Source: @YourAnonNews via Twitter
+
+April 12, 2022
+
+While Ukraine’s “IT army” has been a known entity since the beginning of the war, this analysis piece in Foreign Policy takes a deeper dive into the group, starting with their first, public campaign and following through to the latest attacks.
+
+Threat Intelligence Update
+
+Sandworm attempts to shut down a Ukrainian energy provider
+
+The CERT-UA reported that Sandworm attacked an ICS network of a Ukrainian energy organization using a new variant for the Industroyer malware, dubbed Industroyer2, and CaddyWiper. In addition, the threat actors used the OrcShred, Soloshred, and AwfulShred destructive scripts to sabotage Linux servers and Solaris operating systems. The general plan was to disrupt the power in a region of Ukrainian. However, ESET researchers reported that the attack was unsuccessful.
+
+Source: ESET Research
+
+Anonymous hacked Russia’s Ministry of Culture and a governor’s office
+
+Anonymous claimed to breach Russia’s Ministry of Culture, leaking 446 GB of data, including over 200,000 email messages allegedly stolen from its databases. In another attack, the group of hacktivists claimed to hack the Tver Governor’s office, leaking 116 GB of data allegedly belonging to the governor and his staff. Source: Security Affairs
+
+April 11, 2022
+
+The Associated Press is reporting that, according to the World Bank, Ukraine’s economy “will shrink by 45% this year because of Russia’s invasion, which has shut down half of the country’s businesses, choked off imports and exports, and damaged a vast amount of critical infrastructure.”
+
+On April 10, 2022, The New York Times posted a story on the destruction of Ukraine’s farms. While the Times article touches on the subject, OCHA’s ReliefWeb has a more thorough discussion on the importance of Ukraine and Russian Federation agriculture to the global food supply.
+
+Threat Intelligence Update
+
+NB65 attacked Russian organizations using Conti’s leaked ransomware
+
+The Anonymous-affiliated group Network Battalion 65' (NB65) attacked Russian organizations using a modified ransomware that was based on Conti's leaked source code. When encrypting the files that are stored on the infected computer, the ransomware appends them with the .NB65 extension and creates a ransom note with accusations against President Vladimir Putin.
+
+Source: Bleeping Computer
+
+April 8, 2022
+
+Yle News is reporting that the Finnish foreign affairs and defense ministry websites were hit by a distributed denial of service (DDoS) attack just as Ukrainian President Volodymyr Zelensky addressed the Finnish Parliament.
+
+On April 5, 2022, the US Department of the Treasury’s Office of Foreign Assets Control (OFAC) “sanctioned the world’s largest and most prominent darknet market, Hydra Market (Hydra), in a coordinated international effort to disrupt proliferation of malicious cybercrime services, dangerous drugs, and other illegal offerings available through the Russia-based site. The operation targeting Hydra was a collaborative initiative joined by the US Department of Justice, Federal Bureau of Investigations [sic], Drug Enforcement Administration, Internal Revenue Service Criminal Investigation, and Homeland Security Investigations. This action was enhanced by international cooperation with the German Federal Criminal Police, who today shut down Hydra servers in Germany and seized $25 million worth of bitcoin.”
+
+The 451 Group published [direct PDF] a report detailing how the conflict in Ukraine may indirectly trigger more cybersecurity investment moving forward.
+
+NeimanLab posted an article that looks at the impact the conflict has had on digital influencers in Russia.
+
+Threat Intelligence Update
+
+Microsoft disrupts APT28 infrastructure used in attacks against Ukraine
+
+The endeavors to thwart cyberattacks against Ukrainian entities continue with Microsoft shutting down seven domains that were used as attack infrastructure for APT28 (AKA Fancy Bear). In addition to attacks against Ukraine, these domains were used in campaigns against US and EU government institutions that deal with foreign policy.
+
+Source: Bleeping Computer
+
+Anonymous leaks the information of three large Russian companies
+
+Anonymous published three datasets including approximately 400,000 email messages allegedly belonging to three well-established Russian companies: Petrovsky Fort, Aerogas, and Forest. Aerogas’ clients include the largest state-owned oil and gas companies in Russia.
+
+Source: Cyber News
+
+April 7, 2022
+
+ABC News is reporting that the US Senate has unanimously voted to suspend normal trade relations with Russia and ban the importation of its oil.
+
+Bloomberg reports that Russia attempted to pay their due bond payments in rubles after foreign banks declined to process the owed ~$650 million (USD). The notes that are due have a 30-day grace period. If the situation continues past the due date, Russia will be in default of their sovereign debt.
+
+According to The Seattle Times, the UN General Assembly has voted to suspend Russia from the world organization’s leading human rights body over allegations of “horrific rights violations” by Russian soldiers in Ukraine. The vote was 93-24 with 58 abstentions, significantly lower than the vote on 2 resolutions the assembly adopted last month demanding an immediate cease-fire in Ukraine, withdrawal of all Russian troops, and protection for civilians. Both of those resolutions were approved by at least 140 nations.
+
+The Centre for Information Resilience provides a weekly “Eyes on Russia Report” update, in which they document and verify significant incidents related to Russian aggression toward Ukraine.
+
+In Meta’s Q1 2022 Adversarial Threat Report [direct PDF link], the authors note that they have removed “a small network of 27 Facebook accounts, two Pages, three Groups, and four Instagram accounts for violating our policy against coordinated inauthentic behavior.” They go on to say that the network operated from Russia and Ukraine and targeted primarily Ukraine.
+
+In another action detailed in the same report, Meta removed another Russian-homed network of nearly 200 accounts that were coordinating to falsely report individuals for various violations, including hate speech, targeting people in Ukraine and Russia.
+
+Threat Intelligence Update
+
+The Cyclops Blink botnet operation disrupted by the US
+
+The US Federal Bureau of Investigation announced that it disrupted the operation of the Cyclops Blink botnet, operated by the Russian GRU-affiliated APT group, Sandworm. Cyclops Blink, the apparent successor to the VPNFilter malware, was removed from all identified Watchguard devices serving as its command and control servers. The US Attorney General stated that similar infrastructure was used to attack Ukrainian entities, and this botnet’s infrastructure was disrupted before it could be used.
+
+Source: US Department of Justice
+
+April 6, 2022
+
+The Council on Foreign Relations has a podcast episode on “War in the Digital Age” and interviews Audrey Kurth Cronin, a distinguished professor at American University’s School of International Service. They discuss how technology, innovation, and social media are shaping Russia’s war in Ukraine and what it might mean for the future.
+
+Intel issued a press release stating, “Effective immediately, we have suspended all business operations in Russia.” In its statement, the company goes on to say, “We are working to support all of our employees through this difficult situation, including our 1,200 employees in Russia.”
+
+Foreign Affairs published a well-researched article titled “The Myth of the Missing Cyberwar,” noting — among other posits — that “all available evidence indicates that Russia has employed a coordinated cyber-campaign intended to provide its forces with an early advantage during its war in Ukraine.” We encourage time-strapped readers to, at a minimum, digest the “No Restraint” section that concludes the article.
+
+The Washington Post reports that the US government and energy firms have closed ranks and are working together to shore up the collective cyber defenses of the industry in an effort to help prevent negative outcomes that could occur as the Ukraine war continues.
+
+Threat Intelligence Update
+
+Anonymous claims to hack Kremlin CCTV
+
+Anonymous claimed that they gained access to the Kremlin CCTV system and published their live feeds on Twitter.
+
+Source: @YourAnonTV via Twitter
+
+Ukrainian cyber agencies warn of attempts to hack Telegram accounts
+
+The CERT-UA and the Cyberpolice of Ukraine warned of threat actors sending messages with malicious links to Telegram sessions, in order to gain unauthorized access to the accounts and steal sensitive information. The activity is tracked as UAC-0094.
+
+Source: gov.ua and CERT-UA
+
+April 5, 2022
+
+The Wall Street Journal notes that Ukrainian President Volodymyr Zelensky called for the removal of Russia from the UN Security Council after alleged war crimes, citing newly discovered atrocities that could be worse than those in Bucha.
+
+According to CNN, the US will announce new sanctions on Russia Wednesday in coordination with allies from the Group of 7 and the European Union. An administration official said the sweeping package ""will impose significant costs on Russia and send it further down the road of economic, financial, and technological isolation.""
+
+Fed Scoop reports that Gen. Paul Nakasone, Commander of the US Cyber Command, stated that the Command has been ""integral to the nation’s response to this crisis since Russian forces began deploying on Ukraine’s borders last fall."" He further noted that ""we have provided intelligence on the building threat, helped to warn US government and industry to tighten security within critical infrastructure sectors, enhanced resilience on the DODIN (especially in Europe), accelerated efforts against criminal cyber enterprises and, together with interagency members, Allies, and partners, planned for a range of contingencies.""
+
+Threat Intelligence Update
+
+Gamaredon attacks Ukrainian government organizations
+
+The CERT-UA reported on a phishing campaign that was conducted by the Russian threat group Gamaredon (AKA UAC-0010), targeting Ukrainian government agencies. The phishing messages contained attachments with lures concerning the Russia-Ukraine conflict. These attachments eventually led to the download of an HTA file containing VBScripts that executed a powershell script (GammaLoad.PS1) to collect system data.
+
+Source: CERT-UA
+
+Anonymous leaks alleged personal information of Russian soldiers serving in Bucha
+
+In response to the Russian brutal attack on Bucha, Anonymous claimed to leak the personal details of Russian military personnel serving in the 64 Motor Rifle Brigade and stationed in Bucha. The leak included names, ranks, and passport details.
+
+Source: @Anonymous_Link via Twitter and Security Affairs
+
+April 4, 2022
+
+Lithuania announced it is “completely abandoning Russian gas imports.” Amber Grid, the Lithuanian gas transmission system operator, confirmed that as of April 2, 2022, the import of Russian gas for Lithuania's needs through the Lithuanian-Belarusian interconnection was equal to 0 MWh.
+
+Business Insider reports that Miro, a $17.5B (USD) startup originally founded in Russia has closed its office in Russia (back in March) and is relocating employees to other regions.
+
+There is an article in The Conversation, a nonprofit independent news organization that sources articles only from academic experts, on why cyberattacks have yet to play a significant role in Russia’s battlefield operations in Ukraine. The authors cite numerous cyberwarfare experts throughout the piece.
+
+Threat Intelligence Update
+
+UAC-0056 targets Ukrainian entities
+
+Cybersecurity researchers reported on a new UAC-0056 activity targeting several Ukrainian entities, including the ICTV TV channel. The threat actors used spear-phishing email messages with malicious macro-embedded Excel documents. These were used to install the Elephant dropper and downloader, leading to the deployment of the GrimPlant and GraphSteel backdoors. The backdoors exfiltrated stolen data, including general system information, browser credentials, and WiFi information.
+
+Source: Malwarebytes
+
+Massive Yandex Food data leak exposes Russian security agents
+
+Bellingcat published an analysis of the data that was leaked from Yandex Food at the beginning of March. It seems that the leak included the details of 58,000 users, including individuals connected to Russia’s Main Intelligence Directorate (GRU) and the country’s foreign military intelligence service. Yandex stated that the leak occurred as a result of an inside job and not a cyberattack.
+
+Source: The Verge
+
+Anonymous claims to breach the Russian Orthodox Church
+
+Anonymous claimed to hack the Russian Orthodox Church’s charitable wing, leaking 15 GB of data, including around 57,000 email messages allegedly belonging to the church.
+
+Source: Security Affairs
+
+April 1, 2022
+
+The Kiev Independent is reporting that Russia began a new military draft for and expects to amass 134,500 conscripts aged 18 to 27 by July 15, 2022.
+
+According to the Wall Street Journal, most of Europe, Canada, Mexico, Japan, and South Korea will join the US in a bid to tame energy prices that have soared following Russia’s invasion of Ukraine.
+
+Officials in Connecticut confirmed the successful distributed denial of service (DDoS) attack on Bradley International Airport’s website. Earlier in the week, the threat intelligence and mitigation firm Cyberknow posted a translated message left behind by hackers, claiming to support Russia, taking credit for the attacks.
+
+Threat Intelligence Update
+
+Viasat confirms to be attacked by the AcidRain wiping malware
+
+The cyberattack on the KA-SAT satellite broadband network, owned by Viasat, seems now to be the work of a wiping malware dubbed AcidRain. The attack occurred on February 24, the day of the Russian invasion of Ukraine, and is believed to have caused severe communications disruptions in Ukraine and the surrounding areas. AcidRain is the seventh wiping malware to be documented in the attacks against Ukraine since the beginning of the year.
+
+Source: Bleeping Computer
+
+Anonymous claims to hack Russian investment firm Marathon Group
+
+Anonymous continues to fulfill its threats to hit companies owned by Russian oligarchs. The hacktivist group claimed to breach the Russian investment company Marathon Group, owned by oligarch Alexander Vinokuro, leaking 62,000 email messages allegedly belonging to the company.
+
+Source: Security Affairs
+
+March 31, 2022
+
+RIPE Labs, the research arm of the EU RIPE Network Coordination Centre, posted a deep-dive into the “Russian Sovereign Internet and Number Resources.” In it, they discuss the 2018 “Sovereign Internet” regulation enacted by the Kremlin and what impacts it started to have in 2021 as it was applied to internet name and number resources. Finally, they posit what this regulation might mean for the Russian internet space moving forward and what impacts it might have on the global internet.
+
+Threat Intelligence Update
+
+Anonymous puts pressure on Russian oligarchs
+
+Anonymous leaked 5,500 email messages that were allegedly stolen from the Russian investment firm Thozis Corp, owned by the Russian oligarch Zakhar Smushkin. Some of the email messages contained sensitive information about deals and investments that were made by the company. The group stated that the attack's goal was to put pressure on the Russian oligarchs supporting the Russian economy.
+
+Source: Security Affairs
+
+March 30, 2022
+
+Bloomberg reports that the world’s largest cement maker is divesting their Russian business and selling 3 factories.
+
+The Wall Street Journal is reporting that the United Nations estimates the number of refugees fleeing the war in Ukraine to be over 4 million. They further report that the Biden administration is providing $500 million USD in budgetary aid to Ukraine to be used for expenses such as salaries and maintaining government services.
+
+The Washington Post notes one NASA astronaut and 2 Russian cosmonauts landed safely in Kazakhstan after undocking from the International Space Station.
+
+In response to the crisis in Ukraine, The Washington Post, The New York Times, and The Financial Times have each created Telegram channels where they are providing updates on the situation.
+
+Threat Intelligence Update
+
+The COLDRIVER threat group targets US and NATO entities
+
+The Google's Threat Analysis Group (TAG) reported on 3 threat actors operating in Eastern Europe in the past 2 weeks. One of them is COLDRIVER, a Russian-based threat actor that initiated credential phishing campaigns against multiple entities siding with Ukraine, such as US NGOs and the NATO Centre of Excellence.
+
+Source: Google Blog
+
+AgainstTheWest hacker group turns its focus from Russia to China
+
+The hacker group AgainstTheWest claimed to breach multiple Chinese organizations for supporting Russia. These include Alibaba Cloud, Amazon China, JD, Bank of China, All-China Federation of Trade Union, and others. The group also claimed they would soon release data stolen from the compromised companies.
+
+Source: @AnonHacWordWide via Twitter
+
+Threat actors attack the Russian Civil Aviation Authority
+
+The Russian Civil Aviation Authority Rosaviatsiya was attacked by unnamed threat actors, erasing 65 TB of data and collapsing the government agency’s network. It was reported that at least some of the data had no backups and could not be restored. The attack was initially attributed to Anonymous – however, the group has denied any relation to the incident and stated that they do not engage in cyberterrorism.
+
+Source: Cyber News and @EuromaidanPress via Twitter
+
+March 29, 2022
+
+Politico reports that Poland is no longer importing coal from Russia.
+
+Bloomberg News is reporting that all Bloomberg entities, including their financial data and trading platforms, have suspended operations in Russia and Belarus.
+
+The BBC notes that Ireland, Belgium, the Netherlands and the Czech Republic have issued expulsion orders to a total of 43 Russian embassy staffers.
+
+Threat Intelligence Update
+
+Ukraine brings down 5 disinformation bot farms
+
+The Ukrainian Security Service (SSU) announced that since the beginning of the war, it has shut down 5 bot farms with over 100,000 fake social media accounts spreading fake news. The SSU attributed the actions to the Russian special services and their wish to destabilize the sociopolitical situation in Ukraine.
+
+Source: Bleeping Computer
+
+Anonymous leaks data allegedly from 2 Russian companies
+
+Anonymous claimed to have hacked the Russian construction company Rostproekt, leaking 2.4 GB of email messages allegedly belonging to the company. In addition, the group announced that it had hacked the Russian manufacturer MashOiL, stealing and publishing approximately 140,000 of the company's email messages.
+
+Source: Security Affairs
+
+March 28, 2022
+
+According to Reuters, a senior US defense official has assessed that Ukrainian forces have retaken the town of Trostyanets, south of Sumy.
+
+Ukraine’s parliament has amended its criminal code to allow penetration testing of its IT and communications networks in order to help the government find and fix vulnerabilities.
+
+Politico took a deep dive into the complexities around the Biden administration’s “ominous warnings” about looming Russian cyberattacks.
+
+Reuters is reporting that Russian forces have left the Ukrainian town of Slavutych, home to workers at the defunct nuclear plant of Chernobyl, after completing their task of surveying it.
+
+Forbes reports that a ""powerful"" cyberattack has hit Ukraine's national telecommunications company, Ukrtelecom. Described as the most severe cyberattack since the start of the Russian invasion in February, it has taken down the company’s services across the country. Victor Zhora, deputy head of the State Service for Special Communications and Information Protection, confirmed that the government was investigating the attack. He said it's not yet known whether Ukrtelecom has yet been hit by a distributed denial of service (DDoS) attack or a deeper, more sophisticated intrusion.
+
+BGPStream (a Cisco public network observation service) recorded a possible network route hijack of Twitter by a Russian-managed autonomous system provider RTComm starting at 2022-03-28 12:06:26 UTC. BGP prefix hijacks can be used to block access to services or intercept traffic to/from the IP addresses in the affected network range. RTComm has not released a statement on the reason for the suspected hijack.
+
+Russia is slated to release their own state-controlled version of Instagram, dubbed Rossgram, by end of day Monday, March 28, 2022.
+
+Threat Intelligence Update
+
+Ukrainian Intelligence publishes the information of alleged Russian FSB officers
+
+Ukraine's Main Intelligence Directorate released the names and identifiable information of more than 600 Russian Federal Security Service (FSB) officers operating in Europe. The list includes their names, date of birth, phone numbers, and other personal information.
+
+Source: gur.gov.ua
+
+NB65 claims to have hacked Russia's largest media corporation
+
+The Anonymous-affiliated group NB65 claimed they hacked the All-Russia State Television and Radio Broadcasting Company (VGTRK), accusing them of spreading Putin's propaganda. In addition, the hackers allegedly stole 870 GB of data from the company to be released soon.
+
+Source: Security Affairs
+
+March 25, 2022
+
+Reuters is reporting that Russia's defense ministry said on Friday that the first phase of its military operation in Ukraine was mostly complete and that it would focus on completely ""liberating"" eastern Ukraine's Donbass region.
+
+According to Reuters, German business software giant SAP said on Thursday it would shut down its cloud operations in Russia, withdrawing further from the country after stopping sales in Russia earlier this month.
+
+VICE is running a story that Lantern, a US-based digital infrastructure company, is rushing to lay the final pieces of an unbreakable network that the Kremlin won’t be able to take down. According to the reporter, Lantern says it has seen staggering growth inside Russia in the last four weeks for its app, which allows users to bypass Kremlin restrictions on accessing platforms like Facebook, Twitter, and Instagram. According to the story, the company is now building something even more robust, an internal peer-to-peer network that allows dissenting voices to continue to upload and share content even if the Kremlin pulls the plug on the internet.
+
+The Financial Times takes a deep dive into Ukraine’s digital defenses as officials there work to fend off a constant barrage of cyberattacks from Russia.
+
+The US Department of Justice (DoJ) has unsealed indictments charging 4 Russian nationals and Kremlin operatives with attempting, supporting, and conducting computer intrusions that together, in two separate conspiracies, targeted the global energy sector between 2012 and 2018. In total, the indictments reveal that these hacking campaigns targeted thousands of computers, at hundreds of companies and organizations, in approximately 135 countries. In conjunction with the DoJ announcement, the US Cybersecurity and Infrastructure Security Agency (CISA) released an alert detailing the tactics, techniques, and procedures used by the 4 defendants.
+
+Threat Intelligence Update
+
+Anonymous continues to target Western companies dealing with Russia
+
+After the recent attack on Nestlé, Anonymous hackers continue to fulfill their threats to hit Western companies dealing with Russia. The group launched a DDoS attack that shut down the websites of Auchan, Leroy Merlin, and Decathlon. The group’s tweets indicate they are continuing to target companies still doing business with Russia.
+
+Source: Security Affairs
+
+March 24, 2022
+
+NBC News reports that the US will place additional sanctions on more than 400 Russians and Russian entities, including the Duma and more than 300 of its members, along with more than 40 defense companies. They also note that the White House announced it would also allow as many as 100,000 Ukrainians to enter the US, with a focus on those who are most vulnerable. Finally, they reported that White House officials stated that the administration is prepared to offer more than $1 billion in additional funding toward humanitarian assistance and $11 billion over the next 5 years to address worldwide food security threats after the disruptions to the Russian and the Ukrainian agricultural industries.
+
+The New York Times is reporting that the White House has assembled a team of national security officials to sketch out scenarios of how the US and its allies should respond if Russia unleashes his stockpiles of chemical, biological, or nuclear weapons. They further report that this team is also examining responses if Russia reaches into NATO territory to attack convoys bringing weapons and aid to Ukraine.
+
+Wired is running a story following up on the February 24, 2022 Russian cyberattack on KA-SAT, a satellite-based internet service for a large portion of Europe. They report that Russia’s goal was to disrupt Ukraine’s drone control program, but Russia ended up impacting power generation and other services in many countries far removed from the battlefield. Thousands of organizations and households remain without satellite internet communications over a month after the initial attack.
+
+MikroTik, a major global supplier of networking equipment, announced it stopped all shipments to and licensing in Russia and Belarus beginning in February and have donated more than €100,000 of networking devices to humanitarian efforts.
+
+Threat Intelligence Update
+
+Ukrainian organizations attacked by the DoubleZero wiper
+
+The Computer Emergency Response Team of Ukraine (CERT-UA) warned against spear-phishing attacks targeting Ukrainian organizations and distributing the DoubleZero wiper. The attacks were attributed to the UAC-0088 threat group.
+
+Source: Security Affairs
+
+Anonymous hacks the Central Bank of Russia
+
+Anonymous claimed to compromise the Central Bank of Russia, allegedly stealing 35,000 files to be leaked in 48 hours.
+
+Source: Security Affairs and Twitter
+
+Russia bans Google News for spreading ""unreliable information""
+
+Russia's telecommunications regulator, Roskomnadzor, banned Google News and blocked access to its website for directing users to ""unreliable information"" about the Russia-Ukraine conflict. This decision follows the new Russian legislation forbidding the distribution of “Western propaganda” news on the war, as well as the ban of social media platforms, such as Facebook, Twitter, and Instagram, in the country.
+
+Source: Bleeping Computer
+
+March 23, 2022
+
+The US Department of Justice announced the reestablishment of the Cross-Border Crime Forum with Canada. In it, officials noted that they “are working vigilantly to protect the cybersecurity of our critical infrastructure sectors given Russia’s further invasion of Ukraine. We also reiterated our commitment to work together through the G7+ REPO Task Force to locate and freeze virtual and physical assets of sanctioned Russian individuals and entities, and to forfeit the proceeds of kleptocracy or other crimes.”
+
+Politico published an article taking a deep dive into the extended cyberwar actions of Russia (or, lack thereof). The fundamental takeaway from the piece is that no expert really understands why cyber has not had more focus, but the expectation is that this may change very soon.
+
+CBS is reporting that the FBI said it has identified 140 Russian IP addresses that have engaged in “abnormal scanning activity” against the infrastructure of at least 23 US companies in the energy sector. They added that ​​the IP addresses are associated with prior attacks and ""likely indicates early stages of reconnaissance, scanning networks for vulnerabilities for use in potential future intrusions.”
+
+SC Media notes that the Department of Health and Human Services is urging provider organizations to review and bolster defenses to guard against possible fallout from the Russian invasion of Ukraine.
+
+US Secretary of State Antony Blinken published a statement announcing that, “based on information currently available, the US government assesses that members of Russia’s forces have committed war crimes in Ukraine.”
+
+Threat Intelligence Update
+
+Fraudulent email messages impersonate fundraising for Ukraine
+
+Action Fraud, the national fraud reporting center of the UK, published a warning against scam email messages pretending to raise money for the victims in Ukraine. The organization notes that these messages lead to malicious websites that steal the donors' money and personal information. Action Fraud listed the following measures on how to detect the scams:
+
+- Never click on the links or attachments in suspicious emails or respond to unsolicited messages asking for personal or financial details – even if they are in the name of a charity.
+
+
+
+- To donate online, type in the address of the charity website rather than clicking on a link.
+
+
+
+- Be cautious when donating to an online fundraising page – fake ones are often badly written or contain spelling mistakes.
+
+Source: BBC News
+
+March 22, 2022
+
+In response to the announcements from the Biden administration yesterday, Rapid7 has provided “8 Tips for Securing Networks When Time Is Scarce” that are all actionable now, to help defenders can take to protect themselves
+
+Reuters is reporting that the Kremlin has dismissed yesterday’s warning of potential Russian cyberattacks, stating that “the Russian Federation, unlike many Western countries, including the United States, does not engage in state-level banditry.”
+
+National Security Advisor Jake Sullivan held a press briefing today on the Russia-Ukraine conflict. When asked if a cyberattack by Russia against a NATO member could trigger an Article 5 response, Sullivan referred to earlier statements indicating that NATO members would coordinate on a response if such an attack occurred. He did not add details as to the exact type of response. Furthermore, when asked by another reporter what type of attack would constitute a cyberattack, Sullivan responded that President Biden’s remarks yesterday indicate such attacks would have to be like those seen in mid-2021, such as disruptive ransomware attacks.
+
+Threat Intelligence Update
+
+Anonymous warns companies dealing with Russia, attacks Nestle
+
+Anonymous has warned Western companies to immediately pull their business from Russia or get hacked. The group claims that it fulfilled its threats with an attack on Nestlé, leaking 10GB of allegedly stolen data, including email messages, user passwords, and customer information.
+
+Source: Homeland Security Today and Twitter
+
+March 21, 2022
+
+Sky News — along with many other outlets — is reporting that the US ambassador was summoned by Russia's foreign ministry today and told that ties between the US and Russia are on the verge of being severed. They cited ""unacceptable"" comments by US President Joe Biden about Russia's Vladimir Putin. According to Sky News, “the ambassador said the remarks were ‘unacceptable ... unworthy of such a high-ranking statesman and put US-Russia relations on the brink of collapse.’”
+
+President Biden delivered a statement reiterating warnings about potential cyberattacks coming from Russia and directed at the United States. The White House subsequently issued a new fact sheet urging organizations to act now to protect themselves from potential cyberattacks. According to the White House, the guidance notes specific areas of urgency:
+
+​​- Mandate the use of multifactor authentication on your systems to make it harder for attackers to get onto your system;
+
+
+
+- Deploy modern security tools on your computers and devices to continuously look for and mitigate threats;
+
+
+
+- Check with your cybersecurity professionals to make sure that your systems are patched and protected against all known vulnerabilities, and change passwords across your networks so that previously stolen credentials are useless to malicious actors;
+
+
+
+- Back up your data and ensure you have offline backups beyond the reach of malicious actors;
+
+
+
+- Run exercises and drill your emergency plans so that you are prepared to respond quickly to minimize the impact of any attack;
+
+
+
+- Encrypt your data, so it cannot be used if it is stolen;
+
+
+
+- Educate your employees to common tactics that attackers will use over email or through websites, and encourage them to report if their computers or phones have shown unusual behavior, such as unusual crashes or operating very slowly; and
+
+
+
+- Engage proactively with your local FBI field office or CISA Regional Office to establish relationships in advance of any cyber incidents. Please encourage your IT and Security leadership to visit the websites of CISA and the FBI, where they will find technical information and other useful resources.
+
+Similarly, the Krebs-Stamos Group has made public another resource for organizations concerned with the current conflict. Their “Shields Up” report (which makes reference to CISA’s “Shields Up” resource) addresses one of the most pressing questions many leaders have: “What can a company do to enhance their security posture on short notice?""
+
+The Verge is reporting that a Russian court upheld the Kremlin’s charge that Facebook/Meta has been engaged in “extremist activities.” The services will continue to be banned in Russia and Russian organizations and individuals have been prohibited from purchasing advertising on Instagram and Facebook. Trading in Meta shares is also prohibited, as is displaying Meta/Facebook/Instagram logos in public.
+
+Threat Intelligence Update
+
+Anonymous attacked a Russian pipeline company
+
+Anonymous announced that they breached Omega, the R&D division of the Transneft oil company. The threat actors claimed to have stolen 79 GB of data from the Russian state-controlled company. The allegedly stolen data included email messages and their contents, such as invoices and product shipment information.
+
+Source: Security Affairs
+
+InvisiMole group targets Ukrainian state organizations
+
+The Computer Emergency Response Team of Ukraine (CERT-UA) warned against phishing campaigns targeting Ukrainian organizations while spreading the LoadEdge backdoor. The phishing campaigns were attributed to the InvisiMole threat group (AKA UAC-0035), which is linked to the Russian APT Gamaredon.
+
+Source: ZDNet
+
+March 18, 2022
+
+The Washington Post is reporting that some Russian businesses are filing trademark applications for new logos that mimic the design/style of American counterparts for companies that have ceased operations in Russia. They cite an example of the well-known “double arches” of the burger franchise, McDonald’s, having a virtually identical new twin with that of Dyadya Vanya (a local, Russian burger chain).
+
+Threat Intelligence Update
+
+RIPE NCC states they are fully compliant with recent EU sanctions on Russia
+
+RIPE NCC, which oversees the allocation and registration of IP addresses and autonomous system numbers in Europe, the Middle East, and parts of Central Asia, issued a statement detailing their compliance with EU sanctions. It clarifies that they do not allocate new IPs and ASNs to any sanctioned persons or entities, while also freezing existing resources.
+
+Source: RIPE NCC
+
+Ukraine releases details of a hack on news agencies
+
+Reportedly, the hack was performed by “Russian Federation’s hackers” and appears to be a defacement operation that included placing symbols banned in Ukraine on the agencies’ front pages. CIP mentioned no data was compromised as a result.
+
+Source: DSTSZI
+
+CISA, FBI warn of possible threats to US and SATCOM networks
+
+The new advisory details a set of mitigations for critical-infrastructure organizations, SATCOM (satellite communication) network providers, and customers, following the current geopolitical situation. According to Reuters, the warning follows an investigation by Western intelligence agencies into the recent hack targeting the telecommunications firm Viasat.
+
+Source: Reuters
+
+March 17, 2022
+
+Vladimir Putin warned he would cleanse Russia of the “scum and traitors” he accuses of working covertly for the US and its allies. He also said on Wednesday that Russia would achieve its goals in Ukraine and would not submit to what he called a Western attempt to achieve global dominance and dismember Russia.
+
+The Russian news site Kommersant reported that on March 9, 2022, a meeting was held in the Ministry of Digitalization with the participation of companies operating with a significant amount of computing power: Sber, MTS, Oxygen, Rostelecom, Atom-Dates (a structure of Rosatom), Krok, and Yandex. The parties discussed the prospect of a shortage of data storage systems and servers necessary to ensure the operation of public digital resources. Estimates suggest there may be only two months of disk storage space left across major Russian businesses and government entities.
+
+Threat Intelligence Update
+
+Known npm package developer sabotages files in protest against Russia
+
+A developer of the popular npm package ""node-ipc"" published malicious versions of the library in protest against the Russian invasion of Ukraine. The malicious versions overwrite and delete arbitrary files on user systems that are based in Russia and Belarus.
+
+Source: Bleeping Computer
+
+A deepfake video of Zelenskyy is removed by Facebook
+
+Facebook deleted a deepfake video of Ukrainian President Zelenskyy asking Ukrainian soldiers to surrender. Meta, Facebook's parent company, stated that the video violated their policy against misleading manipulated media and therefore was removed.
+
+Source: Bleeping Computer
+
+March 16, 2022
+
+Ukrainian President Volodymyr Zelenskyy delivered a virtual speech to US lawmakers on Wednesday, asking again specifically for a no-fly zone over Ukraine and for additional support.
+
+The White House released a new fact sheet detailing an additional $800 million in security assistance to Ukraine.
+
+Threat Intelligence Update
+
+UAC-0056 targets Ukrainian entities
+
+SentinelOne researchers reported that UAC-0056 targeted Ukrainian entities using a malicious Python-based package, masquerading as a Ukrainian language translation software. Once installed, the fake app deployed various malware, such as Cobalt Strike, GrimPlant, and GraphSteel.
+
+Source: Sentinel One
+
+A hacker was caught routing calls to Russian troops
+
+The Security Service of Ukraine claimed to have arrested a hacker that helped deliver communications from within Russia to the Russian troops operating in the Ukrainian territory. The hacker also sent text messages to
+
+Ukrainian security officers and civil servants, exhorting them to surrender.
+
+Source: The Verge
+
+March 15, 2022
+
+The Ukrainian Ministry of Defense leaked documents of a Russian nuclear power plant. This may be the first-ever instance of a hack-and-leak operation to weaponize the disclosure of intellectual property to harm a nation.
+
+Researchers at INFOdocket, a subsidiary of Library Journal, have created a compendium of briefings, reports, and updates about the conflict in Ukraine from three research organizations: Congressional Research Service (CRS), European Parliament Research Service (EPRS), and the UK House of Commons Library. The resource will be updated as each of the three organizations releases relevant new content.
+
+The Wall Street Journal is reporting that Russian prosecutors have issued warnings to Western companies in Russia, threatening to arrest corporate leaders there who criticize the government or to seize assets of companies that withdraw from the country.
+
+Russia may default on $117 million (USD) in interest payments on dollar-denominated bonds due to Western sanctions, the first foreign debt default by Russia since 1918.
+
+Reuters is reporting that Russia's delegation to the Parliamentary Assembly of the Council of Europe (PACE) is suspending its participation and will not take part in meetings.
+
+CNN reports that Russia has imposed sanctions against US President Joe Biden, his son, Secretary of State Antony Blinken, other US officials, and “individuals associated with them,” the Russian Foreign Ministry said in a statement on Tuesday.
+
+Threat Intelligence Update
+
+Russian state-sponsored cyber actors access network misconfigured with default MFA protocols
+
+CISA and the Federal Bureau of Investigation (FBI) have released a joint Cybersecurity Advisory that details how Russian state-sponsored cyber actors accessed a network with misconfigured default multifactor authentication (MFA) protocols. The actors then exploited a critical Windows Print Spooler vulnerability, “PrintNightmare” (CVE-2021-34527), to run arbitrary code with system privileges.
+
+Source: CISA
+
+Fake antivirus updates used to deploy Cobalt Strike in Ukraine
+
+Ukraine's Computer Emergency Response Team is warning that threat actors are distributing fake Windows antivirus updates that install Cobalt Strike and other malware. The phishing emails impersonate Ukrainian government agencies offering ways to increase network security and advise recipients to download ""critical security updates,"" which come in the form of a 60 MB file named ""BitdefenderWindowsUpdatePackage.exe.""
+
+Source: BleepingComputer/CERT-UA
+
+A novel wiper targets Ukrainian entities
+
+Cybersecurity researchers observed the new CaddyWiper malware targeting Ukrainian organizations. Once deployed, CaddyWiper destroys and overwrites the data from any drives that are attached to the compromised system. Despite being released in close proximity to other wiping malware targeting Ukraine, such as HermeticWiper and IsaacWiper, CaddyWiper does not share any significant code similarities with them and appears to be created separately.
+
+Source: Bleeping Computer
+
+German Federal Office for Information Security agency issues an alert for Russian antivirus software Kaspersky
+
+The German Federal Office for Information Security agency (BSI) issued an alert urging its citizens to replace Kaspersky antivirus software with another defense solution, due to alleged ties to the Kremlin. The agency suggested Kaspersky could be used as a tool in the cyber conflict between Russia and Ukraine.
+
+Source: BSI
+
+March 14, 2022
+
+The EU-based NEXTA media group has reported that Russia is starting to block VPN services.
+
+Bermuda’s aviation regulator said it is suspending certification of all Russian-operated airplanes registered in the British overseas territory due to international sanctions over the war in Ukraine, in a move expected to affect more than 700 planes.
+
+The Washington Post reported that Federal Security Service (FSB), Russian Federalnaya Sluzhba Bezopasnosti, agents approached Google and Apple executives with requests to remove apps created by activist groups.
+
+Amnesty International said Russian authorities have blocked their Russian-language website.
+
+Threat Intelligence Update
+
+Anonymous claims to hack Rosneft, German subsidiary of Russian energy
+
+Anonymous claimed to hack the German branch of the Russian energy giant Rosneft, allegedly stealing 20 TB of data. The company systems were significantly affected by the attack, although there currently seems to be no effect on the company's energy supply.
+
+Source: Security Affairs
+
+Russia blocks access to Instagram nationwide
+
+Russia's Internet moderator Roskomnadzor decided to block Instagram access in the country, following Meta's decision to allow ""calls for violence against Russian citizens."" The federal agency gave Instagram users 48 hours to prepare and finally completed the act on March 13. The blocking of Instagram follows the former ban of Facebook and Twitter in Russia last week.
+
+Source: Cyber News
+
+March 11, 2022
+
+President Biden, along with the European Union and the Group of Seven Countries, moved to revoke “most favored nation” trade status for Russia, deny borrowing privileges at multilateral financial institutions, apply sanctions to additional Russian elites, ban export of luxury goods to Russia, and ban US import of goods from several signature sectors of Russia’s economy.
+
+Threat Intelligence Update
+
+Amid difficulties with renewing certificates, Russia has created its own trusted TLS certificate authority
+
+Signing authorities based in countries that have imposed sanctions on Russia can no longer accept payments for their services, leaving many sites with no practical means to renew expiring certificates. As a result, the Russian Ministry of Digital Development announced the availability of domestic certificates, replacing expired or revoked foreign certificates.
+
+Source: Bleeping Computer
+
+Triolan, a major Ukrainian internet service provider, was hacked — twice
+
+Triolan, a Ukraine-based ISP with more than half a million subscribers, was reportedly hacked initially on February 24th, with a second attack hitting on March 9th. The company reported that the threat actors managed to hack into key components of the network, some of which couldn’t be recovered.
+
+Source: Forbes
+
+March 10, 2022
+
+By order of President Putin, Russia’s Economic Development Ministry has drafted a bill that would effectively nationalize assets and businesses ""abandoned"" in Russia by foreign corporations. Management of these seized assets will be entrusted to the VEB.RF state development corporation and to Russia’s Deposit Insurance Agency.
+
+Russia has effectively legalized patent theft from anyone affiliated with countries “unfriendly” to it, declaring that unauthorized use will not be compensated. The Russian news agency Tass has further reporting on this, as does the Washington Post.
+
+Goldman Sachs Group Inc announced it was closing its operations in Russia, becoming the first major Wall Street bank to exit the country following Moscow's invasion of Ukraine.
+
+UK Foreign Secretary Liz Truss announced a full asset freeze and travel ban on seven of Russia’s wealthiest and most influential oligarchs, whose business empires, wealth, and connections are closely associated with the Kremlin.
+
+US Vice President Kamala Harris announced nearly $53 million in new humanitarian assistance from the United States government, through the US Agency for International Development (USAID), to support innocent civilians affected by Russia’s invasion of Ukraine.
+
+The International Atomic Energy Agency (IAEA) provided an update on the situation at the Chernobyl Nuclear Power Plant. The IAEA Director General said that the Agency is aware of reports that power has now been restored to the site and is looking for confirmation. At the same time, Ukraine informed them that today it had lost all communications with the facility. The IAEA has assured the international community that there has been “no impact on essential safety systems.”
+
+Threat Intelligence Update
+
+New malware variant targeting Russia named RURansom
+
+RURansom is a malware variant that was recently discovered and appears to be targeting Russia. While it was initially suspected of being a ransomware, further analysis suggests it is actually a wiper. So far, no active non-Russian targets have been identified, likely due to the malware targeting specific entities.
+
+Source: TrendMicro
+
+Available in Threat Library as: RURansom
+
+Kaspersky source code leak seems to be just a collection of publicly available HTML files
+
+The hacking group NB65 claimed on social networks to have leaked source code from the Russian antivirus firm Kaspersky. However, it appears that the leaked files are nothing more than a long list of HTML files and other related, publicly available web resources.
+
+Source: Cybernews
+
+Anonymous claims to hack Roskomnadzor, a Russian federal agency
+
+Hacktivist group Anonymous claims to have breached Roskomnadzor, a Russian federal agency responsible for monitoring, controlling, and censoring Russian mass media, leaking over 360,000 (817.5 GB) files. Based on the report, the leak contains relatively recent censored documents, dated as late as March 5, and demonstrates Russia’s attempts to censor media related to the conflict in Ukraine.
+
+Source: @AnonOpsSE via Twitter
+
+March 9, 2022
+
+Public policy: Citing concerns over rising cybersecurity risks related to the Russia-Ukraine conflict, the US is poised to enact new cyber incident reporting requirements. The Cyber Incident Reporting for Critical Infrastructure Act of 2022:
+
+Will require critical-infrastructure owners and operators to report cybersecurity incidents to CISA within 72 hours of determining the incident is significant enough that reporting is required;
+
+Will require critical infrastructure owners and operators to report ransomware payments to CISA within 24 hours; and
+
+Is intended to give federal agencies more insight into attack trends and potentially provide early warnings of major vulnerabilities or attacks in progress before they spread.
+
+The Bank of Russia established temporary procedures for foreign cash transactions, suspending sales of foreign currencies until September 9, 2022. Foreign currency accounts are limited to withdrawals up to $10,000 USD.
+
+The Financial Crimes Enforcement Network (FinCEN) is alerting all financial institutions to be vigilant against efforts to evade the expansive sanctions and other US-imposed restrictions implemented in connection with the Russian Federation’s further invasion of Ukraine.
+
+The Pentagon dismissed Poland’s offer to transfer MIG-29 fighter jets to the United States for delivery to Ukraine, stating they did not believe the proposal was “tenable.”
+
+Threat Intelligence Update
+
+Multiple hacking groups target Ukrainians and other European allies via phishing attacks
+
+Several threat actors, including Fancy Bear, Ghostwriter, and Mustang Panda, have launched a large phishing campaign against Ukraine, Poland, and other European entities amid Russia's invasion of Ukraine.
+
+Source: The Hacker News
+
+Available in Threat Library as: APT28 (Fancy Bear), Ghostwriter, Mustang Panda
+
+The Conti Ransomware group resumes activity following leaks
+
+The Conti Ransomware group appears to have made a comeback following the leak of its internal chats last week. On March 9, Rapid7 Threat Intelligence observed renewed activity on Conti’s onion site, and CISA released new IOCs related to the group on their Conti alert page.
+
+Source: CISA
+
+Available in Threat Library as: Conti
+
+The Belarusian group UNC1151 targets Ukrainian organizations using MicroBackdoor malware
+
+The Ukrainian government has reported on a continuous cyberattack on state organizations of Ukraine using malicious software Formbook.
+
+Source: Ukrainian CERT
+
+Available in Threat Library as: UNC1151
+
+March 8, 2022
+
+The US announced a ban on imports of Russian oil, gas, and other energy products. New US investments in the Russian energy sector are also restricted. The UK announced it would phase out Russian oil over 2022.
+
+The International Atomic Energy Agency published a statement noting that remote data transmission from monitoring systems at Ukraine’s mothballed Chernobyl nuclear power plant has been lost. No network data has been observed by internet monitoring companies since March 5, 2022.
+
+Chris Chivvis, a senior fellow and director of the American Statecraft Program at the Carnegie Endowment for International Peace, has provided an assessment of two likely trajectories in the Russia-Ukraine conflict.
+
+Twitter announced they have made their social network available on the Tor Project onion service, which will enable greater privacy, integrity, trust, and availability to global users.
+
+The Minister of Foreign Affairs of the Republic of Poland announced they are ready to deploy — immediately and free of charge — all their MIG-29 jets to the Ramstein Air Force base and place them at the disposal of the US government.
+
+Lumen announced they are immediately ceasing their limited operations in Russia and will no longer provide services to local Lumen enterprise customers.
+
+McDonald’s announced they have temporarily closed 850 restaurants in Russia in response to Russia’s attack on Ukraine.
+
+Starbucks has announced they will be suspending all business in Russia in response to Russia’s attack on Ukraine.
+
+Threat Intelligence Update
+
+52 US organizations were impacted by RagnarLocker ransomware, including critical infrastructures
+
+The FBI reported that as of January 2021, 52 US-based organizations, some related to critical infrastructure, were affected by RagnarLocker ransomware. The industries affected include manufacturing, energy, financial services, government, and information technology. The malware code excludes execution on post-Soviet Union countries, including Russia, based on a geolocation indicator embedded in its code.
+
+Source: FBI FLASH
+
+Available in Threat Library as: Ragnar Locker
+
+US energy companies were attacked prior to the Russian invasion to Ukraine
+
+During a two-week blitz in mid-February, hackers received access to dozens of computers belonging to multiple US-based energy companies, including Chevron Corp., Cheniere Energy Inc., and Kinder Morgan Inc. The companies were attacked in parallel to the Russian invasion of Ukraine.
+
+Source: Bloomberg
+
+European officials were hacked by Chinese threat actors amid the conflict in Ukraine
+
+According to Google and Proofpoint, a cyberattack was launched by the Chinese hacking group Mustang Panda and its affiliated group RedDelta, which usually targets Southeast Asian countries. The groups managed to gain access to an unidentified European NATO-member email account and spread malware to other diplomatic offices.
+
+Source: Forbes
+
+Available in Threat Library as: Mustang Panda
+
+
+
+#OpAmerica: DEVLIX_EU, a pro-Russian hacktivist group, and its affiliates claim to have gained access to terabytes of US sensitive data
+
+The group claims they have obtained access to 92TB of data related to the US Army. According to the group, they also hacked into four of the biggest “hosts” in the US and 49 TB of data. As of now, there is no real evidence for the attack provided by the group.
+
+Source: @Ex_anon_W_hater via Twitter
+
+March 7, 2022
+
+Netflix, KPMG, PwC, and EY have cut ties with local units in Russia, and Danone suspended investments in Russia.
+
+The Russian government has published a list of foreign states that have committed “unfriendly actions” against “Russia, Russian companies, and citizens.” Countries listed include Australia, Albania, Andorra, the United Kingdom, the member states of the European Union, Iceland, Canada, Liechtenstein, Micronesia, Monaco, New Zealand, Norway, Republic of Korea, San Marino, North Macedonia, Singapore, USA, Taiwan, Ukraine, Montenegro, Switzerland, and Japan.
+
+The Russian government’s Ministry of Digital issued orders for all government websites to use only domestic hosting providers and DNS. They further instructed agencies to discontinue using non-Russian third-party tooling, such as Google Analytics.
+
+TikTok is suspending content from Russia in response to the country cracking down on reporting about the invasion of Ukraine.
+
+Threat Intelligence Update
+
+Anonymous-affiliated threat actor claims to have hacked and shut down water infrastructure in Russia
+
+The AnonGhost group claims to have hacked and shut down two Russian SCADA water supply systems impacting the Russian cities: Volkhov, Boksitogorsk, Luga, Slantsevsky, Tikhvinsky, and Vyborg.
+
+Source: @darkowlcyber via Twitter
+
+Available in Threat Library as: AnonGhost (for Threat Command customers who want to learn more)
+
+
+
+Anonymous claims to hack Russian TV services to broadcast footage of the war with Ukraine
+
+Russian live TV channels Russia 24, Channel One, and Moscow 24, as well as Wink and Ivi, Netflix like services, have been hacked to broadcast footage of the war with Ukraine according to Anonymous.
+
+Source: @YourAnonNews via Twitter
+
+March 4, 2022
+
+The NATO Cooperative Cyber Defence Center of Excellence (CCDCOE) announced that Ukraine will join the group as a “contributing participant,” indicating that “Ukraine could bring valuable first-hand knowledge of several adversaries within the cyber domain to be used for research, exercises, and training.”
+
+Ukraine’s deputy chief of their information protection service noted in a Friday briefing that over 400,000 individuals have volunteered to help a crowdsourced Ukrainian government effort to disrupt Russian government and military targets.
+
+Threat Intelligence Update
+
+Russia blocked access to social media platforms and Western news sites
+
+Russia has prevented its residents access to information channels, including Facebook, Twitter, Western news sites such as the BBC, and app stores. With that, the BBC is now providing access to its website via the Dark Web and has reinstated their BBC shortwave broadcast service.
+
+Source: Reuters
+
+Anonymous-affiliated threat actor hacked and leaked data from the Russian Federal State Budgetary Institution of Science
+
+The Russian Federal Guard Service of the Russian Federation was hacked by Anonymous. The hacker published leaked names, usernames, emails, and hashed passwords of people from the institution.
+
+Source: @PucksReturn via Twitter
+
+Anonymous takes down multiple Russian government websites
+
+Anonymous claims responsibility for the takedown of a large number of Russian Government websites including one of the main government websites, gov.ru. Most of the websites are still down as of Friday afternoon, March 4.
+
+Source: @Anonynewsitaly via Twitter
+
+March 3, 2022
+
+Additional sanctions: The US Treasury Dept. announced another round of sanctions on Russian elites, as well as many organizations it characterized as outlets of disinformation and propaganda.
+
+Public policy: The Russia-Ukraine conflict is adding momentum to cybersecurity regulatory actions. Most recently, that includes
+
+Incident reporting law: Citing the need to defend against potential retaliatory attacks from Russia, the US Senate passed a bill to require critical infrastructure owners and operators to report significant cybersecurity incidents to CISA, as well as ransomware payments. The US House is now considering fast-tracking this bill, which means it may become law quite soon.
+
+Citing the need to defend against potential retaliatory attacks from Russia, the US Senate passed a bill to require critical infrastructure owners and operators to report significant cybersecurity incidents to CISA, as well as ransomware payments. The US House is now considering fast-tracking this bill, which means it may become law quite soon. FCC inquiry on BGP security: “[E]specially in light of Russia’s escalating actions inside of Ukraine,” FCC seeks comment on vulnerabilities threatening the Border Gateway Protocol (BGP) that is central to the Internet’s global routing system.
+
+CISA threat advisory: CISA recently reiterated that it has no specific, credible threat against the U.S. at this time. It continues to point to its Shields Up advisory for resources and updates related to the Russia-Ukraine conflict.
+
+Threat Intelligence Update
+
+An Anonymous-affiliated hacking group claims to have hacked a branch Russian Military and Rosatom, the Russian State Atomic Energy Corporation.
+
+The hacktivist group Anonymous and its affiliate have hacked and leaked access to the phone directory of the military prosecutor's office of the southern military district of Russia, as well as documents from the Rosatom State Atomic Energy Corporation.
+
+Available in Threat Library as: OpRussia 2022 (for Threat Command customers who want to learn more)
+
+A threat actor supporting Russia claims to have hacked and leaked sensitive information related to the Ukrainian military.
+
+The threat actor “Lenovo” claims to have hacked a branch of the Ukrainian military and leaked confidential information related to its soldiers. The information was published on an underground Russian hacking forum.
+
+Source: XSS forum (discovered by our threat hunters on the dark web)
+
+
+
+An Anonymous hacktivist associated group took down the popular Russian news website lenta.ru
+
+As part of the OpRussia cyber-attack campaign, an Anonymous hacktivist group known as “El_patron_real” took down one of the most popular Russian news websites, lenta.ru. As of Thursday afternoon, March 3, the website is still down.
+
+Available in Threat Library as: El_patron_real (for Threat Command customers who want to learn more)
+
+Additional reading:",https://www.rapid7.com/blog/post/2022/03/04/russia-ukraine-cybersecurity-updates/
+3,b70bccd0-2066-42fc-8f52-2ebafd5ee9bc,[],,"Russia’s invasion of Ukraine — the most consequential military conflict Europe has witnessed since the Second World War — has riveted the attention of the world. Observers have grappled with the meaning of the act of aggression and scrambled to ponder the wider implications of the war. Almost inevitably people look to draw analogies—both historical and contemporary ones.
+
+One popular contemporary analogy is between Russia’s actions vis-à-vis Ukraine and China’s approach to Taiwan. Beyond some broad-brush parallels — the most obvious parallel being that both Ukraine and Taiwan are peace-loving democracies that are the objects of belligerent irredentism on the part of more militarily powerful and threatening neighboring autocracies — there are also significant differences. Xi Jinping’s China is not Vladimir Putin’s Russia, and Taiwan is not Ukraine.
+
+China Is Not Russia
+
+Russia under Putin has repeatedly dispatched its armed forces for combat missions overseas to a range of countries, including Georgia, Syria and Ukraine, as well as conducted major military interventions against other states, most recently Kazakhstan (albeit at the invitation of that country’s president). Moscow has also actively supported armed groups and militias in some of these same countries and others.
+
+Although China has also been active and assertive in the use of its armed forces beyond its borders in recent years, Beijing has eschewed large-scale combat operations. Around its periphery, China has engaged in provocations, confrontations and even violent clashes. But China, unlike Russia, has refrained from massive interventions, invasions or occupations of other countries since it invaded Vietnam in 1979. China’s largest deployments of troops overseas in the post-Cold War era have been on U.N. Peacekeeping missions. Whereas Russia has more than 20 military installations beyond its borders, to date, China has only one official military base on foreign soil — in Djibouti (established in 2017) — and a handful of other facilities it does not formally acknowledge.
+
+Of course, Beijing has a history of using its potent armed forces and muscular coercive apparatus within China’s borders to repress vigorously peaceful protesters, political dissidents and disaffected ethnic minority peoples. The locations of these operations include Beijing, Tibet and Xinjiang, as well as Hong Kong. China has also not hesitated to employ armed force and a wide array of coercive instruments around its periphery. This includes building roads and bunkers in remote frontier areas of the high Himalayas along its contested border with India and constructing artificial islands and military installations in disputed waters of the South China Sea. In recent years, China’s armed forces have also engaged in deadly clashes and violent confrontations with Indian army units along the disputed Line of Actual Control and harassed and rammed the fishing boats and coast guard vessels of Vietnam, the Philippines and other countries.
+
+Putin appears to relish projecting the image of a strongman who is routinely willing to thumb his nose at the rest of the world. By contrast, Xi — at least to date — has mainly sought to cultivate a statesmanlike image on the global stage. At times he has given speeches attempting to cast China as a more responsible, less meddlesome and values-free version of the United States. And Xi has invested a lot of time and resources in promoting a set of high-profile international efforts intended to demonstrate that China is a constructive and proactive great power. Employing positive rhetoric touting “win-win” solutions and aspirations to build a “community with a shared future for mankind,” China under Xi’s leadership has launched ambitious efforts such as the Belt and Road Initiative (BRI) and the Asian Infrastructure Investment Bank.
+
+Putin, by contrast, has made no real effort to offer an alternative to U.S. global leadership beyond delivering vague grandiose declarations (often in tandem with Xi) and has offered the world little in the way of economic stimulus beyond the prospect of more energy exports and hype about the Eurasian Economic Union (EAEU). Despite consisting of only a handful of Soviet successor states, the EAEU is touted as Russia’s answer to China’s BRI. In terms of geostrategic activism, Russia’s major multilateralist initiatives have tended to involve China. These include the establishment of the Shanghai Cooperation Organization in 2001 and the formation of the BRICS grouping in 2010. The former is a security community with a Central Asian focus consisting of Russia, China and four Central and two South Asian states. The latter is a loose association of some of the world’s largest “emerging economies”: Brazil, Russia, India, China and South Africa.
+
+However, Moscow’s most significant geostrategic maneuver under Putin has been to strengthen Russia’s strategic partnership with China. Both Beijing and Moscow insist that their relationship is not an alliance and their 2001 treaty of friendship — which was renewed in 2021 — does not commit either signatory to come to the defense of the other in case of military conflict. Yet, the Sino-Russian relationship is a clearly consequential alignment that has grown closer in recent years, particularly as their respective relationships with the United States have deteriorated.
+
+Russia’s invasion of Ukraine has put China in a very uncomfortable position: Beijing does not want to antagonize Moscow but neither does it want to damage its relations with Washington and European capitals. Consequently, China has equivocated in its statements and actions. Chinese Foreign Minister Wang Yi has called for peace but has stopped short of condemning Russia or calling upon Moscow to withdraw its military. The lengthy joint statement of February 4, 2022, issued by Putin and Xi during the Russian leader’s visit to Beijing on the eve of the Winter Olympics, makes no mention at all of Ukraine — and China has pointedly abstained on all U.N. Security Council resolutions related to Russia’s invasion. Xi appears to have asked Putin to delay any military action against Ukraine until after the Olympics.
+
+Russia’s invasion poses other difficulties for China both in terms of running counter to Beijing’s long espoused principles in foreign affairs and its adverse impact on China’s national interests in Ukraine. Russia’s actions clearly contradict China’s cornerstone foreign policy principles of noninterference in other countries’ affairs and respecting territorial integrity. Moreover, China has sizable economic investments in Ukraine and is a good customer of Ukraine’s armaments industry. In 2020, Ukraine signed the BRI cooperation agreement, which further bolstered the economic relationship between the two countries and marked Ukraine as an important partner in Beijing’s signature foreign policy and economic initiative.
+
+Taiwan Is Not Ukraine
+
+The fact that Ukraine is not a member of the North Atlantic Treaty Organization (NATO) was almost certainly a decisive factor in Putin’s calculus to invade Ukraine. Russia’s commander in chief knew that his invading forces would likely not have to contend with the militaries of any other countries. And if there were any lingering doubts in the Kremlin about the disposition of the most powerful member of NATO, U.S. President Joe Biden stated publicly that the United States would not send military forces to help defend Ukraine. Nevertheless, the Biden administration has taken strong steps to reinforce NATO allies in Eastern Europe and provide robust military assistance to Ukraine.
+
+By contrast, Xi and his Politburo colleagues have long been convinced that Taiwan has the resolute support of the world’s most capable military. The People’s Liberation Army — as all branches of China’s armed forces are known — continues to assume that if it launches an invasion of Taiwan, the U.S. military will swiftly and decisively intervene. The U.S.-Taiwan relationship, while technically “unofficial” due to the One China policy, has strengthened in recent years. On February 28, the Biden administration sent an unofficial delegation of former U.S. defense and national security officials to Taiwan as a signal to China of that commitment. It remains true that the greatest deterrence to a massive Chinese military attack on the island is Beijing’s assumption that war with Taiwan also means a war with the United States.
+
+However, there is no formal military alliance between the United States and Taiwan. The defense pact binding Washington to Taipei was formally abrogated in 1979. So why is Beijing convinced that Washington has an ironclad alliance-like relationship with Taiwan? There are at least two reasons. First, successive U.S. administrations have publicly committed themselves to support Taiwan against Chinese aggression and have regularly sold arms to the island’s armed forces. Second, although there is no language in the1979 Taiwan Relations Act (TRA) that explicitly commits the United States to come to Taiwan’s defense in the event of an attack on the island by China, many in Washington believe that such a commitment exists. While there are different interpretations as to what the TRA means, the most significant fact is that the vast majority of U.S. political and military leaders are fully convinced that this legislation binds the United States to a de facto alliance with Taiwan.
+
+China’s increased military assertiveness and greater level of armed provocations in the Taiwan Strait and elsewhere around China’s periphery in recent years have only served to strengthen the conviction in Washington that the island is a staunch democratic partner worthy of U.S. support as it tries to defend tiny Taiwan against efforts by Beijing to coerce the island into unwanted unification with China.
+
+However, Taiwan, unlike Ukraine, is not a member of the United Nation. While Ukraine has ambassador-level diplomatic relations with more than 180 countries, including China and the United States, Taiwan only has full diplomatic ties with approximately a dozen countries and none of these are major powers. Yet, thanks to the TRA, Taipei enjoys robust quasi-diplomatic relations with Washington, and thanks to Taiwan’s pragmatic ingenuity, the island possesses a vibrant worldwide network of de facto diplomatic missions.
+
+Although Ukraine’s diplomatic standing is far superior to Taiwan’s, the European country’s military alliance status is less impressive — Ukraine is not a member of NATO, although it is a very active member of NATO’s Partnership for Peace initiative. While Taiwan also has no formal military allies, the island has several close and consequential security partners, most notably the United States.
+
+China Is China and Taiwan Is Taiwan
+
+Taiwan continues to be the most contentious issue in U.S.-China relations. Moreover, the Taiwan Strait is routinely identified as the most plausible location of a military confrontation between the United States and China. For Xi and his Politburo colleagues, Taiwan looms large and is prominently identified as a “core” national interest of China’s, with Xi reiterating in 2021 that “resolving the Taiwan question and realizing China’s complete reunification is a historic mission and an unshakable commitment of the Communist Party of China” and that “no one should underestimate the resolve, the will, and the ability of the Chinese people to defend their national sovereignty and territorial integrity.”
+
+Moreover, most Chinese citizens consider Taiwan to be Chinese territory and view the island as something worth fighting for. Indeed, the Chinese Communist Party (CCP) has staked its political legitimacy on the ultimate goal of unifying Taiwan with China and in the meantime is working resolutely to prevent the island from becoming de jureindependent. Beijing’s preferred means of realizing unification or preventing independence is peaceful but the CCP has never renounced the use of armed force. Furthermore, the PLA’s central warfighting scenario is Taiwan and China’s military has been focused on planning and preparing for an operation against the island for decades.
+
+A Cautionary Tale?
+
+The above differences notwithstanding, Russia’s combat experience in Ukraine will have a spillover impact on how China thinks about Taiwan. If the Russian armed forces remain bogged down in a stalemate in Ukraine for an extended period and/or face a prolonged and widespread insurgency, this may give Xi and his fellow Politburo members pause. If Russia’s military experiences major setbacks and perhaps even embarrassing defeats, this may make China’s political leaders think twice about the advisability of an invasion of Taiwan.
+
+After all, an invasion of Ukraine is relatively straightforward — the country is geographically contiguous to Russia, sharing an extended land border with mostly gentle terrain. By contrast, an invasion of the island of Taiwan is a far more complex operation — a successful campaign requires careful planning and coordinated execution between air, naval and ground forces. It would also involve amphibious landings in addition to considerable urban warfare — on an even larger scale than in Ukraine — including operations on rugged mountainous terrain. Certainly, the PLA will carefully study Russia’s Ukrainian campaign and draw lessons from it, much as they have studied campaigns of other major powers. Such analyses are conducted with great seriousness because China’s armed forces themselves have not fought a major war since 1979 (when Chinese forces invaded Vietnam) and have not conducted a major island landing campaign since 1950 (against Hainan Island).
+
+One way that China’s leadership might be taking notes from Russia’s Ukraine invasion is by rethinking the risks associated with escalation. In addition to noting the potential military embarrassment that Russia is facing, China might be wary of the sweeping economic sanctions levied by the international community. If China were to receive similar backlash for an invasion of Taiwan, it would raise the possibility of truly crippling sanctions at a time when the Chinese economy is experiencing anemic growth and structural challenges.
+
+In particular, the weaponization of the SWIFT payments system might give China pause. Russia has been trying to popularize a cross-border financial information transmission system, and China is committed to developing the CIPS payment network, but neither has had significant success outside Russian or Chinese borders. Despite its flaws, SWIFT remains the most efficient system for international financial transactions for banks and being removed from SWIFT could potentially be devastating to the Chinese economy. Furthermore, the lessons of Russia’s invasion of Ukraine to date are that the costs of armed aggression are high in blood and treasure, as well as strong international censure of Moscow and a resolute collective response by NATO member countries.
+
+In any event, at present Xi and his Politburo colleagues display little sense of urgency about realizing unification with Taiwan via military means and there is no indication of a massive Chinese military buildup in the vicinity of the Taiwan Strait. Of course, Beijing’s calculus vis-à-vis the use of force against Taipei can change, so the world must continually monitor the situation and remain alert to warnings and indicators. Part of this monitoring must include scrutinizing Chinese assessments of Russia’s performance in Ukraine in the coming weeks, months and years.",https://www.usip.org/publications/2022/03/china-not-russia-taiwan-not-ukraine
+4,b70bccd0-2066-42fc-8f52-2ebafd5ee9bc,[],,"A review article on The Dawn of Everything: A New History of Humanity, by David Graeber and David Wengrow. Allen Lane, 2021.
+
+The Dawn of Everything’s central idea is challenging. We are told that humans are politically adventurous and experimental – so much so that after a spell of freedom and equality, people are inclined to choose oppression just to make a change. History takes a rhythmic form, oscillating between one extreme and the next. In recent times, however, we’ve all got stuck in just one system and we must try to understand why.
+
+All this is new and refreshing but hardly credible. I prefer the standard anthropological view that the political instincts and social emotions that define our humanity were shaped under conditions of egalitarianism. To this day, all of us feel most relaxed and happy when able to laugh, play and socialize among companions who are our equals. But instead of building on this experience so familiar to us all, Graeber and Wengrow (henceforth: ‘G&W’) oppose the whole idea that our hunter-gatherer ancestors were egalitarians. In their view, they would just as likely have chosen to be oppressed.
+
+As they put it: ‘If the very essence of our humanity consists of the fact that we are self-conscious political actors, and therefore capable of embracing a wide range of social arrangements, would that not mean human beings should actually have explored a wide range of social arrangements over the greater part of our history?’ Among these possibilities, as the authors readily acknowledge (pp. 86-7), were abusive dominance hierarchies like those of chimpanzees. G&W seem to be arguing that if our ancestors were so adventurous, then surely, they would have experimented not only with egalitarianism but also with harassment, abuse and domination by aggressive, bullying males.
+
+Image 1: Dawn or teatime? The new book by David Graeber and David Wengrow (photo: Chris Knight, 2021)
+
+G&W make these points in the context of a consistent attack on any idea that we became socially and morally human during the course of a revolution. All my academic life, I have been exploring the idea that human language, consciousness, kinship and morality evolved in a process of gradual evolution which culminated in an immense social and political revolution. My motivation was always to challenge the popular prejudice that socialism is impossible because by nature we humans are selfish and competitive – and ‘not even a revolution could change human nature’.
+
+I would always answer this way. Yes, we are a species of great ape. Yes, like our primate cousins, we have competitive, selfish, aggressive and often violent instincts. But these were not the ones responsible for our success. Everything distinctively human about our nature – our capacity to be brilliant mums and dads, to care for one another’s children and not just our own, to establish moral rules, to see ourselves as others see us and to use music, dance and language to share our dreams – these extraordinary capacities were precisely the products of the greatest revolution in history, the one that worked.
+
+Chris Boehm’s theory of the human revolution
+
+Nearly a decade after the appearance of my own book detailing the complexities of this ‘human revolution’ (Knight 1991), the anthropologist Christopher Boehm (1999) published a version of the theory that, despite its insights, played safe in political terms by omitting any mention of the most important element – the dynamics of sex and gender. It is this abstract, unisex version of human revolution theory that G&W consider safe enough to mention explicitly in order to discredit it.
+
+Boehm points out that our earliest ancestors were neither one-sidedly cooperative nor one-sidedly competitive. Instead, they were psychologically disposed to dominate others while forming alliances to resist being dominated in turn. This collective resistance from below eventually culminated in everyone coming together to prevent any would-be leader from dominating the group. Our ancestors’ chimpanzee-style dominance was now turned on its head, culminating in ‘reverse dominance’ – rule by a morally aware community committed to an egalitarian ethos.
+
+G&W go along with the idea that humans ‘do appear to have begun … with a self-conscious aversion to being told what to do’ (p. 133). In this context, they agree that extant hunter-gatherers display ‘a whole panoply of tactics collectively employed to bring would-be braggarts and bullies down to earth – ridicule, shame, shunning …. none of which have any parallel among other primates’ (p. 86). What they’ve no interest in is the idea that such tactics played a crucial role in shaping human nature during our evolutionary past.
+
+Summing up their objection to Boehm’s account, they describe any suggestion that hunter-gatherers consistently preferred egalitarianism as an ‘odd insistence’ that ‘for many tens of thousands of years, nothing happened’. If our hunter-gatherer ancestors were consistently egalitarian, their political lives must have somehow been frozen, stuck in time. G&W conclude with these words: ‘Before about 12,000 years ago, Boehm insists, humans were basically egalitarian . . . according to Boehm, for about 200,000 years [these] political animals all chose to live just one way.’ (p. 87)
+
+The only problem is that this isn’t what Boehm wrote. His actual words are worth quoting:
+
+‘Once one band, somewhere, invented an egalitarian order, this radical change in social ways of doing things would become visible to its neighbors. The advantages would have been evident wherever subordinates were ambivalent about being dominated, particularly in bands with very aggressive bullies…. One would expect a gradual cultural diffusion to take place, with attractive egalitarian traditions replacing despotic ones locally. … Over time, migration patterns over longer distances could have fairly rapidly spread this political invention from one continent to another.’ (Boehm 1999: 195)
+
+This is how successful revolutions work. Plainly, Boehm’s argument was not simply that until 12,000 years ago ‘humans were basically egalitarian.’ Instead, he suggests that early humans developed a variety of different political systems while gradually converging around one particularly successful model – egalitarianism.
+
+The Teatime of Everything
+
+Quite unfairly, The Dawn of Everything conflates modern evolutionary theory with social evolutionism – the nineteenth century narrative of a ladder of stages progressing from ‘savagery’ through ‘barbarism’ to ‘civilization’. Darwinism claims to be scientific, we are told, but in reality, is pure myth. Quixotically, G&W expect readers to give serious consideration to a perspective on human origins that does not acknowledge evolutionary theory at all.
+
+The only science these authors do recognize is ‘archaeological science’, and then only if the archaeology doesn’t go too far back. They justify dating ‘the dawn of everything’ to a mere 30,000 years ago on the basis that nothing about politics or social life can be gleaned from archaic human ‘cranial remains and the occasional piece of knapped flint’(p. 81).
+
+This excuse no longer works in the light of recent evidence that our species’ most unique trait – art and symbolic culture – emerged in Africa three or four times earlier than was previously thought. By no means limited to bones and stones, this evidence consists of beads, geometric engravings, burials with grave goods and artefacts such as grindstones and paint pots, all invariably found in association with red ochre (Henshilwood et al. 2009, 2011). G&W do notice one or two of these discoveries (pp. 83-4) but show little interest – despite the fact that when cutting-edge Darwinian theory is applied to the ochre record, the possibilities for generating predictions about social dynamics, patterns of ritual performance and gendered alliances become very real (Power 2009, 2019; Power et al. 2013; Power et al. 2021; Watts 2014).
+
+Unfortunately, these authors won’t go near Darwinism in any shape or form. They concede that someone whom they term a ‘feminist’ (actually the highly respected founding figure in primate and human sociobiology Sarah Hrdy) has come up with a ‘story’ about the critical role of collective childcare in shaping our human instincts and psychology (Hrdy 2009). Commenting that ‘there’s nothing wrong with myths’, they describe this particular myth as ‘important.’ They then immediately cast doubt on it by quipping that ‘such insights can only ever be partial because there was no garden of Eden, and a single Eve never existed’ (p. 82). Tricks of this kind – in this case ignoring the fact that Hrdy’s groundbreaking work is focused on the emergence of the genus Homo some 2 million years before the dating of our common mitochondrial DNA ancestor – are clearly aimed at undermining the very idea that human origins research is worth pursuing at all.
+
+Readers interested in Mesolithic and Neolithic archaeology will find plenty of intriguing speculations in this book. But if you are interested in how we became human – how we developed our unusually revealing eyes, our extraordinarily large brains, our distinctively social emotions, our laughter, our innate capacity for music and language – you won’t find anything at all!
+
+The title is seriously misleading. The Dawn of Everything? ‘Teatime’ would be more accurate. The story begins with the European Upper Paleolithic, best known for those spectacular cave paintings in Ice Age France and Spain. According to the authors, by that stage the archaeology is at last getting interesting because it indicates the emergence of an economic surplus allowing elites to arise. For the first time, we begin to see evidence for social complexity, hierarchy, sumptuous burials etc.
+
+‘Tiny hunter-gatherer bands’
+
+For G&W, the fact that our hunter-gatherer ancestors established an egalitarian lifestyle much earlier in Africa is of limited interest. They concede that extant hunter-gatherers such as the Hadza of Tanzania share their resources, but instead of admiring this, they complain that resistance to accumulation obstructs the emergence of ‘social complexity’, using this term where others might have spoken of ‘class’. The authors, it seems, are averse to the concept of social class.
+
+So, hunter-gatherers obstruct complexity – i.e., prevent class society from arising – by resisting the accumulation of wealth. G&W invoke the authority of the hunter-gatherer specialist James Woodburn here. They conclude from his work that ‘the only way to maintain a truly egalitarian society is to eliminate the possibility of accumulating any sort of surplus at all’ (p. 128). This, they argue, rules out social complexity and – with it – the full richness of human cultural and intellectual life.
+
+Woodburn (1982, 2005) certainly did argue that deliberate resistance to accumulation underpins hunter-gatherer egalitarianism and represents a political choice consciously made. He observed that such egalitarianism was a feature only of non-storage hunter-gatherers, concluding that ‘immediate return’ was the original type of human economy. But Woodburn did not argue that such egalitarianism was lacking in complexity. In fact, he viewed the binary contrast between ‘simple’ and ‘complex’ social forms as damaging and misleading. For Woodburn, maintaining egalitarianism was a supremely sophisticated achievement – demanding far greater levels of political intelligence and complexity than simply allowing inequalities to arise. The Hadza, he explained, have the intelligence to realize how dangerous it would be to let anyone accumulate more wealth than they need.
+
+Wealth inequalities not OK
+
+According to G&W, however, wealth inequalities are unproblematic. In support of their position, they invoke Kandiaronk, the seventeenth century First American critic of European ‘civilization’ to whom they devote an inspiring chapter. Somewhat unconvincingly, they assure us that Kandiaronk and his First American co-thinkers ‘had trouble even imagining that differences of wealth could be translated into systematic inequalities of power’ (p. 130).
+
+G&W accept that immediate-return hunter-gatherers refuse to allow wealth inequalities to develop. But surprisingly, they regard this whole situation as disappointing:
+
+‘This might sound like the basis of something hopeful or optimistic. Actually, it’s anything but. What it suggests is, again, that any equality worth the name is essentially impossible for all but the very simplest foragers. What kind of future might we then have in store?’ (p. 129)
+
+What kind of future? They answer this by suggesting that activists who take inspiration from African hunter-gatherers are inviting modern city-dwellers to become ‘stuck,’ like the unfortunate Hadza, in the repetitive simplicity of life in tiny nomadic bands.
+
+To be clear, I am no primitivist. I am in favor of technological, social and political development. The Hadza illustrate that it is fulfilling and enjoyable to share wealth on demand, to laugh and sing, to ‘waste time’ in play, to resist letting anyone dominate us – and to prioritize caring for each other’s children over all other concerns. When it comes to development, these politically sophisticated bow-and-arrow hunters can teach us a lot.
+
+In the beginning … private property?
+
+G&W argue that private property is primordial because it’s inseparable from religion. By way of illustration, they refer to the trumpets and other paraphernalia used in some indigenous traditions during boys’ coming-of-age ceremonies:
+
+‘Now, these sacred items are, in many cases, the only important and exclusive forms of property that exist… It’s not just relations of command that are strictly confined to sacred contexts…, so too is absolute – or what we would today refer to as ‘private’ – property. In such societies, there turns out to be a profound formal similarity between the notion of private property and the notion of the sacred. Both are, essentially, structures of exclusion.’ (p. 159)
+
+Note how ‘absolute’ here gets translated as ‘private.’ The claim seems to be that if ritual property is sacred to an ‘absolute’ degree, then it qualifies by definition as ‘private property’.
+
+The conflation is reinforced when the authors seek authority for their association of religion with private property. At this point G&W (p. 159) invoke Émile Durkheim’s classic definition of ‘the sacred’ as that which is ‘set apart’:
+
+‘Durkheim argued that the clearest expression of the sacred was the Polynesian term tabu, meaning “not to be touched”. But when we speak of absolute, private property, are we not talking about something very similar – almost identical in fact, in its underlying logic and social effects?’
+
+The authors then describe how ethnographers working with indigenous Amazonians discovered ‘that almost everything around them has an owner, or could potentially be owned, from lakes and mountains to cultivars, liana groves and animals.’ (p. 161) A spiritual entity’s sacred ownership of a species or resource sets it apart from the rest of the world. Similar reasoning, write G&W, underpins Western conceptions of private property. ‘If you own a car’, they explain, ‘you have the right to prevent anyone in the entire world from entering or using it’ (p. 159).
+
+It is quite breath-taking to find G&W conflating traditional notions of spiritual ‘ownership’ with ideas about owning your own car. On what planet are they when they view modern private ownership as ‘almost identical’ in its ‘underlying logic and social effects’ with a supernatural being’s ‘ownership’ of natural resources?
+
+When indigenous activists tell us that a lake or mountain is sacred to a powerful spirit, they are not endorsing anything remotely equivalent to ‘private property’. If the ‘Great Spirit’ owns the forest, the clear implication is that it is not for sale, not to be privatized, not to be claimed by a logging company.
+
+One of the most powerful of Durkheim’s insights was that when people invoke Divinity, they are envisaging the moral force of their community as a whole. So, if a mountain belongs to God, that’s a way of declaring that it cannot be privatized. When G&W turn that round – claiming that the concept of ‘private property’ emerged inseparably from the very idea that some things are sacred – you can see what a crude misrepresentation this is.
+
+What Durkheim really said
+
+For Durkheim (1963, 1965), ‘setting apart’ was the antithesis of private appropriation. In his quest to explain the origin of the world-wide cultural taboo against incest, he puzzled over traditional beliefs investing women ‘with an isolating power of some sort, a power which holds the masculine population at a distance…’ (1965: 72). In such belief systems, Durkheim wrote, women’s segregating power is that of their blood, bound up intimately with notions of the sacred. If divinity becomes visible in women when they bleed, it is because their blood itself is divine. ‘When it runs out, the god is spilling over’ (Durkheim 1965: 89).
+
+For Durkheim, then, the primordial concept of ‘setting apart’ had nothing to do with private property. The issue was what happened to a young woman on coming of age (1965: 68-96). Alerted by her menstrual onset, her kin would assemble as a body to lay claim to her – that is, to ‘initiate’ her – setting her apart from male company and from the world. Her seclusion was accomplished through a special ritual – her coming-of-age ceremony. This established that her body was sacred, her choices with respect to it accountable to her sisters and other kin. In association with such collective action, the emergence of human consciousness, language and culture, for Durkheim, was the point at which a new kind of authority – that of the community – first came into being.
+
+If only G&W had shown an interest in modern evolutionary science, they would have recognized how these Durkheimian insights anticipated the most recent and authoritative modern archaeological explanation for the ochre record in human evolution, based on the idea that blood-red ochre was used by women as cosmetic ‘war-paint’ to alert men to the newly-established sacredness of the female body (Watts 2014, Power 2019, Power et al., 2021).
+
+Seasonal or lunar?
+
+Now we come to The Dawn of Everything’s central idea. It is that we were all once free because we could choose how to live, experimenting now with one political structure and now another – sometimes even oscillating between utterly different social states.
+
+Anyone who has studied anthropology will have come across the Eskimo seal-hunters who traditionally practiced sexual communism throughout the winter months, only to switch over to patriarchal family life throughout the summer – returning suddenly to communism on a particular day announced publicly as the onset of winter. G&W apply this pendulum or oscillation model to the Ice Age cultures of the European Upper Paleolithic, arguing that these complex hunter-gatherers deliberately set up vertical hierarchies of elite privilege and power – only to enjoy the pleasure of tearing them all down as the old season gave way to the new.
+
+Because they enjoyed this revolution so much, these Ice Age political geniuses realized that they shouldn’t hold on permanently to their revolutionary gains. They understood that in order to keep enjoying successive revolutions, they would have to fill the intervals with transient counter-revolutions – doing this by allowing ‘special’ individuals to establish dominance so as to present a nice target for the next revolutionary upsurge.
+
+I love this idea. As it happens, it uncannily resembles the oscillatory principle that we in the Radical Anthropology Group have analysed as the inner secret of hunter-gatherer egalitarianism ever since Blood Relations was published three decades ago (Knight 1991). On the other hand, my oscillation model was not quite the same. Because we evolved not in sub-Arctic conditions but in Africa, there were good ecological reasons why monthly periodicities should take precedence over seasonal rhythms. So, if power was seized and surrendered in the way G&W imagine, then social life would have been turned upside-down on a monthly schedule, oscillating with the waxing and waning moon (Knight 1991: 327-373).
+
+A pendulum of power
+
+G&W’s history is bursting with oppositions and alternations among hunter-gatherers but its periodicities are one-sidedly seasonal. Don’t they know that hunter-gatherers follow not just the sun but the moon? Their most important rituals, bound up as these are with women’s menstrual ebbs and flows, are scheduled by the moon.
+
+In the rainforests of the Congo, writes Morna Finnegan (2008, 2009, 2012), women deliberately encourage men to display their courage and potential for dominance – only to defy them in an all-female ritual known as Ngoku before yielding playfully in a ‘pendulum of power’ between the sexes. G&W (pp. 114-15) allude to this but then claim that:
+
+‘… there is no single pattern. The only consistent phenomenon is the very fact of alternation, and the consequent awareness of different social possibilities. What all this confirms is that searching for “the origins of social inequality” really is asking the wrong question. If human beings, through most of our history, have moved back and forth fluidly between different social arrangements, assembling and dismantling hierarchies on a regular basis, maybe the real question should be “how did we get stuck?”’
+
+This final question is a truly profound one. It can only be answered, however, once we have developed some realistic notion of the situation that previously prevailed. Was there ever a time when our prehistoric ancestors were truly free, truly ‘unstuck’?
+
+When marriage became permanent
+
+Among the Central African Bayaka forest people, the Moon is said to be ‘women’s biggest husband’ (Lewis 2008). From the standpoint of any man, his wife in effect abandons him for her celestial husband each time she bleeds. The reality behind this ancient metaphor (Knight and Lewis 2017) is a tradition in which women playfully ‘seize power’ for some part of the month before willingly handing over to men once they have made their point, establishing what Finnegan (2008) has termed ‘communism in motion’. Patterns of kinship and residence in such societies set up a pendulum swinging between menstruation and ovulation, brothers and lovers, kinship and marriage, communal solidarity and the intimacies of sex.
+
+Given the probable antiquity of such patterns, G&W are right to view some kind of block on political oscillation as something which really did happen during the course of history. But accounting for the blockage will require us to deal with a topic that G&W will not touch. It will mean respectfully approaching indigenous peoples’ practices around menstruation (Testart 1985, 1986. Knight 1991. Lewis 2008. Power 2017). It is also important to understand variability in kinship patterns and post-marital residence – again a critically important topic that G&W scarcely mention in their book.
+
+Among non-storage hunter-gatherers, women generally insist on living with their own mother at least until after she has had a couple of children (Marlowe 2004). Genetic studies have shown that in Africa where our species evolved, this pattern extends far back into the past (Destro-Bisol et al., 2004. Verdu et al. 2013. Wood et al. 2005). In place of life-long marriage, ‘bride service’ typically prevails, each African hunter-gatherer woman accepting her chosen lover while continuing to live in her mother’s camp. Her temporary husband must make himself useful by bringing back hunted meat to his bride and her household. If he doesn’t measure up – he is out! Under such arrangements, everyone alternates between kinship and marital life, in that sense switching between utterly distinct worlds.
+
+Living with mum is a resilient pattern, but pressure from the husband can compel her to switch residence and live permanently with him and his kin. Where this happens, a young mother with her children may find it difficult to escape. As she loses her former freedom, her husband’s care for her may then morph seamlessly into coercive control. It was this disastrous outcome which Engels (1972 [1884]) described so eloquently as the ‘world-historic defeat of the female sex’. Across much of the world, the patriarchal forces that transformed marriage into a fixed bond correspondingly imposed fixity on social life as a whole.
+
+How humanity got ‘stuck’
+
+This looks like a promising answer to the question, ‘How did we get stuck?’ So, what answer do G&W give to this question? Their final chapter is so meandering that it is difficult to know. They mention how care for a person may morph seamlessly into coercive control – but for some reason don’t connect this with changes in postmarital residence or family life. The nearest they get is when describing spectacles of execution and torture in seventeenth-century Europe and among the North American Wendat. We are reminded that the King’s right to punish his subjects was modelled on the patriarch’s duty to discipline his wife and children. This political domination was publicly represented as his duty of care. By contrast, when the Wendat subjected a prisoner to prolonged torture, it was to make the opposite point – publicly distinguishing dominance and control from loving care. Since the prisoner was not part of the household he needed to be tortured, not loved.
+
+And so it is that G&W find in the distinction between care and domination their long-awaited explication of how we got stuck:
+
+‘It seems to us that this connection – or better perhaps, confusion – between care and domination is utterly critical to the larger question of how we lost the ability freely to recreate ourselves by re-creating our relations with one another. It is critical, that is, to understanding how we got stuck….’
+
+Instead of exploring hunter-gatherer research and gender studies, then, G&W confine their horizons to the experiences of First American military leaders, torturers and European monarchs, exploring how we ‘got stuck’ by imagining these peoples’ psychological conflicts. If the bewildering words quoted above mean anything, they seem to suggest that we got stuck because certain power-hungry figures confused caring for people with violently dominating them.
+
+Is this a serious explanation? Did people really get confused in this way? In place of an answer, G&W themselves seem to have got stuck. We are just offered the same question in slightly different words:
+
+‘Does this newly established nexus between external violence and internal care – between the most impersonal and the most intimate of human relations – mark the point where everything begins to get confused? Is this an example of how relations that were once flexible and negotiable ended up getting fixed in place: an example, in other words, of how we effectively got stuck?’
+
+No further effort is made to answer the most crucial question of the entire book.
+
+Morgan and Engels
+
+What is missing here is any real understanding of human evolution. In Chapter 3, G&W criticize what they describe as the mainstream anthropological consensus for likening our foraging ancestors to extant African hunter-gatherers – simple folk living in ‘tiny mobile bands’. Then in Chapter 4 they change their mind. The mainstream anthropological consensus, they now tell us, is that hunter-gatherers such as Aboriginal Australians:
+
+‘… could travel halfway across the continent, moving among people who spoke entirely different languages, and still find camps divided into the same kinds of totemic moieties that existed at home. What this means is that half the residents owed them hospitality, but had to be treated as “brothers” and “sisters” (so sexual relations were strictly prohibited); while another half were both potential enemies and marriage partners.’
+
+It was Lewis Henry Morgan (1877, 1881) who founded our discipline on the basis of his discovery of so-called ‘classificatory’ kinship. Its principle can be summed up as the ‘equivalence of siblings’. Two brothers, for example, will step into one another’s shoes with respect to their relationships. A woman will say to her sister: ‘Your children are mine and mine are yours’. So, there’s no concept of ‘private property’ with respect to children. Family life is not ‘nuclear’. Every child will be free to move between her numerous different ‘mothers’ and other supportive kin, and she will continue to enjoy such freedom throughout her adult life.
+
+When life is structured in this way, the result is extraordinary. Everyone can expect hospitality from ‘brothers’ and ‘sisters’ treated formally as equivalents to one another in chains of connection stretching across vast areas. One consequence of this is that the state has no soil in which to grow. When people are self-organized, allied to one another and where the joys of childcare, sex, dance and domestic life are more communally experienced, then there are no dead spaces – no social vacuums – for the state to enter and fill. You can’t abolish the state without replacing it, and communal family life – in today’s world, self-organised neighborhoods and other wider communities – is one way of doing this.
+
+Curiously, Graeber and Wengrow say almost nothing about kinship in their long book. Instead of critiquing the Morgan-Engels paradigm, Graeber and Wengrow turn Engels’ vision in The Origin of the Family, Private Property and the State (Engels 1972 [1884]) upside-down. In the beginning, they say, was private property, religion and the state. To quote the concluding words of Chapter 4, ‘If private property has an “origin”, it is as old as the idea of the sacred, which is likely as old as humanity itself.’ In an earlier book with Marshall Sahlins, On Kings (2017), Graeber even suggested that since imagined supernatural agents such as divine kings and forest spirits have always exercised authority over people, the principle of the state is an immovable feature of the human condition.
+
+It may seem paradoxical for an anarchist to accept the inevitability of private property and the state. But The Dawn of Everything adds weight to that message. Yes, say the authors, anarchist freedom can be implemented, but only in precious moments or enclaves. Personally, I find it hard to imagine what kind of ‘enclave’ might be found in a planet already beginning to burn up. Graeber and Wengrow seem to have abandoned the revolutionary slogan that ‘another world is possible’. Instead, they offer only the sobering message that ‘hierarchy and equality tend to emerge together, as complements to one another’. (p. 208) They seem to be saying that we cannot have freedom in one place without accepting oppression somewhere else.
+
+Where do we go from here?
+
+Despite these criticisms, the one important point about this book is its advocacy of oscillation. All living things have a pulse. They live and they die, wake and sleep, breathe in and out in ways driven by the changing seasons and the many other periodicities of our life-friendly, earth-sun-moon orbital system.
+
+We need to get Planet Earth turning once more, not just physically but socially and politically, too. This will not be done by telling people to stop confusing care with dominance and control. It will be done by supporting the school strikes, singing on their picket lines, extending the action to workplaces, dancing in the streets, blocking traffic, bringing capitalism to a complete halt.
+
+But once we’ve taken control, what next? If we stay on strike too long, we’ll soon starve. So, let’s oscillate. Those weekly school strikes, for example, could, perhaps, be lengthened, joined up and staged once a month, spreading across the world until we’ve released all humanity from wage-slavery. Carbon emissions immediately cut by 50 per cent. Then we go back to work, re-organizing it as necessary. We can risk returning to work only once we’re sure it won’t lead back to capitalism. And we can be sure of that only once we’ve all sworn to be back with our children on their picket line next New Moon. We keep doing this, seizing power and surrendering it, until the world is rocking and breathing once more. Reclaim the future. Neither patriarchy nor matriarchy but, something like, rule by the moon.
+
+That would be to repeat the class and gender dynamics of the original human revolution, but this time on a higher plane. Might any of this be possible or practical? Let’s open up the debate to everyone and see what we can do. That surely is what the activist-anthropologist, David Graeber, would have wanted.
+
+Chris Knight is a senior research fellow in anthropology at University College London, where he forms part of a team researching the origins of our species in Africa. His books include Blood Relations: Menstruation and the Origins of Culture (1991) and Decoding Chomsky: Science and Revolutionary Politics (2016).
+
+Bibliography
+
+Boehm, Christopher. 1999. Hierarchy in the forest. The evolution of egalitarian behavior. Cambridge, MA: Harvard University Press.
+
+Destro-Bisol, G. et al. 2004. Variation of female and male lineages in sub-Saharan populations: the importance of sociocultural factors. Mol Biol Evol. 21: 1673-82.
+
+Durkheim, Émile. 1963 [1898]. La prohibition de l’inceste et ses origines. L’Année Sociologique, 1, 1-70. Reprinted as Incest. The nature and origin of the taboo, trans. E. Sagarin. New York: Stuart.
+
+Durkheim, Émile. 1965 [1912]. The elementary forms of the religious life. New York: Free Press.
+
+Engels, Frederick. 1972 [1884]. The Origin of the Family, Private Property and the State. New York: Pathfinder Press.
+
+Finnegan, Morna. 2008. The Personal is Political: Eros, ritual dialogue, and the speaking body in Central African hunter-gatherer society. Unpublished Ph.D. thesis: Edinburgh University.
+
+Finnegan, Morna. 2009. Political bodies: Some thoughts on women’s power among Central African hunter-gatherers. Radical Anthropology 3: 31-37.
+
+Finnegan, Morna. 2014. The politics of Eros: ritual dialogue and egalitarianism in three Central African hunter-gatherer societies. Journal of the Royal Anthropological Institute (N.S.) 19, 697-715.
+
+Henshilwood, Chris, Francesco d’Errico and Ian Watts. 2009. ‘Engraved ochres from the Middle Stone Age levels at Blombos Cave, South Africa’, Journal of Human Evolution 57(1): 27-47.
+
+Henshilwood, Chris, d’Errico, F., van Niekerk, K.L., Coquinot, Y., Jacobs, Z., Lauritzen, S.E., Menu, M., García-Moreno, R. 2011. A 100,000-Year-Old Ochre-Processing Workshop at Blombos Cave, South Africa. Science 334: 219-222. DOI: 10.1126/science.1211535
+
+Hrdy, Sarah Blaffer. 2009. Mothers and others. The evolutionary origins of mutual understanding. London and Cambridge, MA: Belknap Press of Harvard University Press.
+
+Knight, C. 1985. Menstruation as medicine. Social Science and Medicine 21: 671-683.
+
+Knight, Chris. 1991. Blood Relations. Menstruation and the origins of culture. New Haven and London: Yale University Press.
+
+Knight, Chris. 1997. The wives of the sun and moon. Journal of the Royal Anthropological Institute 3(N.S.): 133-153.
+
+Knight, Chris, Camilla Power and Ian Watts. 1995. The human symbolic revolution: A Darwinian account. Cambridge Archaeological Journal 5(1): 75-114.
+
+Knight, Chris, Robin Dunbar and Camilla Power. 1999. An evolutionary approach to human culture. In R. Dunbar, C. Knight and C. Power (eds), The Evolution of Culture. Edinburgh: Edinburgh University Press, pp. 1-11.
+
+Knight, C. and J. Lewis, 2017. Towards a theory of everything. In C. Power, M. Finnegan and H. Callan (eds.), Human Origins: Contributions from Social Anthropology. New York & Oxford: Berghahn, pp. 84-102.
+
+Lewis, J. 2008. Ekila: blood, bodies and egalitarian societies. Journal of the Royal Anthropological Institute (N.S.) 14: 297-315.
+
+Lewis, Jerome D. 2014. Egalitarian Social Organization: The Case of the Mbendjele BaYaka. In Barry S. Hewlett (ed), Hunter-Gatherers of the Congo Basin. New Brunswick: Transaction, pp. 219-43.
+
+Marlowe, F. W. 2004. Marital residence among foragers. Current Anthropology 45 (2): 277-284.
+
+Morgan, L. H. 1877. Ancient Society. London: MacMillan.
+
+Morgan, L. H. 1881. Houses and House-Life of the American Aborigines. Chicago and London: University of Chicago Press.
+
+Power, Camilla. 2004. Women in prehistoric art. In G. Berghaus (ed.), New Perspectives in Prehistoric Art. Westport, CT & London: Praeger, pp. 75-104.
+
+Power, Camilla. 2009. Sexual selection models for the emergence of symbolic communication: Why they should be reversed. In The Cradle of Language R. Botha and C. Knight (eds). Oxford: Oxford University press, pp.257-280.
+
+Power, Camilla, Volker Sommer and Ian Watts. 2013. The seasonality thermostat: Female reproductive synchrony and male behaviour in monkeys, neanderthals and modern humans. PaleoAnthropology 2013: 33-60. doi:10.4207/PA.2013.ART79
+
+Power, Camilla. 2017. Reconstructing a source cosmology for African hunter-gatherers. In C. Power, M. Finnegan and H. Callan (eds), Human Origins: Contributions from Social Anthropology. New York & Oxford: Berghahn, pp. 180-202.
+
+Power, Camilla. 2019. The role of egalitarianism and gender ritual in the evolution of symbolic cognition. In T Henley, M Rossano, E Kardas (eds) Handbook of Cognitive Archaeology. Routledge, pp.354-374.
+
+Power, Camilla, Ian Watts and Chris Knight. 2021. The Symbolic Revolution: a sexual conflict model. In N Gontier, C Sinha, A Lock (eds) Oxford Handbook of Human Symbolic Evolution Oxford UP, 2nd edition. Online Publication Date: Mar 2021 DOI: 10.1093/oxfordhb/9780198813781.013.13
+
+Testart, A. 1985. Le communisme primitif. Paris: Éditions de la Maison des Sciences de l’Homme.
+
+Sahlins, Marshall and David Graeber, 2017. On Kings. London: HAU Books.
+
+Testart, A. 1986. Essai sur les fondements de la division sexuelle du travail chez les chasseurs-cueilleurs. Paris: Éditions de l’École des Hautes Études en Sciences Sociales.
+
+Townsend, Cathryn, 2018. The Evolution Egalitarianism. In Hilary Callan (ed.), International Encyclopedia of Anthropology. London: John Wiley.
+
+Verdu, P., et al., 2013. Sociocultural behavior, sex-biased admixture and effective population sizes in Central African Pygmies and non-Pygmies Mol Biol Evol, first published online January 7, 2013 doi:10.1093/molbev/mss328
+
+Watts, Ian. 2014. The red thread: pigment use and the evolution of collective ritual. In D. Dor, C. Knight and J. Lewis (eds), The Social Origins of Language. Oxford: Oxford University Press, pp. 208-227.
+
+Watts, Ian., Michael Chazan and Jayne Wilkins 2016. Early evidence for brilliant ritualized display: Specularite use in the Northern Cape (South Africa) between ~500 and ~300 ka. Current Anthropology, 57(3).
+
+Woodburn, James. 1982. Egalitarian Societies. Man: The Journal of the Royal Anthropological Institute 17(3): 431-451.
+
+Woodburn, James. 2005. Egalitarian societies revisited. In T. Widlok and W. G. Tadesse (eds), Property and Equality, vol. 1: Ritualisation, sharing, egalitarianism. New York: Berghahn Books, pp. 18-31.
+
+Wood, E. T et al., 2005. Contrasting patterns of Y chromosome and mtDNA variation in Africa: evidence for sex-biased demographic processes. Eur J Hum Genet 13: 867-76
+
+Further Readings
+
+‘The Evolution of Egalitarianism,’ in The International Encyclopaedia of Anthropology (https://www.academia.edu/29417676/Egalitarianism_the_evolution_of)
+
+‘Did communism make us human? On the anthropology of David Graeber,’ Brooklyn Rail, June 2021, Chris Knight (https://brooklynrail.org/2021/06/field-notes/Did-communism-make-us-human)
+
+‘A response to David Graeber & David Wengrow’s “How to change the course of human history”,’ Libcom.org, Camilla Power (https://libcom.org/history/gender-egalitarianism-made-us-human-response-david-graeber-david-wengrows-how-change-cou)
+
+‘What is Politics’ reviews of ‘The Dawn of Everything’, YouTube, (https://www.youtube.com/c/WHATISPOLITICS69/featured)
+
+Cite as: Knight, Chris. 2021. “Wrong About (Almost) Everything.” FocaalBlog, 22 December. https://www.focaalblog.com/2021/12/22/chris-knight-wrong-about-almost-everything/",https://www.focaalblog.com/tag/political-anthropology/
+5,b70bccd0-2066-42fc-8f52-2ebafd5ee9bc,[],,,https://issuu.com/laprensalatina/docs/lpl_03.06.2022?fr=sMDgxZDQ3MDYyMTQ
+6,b70bccd0-2066-42fc-8f52-2ebafd5ee9bc,[],1963-03-04,,https://www.congress.gov/88/crecb/1963/03/04/GPO-CRECB-1963-pt3-7-1.pdf

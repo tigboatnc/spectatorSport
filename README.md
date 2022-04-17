@@ -7,12 +7,15 @@ what in the love of god is media doing?
 |Notebook|Description|Date|
 |-|-|-|
 |[1-raw_processing](./notebooks/1-raw_processing.ipynb)|Cleaning raw data and adding reporting time column|04-11-22|
+|[2-find_reporting](./notebooks/2-find_reporting.ipynb)|EDA|04-11-22|
+|[3-2-corpus_generation_selenium](./notebooks/3-2-corpus_generation_selenium.ipynb)|Scraping references from website|04-11-22|
 
 ## Data
 |Data|Description|Date|
 |-|-|-|
 |[Raw Scrape](./data/raw/)|Raw data from telegram, twitter, facebook etc. which is geotagged|04-11-22|
 |[input-data.csv](./data/processed/input-data.csv)|Processing of Raw Scrape Data|04-11-22|
+|[articles/*.csv](./data/processed/articles/)|Scraped Articles Per Reference |04-11-22|
 
 
 ## Todo 

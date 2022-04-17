@@ -1,0 +1,486 @@
+,uid,article_author,article_date,article_text,article_url
+0,85f48909-b2aa-43ae-8dd5-ae6060348bc0,['Dan Milmo'],2022-02-24 00:00:00,"Cyber experts have identified a new strain of computer-disabling malware unleashed on Ukrainian targets as part of Russia’s offensive, as the UK government and banks said they were on alert for online attacks.
+
+Russia was widely expected to launch a cyber assault alongside its military campaign, and the run-up to the invasion of Ukraine was marked by the deployment of “wiper” malware . A distributed denial-of-service (DDoS) attack, which paralyses websites by bombarding them with spurious information requests, also hit Ukrainian government sites.
+
+On Thursday, requests for volunteers from Ukraine’s hacker underground began to appear on forums in a bid to help protect critical infrastructure and conduct cyber spying missions against Russian troops, Reuters reported, citing two sources.
+
+“Ukrainian cybercommunity! It’s time to get involved in the cyber defense of our country,” one post read. Yegor Aushev, co-founder of a cybersecurity company in Kyiv, told Reuters he wrote the post at the request of a senior defence ministry official who contacted him on Thursday. Aushev’s firm Cyber Unit Technologies is known for working with Ukraine’s government on the defence of critical infrastructure.
+
+On Wednesday, ESET Research Labs, a Slovakia-based cybersecurity company, said it had detected a new piece of data-wiping malware on hundreds of machines in Ukraine.
+
+ESET said large organisations had been affected, while security experts at Symantec’s threat intelligence team said the malware had affected Ukrainian government contractors in Latvia and Lithuania and a financial institution in Ukraine. ESET has called the malware, which renders computers inoperable by disabling rebooting, HermeticWiper.
+
+The NotPetya attack of 2017, which devastated Ukrainian businesses, was a wiper attack that encrypted computers irretrievably and spilled over into other countries, causing $10bn (£7.5bn) of damage worldwide.
+
+Alexi Drew, a senior analyst at RAND Europe, a research institute, said cyber offensives carried the risk of escalating rapidly if attacks spill over widely into other countries, although in the case of HermeticWiper the malware does not appear to be self-propogating, whereas NotPetya was able to spread. Further attacks, however, could be different, she added. “There’s a history of cyber-attacks not staying where they’re meant to go. If you look at NotPetya, the splash damage there was significant. There is a danger here of escalation because offensive cyber activity is fundamentally not very good at staying where you put it.”
+
+Priti Patel said officials were on alert for cyber-attacks and disinformation campaigns from Moscow. “As we monitor developments, we will be especially mindful of the potential for cyber-attacks and disinformation emanating from Russia,” the home secretary said.
+
+03:37 Why has Putin’s Russia waged war on Ukraine? – video explainer
+
+The chief executive of Lloyds Bank, Charlie Nunn, said on Thursday the lender was on “heightened alert … internally around our cyber risk controls, and we’ve been focused on this for quite a while”. Preparation for potential cyber-attacks was discussed in a meeting between the government and banking industry leaders on Wednesday, Nunn added.
+
+According to Symantec, the wiper attack that hit Ukraine this week had been planned for some time. One Ukrainian organisation suffered an initial hack in December last year that was related to the recent attack.
+
+DDoS attacks were also deployed ahead of the military offensive in order to spread confusion, according to the US cybersecurity firm Mandiant. In a DDoS attack, websites are deluged with vexatious requests for information and become unreachable. The targets on Wednesday included the Ukrainian defence ministry and PrivatBank, Ukraine’s largest commercial bank.
+
+“It’s not so much the technical disruption, it’s what it does to undermine confidence, like in the financial sector. It gets people quite nervous. It’s more that kind of secondary impact,” said Jamie Collier, a Mandiant consultant, who described a DDoS as akin to stuffing a thousand envelopes through a letterbox every second.
+
+However, Dr Lennart Maschmeyer at the Center for Security Studies at the Swiss university ETH Zurich, said Russia’s cyber strategy so far seemed more improvised. “A plausible scenario for more devastating cyber-attacks was that Russia had planned this invasion for a long time, and prepositioned implants across Ukraine’s critical infrastructure in order to cause mass disruptions coinciding with the military invasion. That does not seem to be the case. The cyber operations we have seen do not show long preparation, and instead look rather haphazard,” he said.",https://www.theguardian.com/world/2022/feb/24/russia-unleashed-data-wiper-virus-on-ukraine-say-cyber-experts
+1,85f48909-b2aa-43ae-8dd5-ae6060348bc0,"['Ravie Lakshmanan', 'February']",,"Cybersecurity firms ESET and Broadcom's Symantec said they discovered a new data wiper malware used in fresh attacks against hundreds of machines in Ukraine, as Russian forces formally launched a full-scale military operation against the country.
+
+The Slovak company dubbed the wiper ""HermeticWiper"" (aka KillDisk.NCV), with one of the malware samples compiled on December 28, 2021, implying that preparations for the attacks may have been underway for nearly two months.
+
+""The wiper binary is signed using a code signing certificate issued to Hermetica Digital Ltd,"" ESET said in a series of tweets. ""The wiper abuses legitimate drivers from the EaseUS Partition Master software in order to corrupt data. As a final step the wiper reboots [the] computer.""
+
+Specifically, HermeticWiper is delivered via the benign but signed EaseUS partition management driver that then proceeds to impair the first 512 bytes, the Master Boot Record (MBR) for every physical drive, before initiating a system shutdown and effectively rendering the machine inoperable.
+
+""After a week of defacements and increasing DDoS attacks, the proliferation of sabotage operations through wiper malware is an expected and regrettable escalation,"" SentinelOne's principal threat researcher Juan Andres Guerrero-Saade said in a report analyzing the new malware.
+
+At least one of the intrusions involved deploying the malware directly from the Windows domain controller, indicating that the attackers had taken control of the target network.
+
+The scale and the impact of the data-wiping attacks remains unknown as yet, as is the identity of the threat actor behind the infections. But the development marks the second time this year that a destructive malware has been deployed on Ukrainian computer systems after the WhisperGate operation in mid-January.
+
+The wiper attacks also follow a third ""massive"" wave of distributed denial-of-service (DDoS) attacks that hit several Ukrainian government and banking institutions on Wednesday, knocking out online portals for the Ministry of Foreign Affairs, Cabinet of Ministers, and Rada, the country's parliament.
+
+Last week, two of the largest Ukrainian banks, PrivatBank and Oschadbank, as well as the websites of the Ukrainian Ministry of Defense and the Armed Forces suffered outages as a result of a DDoS attack from unknown actors, prompting the U.K. and U.S. governments to point the fingers at the Russian Main Intelligence Directorate (GRU), an allegation the Kremlin has denied.
+
+Campaigns that use DDoS attacks deliver torrents of junk traffic that are intended to overwhelm targets with the goal of rendering them inaccessible. A subsequent analysis of the February 15 incidents by the CERT-UA found that they were carried out using botnets such as Mirai and Mēris by leveraging compromised MikroTik routers and other IoT devices.
+
+What's more, information systems belonging to Ukraine's state institutions are said to have been unsuccessfully targeted in as many as 121 cyber attacks in January 2022 alone.
+
+That's not all. Cybercriminals on the dark web are looking to capitalize on the ongoing political tensions by advertising databases and network accesses containing information on Ukrainian citizens and critical infra entities on RaidForums and Free Civilian marketplaces in ""hopes of gaining high profits,"" according to a report published by Accenture earlier this week.
+
+The continuous onslaught of disruptive malicious cyber acts since the start of the year has also led the Ukrainian law enforcement authority to paint the attacks as an effort to spread anxiety, undermine confidence in the state's ability to defend its citizens, and destabilize its unity.
+
+""Ukraine is facing attempts to systematically sow panic, spread fake information and distort the real state of affairs,"" the Security Service of Ukraine (SSU) said on February 14. ""All this combined is nothing more than another massive wave of hybrid warfare.""",https://thehackernews.com/2022/02/new-wiper-malware-targeting-ukraine.html
+2,85f48909-b2aa-43ae-8dd5-ae6060348bc0,['Ankura Ctix'],2022-02-25 00:00:00,"Russia's invasion of Ukraine has been characterized by strategic and significant use of cyberattacks to support its military objectives. In the days to come, there is likely to be a sharp increase in cyberthreat activity globally and leading organizations must be prepared for the ripple effects that spill out of the conflict.
+
+Throughout the start of 2022, Russia has pressured Ukraine against joining the North Atlantic Treaty Organization (NATO) which would grant them access to powerful military allies. After conducting multiple cyber-attacks against Ukrainian networks, the Russian military is now executing a military assault on Ukraine, invading from multiple directions. This conflict has resulted in a significant increase in cybersecurity threats worldwide and will likely trigger an escalation in cyber-attacks on organizations everywhere. The Ankura Cyber Threat Investigations and Expert Services (CTIX) team is continuously monitoring and analyzing the global cyber threat landscape and is supplying this content to provide specific insights for organizations to help them proactively prepare and be ready to defend their environments and avoid operational disruptions.
+
+How Did Russia Leverage Cyberattacks for its Invasion?
+
+On January 26, 2022, Computer Emergency Response Team of Ukraine (CERT-UA) released a report stating that between January 13th and 14th multiple websites of state organizations were tampered with by Russia, resulting in content alteration and system destruction.[1] The attack, now known as WhisperGate, gained access through the supply chain, and through the abuse of the vulnerabilities OctoberCMS and Log4j.[2] The malware itself is made up of three components: BootPatch, WhisperGate, and WhisperKill. Similar to the WhisperGate attacks, on February 23, 2022, ESET and Broadcom’s Symantec discovered a second data wiper malware.[3] This malware, dubbed HermeticWiper (KillDisk.NCV), has been used to target hundreds of additional machines. HermeticWiper is a custom application designed to wipe local data, as well as damage the master boot record of the hard drive, preventing the system from booting into the operating system, which is nearly identical to how the BootPatch section of the WhisperGate attack works. At the time of publication, HermeticWiper has been seen primarily in Ukraine, but data wiping attacks in Latvia and Lithuania have also been identified. The United Kingdom and United States governments have also identified Cyclops Blink, a new malware from Sandworm (a Russian military cyber unit) that would allow for threat actors to gain remote access to networks and utilize the affected networks as a part of Distributed Denial of Service (DDoS) attacks.
+
+What to Expect Moving Forward
+
+CTIX analysts predict a rapid and sustained increase in cyberattacks domestically and internationally. With the impending sanctions the United States and NATO allies are imposing on Russian entities, the rapid escalation of ransomware attacks throughout varying industries is likely to return with aggression and a heightened level of sophistication. Victims of upcoming ransomware attacks may face yet another challenge due to the potential of threat actors ""double-dipping"" their targets. This refers to when threat actors receive ransom payment from a victim, decrypt a portion of the compromised assets, then demand another payment to continue. In addition to ransomware increases across all industries, the critical infrastructure organizations particularly need to be prepared for cyberattacks and ensure that their technological infrastructure is secured, monitored, and prepared to respond rapidly and effectively to minimize damage. Lastly, analysts warn of massive DDoS attacks making a significant comeback against companies worldwide. Threat actors have been known to cripple entire networks for weeks, rendering internet services inoperable until the flood of network packets subside. The return of these attack vectors is inevitable and will be at the hands of ruthless threat actors whose alliances fall with the enemy.
+
+Seven Practical Steps to Increase Cyber Resilience
+
+CTIX urges organizations to implement the following hardening techniques:
+
+Ensure that their incident response plan and playbooks are up to date and ready for execution
+
+Bolster threat intelligence capabilities to ensure awareness of this dynamic situation
+
+Harden internet-facing servers and applications
+
+Review all third-party vendors and their permitted privileges
+
+Monitor email traffic for phishing links and malicious documents
+
+Institute multi-factor authentication (MFA) on all user accounts enterprise-wide
+
+Ensure backups are present and working in the case of data wiping attack
+
+The Ankura Cyber Threat Investigations and Expert Services (CTIX) team is actively monitoring and will be providing a technical deep dive into the unfolding cyber risk crisis and specific threat actor group tactics, techniques, and procedures in the next edition as well as the impact of the Ukrainian/Russian crisis on cyber security globally.
+
+To stay up to date on the latest cyber threat activity, sign up for our weekly newsletter: the Ankura CTIX FLASH Update.
+
+[1] https://cert.gov.ua/article/18101
+
+[2] https://passle-net.s3.amazonaws.com/Passle/602651b953548812c0fa5fe2/MediaLibrary/Document/2021-12-14-08-10-21-892-Ankura-Log4j-VulnNotification.pdf
+
+[3] https://twitter.com/ESETresearch/status/1496581903205511181
+
+© Copyright 2022. The views expressed herein are those of the author(s) and not necessarily the views of Ankura Consulting Group, LLC., its management, its subsidiaries, its affiliates, or its other professionals. Ankura is not a law firm and cannot provide legal advice.",https://angle.ankura.com/post/102hjno/the-cybersecurity-ripple-effects-of-the-russia-ukraine-conflict
+3,85f48909-b2aa-43ae-8dd5-ae6060348bc0,[],2022-02-25 10:00:31+00:00,"UPDATE February 26, 2022, 04.40 AM (EST): This blog has been updated with details of posts of the Conti ransomware group and Anonymous.
+
+UPDATE February 27, 2022, 05.50 AM (EST): This blog has been updated with details of new IoCs, a list of IoC sources, and claimed Nvidia breach.
+
+UPDATE February 28, 2022, 06.50 AM (EST): This blog has been updated with details of threat actors taking sides.
+
+
+
+The Russian invasion of Ukraine has caused a substantial increase in cyberattacks. What’s happening in cyberspace related to the Russia-Ukraine war? How does it affect the countries and organizations all around the world? How can a company detect cyber attacks associated with this war? What are the IoCs that need to be monitored? The SOCRadar Research Team did a thorough analysis to find the answers that you can find all below.
+
+Skip to how SOCRadar provide related threat intelligence feeds, including IoCs, for free and see how to protect your company from the potential impacts of Russia-Ukraina cyber crisis.
+
+Executive Summary
+
+The Russian invasion of Ukraine has caused a substantial increase in cyberattacks. The public and private organizations can be impacted even before they are not located in the region. Therefore, the SOCRadar analyst team, monitoring the situation from its early hours, has gathered initial findings in this blog post. Here is what you should know about the cyber repercussions of the Russian-Ukraine war: Beginning from January 13, 2022, various companies in Ukraine were infected with harmful malware designed to render targeted machines useless. The malware deleted victims’ machines before passing itself off as a ransomware attack without offering a ransom payment and recovery mechanism.
+
+The first wave of cyberattacks on February 15th, mostly potent DDoS, targeted Ukrainian government organizations. Several agencies, including the Ministry of Foreign Affairs and the Security and Defense Council, were impacted.
+
+Following the Russian troops’ invasion, the second wave of DDoS attacks started on February 23. The target included government agencies and two of the largest state-owned banks. Attacks were paired with some disinformation attempts in which SMS were sent to customers falsely claiming the ATMs were out of order.
+
+In addition to DDoS attacks, two malware equipped with significant destructive capabilities has been found in the attacks. HermeticWiper is utilized to delete the data in a digital device that cannot be recovered. Recently discovered Cyclops Blink is employed to exfiltrate data from the network.
+
+Underground groups such as Anonymous and Conti ransomware groups have picked their sides in the cyber conflict. The largest hacktivist initiative, Anonymous, launched a virtual war against Russia. Conti, the notorious ransomware gang, decided to stand with Russia threatening to attack any rivals’ critical infrastructure.
+
+Dark web forums have become a show-off platform for warring factions. Detected by SOCRadar, several posts have been published alleging that sensitive information from the government organizations was leaked.
+
+You can also find lists of IoCs, TTPs, and Yara rules in this article.
+
+What Happened So Far?
+
+During the 2021–2022 Russian – Ukrainian crisis, a series of cyberattacks took down more than a dozen of Ukraine’s government websites, including the Ministry of Foreign Affairs, the Cabinet of Ministers, and the Security and Defense Council.
+
+After recognizing territorial claims of self-declared separatist republics in eastern Ukraine, Russian force deployments in these regions coincided with two massive DDoS attacks (Distributed Denial-of-Service) with destructive malware implications targeting Ukraine.
+
+The first wave of cyber-attacks on Ukraine started on February 15th, and the second one on February 23rd, made many Ukrainian governments, military, and bank websites inaccessible.
+
+Russian cyberattacks against Ukraine have led hackers, ransomware gangs, and companies to pick upsides. Underground groups publicly expressed their side in the military conflict.
+
+In the underground world, the actors have diverse decisions. Conti, the notorious ransomware group and claimed to be a state-sponsored threat actor, announced that they will strike back if cyber-attacks are conducted against Russia. In two different posts, the group states that they would target the opposite countries’ critical infrastructure on its official website.
+
+Which Cyber Threat Actor Takes Which Side in the Ukraine-Russia War?
+
+Many different cyber threat actors who continue their operations on the dark web have actively participated in the Russia-Ukraine war in cyberspace. During the conflict that has lasted for nearly a week, many threat actors have declared their sides or switched sides. Many threats, from hacktivist groups to ransomware gangs, announced their support for one of the warring parties.
+
+First, the Anonymous group announced that it had declared its support for Ukraine. After this announcement, some websites belonging to Russia’s state and private sector became unavailable.
+
+In another tweet, Anonymous TV, an account close to Anonymous, claimed that Anonymous leaked the database of the Russian Ministry of Defense website. The group also claimed to breach Tetradr, a Belarusian weapon manufacturer and leaked about 200GB of emails.
+
+Conti ransomware group, which has made a name for itself with its organized ransomware attacks, announced that it sided with Russia. It was noted that the group exhibited a slightly softer attitude in the second statement made later. In this statement, Conti claimed that they did not support the war. Some insiders not happy with Conti’s support for Russia leaked inside jabber chats of the group.
+
+The CoomingProject group, which has been selling/sharing the data it has obtained from critical institutions since 2021 on Russian-speaking hacker forums, was also among the hacker groups that sided with Russia. The Cooming Project has announced that they will respond if the Russian government targets a cyberattack.
+
+LockBit announced that it was not a party to the war. Noting that there are hackers from different nationalities within the group, the group stated that people from many countries, not only from Ukraine and Russia but also from China to the USA, are working for them. “Business is important to us, and we all take an apolitical stance. We are only concerned with money.”
+
+Along with Anonymous, another hacktivist group targeting Russia is AgainstTheWest. In the statement made by the group, it was stated that the systems of various Russian government institutions were infected with ransomware, attacked with data-destroying malware, and all the data were seized.
+
+The Red Bandits, known for their data breach attacks, CyberGhost, and Sandworm groups, known for their hacking and DDoS attacks, were shared on the hacker channels that they were Russian supporters. It is known that the Raidforum Admins group, which came to the fore with cyber sanctions against Russia, is in the ranks of Ukraine.
+
+Some groups that carried out DDoS attacks on behalf of Ukraine are as follows as of February 27: “IT Army of Ukraine, BlackHawk, and Anonymous Liberland & PWN Bar hack team.” It is understood that the ransomware group called Belarussian Cyber Partisans is a supporter of “free Ukraine,” as far as it is followed on Twitter channels.
+
+On the other side, the Lapsu$ extortion group claimed to breach Nvidia, one of the largest technology manufacturers in the world. The US and western sanctions in retaliation for Russia’s invasion of Ukraine shut off the supply from leading US groups such as Intel, AMD, and Nvidia at Russia’s military and its tech industry. After the sanction decision, Russian origin hacker groups allegedly shared data about hashes of Nvidia’s employees on a Telegram Channel monitored by SOCRadar.
+
+Hacker groups supporting Ukraine: Anonymous, AgainstTheWest (AWT), Belarusian Cyber Partisans, GhostSec, IT Army of Ukraine, KelvinSecurity Hacking Team, BlackHawk, Anonymous Liberland & the PWN-BAR Hack Team, Raidforum Admins, GNG, NB65, ECO, Raidforums2, ContiLeaks, SHDWSec, GhostClan, Eye of the Storm, and Netsec.
+
+Hacker groups supporting Russia: Sandworm, Conti, CoomingProject, The Red Bandits, and CyberGhost.
+
+2022 Russian-Ukrainian Crisis: The FirstWave of Cyberattacks
+
+Beginning from January 13, 2022, various companies in Ukraine were infected with harmful malware designed to render targeted machines useless.
+
+The malware deleted victims’ machines before passing itself off as a ransomware attack without offering a ransom payment and recovery mechanism.
+
+The malware has infected multiple Ukrainian government institutions, non-profit, and information technology organizations.
+
+On February 15th, Ukraine became the victim of numerous powerful DDoS attacks again, resulting in the disruption of services in government agencies and state-owned banks.
+
+The affected enterprises were two of the largest state-owned banks, namely Privatbank and Oschadbank, and several other government agencies, including the Ministry of Defense and the Armed Forces of Ukraine.
+
+The attacks were carried out by flooding the web servers with high traffic volumes the server could not handle. As a result, the servers were inaccessible for several hours. Many Ukrainians could not use mobile banking apps and log into their accounts on the above-mentioned banks’ websites, even though they were up and running.
+
+On the same day, customers of Privatbank has received fake SMS messages claiming that the ATMs of the bank were down, according to the cyberpolice of Ukraine. The cyberpolice stated that these SMS messages did not reflect reality and were just mere parts of an “information attack.”
+
+In addition to the state-owned banks, the Ministry of Defense and the Armed Forces of Ukraine were also attacked on the 15th of February. The website of the Ministry of Defense was taken down, unable to operate for several hours.
+
+Ukraine’s online news agency Ukranyska Pravda states that these attacks are potent DDoS attacks on government agencies and have never happened before on this scale.
+
+A Snapshot shows that the Ministry of Defense was inaccessible on February 15th. Translation of the sentence: “The site is under maintenance” (Source: Wayback Machine)
+
+The Second Wave of Cyber Attacks on Ukraine: Deadlier than the First Wave
+
+On the 23rd of February, Ukraine woke up to a new series of cyber-attacks threatening to disrupt the services of enterprises and several government agencies of Ukraine.
+
+These cyber-attacks were in parallel with Ukraine’s invasion by the Russian military. As the Russian army crossed Ukraine’s border, numerous malicious cyber-attacks believed to be coming from Russia were launched.
+
+Two of the largest state-owned banks (Privatbank and Oschadbank) were targeted once again, along with several government agencies with a non-ending stream of DDoS attacks. The websites of government agencies, including the Ministry of Defense, the Ministry of Foreign Affairs, and the Ministry of Internal Affairs, and the targeted banks became inaccessible due to the attacks.
+
+The State Service of Special Communication and Information Protection of Ukraine said on the 23rd of February, acknowledging the attacks and the aftermath:
+
+“Today, websites of a number of government and banking institutions have undergone a massive DDoS attack again. Some of the attacked information systems are not available or work intermittently. It is due to switching traffic to another provider to minimize damage.”
+
+Along with DDoS attacks targeting Ukrainian organizations, two important cybersecurity firms, namely ESET and Broadcom’s Symantec, revealed that a new data-wiper malware had targeted Ukrainian organizations’ computer networks.
+
+The new data-wiper is a malware that deletes data on a device for the data to be unrecoverable and the operating system to stop working correctly.
+
+Besides the new data-wiper, a new malware known as Cyclops Blink, which targets the Ukrainian organizations in the second wave of cyberattacks, has been identified by a joint UK – US advisory and might be used remotely to access networks.
+
+The malware is believed to be utilized by Sandworm, an APT group. In the past, the group has been linked to the Russian GRU.
+
+Moreover, Cyclops Blink looks to be a replacement for the VPNFilter malware that was discovered in 2018, and its deployment could allow Sandworm to access networks remotely.
+
+Western Allies of Ukraine declare their readiness to support Ukraine in cyberspace. The European Defence Agency (EDA) tweeted on 24 February that Cyber Rapid Response Team (CRRT) was activated following a request from Ukraine. EDA website states that CRRT will support Ukraine in monitoring the threat landscape and detecting and mitigating cyber attacks.
+
+On the other hand, news outlets reported on 24 February that some Russian government entities’ websites were not accessible. The official website of the Ministry of Defence of the Russian Federation was responding with “HTTP ERROR 418” by 7 PM on 24 February. We understand that Russia blocked access to this domain based on geography as a security mechanism.
+
+What are the Dark Web Activities Related to Russia-Ukraine War?
+
+On the dark web, threat actors allegedly began to sell database data of citizens of Ukraine and data from several Government departments.
+
+RaidForum deleted some posts related to the Ukraine Hack.
+
+One of the posts allegedly shared a leak of US Special Operation Command.
+
+
+
+Some of the information allegedly to be shared in the forums, on the other hand, claims that data sharing against Russia has started.
+
+How SOCRadar Can Help?
+
+You can reach all these IoCs related to the Russia – Ukraine War and Russian Cyber Weapons from the Intelligence Feed on the SOCRadar Platform.
+
+IOC list targeted Ukraine available in SOCRadar Threat Feed Database.
+
+If you are not a SOCRadar customer, you can register for the Free Edition to access this IoC and other feeds.
+
+Get Free Access Now
+
+You can reach all these IoCs related to the Russia – Ukraine War and Russian Cyber Weapons from the Intelligence Feed on the SOCRadar Platform.
+
+IOC list targeted Ukraine available in SOCRadar Threat Feed Database.
+
+List of IoC Sources Related to Russia-Ukraine War
+
+Besides SOCRadar Intelligence Feeds and IoC details below of Russian Cyber Weapons, many organizations and cybersecurity companies also provide IoC lists of malware recently used by Russian hacker groups.
+
+A joint advisory prepared by CISA, FBI, and NSA about mitigating Russian state-sponsored cyber threats to U.S. critical infrastructure provides TTPs and some other details.
+
+An IoC list is also published on GitHub by Orange Cyber Defense.
+
+Symantec Threat Hunter Team also published an IoC list for HermeticWiper.
+
+Technical Analysis of Russian Cyber Weapons
+
+HermeticWiper: A Catastrophic Malware
+
+ESET Research has found that a new data wiper malware dubbed HermeticWiper has been discovered on Ukrainian computers and machines in Latvia and Lithuania. ESET products first detected the malware as Win32/KillDisk.NCV around 3 p.m. UTC on Wednesday, February 23rd, 2022.
+
+The compilation timestamp shows December 28th, 2021, which suggests the attack was prepared for at least two months. The wiper attacks started after a series of DDoS attacks hit several important websites in the country and brought them down.
+
+Since it is a developing story, some details might change, but HermeticWiper abuses some legitimate drivers from the EaseUS Partition Master software.
+
+After the initial entry, attackers took control of the Active Directory (AD) server and pushed it using the default Group Policy Object (GPO). In the case of an attack against at least one organization in Ukraine, the attackers seemed to gain access to the network on December 23, 2021, via malicious SMB activity against a Microsoft Exchange Server, according to the Symantec Threat Hunter Team. It was immediately followed by credential theft.
+
+A web shell was also installed on January 16, before the wiper was deployed on February 23. However, it is not obvious how the initial access to the Active Directory was gained.
+
+The malware called HermeticWiper referenced the digital certificate used to sign the sample. Sentinel Labs’ initial analysis shows that the digital certificate is issued under ‘Hermetica Digital Ltd’ and is valid as of April 2021. There are no known legitimate files signed with this certificate.
+
+How Does It Work?
+
+According to Juan Andres Guerrero-Saade from Sentinel Labs, Hermetic Wiper uses a known and tested technique similar to the Lazarus Group (Destover) and APT33 (Shamoon) with Eldos Rawdisk. However, the Wiper abuses a different driver:
+
+empntdrv[.]sys
+
+to access the file system without calling Windows APIs. After that, the Hermetic Wiper focuses on corrupting the first 512 bytes, the Master Boot Record (MBR), for every physical drive to stop the booting process.
+
+Who Gets Affected by HermeticWiper?
+
+The target seems to be the host computers in critical networks. The malware does not try to steal or exfiltrate data, but it just destroys it. In a time of crisis, the malware could create chaos by deleting importing data stored in the personal computers of the key personnel.
+
+Targeted Devices: Windows device
+
+Targeted Countries: Ukraine, Latvia, Czechia, Poland, and Lithuania
+
+Targeted Sectors: Financial, Defense, Aviation, and IT services sectors
+
+Malware Family: NCV
+
+TTPs of HermeticWiper
+
+MITRE ATT&CK T1059.003 Command and Scripting Interpreter: Windows Command Shell MITRE ATT&CK T1059.001 Command and Scripting Interpreter: PowerShell MITRE ATT&CK T1542.003 Pre-OS Boot: Bootkit MITRE ATT&CK T1561 Disk Wipe IoCs of HermeticWiper FileHash-SHA256 1bc44eef75779e3ca1eefb8ff5a64807dbc942b1e4a2672d77b9f6928d292591 FileHash-SHA1 912342f1c840a42f6b74132f8a7c4ffe7d40fb77 FileHash-SHA1 61b25d11392172e587d8da3045812a66c3385451 FileHash-MD5 eb845b7a16ed82bd248e395d9852f467 FileHash-MD5 a952e288a1ead66490b3275a807f52e5 FileHash-MD5 231b3385ac17e41c5bb1b1fcb59599c4 FileHash-MD5 095a1678021b034903c85dd5acb447ad FileHash-SHA256 ca3c4cd3c2edc816c1130e6cac9bdd08f83aef0b8e6f3d09c2172c854fab125f Yara Rules for HermeticWiper:
+
+Mitigation for HermeticWiper:
+
+Make sure you patched all the critical vulnerabilities and closed all the essential ports discovered SOCRadar Attackmapper module
+
+If you have anti-malware programs from vendors like SentinelOne or Symantec, their scanners can catch HermeticWiper. Make sure that your definitions are up-to-date.
+
+There are also YARA rules: https://github.com/Cluster25/detection/tree/main/yara/hermeticwiper out here if you would like to double-check your network.
+
+IOCs published by SOCRadar can be fed the security devices like Firewalls, IPSs, or SOAR solutions.
+
+Be extra careful against usual delivery methods of malware like phishing.
+
+Webshell detection plays a very critical role in hermetic wiper mitigation strategies. Please see details here.
+
+Cyclops Blink: The New Weapon of Cyber-Warfare
+
+U.S. and U.K. government agencies published a joint report on a new malware strain called Cyclops Blink.
+
+The report stated that Sandworm (aka Voodoo Bear or BlackEnergy) APT group developed a new malware to be used to remotely compromise network devices, primarily small office/home office (SOHO) routers and network-attached storage (NAS) devices. The group is a part of Russia’s (foreign military intelligence agency) GRU’s Main Centre for Special Technologies or GTsST.
+
+The malicious cyber activities such as disruption of Ukrainian electricity in 2015, Industroyer in 2016, NotPetya in 2017, the Winter Olympics and Paralympics in 2018 cyberattacks, and attacks against Georgia in 2019 were all attributed to Sandworm. The new malware, Cyclops Blink, appears to replace the VPNFilter malware exposed in 2018.
+
+According to the report, NCSC, CISA, FBI, NSA, and industry partners have identified a large-scale modular malware framework affecting network devices. This new malware strain is named Cyclops Blink. The report claims that the malware deployed at least June 2019, fourteen months after its successor VPNFilter was disrupted.
+
+As with VPNFilter, Cyclops Blink deployment also seems indiscriminate and widespread. So far, Cyclops Blink has been only deployed to WatchGuard devices by Sandworm. (WatchGuard Technologies Inc. is a network security vendor that provides products designed to protect computer networks from outside threats.) However, Sandworm could likely use the malware to target other architectures and firmware.
+
+The malware is highly sophisticated and modular, capable of sending device information back to a C2 server. Cyclops Blink could download and execute files. The modular nature of the malware also allows Sandworm to implement additional functionalities as needed.
+
+After the exploitation, Cyclops Blink will generally arrive in a firmware update that achieves persistence once the target device is rebooted, making it very hard to remove. Then the malware organizes the victim’s devices into clusters, and each deployment has a list of command and controls IP addresses and ports it uses.
+
+The data transferred between Sandworm and compromised devices are protected with Transport Layer Security using individually generated keys and certificates. Sandworm manages compromised devices over the Tor network.
+
+Another important note is that Cyclops Blink warn that Cyclops survives through a reboot and legitimate firmware updates. Therefore, the removing process is not easy and should be completed carefully using the directives from the WatchGuard.
+
+Targeted Countries: Ukraine, United States of America, United Kingdom of Great Britain, and Northern Ireland
+
+Malware Families: VPNFilter, Cyclops Blink
+
+TTPs of Cyclops Blink:
+
+MITRE ATT&CK T1140 Deobfuscate/Decode Files or Information MITRE ATT&CK T1495 Firmware Corruption MITRE ATT&CK T1547 Boot or Logon Autostart Execution MITRE ATT&CK T1106 Native API MITRE ATT&CK T1105 Ingress Tool Transfer MITRE ATT&CK T1102 Web Service MITRE ATT&CK T1095 Non-Application Layer Protocol MITRE ATT&CK T1008 Fallback Channels MITRE ATT&CK T1036 Masquerading MITRE ATT&CK T1037 Boot or Logon Initialization Scripts MITRE ATT&CK T1041 Exfiltration Over C2 Channel MITRE ATT&CK T1059 Command and Scripting Interpreter MITRE ATT&CK T1071 Application Layer Protocol MITRE ATT&CK T1082 System Information Discovery MITRE ATT&CK T1090 Proxy MITRE ATT&CK T1132 Data Encoding MITRE ATT&CK T1133 External Remote Services MITRE ATT&CK T1542 Pre-OS Boot MITRE ATT&CK T1562 Impair Defenses MITRE ATT&CK T1571 Non-Standard Port MITRE ATT&CK T1571 Non-Standard Port
+
+IoCs of Cyclops Blink:
+
+Mitigation for Cyclops Blink:
+
+Make sure you patched all the critical vulnerabilities and closed all the critical ports discovered SOCRadar Attackmapper module
+
+If you have a WatchGuard Device, Follow the directions from WatchGuard Which can be found here:https://detection.watchguard.com
+
+The NCSC has also published its own analysis which can be found here:https://www.ncsc.gov.uk/files/Cyclops-Blink-Malware-Analysis-Report.pdf
+
+There are IOCs published by SOCRadar that can be fed the security devices like Firewalls, IPSs or SOAR solutions.
+
+Be extra careful against usual delivery methods of malware like phishing.
+
+Katana: DDoS Attacks to Ukraine
+
+One of the cyber-attack prongs which Russia used against Ukraine is DDoS attacks. Some Ukrainian websites were not accessible due to heavy DDoS attacks both on February 15 and 16. Banks, Government, and Military websites were impacted. Both UK and US officials have attributed these attacks to a known Russian GRU infrastructure stating The US has technical data to back it up.
+
+Fortunately, the attacks` scale was only moderate. Therefore, the impacted sites recovered within hours. During attacks, it is reported that some customers could not access the banking websites and, in minimal cases, ATMs became unavailable too. In addition to these attacks, some fraudulent SMS messages were sent to Ukrainian phones, possibly creating panic.
+
+The text messages said, “Due to technical circumstances, Privatbank ATMs do not work on February 15. We apologize”. These messages were sent from Polish, Austrian and Estonian numbers. Computer Emergency Response Team of Ukraine also reported a denial of service attack against the ”.gov.ua” DNS servers; and a BGP hijacking attack against the Privatbank IP space causing difficulties routing traffic to their network.
+
+According to the Ukrainian CERT, 360Netlab, and BadPackets, the source of these attacks was a Mirai botnet. Researchers matched the gathered IOCs to a botnet named Katana, which is, in fact, a variant of Mirai with improved DDoS capabilities. Katana source code is available for purchase for less than a thousand dollars, and it is possibly shared for free on some deep and dark websites.
+
+According to Malpedia, Mirai was one of the first significant botnets targeting exposed networking devices running Linux. Mirai was first discovered in August 2016 by MalwareMustDie.
+
+It targeted various networked embedded devices such as IP cameras, home routers belonging to many different vendors, and other IoT devices. Since the source code was published on “Hack Forums,” many variants of the Mirai family appeared, infecting mostly home networks worldwide.
+
+When an IoT device like network cameras are publicly accessible, they could be easily targeted and were exploited by the attacker to perform the DDoS. Due to how the exploit works, the records of their exploitation can be seen by anyone. It should also be noted that a file matching the attack IoCs was uploaded to the VirusTotal on February 13th.
+
+Therefore, compromising the IoT devices had been started at least a couple of days before the DDoS attacks. Even though the impacted sites came back online relatively quickly, this does not dismiss the fact that this was a sophisticated and well-organized attack to create instability and chaos in Ukraine.
+
+Targeted Country: Ukraine
+
+Target Sectors: Banking, Military, Government
+
+Malware Family: Mirai
+
+TTPs of Katana:
+
+MITRE ATT&CK T1583.005 Botnet MITRE ATT&CK T1525 Implant Internal Image MITRE ATT&CK T1499 Endpoint Denial of Service
+
+IoCs of Katana:
+
+Yara Rules for Katana:
+
+Mitigation for Katana:
+
+It is the ISP level filtering of all traffic that may come from abroad, except for the traffic that will come from abroad and which does not make sense to be blocked (Search engine traffic, etc.).
+
+Attacks from within the country are generally low. Potential amplifier IP addresses that can use for high-dimensional DDoS attacks should be uploaded to the security wall / IPS systems in a list and activated in monitoring mode.
+
+How the Cyber-war Escalating Between Russia and Ukraine as Conflict Became Brutal?
+
+In addition to recent interventions, Russia’s cyberattacks against Ukraine date back to earlier times.
+
+The cyber warfare between Russia and Ukraine is a part of the confrontation which goes back to the collapse of the Soviet Union in 1991. Russian cyberwar capabilities had been available since 2005 with Uroburos. The first recorded Russian cyberattacks against Ukraine happened during the mass protests in 2013.
+
+In an operation called Armageddon, a Russian campaign of systematic cyber espionage on the information systems of law enforcement and defense agencies started to help Russia on the battlefield.
+
+In 2014, DDoS attacks and cyber espionage were common during the Crimea Crisis. On December 23, 2015, a cyber-attack on Ukraine’s power grid resulted in power outages for roughly 230,000 consumers in the country for 1-6 hours. The attack is attributed to a Russian APT (Advanced Persistent Threat) group known as “Sandworm.” The mass supply-chain attack 2017 using Petya was the most potent known hacker attack according to the US Presidential Administration.
+
+Therefore, cyber warfare was always part of the contemporary Russia-Ukraine conflict. As a result, it was not a surprise that the special cyber activity reports came just hours before Russian forces began the invasion of neighboring Ukraine.
+
+What to Do to Mitigate Potential Impacts of the Russian-Ukrainian Cyber Crisis?
+
+Since there is no single attack vector or a new type of malware used in the Russian – Ukrainian cyberattacks, there is no single way of protecting your organization against critical cyber threats in the escalating cyber crisis.
+
+Countries that make quick statements about their side in the conflict are the first to be targeted in global political crises. It can be predicted that cyberattacks from Russia will increase in the coming days. Against potential attacks, SOCRadar’s recommendations are as follows:
+
+Cyberattacks could come in various forms and have disastrous effects on your organization. To minimize risk and protect your organization, analysts at SOCRadar suggest you to:
+
+Accelerate Incident Response: Reducing incident response time is crucial for organizations to mitigate the potential consequences. Alert your SOC team, implement a mitigation action plan in case of a cyber-attack, and test your communication and backup protocols.
+
+Update and Patch Software in Endpoints: Unpatched vulnerabilities could be exploited to gain access and damage your organization in any way possible, so it is crucial to update and patch critical software in your organization’s endpoints. It is suggested that all software be updated to the latest release.
+
+Backup Your Data in case of a Ransomware Attack or Data-wiping: The new HermeticWiper malware has targeted organizations in Ukraine and destroyed organizations’ data without leaving any chance of recovery. It is strongly suggested that all sensitive and important data is backed up, and recovery and backup protocols are thoroughly tested to quickly recover from data-wiping and ransomware attacks.
+
+The vast majority of ransomware attacks that have affected almost every country in the last two years are originated in Russia. To be protected from these attacks, it is essential to regularly check the attack surface that is open to the internet and regularly scan it for critical vulnerabilities.
+
+One of the main ways to protect from malware and ransomware attacks is using EDR/EPP software. We recommend that you monitor your infrastructure against cyber operations carried out by integrating IOCs shared by SOCRadar into SIEM, XDR, and EDR systems.
+
+Scan your Endpoints to Detect Anomalies: Any unclosed RDP (Remote Desktop Protocol) ports along with compromised credentials could seriously damage your organization’s infrastructure and result in an unrecoverable cyberattack. It is strongly suggested that security scans and tests are carried out to detect anomalies in your endpoints and prevent potential cyberattacks.
+
+Be aware of DDoS attacks: As the conflict continues and more countries declare their side in this conjuncture, it will be inevitable for DDoS attacks to head towards other countries and their critical infrastructures. In such cases, we recommend preparing a “Plan B” for companies/institutions in regions where the attack is likely to escalate to be activated at the time of the attack.
+
+The first item of your “Plan B” should be filtering at the ISP level of all traffic, except for the traffic that will come from abroad and does not make sense to be blocked (Traffic that comes from search engine traffic, etc.).
+
+The attacks that may come from within your country are generally low-level. The potential “amplifier IP addresses” that can be used for high-dimensional DDoS attacks should be uploaded to the firewall/IPS systems in a list. These should be activated in monitoring mode.
+
+SOCRadar observes that many social media accounts and domain purchases are made for phishing and disinformation purposes. In this context, if SOC teams are using it, we recommend DNS monitoring solutions or following such newly acquired domains in monitoring mode via SIEM. Finally, we also recommend following the CERTs and newsletters issued by CISA.",https://socradar.io/what-you-need-to-know-about-russian-cyber-escalation-in-ukraine/
+4,85f48909-b2aa-43ae-8dd5-ae6060348bc0,[],,"The US, UK and EU has also blamed it for the hugely disruptive NotPetya ""wiper"" attack, which started in Ukraine but spread globally, causing billions of dollars of damage to computer systems across Europe, Asia, and the Americas.",https://www.bbc.com/news/technology-60500618
+5,85f48909-b2aa-43ae-8dd5-ae6060348bc0,[],2022-02-24 05:08:05+00:00,"Cybersecurity Companies ESET and Broadcom’s Symantec said they discovered a new data-wiping malware used in new attacks against hundreds of machines in Ukraine amid escalating geopolitical tensions between the country and Russia.
+
+The Slovak company called the wiper “Hermetic Wiper” (also known as KillDisk.NCV), with one of the malware samples compiled on December 28, 2021, implying that preparations for the attacks may have been underway for nearly two months.
+
+“The wiper binary is signed with a code signing certificate issued to Hermetica Digital Ltd,” ESET said in a series of tweets. The wiper misuses legitimate drivers of the EaseUS Partition Master software to corrupt data. As a final step, the wiper reboots [the] computer.”
+
+In at least one of the intrusions, the malware was deployed directly from the Windows domain controller, indicating that the attackers had taken control of the target network.
+
+The scope and impact of the data-wiping attacks are still unknown, as is the identity of the threat actor behind the infections. But the development marks the second time this year that a data wiper has been deployed on Ukrainian computer systems after the WhisperGate operation in mid-January.
+
+The wiper attacks also follow a third “massive” wave of distributed denial-of-service (DDoS) attacks that hit several Ukrainian government and banking institutions on Wednesday, shutting down online portals for the Ministry of Foreign Affairs, the Cabinet of Ministers and Rada, the country’s parliament.
+
+Last week, two of the largest Ukrainian banks, PrivatBank and Oschadbank, as well as the websites of the Ukrainian Ministry of Defense and the Armed Forces, had gone down as a result of a DDoS attack by unknown actors, making the UK and U.S governments to point the finger at Russia’s Chief Intelligence Directorate (GRU), an allegation the Kremlin has denied†
+
+Campaigns using DDoS attacks deliver torrents of junk traffic intended to overwhelm targets with the aim of rendering them inaccessible. A subsequent analysis of the February 15 incidents by the CERT-UA found it that they were performed using botnets such as Mirai and Mēris by making use of compromised MikroTik routers and other IoT devices.
+
+In addition, information systems of the Ukrainian state institutions would have been targeted in vain in as many as 121 cyber attacks in January 2022 alone.
+
+That’s not all. Cyber ​​criminals on the dark web are trying to take advantage of the ongoing political tensions by advertising databases and network accesses containing information about Ukrainian citizens and critical infrastructure entities on RaidForums and free civilian marketplaces in the “hope of making huge profits,” according to one report published by Accenture earlier this week.
+
+The continuous attack of disruptive malicious cyber-attacks since the beginning of the year has also led Ukrainian law enforcement to portray the attacks as an attempt to instill fear, undermine confidence in the state’s ability to defend its citizens and unit to destabilize.
+
+Ukraine faces attempts to systematically spread panic, spread false information and distort the real state of affairs, says Ukraine’s Security Service (SSU) said on February 14. “All of this together is nothing more than another massive wave of hybrid warfare.”",https://www.naveenbharat.in/new-wiper-malware-targeting-ukraine-during-russian-military-operation/
+6,85f48909-b2aa-43ae-8dd5-ae6060348bc0,[],,,https://acn-marketing-blog.accenture.com/wp-content/uploads/2022/02/ACTI_POV_UkraineCrisis_20220225_TLP-WHITE-CLEAN.pdf
+7,85f48909-b2aa-43ae-8dd5-ae6060348bc0,['Sean Lyngaas'],2022-02-23 00:00:00,"(CNN) Key Ukrainian government websites were down early Thursday morning local time following a day in which Ukrainian agencies dealt with multiple cyberattacks and as concerns mounted over Russian troop movements into Ukraine 's separatist regions.
+
+The websites of the Ukrainian Cabinet of Ministers, and those of the ministries of foreign affairs, infrastructure, education and others, were experiencing disruptions.
+
+In a separate and potentially more serious hacking incident hours earlier, a data-wiping tool was found on hundreds of computers in Ukraine, according to cybersecurity researchers, raising concerns that a destructive cyberattack was unfolding amid Russia's military escalation.
+
+Taken together, the incidents represented an apparent escalation in cyberattacks on Ukrainian infrastructure as the US and its allies warned of an imminent Russian invasion in Ukraine and slapped sanctions on Russian banks and elites. In televised remarks, Russian President Vladimir Putin announced military action in Ukraine's Donbas region Thursday morning, urging Ukrainian forces to lay down their arms and go home.
+
+""We are aware of multiple commercial and government organizations in Ukraine impacted by the destructive malware today,"" Charles Carmakal, senior vice president and chief technology officer for cybersecurity firm Mandiant, told CNN.
+
+The hacking incidents came as United Nations Secretary-General António Guterres made an eleventh-hour appeal to Russia to curtail military action.
+
+""If indeed an operation is being prepared, I have only one thing to say from the bottom of my heart: President Putin, stop your troops from attacking Ukraine,"" Guterres told an emergency meeting of the UN Security Council on Wednesday night in New York. ""Give peace a chance. Too many people have already died.""
+
+US officials have warned that Russia will very likely use cyber operations in conjunction with military action in Ukraine. President Joe Biden said last month the US could respond with cyberoperations of its own if Russia conducts additional cyberattacks in Ukraine.
+
+The website disruptions early Thursday in Ukraine followed news Wednesday afternoon of a cyberattack that temporarily knocked offline the websites of the Ukrainian parliament, Security Service and Cabinet of Ministers.
+
+It wasn't immediately clear who was responsible for the destructive hacking incident, or the website disruptions early Thursday morning. The Ukrainian government did not immediately respond to CNN's request for comment.
+
+The State Service of Special Communications and Information Protection of Ukraine said the cyberattacks on websites reported earlier Wednesday were ""a continuation"" of cyberattacks that hit Ukrainian government websites on February 15. The White House blamed Russia's military intelligence agency, the GRU, for those hacks, which are known as distribute denial of service (DDoS) attacks because they overwhelm computer servers with phony traffic and knock websites offline. Russia's embassy in Washington denied the accusation.
+
+Of all the cyber incidents, though, the destructive data-wiping tool -- known as ""wiper"" malware -- had the potential to be the most impactful. Wiper malware typically deletes data from computers and renders them inoperable. That has the potential to hobble organizations trying to stay online in a conflict.
+
+The hack hit at least one Ukrainian financial institution and two Ukrainian government contractors, one with a presence in Latvia and the other with a presence in Lithuania, Vikram Thakur, technical director at Broadcom's cybersecurity unit Symantec, told CNN.
+
+The malicious code affected ""large organizations"" in Ukraine, according to cybersecurity firm ESET, which has multiple clients in the country. The hacking tool appears to have been created two months ago, but ""was deployed only today and we have seen it only in Ukraine,"" said Jean-Ian Boutin, head of threat research ESET.
+
+In the event of a larger conflict between Russia and Ukraine, US officials are concerned that transportation networks and broadcast media in Ukraine could be shut down by kinetic or cyberattacks, a senior Department of Homeland Security told state and local officials Tuesday
+
+The goal right now for Ukrainian government agencies and key business is resiliency in the face of waves of hacking. Some agencies have been able to come back online relatively quickly following the DDoS attacks last week. US and numerous allied governments, along with private-sector experts, are providing cybersecurity support to Ukraine on the ground and remotely.
+
+""With a top-tier cyber power like Russia, you're not going to keep them out 100%, so the goal is resilience,"" Sen. Mark Warner, the Virginia Democrat who chairs the Senate Intelligence Committee, told CNN.
+
+Asked if the US should conduct its own hacking operations in response to Russian activities in Ukraine, Warner said the US generally avoids ""opening Pandora's Box in terms of cyber escalation.""
+
+""So far, that's been the right approach,"" Warner added. ""But we've never seen this sort of circumstance where Putin is willing to unleash 190,000 troops"" and threaten Kyiv, he added. ""We don't know what he'll do in the cyber realm.""
+
+This headline and story have been updated with additional reporting.",https://www.cnn.com/2022/02/23/europe/ukraine-government-commercial-organizations-data-wiping-hack/index.html
+8,85f48909-b2aa-43ae-8dd5-ae6060348bc0,[],,,https://www.janes.com/defence-news/news-detail/behind-the-veil-information-warfare-in-ukraine-paves-a-shadowy-path-to-war

@@ -1,0 +1,212 @@
+,uid,article_author,article_date,article_text,article_url
+0,11234b74-aaa7-4a4e-a762-b7ec7e77a56a,[],,"JavaScript is not available.
+
+We’ve detected that JavaScript is disabled in this browser. Please enable JavaScript or switch to a supported browser to continue using twitter.com. You can see a list of supported browsers in our Help Center.
+
+Help Center",https://twitter.com/mrsorokaa/status/1496615097262911493
+1,11234b74-aaa7-4a4e-a762-b7ec7e77a56a,[],2022-02-24 11:44:35+00:00,"Ukraine has been hit by significant internet outages after a series of cyber attacks on its Government, banks and public authority websites in what the country has called “another act of cyber-aggression against Ukraine”.
+
+Internet access in Kharkiv, the country’s second-largest city around 25 miles from the Russian border, was disrupted shortly after loud explosions were heard in the early hours of Thursday as Russia announced its military mobilisation.
+
+Citizens reported disruption to their fixed-line service, while mobile connectivity remained uninterrupted, according to internet monitor Netblocks, which also observed an interruption to internet connectivity in the city of Donetsk following reports of increased military activity on Wednesday evening.
+
+Internet providers serving eastern Ukraine via Crimea and Russia experienced connectivity difficulties over the weekend, with provider Lugacom warning customers of potential disruption to its mobile service in the region.
+
+‘Unambiguously’ Russian-linked cyber attacks intensify
+
+The State Service of Special Communication and Information Protection of Ukraine confirmed that websites belonging to the Cabinet of Ministers of Ukraine, the Verkhovna Rada, the Ministry of Foreign Affairs, the Security Service of Ukraine were among those targeted by cyber attacks on Wednesday.
+
+While DDoS (distributed denial-of-service) attacks – which overwhelm services, servers or networks with an influx of traffic – have been targeting the country continuously since 15 February, they intensified on Wednesday, it said.
+
+“At the same time, phishing attacks on public authorities and critical infrastructure, the spread of malicious software, as well as attempts to penetrate private and public sector networks and further destructive actions have intensified,” it said.
+
+“Today’s cyberattacks no longer even require detailed technical attribution. Attackers, without much hiding, use bot networks for phishing and DDoS attacks, which our special services unambiguously identify as connected with the secret services of the aggressor country.”
+
+The Ukrainian government urged organisations to isolate all workstations and servers that aren’t critical to their operation, to update systems and software to patch software vulnerabilities and to immediately back up important information to external storage to avoid further disruption.
+
+The websites of Oschadbank, Ukraine’s state savings bank, and PrivatBank, the country’s largest commercial bank, were also knocked offline on Wednesday.
+
+Mobile networks struggle with demand
+
+Kyivstar, Ukraine’s largest mobile network, said its network was currently struggling to cope with the volume of use as many Ukrainians flee their homes, cautioning that customers may experience difficulty connecting calls.
+
+“Our team is doing everything possible to ensure that our network continues to operate normally,” it tweeted.
+
+“The network is currently under heavy load. Because of this, calls may not be made for the first time. Keep calm! We are with you!”
+
+Vodafone, which operates in Ukraine, said that rumours of possible disconnections from mobile communications and the internet were untrue, clarifying that mobile operators and providers would continue to provide services under their emergency management modes.
+
+“Please note that there may be communication interruptions. This is primarily due to the fact that the networks are congested,” it tweeted,
+
+“Please make phone calls and exchange messages if necessary. If you cannot make a call, exchange SMS messages.”",https://inews.co.uk/news/technology/ukraine-internet-outages-cyber-attacks-russia-invasion-1479917
+2,11234b74-aaa7-4a4e-a762-b7ec7e77a56a,[],,"For many of the residents of Ukraine’s second-largest city, Kharkiv, who woke in the early hours of Thursday morning to Russia’s invasion, their first instinct would have been to call or send messages to family members. But a significant portion couldn't. They didn't have internet access.
+
+That’s according to NetBlocks, a digital advocacy group that tracks internet outages across the globe. “Network data from NetBlocks confirm a significant disruption to internet service in Kharkiv, Ukraine’s second-largest city,” the group wrote on its website Thursday morning.
+
+Advertisement
+
+According to an accompanying graph, up to 25% of internet users were impacted in Kharkiv and the surrounding region, which has a population of around 1.8 million people.
+
+Internet outages now accompany almost every conflict that happens around the world, but typically these blackouts come during civil unrest, especially in places where an authoritarian leader has the power to unilaterally switch off access to the internet for a whole country. This happened in Belarus last year when President Alexander Lukashenko cut off access to the internet after widespread protests over the controversial election that Lukashenko won in a landslide.
+
+But this is not the case in Ukraine, as Russian President Vladimir Putin cannot simply pull the plug and take the country offline. However, there are still several things Russia can do to disrupt internet access—like blowing up power grids or attacking internet infrastructure like cell towers—as part of its wider disinformation campaign to create confusion and chaos online about what’s happening on the ground.
+
+“If Russia is intent on switching off Ukraine as a nation, it would have to go for the providers and it would have to go for a means of disconnecting those other international connections; this would have to be done either kinetically by attacking telecoms infrastructure or through sabotage or internal connections, or indeed cyberattacks if it has that capability,” NetBlocks director Alp Toker told VICE News.
+
+Advertisement
+
+Toker says it’s still unclear what caused the outage in Kharkiv on Thursday morning, but the timing of it – coming at the onset of the attacks on the city – suggests there was a connection.
+
+“We don’t have a root cause, but we are looking at possibly the impact of power outages or kinetic impact from the shelling, given the timing of the disruptions,” Toker said.
+
+But kinetic attacks on power stations or cell towers are just one way Russia could bring down Ukraine’s internet access, and in the days leading up to Thursday’s invasion, there was evidence that Moscow was already testing out these techniques.
+
+Last Thursday, for instance, there was a large outage in the east of the country, with NetBlocks reporting “a multi-hour loss of connectivity on infrastructure used by the Vodafone mobile network, corroborating user reports of loss of cellular service in Luhansk and Donetsk.”
+
+A day later, Anton Gerashchenko, an adviser to Ukraine’s minister of the interior, posted images of a severed internet cable to his Facebook page, commenting: “Tonight, purposeful diversions were made on the lines of communication of the Vodafone operator in Luhansk and Donetsk regions.""
+
+Then, hours before the physical invasion took place, Ukrainian financial and government websites were hit with a crippling cyberattack, which the UK and U.S. quickly blamed on Russia. Toker said that by Thursday morning those attacks had mostly fizzled out and that “banks and government sites are mostly accessible again.”
+
+Advertisement
+
+In a Telegram post this morning, Ukraine’s digital transformation minister Mykhaylo Fedorov said cyberattacks were ongoing, though “everything is stable,” Forbes reported.
+
+But these incidents show just how vulnerable internet infrastructure can be, and fears of a more widespread outage are “legitimate,” Toker said.
+
+“It is legitimate to be concerned about connectivity in times of conflict. There can be attacks from the aggressor. These could be in the form of cyberattacks or physical attacks—sabotage on infrastructure—particularly keeping in mind that there are sympathizers within Ukraine who may see this as a way of supporting the Russian advance.”
+
+Ukraine has a fairly diverse internet infrastructure, Toker said, with connections to networks in multiple neighboring countries, meaning there is no single point of vulnerability that Russia could attack to take Ukraine offline.
+
+But one possible point of weakness is the fact that Russia itself supplies internet connectivity to eastern parts of Ukraine, including the occupied territories and Crimea—so if it really wanted to, it could disconnect a significant number of Ukrainians with the flick of a switch.
+
+The chances of this happening are slim, Toker said, given the impact such action would have on Russia’s own citizens.
+
+Advertisement
+
+“There’s a double-edged sword here, because if Russia seeks to disconnect parts of Ukraine through the Moscow [internet service provider], then that is going to cut off its own people,” Toker said. “And it’s going to affect its own controlled territories more than it’s going to affect central or western Ukraine or Kyiv, by the sheer fact that those areas are connected to European and Western providers as well.”
+
+In recent days, Russia’s amateurish and slapdash efforts at spreading disinformation about Ukrainian attacks on its troops and positions have been debunked in real time, thanks in part to the presence of journalists and civilians on the front lines who have been able to upload verified images and videos of what’s happening on the ground.
+
+As Russian troops cross the border into Ukraine, they may seek to keep their movements and positions as secret as possible, and to do that, Russia may seek to target larger-scale network disruption.
+
+“If military columns start to move towards Kyiv, then that could be another point where telecommunications at national scale are at risk because obviously there's the risk for Russia that user-generated content could reveal key positions or confidential positions of military installations and movements,” Toker said.
+
+Advertisement
+
+“Then, there will be an actual incentive to jam or restrict or disconnect connectivity at a larger scale.”
+
+Along with the threat from shelling and bombing, disruption to power grids, insider threats, and cyberattacks emanating from Moscow, it’s possible employees at cell providers and other internet service providers, like employees at many companies in Ukraine, will not show up to work in the coming days out of fear for their safety.
+
+Another concern is that subscribers may be cut off if they fail to pay their bills or top up their accounts because of the disruption caused by the invasion. On Thursday morning, the State Service of Special Communications and Information Protection of Ukraine called on operators “not to disconnect subscribers in case of a lack of funds on their accounts.”
+
+Regardless, it now seems a matter of when, rather than if, further internet disruption happens in Ukraine in the coming days.
+
+“All of this can contribute to the fog of war,” Toker said. “We think that loss of connectivity and services are inevitable to some degree, whether that becomes a blackout of connectivity really remains to be seen, because that would be almost unprecedented at the scale of Ukraine. But then, there are a lot of unprecedented things going on right now.”",https://www.vice.com/en/article/qjbx8m/russian-invasion-ukraine-internet-down
+3,11234b74-aaa7-4a4e-a762-b7ec7e77a56a,['Author'],,"What is the problem?
+
+During the military activities, the enemy primarily paralyzes the means of communication. So far this has not happened in Kyiv, but now it is impossible to deny the possibility that this will not happen.
+
+So, we've compiled a list of mobile apps that you need to download in advance so you don't lose each other.
+
+What is the solution?
+
+MATRIX
+
+This is an encrypted chat server that operates on the ISP's local network. Powered by your ISP. You will be able to exchange messages with family and friends in case the Internet disappears. Share with friends and family, create private rooms for messaging. When configuring, use the following home server name: https://matrix.kyiv.dcomm.net.ua.
+
+Download to desktop
+
+Download to smartphone
+
+BRIDGEFY
+
+This is a mobile application that allows you to exchange text messages via Bluetooth at a distance of up to 100 meters from each other. In order to register in the application, you need a stable Internet. However, in the App Store, the ratings of the application are quite low. Users complain that the application does not always work, so it is better to reinsure and download several applications.
+
+Download to AppStore and Google Play
+
+TWO WAY: WALKIE TALKIE
+
+This application allows you to use your phone as a walkie-talkie. He does not ask for registration and logins. At the same time, all channels for communication are public. You can select any channel number and connect to users in that channel.
+
+Download to AppStore and Google Play
+
+BRIAR
+
+This is a messaging app that is only available for Android. It can start working offline, you only need to download it in advance to use it
+
+Download Google Play
+
+SIGNAL
+
+It is an application for secure text and voice messaging as well as video calls. Messages in it are delivered quickly, even in slow networks, but not in the complete absence of the Internet.
+
+Download to AppStore and Google Pla
+
+APPLE RADIO
+
+Suitable for Apple Watch users. Wherever you are, you can use the Walkie Talkie app to connect with another Apple Watch user. It works the same as a walkie-talkie: click on the walkie-talkie icon when you speak and release to get an answer. However, the application will require either Wi-Fi or a mobile connection.
+
+Download to AppStore",https://rubryka.com/en/article/yakshho-znykne-internet-ta-mobilnyj-zv-yazok-yakymy-dodatkamy-korystuvatysya/
+4,11234b74-aaa7-4a4e-a762-b7ec7e77a56a,[],2022-02-24 00:00:00,"Social media companies are already under pressure from politicians in both the U.S. and Europe who argue that falsehoods ranging from Covid treatments to voting fraud — and misinformation, more generally — provide justification to curtail the industry’s liability protections, break the large tech companies up or otherwise rein them in by demanding more transparency about their operations.
+
+Now, the conflict in Ukraine is fast becoming a proving ground over pledges these firms have made to clamp down on disinformation, especially given their insistence they now have a playbook that works.
+
+But plenty of disinformation is still getting through.
+
+Russia’s top five international state-backed media outlets have used Facebook and Twitter to share debunked reports claiming that the Ukrainian military had committed unprovoked attacks on Russian-allied forces. They also suggested NATO countries would carry out so-called false flag chemical weapons attacks in Ukraine’s breakaway republics to tarnish Russia’s reputation.
+
+Over the last seven days, these outlets garnered up 4 million engagements — likes, shares and comments — on their Facebook posts. During the same period, Fox News’ main Facebook page received 3.8 million engagements.
+
+“We see that there are many, many attempts to blame Ukraine for killing civilians, saying that the Ukrainian army is trying to attack,” said Liubov Tsybulska, founder of Ukraine’s Center for Strategic Communication, which tracks so-called hybrid threats of both cyber attacks and disinformation.
+
+“Propaganda activities have intensified largely for the last few weeks,” said Tsybulska, who now advises the Ukrainian strategic communications center.
+
+Lawmakers in the U.S. and Europe are paying attention, with new online content rules almost complete in Europe and American lawmakers increasingly questioning whether social media companies are doing enough to protect people online.
+
+“It is deeply concerning that pro-Russia disinformation is reported to have more than doubled in the region in recent weeks,” said Rep. Adam Schiff (D-Calif.), chair of the House Intelligence Committee, referring to U.K. foreign minister Liz Truss’ statements at the Munich Security Conference. “Social media companies must quickly expand efforts to detect Russian falsehoods and prevent their platforms from being exploited in the conflict.”
+
+Rep. Adam Schiff (D-Calif.) speaks during a hearing at the Cannon House Office Building in Washington, D.C. | Chip Somodevilla/Getty Images
+
+Falsehoods are also circulating on smaller platforms like Telegram, the encrypted messaging service, where Russian and Ukrainian channels routinely share debunked claims about the Kyiv regime. But Telegram — which did not respond to a request for comment — does not have the same reach, in terms of overall users, as the mainstream platforms.
+
+Facebook, YouTube,Twitter and TikTok have invested billions of dollars over the past four years to improve algorithms that flag problematic posts and to hire thousands of contractors to scour the networks in search of harmful content.
+
+They also have taken specific actions against state media from authoritarian regimes, including those from Russia. That involves adding labels to the outlets’ Twitter accounts, YouTube channels and Facebook pages to inform readers about who’s behind such content.
+
+The Eastern European conflict is putting those protocols to the test.
+
+Twitter spokesperson Paolo Ganino said its safety and integrity teams were watching for risks associated with conflicts in the region. TikTok spokesperson Sara Mosavi said the video-sharing platform was removing content that promotes violence or harmful misinformation, though she did not give specifics on the type of material the company had removed.
+
+Françoise Ballet-Blu, a French lawmaker, said via Twitter that one of her Ukrainian-focused TikTok videos had been removed, mistakenly, for breaking the platform’s content rules. TikTok did not respond when reached for comment.
+
+YouTube said its teams were watching for so-called false flag operations, deceptive practices, hacking, phishing and incitement to violence. As of Wednesday, the company said it had not detected a “meaningful increase” of coordinated influence operations tied to Russian-linked misinformation about Ukraine.
+
+Despite these efforts, a team within the EU’s diplomatic service that tracks Russian disinformation said it had seen a major increase in Kremlin-backed online disinformation since late January. That includes false narratives accusing Kyiv of conducting chemical attacks on the breakaway republics and how Moscow had entered those disputed regions in a peace-keeping capacity.
+
+By Wednesday, some of the companies announced new actions as the signs of an imminent invasion increased.
+
+YouTube banned a channel owned by Donetsk separatist leader Denis Pushilin for breaking its community standards.
+
+Meta, Facebook’s parent company, said in a statement Thursday it had formed a new unit — created during times of conflict — to respond to potential issues across its platforms staffed with Ukrainian and Russian-speaking experts who could quickly respond to content violations, though did not immediately respond when asked about potential next restrictions on Russian state media outlets. Meta had created a similar unit in response to the Afghanistan conflict in August 2021.
+
+The company also now allows Ukrainians to lock their Facebook profiles to combat potential cyberattacks, company spokesperson Toby Partlett said.
+
+Still, those steps are small compared with the waves of Ukraine-related disinformation circulating online.
+
+Unattributed videos and photos spreading on the platforms after Russia’s invasion Thursday falsely claimed to be footage of the Russian invasion. One such image showed fighter planes, with 200,000 views on Twitter, was actually from a 2020 airshow. Another — now removed on Twitter, but viewed over 300,000 times — was from a video game “War Thunder,” according to analysis from FirstDraftNews, a nonprofit that tracks disinformation.
+
+Russian-linked disinformation posts on Facebook could become particularly problematic for the company, given documents leaked by Facebook whistleblower Frances Haugen last year that suggested that misinformation in Ukraine had not been a priority for the company.
+
+An undated, leaked document titled “Country Prioritization for 2021” ranked countries from level Tier 1 to Tier 3 for the type of internal content moderation and monitoring the company offered to protect local users. While Russia was in the highest bracket, Ukraine did not appear in any of the tiers within the document. Meta declined to comment when asked if Ukraine was now on its internal priority list.
+
+More broadly, the tech companies have not been transparent about real-time actions they’ve taken to dispel Russian state-run disinformation, according to Jesse Lehrich, co-founder of Accountable Tech, a watchdog group, and former spokesperson for Hillary Clinton.
+
+“We don’t really know the extent to which they’ve changed internal policies or treatments, or if they’re making new interventions, and what those interventions are,” he said.
+
+As disinformation continues to spread on the platforms, Meta indicated on Wednesday it’s beginning to comply with Russia’s new “foreign IT company” requirements that it register with Russia’s communications regulator — a move that had been months in the making.
+
+Western governments are taking increasingly harsh measures to block Russian disinformation. The European Union imposed sanctions Wednesday, for instance, on Margarita Simonyan, the head of RT’s English-language division, as well as on Yevgeny Prigozhin and the Internet Research Agency, the St. Petersburg-based “troll factory” that he bankrolls.
+
+A senior EU official, speaking on the condition of anonymity to discuss sensitive internal deliberations, said there was an “astonishing” level of coordination between the Kremlin disinformation networks and Russian state media—including the dissemination of propaganda through social media.
+
+When it comes to the Russian invasion into Ukraine, “information warfare has been front and center in creating the pretext for this invasion and continues to be a major, major piece of the Kremlin operation,” said Accountable Tech’s Lehrich.",https://www.politico.com/news/2022/02/24/social-media-platforms-russia-ukraine-disinformation-00011559

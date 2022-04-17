@@ -1,0 +1,791 @@
+,uid,article_author,article_date,article_text,article_url
+0,22b85223-8980-4be3-8a00-c414cfea98eb,['Searchresult.Author.Name'],2022-02-25 03:13:00+00:00,"As the crisis in Europe over Ukraine heats up, the Atlantic Council’s Digital Forensic Research Lab (DFRLab) is keeping a close eye on Russia’s movements across the military, cyber, and information domains. With more than five years of experience monitoring the situation in Ukraine, as well as Russia’s use of propaganda and disinformation to undermine the United States, NATO, and the European Union, DFRLab’s global team presents the latest installment of the Russian Hybrid War Report.
+
+Belarus enters the conflict after crossing Ukraine’s northern border
+
+Ukraine government and civil society websites targeted by cyberattacks prior to invasion
+
+Ukraine reports OSCE cars used as shields for Russian tanks
+
+Twitter says ‘human error’ caused researcher accounts to be suspended
+
+Putin’s United Russia party suspected of initiating online flash mob to support separatist independence
+
+Georgian breakaway region South Ossetia announces combat alert
+
+Russia and Azerbaijan sign declaration on allied cooperation, consider military support
+
+Ukrainian Defense Minister calls on all Ukrainians to mobilize
+
+Baltic countries and Poland invoke NATO’s Article 4
+
+OSINT researchers debate when Putin recorded his war declaration
+
+Facebook restricts Russian state-owned TV channel for 90 days
+
+Sudanese paramilitary leader arrives in Moscow
+
+Russia’s communications regulator warns Russian media to cite only “official Russian sources”
+
+Venezuela aligns with Russian narrative in Telegram and Twitter broadcasting
+
+Belarus enters the conflict after crossing Ukraine’s northern border
+
+Not long after dawn on February 24, tanks were recorded moving into Ukrainian territory from southwestern Belarus, crossing over at the Senkivka checkpoint. Tanks, infantry fighting vehicles, and Russian heavy flamethrower systems can be identified in the videos. Videos showing missiles being launched from the Mogilev area towards Ukraine have also surfaced, yet have not been specifically geolocated as of now. CNN and Newsweek reported that Belarusian troops are also taking part in the attack against Ukraine, despite previous insistence from Belarusian leader Alyaksandr Lukashenka that Belarus would not participate in any military action against the country.
+
+In an urgent meeting with Russian President Vladimir Putin, Lukashenka announced that they had agreed to keep Russian troops stationed in Belarus. Lukashenka previously denied that Belarusian troops would take part in the Ukrainian invasion. He also proclaimed that Ukraine is losing the war and offered to host talks in Minsk.
+
+New Maxar satellite imagery released the day before the attack showed Russian military deployment changes on February 21 and 22. The new images revealed Russia had deployed more than one hundred vehicles and dozens of troop shelters at Bolshoi Bokov airfield in southern Belarus, near the city of Mazyr. This new deployment is less than twenty kilometers from the Ukrainian border. The same set of new images also documented ground being cleared southwest of Belgorod, Russia, in the general vicinity of where Russia later began its attack on Kharkiv.
+
+That same day, the Ukrainian State Border Guard Service announced the implementation of a number of security measures along its borders with Russia and Belarus. The new measures included limiting vehicle traffic; using radio stations, drones, and filming and taking pictures; as well as keeping non-residents away from the border zone. Meanwhile, Belarusian opposition leader Sviatlana Tsikhanouskaya urged Western countries to impose tougher sanctions on both Russia and Belarus to deter them from further aggression. According to her, the current sanctions packages are not enough, as Russia and Belarus are not showing any responsiveness to them.
+
+Viktor Gulevich, head of the Belarusian army, previously stated on February 21 that the withdrawal of Russian troops from Belarus would depend on regional NATO troop withdrawals. According to Reuters reporting, Gulevich said Minsk believed it was within its rights to demand that US and NATO member forces withdraw from near Belarusian borders, including from near borders with neighboring countries Poland, Latvia, and Lithuania.
+
+Lastly, new footage has surfaced of Russian Ka-52 Alligator and Mi-24P combat helicopters in the Gomel region of Southeastern Belarus, potentially near the R-35 highway; however, this video has not yet been geolocated. Additional as-yet-unverified videos suggest that the southern Belarusian border where Russian troops are stationed is becoming more muddy, which might impact the tactical capabilities of Russian ground troops in the region.
+
+—Lukas Andriukaitis, Associate Director, Brussels, Belgium
+
+Ukraine government and civil society websites targeted by cyberattacks prior to invasion
+
+A pair of cyberattacks targeted Ukrainian banks and government websites during the twenty-four hours leading up to the Russian invasion. Targets included the web pages for the Ukrainian parliament, Ministry of Foreign Affairs (MFA), and Cabinet of Ministers.
+
+According to the internet monitoring website IsItDownRightNow.com, the websites for the MFA and Cabinet of Ministers were temporarily taken offline on Wednesday. Over several hours, the DFRLab also observed that Ukraine’s security services website would only partially load.
+
+Mykhailo Fedorov, Ukraine’s Minister of Digital Transformation, confirmed a large-scale distributed denial-of-service (DDoS) attack had occurred. He claimed that unknown actors attacked Ukrainian banks, state servicer provider Diia, and the websites for the Ukrainian parliament, the MFA, and the Cabinet of Ministers. Fortunately, many of the services continued working despite the ongoing attack.
+
+Fedorov confirmed that cyberattacks continued throughout the night and were ongoing. He claimed that all information sources in Ukraine were under attack, but assured citizens that the situation was under control. As of Thursday morning, the websites were accessible from Ukraine.
+
+Meanwhile, open-source research collective InformNapalm also reported a DDoS attack on their webpage. A similar attack was directed at Censor.net, a popular Ukrainian online media outlet. The organizations successfully defended against the attacks and webpage performance was not impacted.
+
+Lastly, cybersecurity firms Symantec and ESET said they had discovered a new destructive malware wiping data from Ukrainian machines.
+
+—Roman Osadchuk, Research Associate
+
+Ukraine reports OSCE cars used as shields for Russian tanks
+
+On February 24, the State Border Guard Service of Ukraine reported that columns of Russian tanks entered the Luhansk region of Eastern Ukraine through Krasna Talivka, Milove, and Horodyshche. According to the Border Guard, the columns were led by white cars bearing the logo for the Organization for Security and Co-operation in Europe (OSCE), which has monitored the conflict on a daily basis for years.
+
+The OSCE previously announced on February 13 that it was pulling out its staff from eastern Ukraine. At the time, Kremlin outlet RT reported that OSCE had evacuated their car fleet but left behind armored vehicles.
+
+At the time of writing, the OSCE had not commented on the matter and the DFRLab cannot independently confirm whether the OSCE vehicles allegedly being used by Russia are authentic or were Russian vehicles with OSCE logos affixed to them.
+
+—Roman Osadchuk, Research Associate
+
+Twitter says ‘human error’ caused researcher accounts to be suspended
+
+Twitter cited “human error” after suspending the accounts of several open-source researchers on Wednesday. The social media company dismissed rumors that the removals were the result of a mass reporting campaign. “A small number of human errors as part of our work to proactively address manipulated media resulted in these incorrect enforcements,” said Yoel Roth, head of site integrity at Twitter. “We’re fixing the issue and reaching out directly to the affected folks.”
+
+Bellingcat analyst Nick Waters published a thread listing more than a dozen legitimate accounts that Twitter had suspended. Those with suspended accounts included Roman Burko, the founder of the open-source research collective InformNapalm; Kyle Glen, OSINT researcher and cofounder of Conflict News; Serhii Sternenko, a Ukrainian right-leaning activist from Odesa; and Maria Avdeeva, research director at the European Expert Association. By Thursday, all of the accounts cited by Waters except @ukrwarreport had been restored.
+
+—Nika Aleksejeva, DFRLab Lead Researcher, Riga, Latvia
+
+Putin’s United Russia party suspected of initiating online flash mob to support separatist independence
+
+Shortly after Putin recognized the independence of the Donetsk and Luhansk peoples republics on February 21, a pro-Russia online flash mob began tweeting using the hashtags #СвоихНеБросаем (#WeDoNotAbandonOurPeople) and #МыВместе (#WeAreTogether). The campaign expressed support for people living in Donetsk and Luhansk, alleging that they are suffering under Ukrainian Armed Forces. The Twitter campaign created the impression that there is public support for Putin’s decision.
+
+Open-source evidence suggests Putin’s United Russia party could have initiated the flash mob. United Russia started using the #СвоихНеБросаем hashtag on February 20, the day before the Putin’s announcement, calling on its audience to give humanitarian assistance to people evacuated from Donbas to Rostov Oblast. Later, United Russia continued to use the hashtag for other purposes.
+
+The DFRLab analyzed the hashtags on Twitter and found 59 percent of the mentions were original tweets (1005 out of 1709). Each tweet received an average of 26.4 engagements, suggesting the campaign failed to go viral. The most popular tweet had 223 engagements.
+
+Analyzing the hashtags on Facebook using the monitoring tool CrowdTangle, the DFRLab found that the most engaged–with content came from United Russia accounts or the accounts of their prominent members. The highest number of engagements a post received was 1,300 reactions, 140 comments and 124 shares, which is not considered particularly high. A CrowdTangle query identified 202 posts on Facebook pages, public groups, and verified profiles that received an average of 39 engagements. Meanwhile, a CrowdTangle analysis of Instagram found that 509 posts have used the hashtag since February 20, receiving an average of 720 engagements.
+
+The DFRLab found the hashtag was also used on other social media platforms, such as VKontakte, Odnoklassniki, and Telegram, but has yet to determine their levels of engagement.
+
+—Nika Aleksejeva, DFRLab Lead Researcher, Riga, Latvia
+
+Georgian breakaway region South Ossetia announces combat alert
+
+Anatoly Bibilov, president of the Georgian breakaway region of South Ossetia, announced a “combat alert” after an emergency security council meeting on Thursday. According to Bibilov, all units of the Ministry of Defense “must be ready to advance to concentration points.” Bibilov also ordered full cooperation with the Russian military base in the region. He cited the Treaty of Alliance and Integration between South Ossetia and Russia, signed in 2015, when reiterating South Ossetia’s “full support” for Russia’s actions.
+
+Bibilov also said security forces were monitoring the situation along the Georgian border “to ensure readiness to respond to all provocations potentially originating from Georgia.”
+
+—Sopo Gelava, Research Associate, Tbilisi, Georgia
+
+Russia and Azerbaijan sign declaration on allied cooperation, consider military support
+
+On February 22 in Moscow, Azerbaijan President Ilham Aliev and Vladimir Putin signed a declaration regarding allied cooperation. Azerbaijan’s state information agency Azertag published a Russian version of the declaration, which reiterated cooperation between the two states in different fields, including the economy, energy, transportation, trade, health, and education.
+
+Notably, three sections of the declaration mention military cooperation between Azerbaijan and Russia:
+
+Paragraph 11 of the declaration states that Russia and Azerbaijan will suppress activities of organizations and entities on their territory, targeting the sovereignty, independence, and territorial integrity of each party.
+
+According to paragraph 13, “The parties will deepen cooperation between the armed forces of the Russian Federation and the Republic of Azerbaijan, including holding joint operational and combat trainings, as well as developing other areas of bilateral military cooperation.”
+
+Lastly, in paragraph 16, they state, “In order to ensure security, maintain peace and stability, the Russian Federation and the Republic of Azerbaijan may consider the possibility of providing each other with military support on the basis of the UN Charter, different international agreements and considering the existing international-legal obligations of each party.”
+
+—Sopo Gelava, Research Associate, Tbilisi, Georgia
+
+Ukrainian Defense Minister calls on all Ukrainians to mobilize
+
+Ukraine’s Minister of Defense Oleksiy Reznikov called on all Ukrainians “who are ready and able to hold a weapon” to mobilize. According to a statement posted on Facebook early Thursday morning, Ukraine has entered “total defense mode.” Reznikov said all that is required to join the ranks of the armed forces is a passport. “The enemy is attacking, but our army is indestructible,” he added.
+
+Following the defense minister’s statement, Ukrainian President Volodymyr Zelenskyy tweeted a similar statement: “We will give weapons to anyone who wants to defend the country. Be ready to support Ukraine in the squares of our cities.”
+
+Also Thursday, Ukraine banned all male citizens between the ages of 18 and 60 from leaving the country. “This regulation will remain in effect for the period of the legal regime of martial law,” the State Border Guard Service said.
+
+—Eto Buziashvili, Research Associate, Tbilisi, Georgia
+
+Baltic countries and Poland invoke NATO’s Article 4
+
+Lithuania, Latvia, Estonia, and Poland invoked Article 4 of NATO’s founding treaty Thursday, triggering consultations with Alliance members. Article 4 states that “the Parties will consult together whenever, in the opinion of any of them, the territorial integrity, political independence or security of any of the Parties is threatened.”
+
+Following initial consultations, NATO issued a statement saying “we have decided, in line with our defensive planning to protect all allies, to take additional steps to further strengthen deterrence and defense across the alliance.”
+
+This comes as NATO held an emergency meeting to discuss Russia’s assault on Ukraine. NATO Secretary-General Jens Stoltenberg stated that Russia’s attack on Ukraine “is a grave breach of international law, and a serious threat to Euro-Atlantic security.”
+
+—Eto Buziashvili, Research Associate, Tbilisi, Georgia
+
+OSINT researchers debate when Putin recorded his war declaration
+
+On February 24, the official website of the Russian presidency published a video in which Vladimir Putin effectively declared war on Ukraine, announcing that he was ordering the Russian armed forces to conduct a special military operation in Ukraine in accordance with Article 51 of United Nations Charter and in pursuance of the treaties of friendship and mutual assistance with the self-proclaimed Donetsk People’s Republic and the Luhansk People’s Republic.
+
+After the video’s release, Russian independent media outlet Novaya Gazeta wrote on Facebook and Twitter that the speech had been recorded on February 21, based on an analysis of the recording’s metadata. The story was quickly picked up by the Russian edition of Delfi Estonia media outlet on Facebook, by Ekho Moskvy on Twitter, and Turkish state-controlled media TRT’s Russian language Facebook page.
+
+However, CNN journalist Gianluca Mezzo wrote that when he checked the metadata of Putin’s video, he concluded that it was recorded on February 24 at 03:35:44. He also published a screenshot of metadata info of a file from the website metadata2go.com.
+
+The DFRLab team could not download a video from Kremlin’s website to independently verify its metadata; at the time of writing, Kremlin.ru was no longer functional.
+
+—Givi Gigitashvili, DFRLab Research Associate, Warsaw, Poland
+
+Facebook restricts Russian state-owned TV channel for 90 days
+
+Facebook restricted the page of Zvezda TV, the Russian state-owned TV channel run by Russia’s Ministry of Defense. Zvezda published a screenshot of a restriction notice from Facebook on its website, saying that the page is restricted from the platform for ninety days for “repeatedly publishing false information.”
+
+StopFake, the Ukrainian fact-checking organization, had previously flagged two publications from Zvezda on Facebook as false information. The first article claimed that Russia had already suppressed the air-defense forces of Ukraine, while the second reported that Ukrainian military border guard units did not resist Russian forces.
+
+—Sopo Gelava, Research Associate, Tbilisi, Georgia
+
+Sudanese paramilitary leader arrives in Moscow
+
+The commander of Sudan’s Rapid Support Forces (RSF), General Mohamed Hamdan Dagalo, commonly known as “Hemedti,” arrived in Moscow for bilateral talks with senior Russian government officials on February 23. According to the RSF Twitter account, Dagalo will act in his capacity as deputy head of the military-led ruling council, leading a delegation of ministers. Dagalo and the RSF led a military coup in Sudan last October, which has seen sustained violent protests over the last four months.
+
+According to VOA News, Sudanese Foreign Ministry spokesperson Khalid Farah said, “This visit was scheduled ahead and has nothing whatsoever to do with what is happening in Ukraine.” Similarly, Dagalo tweeted in Arabic that he hopes the trip will “advance relations between Sudan and Russia to broader horizons and strengthen the existing cooperation” between the two countries.
+
+The DFRLab previously uncovered a network of inauthentic accounts with links to the Internet Research Agency that worked to amplify pro-Russian content in Sudan, promoting Russia as a friend to the Sudanese people.
+
+—Tessa Knight, DFRLab Research Associate, Cape Town, South Africa
+
+Russia’s communications regulator warns Russian media to cite only “official Russian sources”
+
+Roskomnadzor, Russia’s communications regulator, issued a statement warning the media and online outlets against spreading “unverified information.” Roskomnadzor referred to Article 49 of Russia’s Mass Media Law, which obliges editors to verify the authenticity of their reporting prior to publishing it.
+
+According to Roskomnadzor, “When preparing their materials and publications related to the conduct of a special operation in connection with the situation in the Lugansk People’s Republic and the Donetsk People’s Republic, they are obliged to use information and data obtained from official Russian sources.”
+
+Roskomnadzor also noted, “The dissemination of knowingly false information entails liability under Article 13.15 of the Code of Administrative Offenses of the Russian Federation in the form of an administrative fine in the amount of up to 5 million rubles.” The statement warned that failure to follow this law would result in “immediate blocking of such materials by Roskomnadzor in accordance with Article 15.3 of Federal Law No. 149-FZ, ‘On Information, Information Technologies, and Information Protection.’”
+
+—Eto Buziashvili, Research Associate, Tbilisi, Georgia
+
+Venezuela aligns with Russian narrative in Telegram and Twitter broadcasting
+
+The official Telegram channel of Venezuela’s government-owned TV network posted a news update about Russia’s invasion of Ukraine, written in alignment with Kremlin messaging. The post stated, “Russia launches special operation to demilitarize and denazify Ukraine. Last Monday, after recognizing the independence of Donetsk and Luhansk, President Vladimir Putin announced the dispatch of Russian troops with the aim of demilitarizing and denazifying the regions.”
+
+The post by the Venezuelan government TV network also aligned with President Nicolas Maduro’s February 22 Twitter broadcast, in which he stated, “The Bolivarian Revolution is with Russia…. We know that Putin is defending the right to peace and dignity of the Russian people and the peoples of the world and the world balance.” He continued, “Imperialism and NATO have tried to bury diplomatic agreements based on international law to disrespect Russia. Patiently, President Putin has raised the breach of these agreements and the danger that NATO deploys its weapons offensive, including its atomic weapons aimed at Russia.”
+
+—Iria Puyosa, DFRLab Visiting Fellow, Ann Arbor, Michigan
+
+Further reading
+
+Related Experts: Lukas Andriukaitis, Eto Buziashvili, Givi Gigitashvili, Nika Aleksejeva, Sopo Gelava, Roman Osadchuk, Tessa Knight, and Iria Puyosa
+
+Image: A helicopter flies over troops during the joint military drills of the armed forces of Russia and Belarus at a firing range in the Brest Region, Belarus February 19, 2022. (Photo by Vadim Yakubyonok/Belta/Handout via REUTERS.)",https://www.atlanticcouncil.org/blogs/new-atlanticist/russian-hybrid-war-report-belarus-joins-conflict-against-ukraine/
+1,22b85223-8980-4be3-8a00-c414cfea98eb,[],,"KYIV -- Ukrainian President Volodymyr Zelenskiy has threatened to break off talks with Moscow should Russian forces wipe out the remaining Ukrainian soldiers trapped in Mariupol as Moscow claimed it had taken control of the besieged and battered port city after a weeks-long battle.
+
+The Russian Defense Ministry on April 16 said it had cleared the Mariupol urban area of Ukrainian troops and had trapped a few remaining fighters in the Azovstal steel plant, according to Russian state-run media.
+
+Live Briefing: Russia's Invasion Of Ukraine RFE/RL's Live Briefing gives you all of the major developments on Russia's invasion, how Kyiv is fighting back, the plight of civilians, and Western reaction. For all of RFE/RL's coverage of the war, click here.
+
+A Russian Defense Ministry spokesman was quoted by Russia’s RIA Novosti news agency as saying that Ukrainian forces have lost a total of 4,000 troops during the long fight for the city -- a battle that has caught the world’s attention for its brutality.
+
+Casualty figures from both sides have proved impossible to independently confirm during the conflict, which began with Russia's unprovoked invasion on February 24.
+
+Ukraine has not commented on the latest Russian claims but in recent days has indicated the situation in Mariupol was desperate, with deaths mounting among the trapped civilian population and many experts predicting the city would soon fall to the Russians.
+
+In an interview published earlier on April 16 with Ukrayinska Pravda, Zelenskiy warned Russia against committing atrocities against Ukrainian soldiers in the city.
+
+""The elimination of our troops, of our men [in Mariupol] will put an end to any negotiations,” he said.
+
+""That will bring an impasse as we don't negotiate on either our territories or our people,"" he added.
+
+Peace talks have taken place between the two sides since Russia's invasion began, with little or no progress.
+
+Ukraine says tens of thousands of people are believed to have been killed in Mariupol, a strategic city that has seen some of the worst fighting of the war.
+
+Reports early on April 16 said heavy fighting continued in several parts of Mariupol as Ukrainian troops attempted to fend off Russian soldiers who have been bolstered by reinforcements in recent days.
+
+""The situation is very difficult [in Mariupol],"" Zelenskiy said early in the day. ""Our soldiers are blocked, the wounded are blocked. There is a humanitarian crisis.... Nevertheless, the guys are defending themselves.""
+
+As the battle for the ruins of Mariupol appeared to be near its bloody end, air-raid sirens could be heard in many other parts of Ukraine on April 16, including in Kyiv, after Russia said it would seek revenge on the capital for what it claimed, without evidence, was Ukrainian targeting of Russian border towns.
+
+Kyiv Mayor Vitaliy Klitschko said at least one person was killed and several others wounded in early morning attacks.
+
+""For those Kyivites who left and are already thinking of heading back to return to the capital, I ask you to refrain from this and stay in safer places,"" Klitschko said in a message on his Telegram channel.
+
+Russian troops have faced tougher-than-expected resistance -- both from the Ukrainian military and from ordinary citizens -- forcing them to retreat from areas in the north and to focus on eastern and southern regions of Ukraine, including Mariupol.
+
+In his nightly address to the nation, Zelenskiy said the success of Ukraine's military and that of international sanctions against Russia will determine how long the war will last.
+
+""The success of our military on the battlefield has been really significant. Historically significant. But it's still not enough to clear our land from the invading forces,"" he said.
+
+""The sanctions against Russia are very serious, economically painful. But it is not enough to starve Russia's military machine. We need to promote stronger, more destructive sanctions. This will determine how long this war will last,"" he added.
+
+Russia's warning to inflict more damage on Ukraine came a day after it suffered a symbolic defeat with the loss of its Black Sea fleet flagship, the Moskva, which sank while being towed to port on April 14 after suffering heavy damage under circumstances that remain in dispute.
+
+“The number and the scale of missile attacks on objects in Kyiv will be ramped up in response to the Kyiv nationalist regime committing any terrorist attacks or diversions on the Russian territory,” Russian Defense Ministry spokesman Major General Igor Konashenkov said.
+
+The National Security and Defense Council of Ukraine (RNBO) has rejected Russia’s accusations about the attacks on Russian towns, calling them ""an attempt to ignite anti-Ukraine hysteria in Russia.""
+
+Kyiv did claim, however, to have hit the Moskva with Neptune anti-ship missiles early on April 14, while Russia said a fire broke out on the ship, causing an explosion.
+
+The U.S. military agreed with the Ukrainian version.
+
+""We assess that they hit it with two Neptunes,"" a senior Pentagon official said in a briefing with reporters on April 15, calling it a ""big blow"" for Moscow.
+
+The strikes were believed to have caused casualties, but it was difficult to assess how many, the official said, speaking on condition of anonymity.
+
+The official added that the United States had observed survivors being recovered by other Russian vessels in the area. Russia said the Moskva's crew was evacuated to nearby ships.
+
+Meanwhile, the United States and its Western allies continued to pile pressure on Moscow over its campaign.
+
+The German government said on April 15 that it plans to release more than 1 billion euros in military aid for Ukraine.
+
+
+
+The move comes amid criticism from Ukraine and some EU partners such as Poland and the Baltic states that Germany has not done enough to send armaments to Kyiv.
+
+Russia's Foreign Ministry on April 16 said it was banning British Prime Minister Boris Johnson, Foreign Minister Liz Truss, and several other cabinet ministers over British measures aimed at isolating Moscow and crippling the country's economy.
+
+WATCH: A Ukrainian woman has given RFE/RL a detailed account of how she was raped by a Russian Army soldier. To protect her privacy, we have pixelated her face and we are not disclosing her name. Ukrainian police have been informed of the case.
+
+In Russia, the Federal Security Service (FSB) has asked the government to increase funding for troop funeral services and tombstones.
+
+The FSB asked for a 17 percent increase for funeral services, according to documents recently posted to a government website.
+
+The UN refugee agency said as of April 16 that 4,836,445 million Ukrainians had left the country since the Russian invasion -- up by 40,200 from the previous day’s total.
+
+With reporting by AP and Reuters",https://www.rferl.org/a/lukashenka-belarus-troops-russia-ukraine/31720334.html
+2,22b85223-8980-4be3-8a00-c414cfea98eb,"['Anna Arutunyan', 'Feb.']",2022-02-24 00:00:00,"""Our armed forces are not taking part in this operation,"" said Lukashenko, an ally of Russian President Vladimir Putin. Moscow has stationed tens of thousands of troops in Belarus.
+
+Belarus's leader Alexander Lukashenko said Thursday that his military is not taking part in the Russian invasion of Ukraine, as Kyiv said Moscow's troops were entering the country from Belarusian territory.
+
+Ukraine's border guards said Thursday their country was coming under artillery attack along its northern border with Russia and Belarus.
+
+Minsk said Putin called Lukashenko in the early hours of Thursday — ""at around 5:00 a.m. (0200 GMT) — to inform him that Moscow was launching a military operation on Ukraine.
+
+After meeting his army chiefs, Lukashenko said Putin had informed him about the ""development"" of the situation in the call.
+
+He said the Russian leader told him the ""aim"" of the operation was to ""stop the genocide of the people in the Donetsk and Lugansk republics.""
+
+He also said he had ""personally suggested"" to Putin for ""a number of the Russian armed forces"" to stay in the south of the country despite joint military drills coming to an end.
+
+Putin launched the offensive in the early hours of Thursday, after a surprise televised address.
+
+Russia has tens of thousands of soldiers stationed in Belarus, where it has held military drills.",https://www.themoscowtimes.com/2022/02/24/belarus-says-its-army-not-taking-part-in-ukraine-invasion-a76564
+3,22b85223-8980-4be3-8a00-c414cfea98eb,"['Jessie Yeung', 'Adam Renton', 'Rob Picheta', 'Ed Upright', 'Aditi Sangal', 'Adrienne Vogt', 'Melissa Macaya', 'Maureen Chowdhury']",2022-02-23 05:00:28+00:00,"(from Ukrainian Border Guard)
+
+CNN has witnessed, through a livestream video, troops atop a column of military vehicles entering Ukraine from a border crossing with Belarus.
+
+The livestream video was taken at the Senkivka, Ukraine crossing with Veselovka, Belarus. The column was seen entering Ukraine around 6:48 a.m. local time.
+
+In recent weeks, Russia has amassed a significant number of troops, vehicles and tanks in Belarus near the border with Ukraine. During that time, the two countries have held joint military exercises across the countries, and near the Belarus-Ukrainian border.",https://www.cnn.com/europe/live-news/ukraine-russia-news-02-23-22/h_d115a65e9b6348752422ad427fa83b95
+4,22b85223-8980-4be3-8a00-c414cfea98eb,[],,"Addressing Russians, he said: ""I cannot believe this is being done in your name, or that you really want the pariah status it will bring to the Putin regime."" He told Ukrainians that the UK was ""on your side"".",https://www.bbc.com/news/world-europe-60504334
+5,22b85223-8980-4be3-8a00-c414cfea98eb,"['Natalia Zinets Aleksandar Vasovic', 'Natalia Zinets', 'Aleksandar Vasovic']",2022-02-24 00:00:00,"Summary Putin launches 'special military operation'
+
+UN says 100,000 have fled their homes
+
+U.S., EU, Britain and others impose sweeping sanctions
+
+Russian police arrest 1,600 at anti-war protests
+
+KYIV/MARIUPOL, Ukraine, Feb 24 (Reuters) - Ukrainian forces battled Russian invaders on three sides on Thursday after Moscow unleashed the biggest attack on a European state since World War Two, prompting tens of thousands of people to flee their homes.
+
+After Russian President Vladimir Putin declared war in a pre-dawn televised address, explosions and gunfire were heard through the day in Ukraine's capital and elsewhere in the country, with at least 70 people reported killed.
+
+The assault brought a calamitous end to weeks of fruitless diplomatic efforts by Western leaders to avert war over Russian demands for a redrawing of post-Cold War security arrangements in Europe.
+
+Register now for FREE unlimited access to Reuters.com Register
+
+""This is a premeditated attack,"" U.S. President Joe Biden told reporters at the White House as he unveiled harsh new sanctions, coordinated with allies, against Russian banks, oligarchs and state companies.
+
+""Putin is the aggressor. Putin chose this war. And now he and his country will bear the consequences,"" he said.
+
+In his address, Putin said he had ordered ""a special military operation"" to protect people, including Russian citizens, subjected to ""genocide"" in Ukraine - an accusation the West calls baseless propaganda.
+
+""And for this we will strive for the demilitarisation and denazification of Ukraine,"" Putin said. read more
+
+After nightfall, a picture was emerging of fierce fighting across multiple fronts. President Volodymyr Zelenskiy late on Thursday ordered a general mobilization, to be carried out within 90 days, ""to ensure the defence of the state"".
+
+An adviser to the Ukrainian presidential office said Russian forces had captured the Chernobyl former nuclear power plant, just 90 km (60 miles) north of Kyiv. The plant is along the shortest route from the Ukrainian capital to Belarus, where Moscow has staged troops.
+
+There was also fighting at Hostomel airport, just outside Kyiv, where Russian paratroopers landed. A Ukrainian official later said the airfield had been recaptured, while a senior U.S. defence official said Russian forces were advancing closer to Kyiv.
+
+Heavy exchanges of fire were also reported in the regions of Sumy and Kharkiv in the northeast and Kherson in the south.
+
+The highway heading west out of Kyiv, home to 3 million people, was choked with traffic across five lanes as residents sought to escape, fearful of bombardments while stuck in their cars.
+
+The U.N. refugee agency said an estimated 100,000 Ukrainians had fled their homes. Thousands were crossing into neighbouring countries, including Romania, Moldova, Poland and Hungary. read more
+
+Some 57 people were killed and 169 were wounded on Thursday, Ukraine's health minister said, while the interior ministry said 13 border guards died when a Russian vessel shelled Ukraine's Zmiinyi Island, south of the Black Sea port of Odessa.
+
+'NEW IRON CURTAIN'
+
+The day began with missiles raining down on targets across Ukraine and reports of troops and armour pouring across the borders from Russia and Belarus to the north and east.
+
+Zelenskiy called on Ukrainians to defend their country and said arms would be given to anyone prepared to fight.
+
+""What we have heard today are not just missile blasts, fighting and the rumble of aircraft. This is the sound of a new Iron Curtain, which has come down and is closing Russia off from the civilised world,"" Zelenskiy said.
+
+Putin, after referring earlier in his speech to Russia's powerful nuclear arsenal, warned: ""Whoever tries to hinder us... should know that Russia's response will be immediate. And it will lead you to such consequences that you have never encountered in your history.""
+
+Asked whether that threat was tantamount to threatening Russian use of nuclear weapons, Foreign Minister Jean-Yves Le Drian said it was indeed understood as such, adding that Putin should also understand that NATO was a nuclear alliance.
+
+Biden has ruled out sending U.S. troops to defend Ukraine, but Washington has reinforced its NATO allies in the region with extra troops and planes.
+
+1/19 Ukrainian servicemen are seen next to a destroyed armoured vehicle, which they said belongs to the Russian army, outside Kharkiv, Ukraine February 24, 2022. REUTERS/Maksim Levin Read More
+
+After consulting with the Group of Seven leading industrialised nations, Biden announced measures to impede Russia's ability to do business in the world's major currencies, along with sanctions against banks and state-owned enterprises.
+
+Britain also targeted banks, as well as members of Putin's inner circle. European Union leaders said measures would include freezing Russian assets in the 27-nation bloc. read more
+
+China remained out of step, however, rejecting the description of Russia's actions as an ""invasion"". read more
+
+Russia is one of the world's biggest energy producers, and both it and Ukraine are among the top exporters of grain. War and sanctions will disrupt economies around the world already facing a crisis as they emerge from the coronavirus pandemic.
+
+European stocks dived to nine-month lows, but U.S. stocks ended higher after Biden's sanctions announcement. Brent oil earlier surged past $100/barrel for the first time since 2014.
+
+'HANG THEM FROM BRIDGES'
+
+Putin said he did not plan a military occupation, only to disarm Ukraine and purge it of nationalists, and his endgame remains unclear.
+
+The senior U.S. defence official said Washington believed the invasion was intended to ""decapitate"" Zelenskiy's government. read more
+
+But it is hard to see Ukrainians accepting leadership installed by Moscow.
+
+""I think we must fight all those who invade our country so strongly,"" said one man stuck in traffic trying to leave Kyiv. ""I would hang every single one of them from bridges.""
+
+A democratic nation of 44 million people, Ukraine is Europe's biggest country by area after Russia itself. It voted for independence at the fall of the Soviet Union and has recently stepped up efforts to join NATO and the European Union, aspirations that infuriate Moscow. read more
+
+Putin, who denied for months that he was planning an invasion, has called Ukraine an artificial construct carved from Russia by its enemies - a characterisation Ukrainians see as an attempt to erase their more than 1,000-year-old history.
+
+While many Ukrainians, particularly in the east, speak Russian as a native language, virtually all identify themselves as Ukrainian.
+
+There was also some dissent in Russia. Police detained more than 1,600 taking part in anti-war rallies in 53 cities and authorities threatened to block media reports carrying ""false information"". read more
+
+UKRAINIANS FLEE, SUPPORTERS PROTEST
+
+In the southeastern port of Mariupol, near a frontline held by Russian-backed separatists in eastern Ukraine, local authorities said 26 people were wounded in shelling.
+
+Civilians packed bags. ""We are going into hiding,"" a woman said.
+
+Ukraine's ambassador to the United States, Oksana Markarova, said its forces had downed two Russian helicopters and seven other Russian aircraft and destroyed several Russian trucks, and a platoon from Russia's 74th Motor Rifles Brigade had surrendered. read more
+
+Russia's defence ministry said it had destroyed 83 land-based Ukrainian targets and had achieved all its goals, according to Interfax news agency.
+
+Protests against Russia's invasion were held in Europe and the United States. At a demonstration in New York's Time Square, Ivana Lotoshynski, who was born in Ukraine, urged solidarity with Ukrainians.
+
+""People are losing their lives right now. Ukrainians are fighting against this regime from Russia and it's really devastating,"" she said. ""Today I think everybody is Ukrainian.""
+
+Register now for FREE unlimited access to Reuters.com Register
+
+Reporting by Natalia Zinets and Aleksandar Vasovic; Additional reporting by Reuters bureaus; Writing by Peter Graff, Alex Richardson and Rami Ayyub; Editing by Kevin Liffey, Frank Jack Daniel and Rosalba O'Brien
+
+Our Standards: The Thomson Reuters Trust Principles.",https://www.reuters.com/world/europe/putin-orders-military-operations-ukraine-demands-kyiv-forces-surrender-2022-02-24/
+6,22b85223-8980-4be3-8a00-c414cfea98eb,[],2022-02-24 00:00:00,"Putin approves ‘special military operation’ as Russia launches an invasion of Ukraine by land, air and sea.
+
+Russia has launched an all-out invasion of Ukraine by land, air and sea, the biggest attack by one state against another in Europe since World War II and confirmation of the worst fears of the West.
+
+The attacks began on Thursday after Russian President Vladimir Putin said in a televised address that he had approved a “special military operation”. The move came after Moscow earlier recognised rebel-held territories in Luhansk and Donetsk and said they had asked for its “help”.
+
+Russian missiles rained down on Ukrainian cities. Ukraine reported columns of troops pouring across its borders into the eastern Chernihiv, Kharkiv and Luhansk regions, and landing by sea at the cities of Odesa and Mariupol in the south.
+
+Russian troops attacked Ukraine from Belarus as well as Russia with Belarusian support, and an attack was also being launched from annexed Crimea, Ukraine’s border guard service said.
+
+Explosions could be heard before dawn in the Ukrainian capital, Kyiv. Gunfire rattled out near the main airport and sirens blared across the city.
+
+Ukrainian President Volodymyr Zelenskyy said martial law had been declared and he appealed to world leaders to impose all possible sanctions on Russia, including on Putin, who he said wanted to destroy the Ukrainian state.
+
+Ukraine’s Foreign Minister Dmytro Kuleba wrote on Twitter that Putin had “launched a full-scale invasion of Ukraine”.
+
+“Peaceful Ukrainian cities are under strikes. This is a war of aggression. Ukraine will defend itself and will win. The world can and must stop Putin. The time to act is now,” he said.
+
+Putin justified the attack as “a special military operation” to protect people, including Russian citizens who had been subjected to “genocide” in Ukraine, an accusation the West has long described as absurd propaganda.
+
+“And for this, we will strive for the demilitarisation and denazification of Ukraine,” Putin said. “Russia cannot feel safe, develop, and exist with a constant threat emanating from the territory of modern Ukraine.”
+
+Russia’s defence ministry said it had taken out military infrastructure at Ukrainian airbases and degraded its air defences.
+
+Ukraine closed its airspace to civilian flights citing a high risk to safety, while Russia suspended domestic flights at airports near its border with Ukraine until March 2.
+
+Russian-backed separatists in the east said they had captured two towns, the RIA news agency reported.
+
+Shortly after Putin spoke, Al Jazeera’s Andrew Simmons, who is in Kyiv, said there were explosions in the capital and power had been cut.
+
+It appeared to be a “full-scale attack”, targeting the airport and key buildings, he said. There was “chaos” in the city centre, he added.
+
+US President Joe Biden, in a phone call with Zelenskyy, condemned the “unprovoked and unjustified attack by Russian military forces”, the White House said.
+
+Biden said in a statement he briefed Zelenskyy on Washington and its allies’ planned next steps against Russia, including “severe sanctions”.
+
+In an impassioned appeal, United Nations chief Antonio Guterres condemned Russia’s actions.
+
+“In the name of humanity, bring your troops back to Russia,” he said. “In the name of humanity, do not allow a war to start in Europe which could be the worst war since the beginning of the century with consequences not only devastating for Ukraine, not only tragic for the Russian Federation but with an impact we cannot even foresee.”
+
+NATO called an emergency meeting with chief Jens Stoltenberg condemning what he said was a “reckless attack”.
+
+The European Union’s foreign policy chief, Josep Borrell, said Russia faces “unprecedented isolation” over its attack on Ukraine and will be hit with the “harshest sanctions” the EU has ever imposed.
+
+‘You declared war’
+
+Putin’s address ordering the military action took place at the same time as the UN Security Council met for its second emergency meeting this week.
+
+Russia’s UN ambassador Vasily Nebenzya, who is the current president of the Security Council, admitted to fellow members of the council that “special operations” were under way, insisting to the other ambassadors that the action did not amount to war and was a consequence of Ukraine’s actions.
+
+“The aim of the operation is to protect the people who for eight years have been suffering “genocide of the Ukrainian regime”, he said, claiming the action was justified under Article 51 of the UN Charter, which allows for individual or collective self-defence in the face of an armed attack on a UN member state.
+
+Putin demanded Ukrainian forces lay down their arms, and repeated his position that any Ukrainian membership of NATO was unacceptable to Moscow, according to state media.
+
+In the UN council chamber, Ukraine’s UN Ambassador Sergiy Kyslytsya appeared lost for words. “Three minutes ago, your president declared war on my country,” he told his Russian counterpart Nebenzya.
+
+In a second round of comments, having effectively called for Russia’s expulsion from the UN, he concluded: “There’s no purgatory for war criminals, Mr Ambassador, they go to hell.”
+
+The world must act immediately. Future of Europe & the world is at stake. To do list: 1. Devastating sanctions on Russia NOW, including SWIFT
+
+2. Fully isolate Russia by all means, in all formats
+
+3. Weapons, equipment for Ukraine
+
+4. Financial assistance
+
+5. Humanitarian assistance — Dmytro Kuleba (@DmytroKuleba) February 24, 2022
+
+I strongly condemn #Russia’s reckless attack on #Ukraine, which puts at risk countless civilian lives. This is a grave breach of international law & a serious threat to Euro-Atlantic security. #NATO Allies will meet to address Russia’s renewed aggression. https://t.co/FPpyuzmUXD — Jens Stoltenberg (@jensstoltenberg) February 24, 2022
+
+The US said it was calling for an urgent resolution at the Security Council, and the call was backed by the United Kingdom, France and Ireland who noted Russia’s utter “disdain” for the UN by its military assault. The meeting is expected within 24 hours.
+
+As news of the assault on Ukraine filtered through, some diplomats condemned Russia.
+
+Germany said it was a “shameless breach of international law” while the UK said the attack was “unprovoked, unjust” and it was a “dark day for Ukraine”.
+
+Analysts said it could be that Russia was beginning with a “shock and awe” attack in the belief that it might mean it could get what it wants without having to mount a larger-scale attack.
+
+“Putin might think that will cause such shock that the government will collapse, that there will be calls for surrender,” William Courtney, an expert at the Rand Corporation in Washington, DC, told Al Jazeera. “If so, the Kremlin has probably underestimated the resilience of Ukrainians.”",https://www.aljazeera.com/news/2022/2/24/putin-orders-military-operations-in-eastern-ukraine-as-un-meets
+7,22b85223-8980-4be3-8a00-c414cfea98eb,[],,"WASHINGTON — As part of the United States’ serious and expansive response to Russia’s further invasion of Ukraine, the U.S. Department of the Treasury’s Office of Foreign Assets Control (OFAC) is sanctioning 24 Belarusian individuals and entities due to Belarus’s support for, and facilitation of, the invasion. Today’s action focuses on Belarus’s defense sector and financial institutions, two areas in which Belarus has especially close ties to Russia. Belarus has become increasingly reliant on Russia for economic, political, and military support in recent years as the regime has clung to power following the fraudulent August 2020 presidential election.
+
+Treasury’s Russia-related actions will also have significant downstream effects in Belarus. The Belarusian economy is highly dependent on key Russian financial institutions and their subsidiaries, including Public Joint Stock Company Sberbank of Russia (Sberbank), VTB Bank Public Joint Stock Company (VTB), and State Corporation Bank for Development and Foreign Economic Affairs Vnesheconombank (VEB). Restrictions against Sberbank, VTB, and VEB, combined with the measures against Belarusian banks, target nearly one-fifth of the country’s entire financial sector.
+
+“Having already sacrificed its legitimacy to suppress the democratic aspirations of the Belarusian people, the Lukashenka regime is now jeopardizing Belarus’s sovereignty by supporting Russia’s further invasion of Ukraine,” said Secretary of the Treasury Janet L. Yellen. “Treasury continues to disrupt Belarus’s military and financial capabilities through targeted sanctions. Further, due to the interconnectedness between the two countries, the actions Treasury took against Russia today will also impose severe economic pain on the Lukashenka regime.”
+
+Today’s actions follow five previous Belarus-related sanctions tranches by the United States and its allies in response to the degradation of democracy in Belarus. The Lukashenka regime has continued to erode democracy in Belarus and has become increasingly subservient to Russia in the process. Proposed amendments to the Belarusian constitution will exacerbate that trend and will pave the way for increased Russian influence in Minsk.
+
+Belarusian State-Owned Banks
+
+Today, OFAC is designating two significant state-owned banks that are among the most important banks in Belarus. The Belarus banking sector is highly concentrated, with state-owned banks directly or indirectly financing or conducting activity on behalf of the Government of Belarus (GoB). Sanctioning these two GoB-owned banks, in addition to Russia-related restrictions imposed on three other systemically important Belarusian financial institutions, means that a significant portion of the Belarusian financial sector is now subject to U.S. sanctions.
+
+Belarussian Bank of Development and Reconstruction Belinvestbank Joint Stock Company (Belinvestbank) is the fourth largest financial institution in Belarus. Belinvestbank is being designated pursuant to Executive Order (E.O.) 14038 for being owned or controlled by, or for having acted or purported to act for or on behalf of, directly or indirectly, the GoB. Additionally, two Minsk-based companies, real estate firm Limited Liability Company Belinvest-Engineering and financial leasing company CJSC Belbizneslizing, are being designated pursuant to E.O. 14038 for being owned or controlled by, or for having acted or purported to act for or on behalf of, directly or indirectly, Belinvestbank.
+
+Bank Dabrabyt Joint-Stock Company (Bank Dabrabyt) is the eleventh largest financial institution in Belarus. Prior to the GoB’s purchase of the bank’s controlling shares in 2014, it was known as Bank Moscow Minsk JSC. Bank Dabrabyt is being designated pursuant to E.O. 14038 for being owned or controlled by, or for having acted or purported to act for or on behalf of, directly or indirectly, the GoB.
+
+Concurrently, OFAC is issuing Belarus General Licenses 6 and 7 to authorize certain transactions related to the official business of the U.S. government and international organizations and entities, respectively.
+
+Belarusian Defense and Security Industries
+
+The Belarusian defense industry is closely linked to Russia. For example, Russia relies on Belarusian components for several ongoing strategic projects. In an effort to address the destabilizing behavior of the Belarusian Armed Forces and its facilitation of Russia’s continued violations of Ukraine’s sovereignty, OFAC is taking further action against the defense and related materiel sector of the Belarus economy. The entities and individuals sanctioned today build on OFAC’s December 2021 designation of Belarusian defense firms to further disrupt this critical sector.
+
+Minsk Wheeled Tractor Plant (MZKT) is a Belarusian state-owned enterprise (SOE) that is considered to be the flagship of the Belarusian military-industrial complex. It sells its products globally on behalf of the Lukashenka regime, including vehicle chassis that are exported to Iran and Russia, the latter of which places regular orders with MZKT for use in Russia’s defense sector. MZKT is being designated pursuant to E.O. 14038 for operating or having operated in the defense and related materiel and transportation sectors of the Belarus economy. The European Union (EU) and the United Kingdom (UK) sanctioned MZKT in December 2020.
+
+Aliaksei Ivanavich Rymasheuski (Rymasheuski) and Aliaksandr Piatrovich Vetsianevich (Vetsianevich) are senior executives of MZKT. Rymasheuski is MZKT’s Director General and Vetsianevich, a former State Security Committee of the Republic of Belarus (Belarusian KGB) employee, is MZKT’s Deputy Director General. Rymasheuski and Vetsianevich are being designated pursuant to E.O. 14038 for being leaders, officials, senior executive officers, or members of the board of directors of MZKT.
+
+State Authority for Military Industry of the Republic of Belarus (SAMI) is the central GoB agency that oversees the creation and coordination of Belarusian defense products. SAMI is tasked with developing, coordinating, and modernizing the defense industry for the Belarusian Armed Forces. SAMI is being designated pursuant to E.O. 14038 for being a political subdivision, agency, or instrumentality of the GoB.
+
+Dmitry Aleksandrovich Pantus (Pantus) and Viachaslau Yevgenyevich Rassalai (Rassalai), are the Chairman and a Deputy Chairman of SAMI respectively. In their respective roles, Pantus and Rassalai oversee the Belarusian defense industry. Both Pantus and Rassalai are being designated pursuant to E.O. 14038 for being or having been leaders or officials of the GoB.
+
+State Owned Foreign Trade Unitary Enterprise Belspetsvneshtechnika (BSVT) specializes in the export of high-tech products and military technologies. BSVT is an SOE under the control of SAMI, and both produces and controls military-purpose goods. BSVT is being designated pursuant to E.O. 14038 for being owned or controlled by, or for acting or purporting to act for or on behalf of, directly or indirectly, the GoB, as well as for operating or having operated in the defense and related materiel sector of the Belarus economy.
+
+OJSC KB Radar-Managing Company Holding Radar System (KB Radar) is one of the leading defense organizations under SAMI’s umbrella. KB Radar’s primary products are radar systems and electronic warfare (EW) equipment, including the Groza-S counter-drone EW system, which has been exported to customers outside of Belarus. KB Radar is being designated pursuant to E.O. 14038 for operating or having operated in the defense and related materiel sector of the Belarus economy.
+
+JSC 558 Aircraft Repair Plant (558 ARP) is a Belarusian defense company that develops and manufactures aircraft protection systems. 558 ARP also maintains and repairs aircraft equipment and trains other personnel how to repair and operate certain aviation materiel. 558 ARP cooperates with customers in more than 30 countries across the world. 558 ARP is being designated pursuant to E.O. 14038 for operating or having operated in the defense and related materiel sector of the Belarus economy.
+
+Public Joint Stock Company Integral (Integral) is a Belarusian defense SOE that produces semiconductors for military end-users. Integral is being designated pursuant to E.O. 14038 for being owned or controlled by, or for acting or purporting to act for or on behalf of, directly or indirectly, the GoB, as well as for operating or having operated in the defense and related materiel sector of the Belarus economy.
+
+Industrial-Commercial Private Unitary Enterprise Minotor-Service (Minotor-Service) is a Minsk-based defense firm that produces armored vehicles that are in use by the Belarusian Armed Forces. Minotor-Service also modernizes military equipment and supplies spare parts and upgrades for combat vehicles currently in service. Minotor-Service is being designated pursuant to E.O. 14038 for operating or having operated in the defense and related materiel sector of the Belarus economy.
+
+OOO Oboronnye Initsiativy (Oboronnye Initsiativy) is a Belarusian defense company specializing in EW equipment, including airborne defense suites that protect military aircraft. Oboronnye Initsiativy’s Talisman airborne defense suite has been installed on MiG-29 aircraft operated by the Syrian Air Force, which is a blocked entity that OFAC identified as being part of the Government of Syria on January 12, 2017. Oboronnye Initsiativy is being designated pursuant to E.O. 14038 for operating or having had operated in the defense and related materiel sector of the Belarus economy.
+
+OKB TSP Scientific Production Limited Liability Company (OKB TSP) is a Belarusian defense entity that produces a surface-to-air missile system, among other defense products. The company has held contracts and ties with multiple Russian defense entities, some of which are subject to U.S. sanctions. OKB TSP is being designated pursuant to E.O. 14038 for operating or having operated in the defense and related materiel sector of the Belarus economy.
+
+LLC Synesis (Synesis) is a Belarusian security company with connections to the Ministry of Internal Affairs and has provided security software in support of the repression of protesters. Synesis produces a video surveillance system that is used by Russian and Belarusian authorities, including for the identification, apprehension, and persecution of protestors. LLC 24x7 Panoptes (24x7 Panoptes), a former Synesis subsidiary, previously operated the GoB’s video monitoring system. Both Synesis and 24x7 Panoptes are being designated pursuant to E.O. 14038 for operating or having operated in the security sector of the economy of Belarus. The EU and UK sanctioned Synesis in December 2020.
+
+Aliaksandr Yauhenavich Shatrou (Shatrou) is the owner and CEO of Synesis who has publicly criticized protestors detained by the police. He is being designated pursuant to E.O. 14038 for being or having been a leader or official of Synesis. The EU sanctioned Shatrou in June 2021.
+
+Belarusian Defense Officials
+
+In addition to targeting defense industry entities, OFAC is also taking action against several senior GoB security apparatus officials.
+
+Viktor Gennadievich Khrenin is the Belarusian Minister of Defense. Khrenin is being designated pursuant to E.O. 14038 for being or having been a leader or official of the GoB. Canada, the EU, and the UK sanctioned Khrenin in June 2021.
+
+Aleksandr Grigorievich Volfovich is the State Secretary of the Security Council of Belarus. Volfovich is being designated pursuant to E.O. 14038 for being or having been a leader or official of the GoB.
+
+Lukashenka’s Inner Circle
+
+Treasury is designating Aliaksandr Mikalaevich Zaitsau (Zaitsau) to continue efforts to hold Belarusian elites accountable for their support to the regime. A former GoB official, Zaitsau maintains close ties to the Lukashenka family. Zaitsau is the owner of OOO Sokhra (Sokhra), which is engaged in wholesale, gold mining, and the promotion of Belarusian industrial products in Africa and the Middle East.
+
+Zaitsau is being designated pursuant to E.O. 14038 for being or having been a leader, official, senior executive officer, or member of the board of directors of Bremino Group, an entity that was designated in August 2021 pursuant to E.O. 14038 for operating or having operated in the transportation sector of the Belarus economy. Sokhra is also being designated pursuant to E.O. 14038 for being owned or controlled by, or acting or purporting to act for or on behalf of, directly or indirectly, Zaitsau. Canada and the EU sanctioned Zaitsau in June 2021, and the EU also sanctioned Sokhra in June 2021.
+
+SANCTIONS IMPLICATIONS
+
+As a result of today’s action, all property and interests in property of the individuals and entities above that are in the United States or in the possession or control of U.S. persons are blocked and must be reported to OFAC. In addition, any entities that are owned, directly or indirectly, 50 percent or more by one or more blocked persons are also blocked. All transactions by U.S. persons or within (or transiting) the United States that involve any property or interests in property of designated or otherwise blocked persons are prohibited unless authorized by a general or specific license issued by OFAC, or otherwise exempt. These prohibitions include the making of any contribution or provision of funds, goods, or services by, to, or for the benefit of any blocked person and the receipt of any contribution or provision of funds, goods, or services from any such person.
+
+For identifying information on the individuals and entities designated today, click here.
+
+###",https://home.treasury.gov/news/press-releases/jy0607
+8,22b85223-8980-4be3-8a00-c414cfea98eb,[],2022-02-24 00:00:00,"Belarus’s leader Alexander Lukashenko said Thursday that his military is not taking part in the Russian invasion of Ukraine, as Kyiv said Moscow’s troops were entering the country from Belarusian territory.
+
+“Our armed forces are not taking part in this operation,” said Lukashenko, an ally of Russian President Vladimir Putin. Moscow has stationed tens of thousands of troops in Belarus.
+
+
+
+Ukraine’s border guards said Thursday their country was coming under artillery attack along its northern border with Russia and Belarus.
+
+Advertisement
+
+For the latest headlines, follow our Google News channel online or via the app.
+
+
+
+Minsk said Putin called Lukashenko in the early hours of Thursday - “at around 5:00 a.m. (0200 GMT)” - to inform him that Moscow was launching a military operation on Ukraine.
+
+
+
+After meeting his army chiefs, Lukashenko said Putin had informed him about the “development” of the situation in the call.
+
+
+
+He said the Russian leader told him the “aim” of the operation was to “stop the genocide of the people in the Donetsk and Lugansk republics.”
+
+
+
+He also said he had “personally suggested” to Putin for “a number of the Russian armed forces” to stay in the south of the country despite joint military drills coming to an end.
+
+
+
+Putin launched the offensive in the early hours of Thursday, after a surprise televised address. Russia has tens of thousands of soldiers stationed in Belarus, where it has held military drills.
+
+Read more:
+
+Russian-backed separatist says their goal is to capture Ukrainian regions: Report
+
+Russia halts vessel movement in Azov sea, but keeps ports in Black Sea open
+
+Russian Yamal-Europe pipeline’s eastbound gas flows halve",https://english.alarabiya.net/News/world/2022/02/24/Belarus-leader-says-his-army-not-taking-part-in-Ukraine-invasion
+9,22b85223-8980-4be3-8a00-c414cfea98eb,"['Pavel K Baev', 'Jessica Brandt', 'Vanda Felbab-Brown', 'Jeremy Greenwood', 'Samantha Gross', 'Daniel S. Hamilton', 'Bruce Jones', 'Marvin Kalb', 'Patricia M. Kim', 'Suzanne Maloney']",2022-02-25 00:00:00,"In the early morning of February 24, Russia launched a full-scale military assault on Ukraine, bombing major cities such as Kyiv, Kharkiv, and Odesa and invading from Russia, Belarus, Crimea, and the Black Sea. The attack followed months of troop buildups, Russian ultimatums to the United States and NATO, negotiations with the U.S. and European leaders, and U.S. warnings of Russian invasion plans, and was preceded by Moscow’s recognition of two separatist enclaves in eastern Ukraine as independent.
+
+Below, Brookings experts analyze the implications of the invasion, for Europe, Russia, international order, U.S. foreign policy, and much more, and offer policy recommendations for the United States, European, and other governments.
+
+Pavel K. Baev
+
+Nonresident Senior Fellow, Center on the United States and Europe
+
+Despite the strong evidence of Russian preparations for a massive invasion, there was, in my reading, and in the opinion of my many friends in Moscow, a strong possibility to avoid the war and promote the momentum for de-escalation. It is not that the idea of a war between Russia and Ukraine was too hard to contemplate; it was rather the assumption that the corrupt regime brings together thieves and rent-seekers, who are not “warriors,” but rather cowards and crooks. There was no propaganda campaign in Russia beating patriotic drums for war, which also supported the assumption it was a show of force and posturing. The conflict between progressively autocratic Russia and the West is fundamental and grows deeper with every spike in repressions, but the spasm of this conflict that started last November with the massing of troops and a diplomatic offensive seemed artificially orchestrated and lacking rationale.
+
+Now we know that Putin’s obsession with Ukraine — which constitutes a threat to his regime not because of hypothetic NATO missiles, but because of its choice for democracy and closer ties with Europe — prevailed over common political sense and strategic risk assessments. Wars rarely go according to plans, and this one is set to turn bad for Russia because it is based on serious miscalculations about Ukraine’s capacity to defend its statehood, the strength of NATO resolve, and quite possibly the readiness of Russians to partake in this aggression. Every setback will prompt Putin to raise the stakes yet further.
+
+Jessica Brandt (@jessbrandt)
+
+Policy Director, Artificial Intelligence and Emerging Technology Initiative and Fellow, Center for Security, Strategy, and Technology
+
+For weeks, Washington and London have been deploying a novel strategy to get ahead of Russian hybrid measures in Ukraine: repeatedly using intelligence disclosures to expose them. The primary goal of this effort has not been to prevent Moscow from using force in Ukraine — which was likely impossible — but rather to:
+
+Introduce friction into Putin’s plans and limit his room for maneuver;
+
+Build a common threat picture among partners and allies (including unenthusiastic ones), making it harder for them to plead ignorance or remain on the sidelines and easier for the U.S. to galvanize a coherent response;
+
+Generate support among publics for that response.
+
+As we move into the next phase of this crisis, I expect we’ll see Russia push narratives that deny or deflect blame for its violent misdeeds. We may also see efforts to amplify emerging partisan splits within the U.S. over Washington’s response. That would be in keeping with Moscow’s long-running effort to distract the U.S. and divide it from within, while also boosting isolationist sentiment that could drive skepticism of measures that would constrain Russia’s interests.
+
+If Washington wants to push back on Putin’s information campaign in ways that are consistent with democratic values, it could move quickly to detail Russian losses in Ukraine. Impressive images of anti-war protests in Moscow suggest there’s an audience for that content among the Russian public. That is a vulnerability for Putin. To succeed in the information contest, Washington should to leverage asymmetries that work to its advantage. Putin’s fragility to the truth is one of them.
+
+VANDA FELBAB-BROWN (@vfelbabbrown)
+
+Senior Fellow, Center for Security, Strategy, and Technology and Director, Initiative on Nonstate Armed Actors
+
+Russia’s egregious invasion of Ukraine is not just the bookend to the post-Cold War era that was crumbling over the past decade. It also marked the end of the post-9/11 era, defined by counterterrorism and universalized opposition to nonstate armed actors.
+
+In the new era, Russia’s attitude toward nonstate armed actors will depend on whether it wants to challenge the United States in the country or region in question. Outside of Myanmar, China will principally embrace governments, regardless of what policies toward nonstate armed actors they adopt.
+
+Russia had previewed the dominance of the anti-American vector in its attitudes toward nonstate armed actors when back in 2017 it started providing the Taliban with funding, intelligence, and weapons, including to kill U.S. soldiers. That move was not just hedging based on the recognition that the Taliban was ascendant, the ground reality assessment that motivated China to make its peace with the Taliban well before it took power in August 2021. Russia’s cozying up to the Taliban showed hostility to the United States to be its dominant foreign policy prism.
+
+The more large powers strike deal with nonstate armed actors, the more lesser powers will also do so, in a throwback to the Cold War mode.
+
+In troubled countries where the U.S., Russia, and China are already on opposing sides —like Libya, Syria, Venezuela, Myanmar, and Afghanistan — conflicts will become even more intractable. Cooperation among the powers on conflicts or regime stabilization will be elusive; while both local governments and nonstate armed actors will be shopping among the big powers.
+
+Jeremy Greenwood
+
+Federal Executive Fellow
+
+The current chair of the Arctic Council has just upended decades of European security architecture and violated international law with an aggressive invasion of a sovereign Ukraine. Arctic cooperation, previously small bright spot of U.S.-Russian relations within the construct of the Arctic Council’s pan-Arctic mission, is bound to be disrupted.
+
+Less than one year into its two-year chairmanship of the Arctic Council, Russia is responsible for setting the agenda and charting the course of the organization’s work until 2023. There is bound to be intense pressure within the U.S. government for the interagency to severely curtail engagement with Russian government officials. Much of Russia’s planned Arctic Council activity centers on economic development of the Arctic — an area certain to be hit by Western sanctions. This has the potential to create an extremely large barrier to continued cooperation within the constructs of the Arctic Council’s expert working groups and the work of affiliated organizations like the Arctic Economic Council and the Arctic Coast Guard Forum.
+
+This “chilling effect” is well-deserved, but will have unfortunate impacts on the close work of Arctic states in addressing environmental issues like climate change and combatting oil pollution in an Arctic seeing increased human activity.
+
+Let’s hope that the governments of the other seven Arctic states can find a way to enforce Western sanctions on Russian economic activity in the Arctic, while maintaining lower-level channels to continue the Arctic Council’s important work on Arctic environmental matters critical to our entire planet.
+
+Samantha Gross (@samanthaenergy)
+
+Fellow and Director, Energy Security and Climate Initiative
+
+The Russian invasion of Ukraine is already roiling oil and natural gas markets. Brent crude oil, a benchmark in Europe, rose to its highest price since 2014 at more than $105 per barrel. This rise is primarily due to concerns about whether the coming sanctions on Russia will affect financial transactions for Russian oil and gas. Russia is the world’s second-largest oil exporter.
+
+It is the largest provider of natural gas to Europe, providing about 35% of total supply. Europe is already suffering through very high natural gas prices, due to some natural factors and earlier cutbacks in Russian supply. Natural gas prices in Europe rose further just after the invasion. At the Dutch TTF exchange, a key natural gas trading point for continental Europe, gas futures prices rose 40% on news of the invasion.
+
+Current sanctions do not target Russia’s oil and gas exports, given fears further energy price increases in a global economy already suffering from high inflation. However, I am concerned about Russia’s willingness to cut natural gas supply to Europe in retaliation for international sanctions. Former Russian President Dmitry Medvedev tweeted that Europe should expect much higher natural gas prices in response to Germany halting approval of the Nord Stream 2 pipeline. Russia can afford to sell less gas, with high oil prices and large currency reserves. Its position as a reliable energy supplier is already in tatters. This action would be terrible for Russia’s energy future, but given Moscow’s bellicose rhetoric, I would not rule it out.
+
+Daniel S. Hamilton (@DanSHamilton)
+
+Nonresident Senior Fellow, Center on the United States and Europe
+
+Putin has dropped his mask. His all-out invasion of Ukraine is clear evidence that he is determined to upend Europe’s security order and control his neighbors. He is intent on disrupting democratic societies, not because of what they do but because of who they are. As a consequence, Europe again finds itself between strategic epochs. The post-Cold War period has ended. A more fluid and disruptive era has begun. History did not end with the fall of the Berlin Wall in 1989 or the dissolution of the Soviet Union in 1991. The hard reality is that the Soviet succession remains open-ended, and the continent as a whole remains tempestuous, dynamic, and prone to instability. The United States and western Europe will not escape the ripple effects of turmoil in eastern Europe.
+
+The U.S. and its allies have responded quickly with tough economic sanctions. Now they must take further steps. Allies must bolster NATO’s ability to defend militarily against Russian forces on land, at sea, in the air, in outer space, and in cyberspace. They must make resilience to disruptive attacks on critical functions of our societies an integral part of NATO’s mission going forward. They should help Ukraine and Georgia defend themselves against Russian aggression. And they should take action against the Kremlin’s enablers — not just those in Russia, but also those closer to home.
+
+Bruce Jones (@BruceBrookings)
+
+Senior Fellow and Director, Project on International Order and Strategy
+
+On the ground, the next days and weeks will determine the outcomes in Ukraine itself, as its armed forces and its people mount a defense (outgunned and overmatched) against Russia’s renewed and deepened invasion. The wider implications will unfold over a much longer period.
+
+While it is too early for certainty, it seems likely this is not an isolated crisis, however severe, but the launch of an intensive and dangerous new phase in the efforts by Russia, and in different domains China, to renegotiate the terms of order. Among other things, Russia’s actions are a renewed violation of Article 2 of the United Nations Charter, the prohibition against the use of force to threaten the sovereignty of another state — the foundational provision of a stable order. China’s diplomatic wink and nod at Russia’s actions buffers Moscow in important ways as it challenges the West. And it may portend a shift in Chinese calculations about how much risk its willing to take, or tolerate, in its own effort — economic, diplomatic, technological, military though not yet forceful — to challenge the established order.
+
+In the early responses, India has felt torn, but other Asian partners and allies have joined the U.S. and European Union in moves to punish Russia. Whether this portends more sustained collaboration between the Asian and European allies — building on AUKUS and other recent developments — remains to be seen. If Russia and China increasingly act in concert, that will be the core test of American statecraft in defense of international order.
+
+Marvin Kalb (@MarvinKalb)
+
+Nonresident Senior Fellow, Foreign Policy
+
+In his invasion of Ukraine, President Putin is positioning himself in Russian history as a modern-day Catherine the Great. She ruled from 1762 to 1796, and, more than any other Russian leader, used the power of the Russian army in a series of wars to conquer, territory by territory, the country today called Ukraine.
+
+Catherine fashioned herself an enlightened monarch, but she was determined to go down in history as the ruler who fulfilled Russia’s self-defined destiny as a great power.
+
+Peter the Great, earlier in the 18th century, opened a backward Russia to the West. He fought Sweden and won control of the Baltic coast. Picking up from Peter, Catherine went further, driving south to Kiev and then all the way to the Black Sea, occupying the territory of what is today the southern half of Ukraine. To do this, she fought and won wars with the retreating Ottoman Empire. One prize was Crimea, seized in 1783.
+
+To acquire control of what is today the western half of Ukraine, Catherine joined Prussia and Austria and divided up a weak Poland, allowing Russia to seize the eastern third of Poland. That became the western half of today’s Ukraine.
+
+In Eastern Europe, national borders have a way of changing with deadly frequency, and Putin’s invasion suggests this is likely to continue.
+
+Patricia M. Kim (@patricia_m_kim)
+
+David M. Rubenstein Fellow, John L. Thornton China Center and Center for East Asia Policy Studies
+
+Beijing has made a grave strategic miscalculation in aligning closely with Moscow at a time when states around the world are unequivocally condemning the Russian invasion of Ukraine. In recent days, Chinese official media have rushed to claim that Beijing has always maintained a “neutral position” and supported a peaceful resolution of the situation in Ukraine. Even up to early January, this assertion was somewhat tenable as Beijing refrained from explicitly endorsing Moscow’s security demands and publicly emphasized its ties with Ukraine, a Belt and Road Initiative partner. But its claims of neutrality lost all credibility when President Xi Jinping chose to mark the opening of the Beijing Olympics with a highly-publicized summit with President Putin, and the release of an unprecedented joint statement in which China expressed “sympathy” and “support” for Russian demands for “binding security guarantees in Europe.”
+
+What has China concretely gained, besides ideological comradery, by embracing Putin at this moment and at what costs? Will it join other states in condemning and punishing Moscow for its blatant violation of state sovereignty and territorial integrity, principles Beijing professes to hold dear? Or will it choose to deflect by blaming Washington for “starting the fire” and cushion the blow of sanctions for Russia? Serving as Russia’s lifeline will come at a significantly greater economic and diplomatic price than protecting a small, isolated state like North Korea. Beijing should reassess whether its growing solidarity with Moscow is worth the profound costs to its global reputation, its economic prospects, and ties with the rest of the world.
+
+Suzanne Maloney (@maloneysuzanne)
+
+Vice President and Director, Foreign Policy
+
+
+
+The Biden administration and European leaders deployed an intense and inventive campaign to deescalate the crisis brewing in Europe, as President Putin engaged in ominous geopolitical brinkmanship toward Ukraine. Tragically, Putin’s imperial ambitions proved impervious to these concerted efforts at deterrence or dissuasion.
+
+With this deliberate and long-planned act of war, Russia has shattered peace in Europe, precipitating the most serious threat to Europe since World War II. The consequences of the conflict now underway will be devastating and wide-ranging — first and foremost for the people of Ukraine and their embattled democratic state, under assault from overwhelming Russian force.
+
+But the ripple effects of the invasion extend well beyond Ukraine. This conflict will have tragic, unpredictable consequences for the global economy and for the imperfect but essential rules-based international order that has facilitated the expansion of democracy, prosperity, and basic human rights and security around the globe. And it complicates a range of other urgent challenges — not the least of which is the final sprint by world powers, including Russia, to resuscitate the Iran nuclear deal.
+
+In dealing with other recalcitrant powers, including Iran, this episode reinforces the enduring force of ideology and historical grievance. Leaders frequently disregard what might appear to be a rational cost-benefit assessment of their national interests in favor of ruinous pursuits. We can impose painful sanctions, but that alone won’t forestall or reverse aggression from the world’s most dangerous states.
+
+Amy J. Nelson (@amyjnelsonphd)
+
+David M. Rubenstein Fellow, Center for Security, Strategy, and Technology
+
+We have not begun to see the magnitude of the effect of Russia’s attack on Ukraine. The attack is not only one on Ukraine, but also an attack on the European security order/architecture and will leave both irrevocably changed.
+
+Dual waves of détente and post-Cold War optimism ushered in a host of agreements designed to undergird or reinforce the security architecture in place from the Atlantic to the Urals, which now no longer apply to the region. Gone are the effects of the 1997 NATO-Russia Founding Act, the 1994 Budapest Memorandum, and the Minsk agreements, to say nothing of languishing arms control treaties. When the conflict is over, there will be no basis or foundation for rebuilding any of this — likely much to Putin’s delight.
+
+Perhaps not today, but ideally sometime soon, the West will need to think hard about the European security architecture. Though NATO will likely emerge intact and stronger from this assault, Russia will always be its neighbor. Will we see a return to a kind of Cold War-style isolation? And for how long? How will the U.S. approach a follow-on agreement to New START? Certainly, the benefits of a strategic arms control agreement remain in Russia’s best interest, but whether there will be an appetite for negotiations remains unknown. Though historically the U.S. and USSR maintained arms control diplomacy even when relations soured, it is quite possible that Putin’s lack of trustworthiness will make arms control negotiation — or negotiations of any kind for that matter — a non-starter for the foreseeable future.
+
+Thomas Pickering
+
+Distinguished Fellow, Foreign Policy
+
+The implications of the Russian use of all-out military force to absorb Ukraine are vast. Democracy, freedom, markets, economic prosperity, and most importantly nuclear stability are under siege. The principal challenge is how to deal with an aggressor in the nuclear age without destroying our civilization, progress, and planet. It will require the most careful tuning of military, economic, and political steps with consummate care to avoid tumbling the United States and its friends and allies into a bottomless pit of nuclear use by accident, miscalculation, or misperception.
+
+Push back strongly and negotiate forward are two conjoined answers. Harsh sanctions, including on commercial transactions, are important but not enough. Russia must both feel existential opposition and understand there is a way forward. Extensive economic and financial limitations, energy price pressure, military containment, and political isolation must be combined with military support for Ukraine to establish the leverage that can slow if not stop the invasion and build toward a diplomatic not a “diktat” outcome. Meanwhile, subsidized energy supplies for Europe and to drive down energy prices have to be provided, and soon.
+
+The end result must be respectful, fair, and balanced for the people of Russia and for all other parties. It will take wisdom, time, sacrifice, and persistence. To get there, the U.S. must lead, help to finance, and participate extensively in an international coalition — through the United Nations if possible, outside it if necessary — and listen to all like-minded states.
+
+BRUCE RIEDEL
+
+Senior Fellow, Center for Middle East Policy and Center for Security, Strategy, and Technology, and Director, The Intelligence Project
+
+Syria is Russia’s closest and most consistent ally in the Middle East. Russian military intervention in 2015 saved Bashar Assad from defeat in the civil war. The crisis in Ukraine is an immediate and significant question for the Assad regime; it must stand with Moscow even if this complicates its own multiple overlapping wars at home. Syria is where Russian-American tensions in Europe may find a Middle East venue.
+
+Russia’s defense minister visited Syria earlier this month, including a stop at Russia’s air base near Latakia. Later Damascus followed Moscow’s lead in recognizing the independence of the two breakaway regions in eastern Ukraine within hours. Assad clearly wants to show Putin that Syria is totally behind him.
+
+Syria signed its first arms deal with the Soviet Union in 1956. When Hafez Assad took power in 1970 he gave the Soviets access to a naval base in Tarsus on the Mediterranean Sea. Hafez said his role model for a good leader was Joseph Stalin.
+
+His son Bashar relies on Russian military support to stay in power. At least 10,000 Russian troops are in the country. The Russian and Syrian Air Force have begun flying joint patrols along Syria’s borders including near the Israel-controlled Golan Heights. There is a risk that Israeli Air Force strikes against Hezbollah and Iranian targets in Syria could now escalate to dogfights with the Russians. The U.S. also flies missions in Syria and has troops on the ground to combat the Islamic State group. Amidst confrontation over Ukraine, spillover into Syria is a growing possibility.
+
+Natan Sachs (@natansachs)
+
+Fellow and Director, Center for Middle East Policy
+
+The war in Ukraine heightens a dilemma for America’s Middle Eastern partners: how to promote their interests with Russia and China, while not angering the United States. Israel exemplifies this: Its partnership with the United States is a top strategic priority, but it also has clear and immediate interest in cooperating with Russia, since Moscow’s air force dominates Syria’s airspace, to Israel’s immediate north.
+
+Israel attempted neutrality in 2014 on Russia’s annexation of Crimea. The Israeli delegation was absent from a United Nations vote condemning Russian actions. Then-Foreign Minister Avigdor Lieberman told Israel’s Russian-language TV Channel 9: “I don’t understand the idea that Israel has to get mired in this.” An irate, though private, American response changed the Israeli stance over time, but the episode left a scar.
+
+This week, Israel chose a different path, but not without trepidation. Israeli Foreign Minister Yair Lapid officially condemned “the Russian attack on Ukraine,” calling it “a serious violation of the international order.” Russia took note. Prime Minister Naftali Bennett has been more circumspect, voicing his sympathy for innocent Ukrainian citizens but avoiding any mention of Russia.
+
+Israel is correct to realize the importance of the Ukraine crisis to the Unites States, leaving Israel with little choice: It must prioritize its relationship with America and the international order. Like many countries, however, Israel still hopes to clear the bar with the bare minimum, with one eye set on Washington and another set on Moscow.
+
+CONSTANZE STELZENMÜLLER (@ConStelz)
+
+Senior Fellow, Center on the United States and Europe and Fritz Stern Chair on Germany and trans-Atlantic Relations
+
+The Russia crisis is a teachable moment for Germany’s new center-left government, which also represents a generational shift in German politics. This morning, when Europe woke up to the news of the Kremlin’s invasion of Ukraine, Chancellor Olaf Scholz condemned “this ruthless act by President Putin,” adding that Germany stands in solidarity with Ukraine and its people. Scholz had already suspended the certification of the controversial Nord Stream 2 pipeline; while that may sound legalistic and temporary, the brutality of the Kremlin’s actions today means the project is effectively dead. The leadership of Scholz‘s Social Democratic Party (SPD), which had before been inclined to sympathy for Russian narratives of victimhood and encirclement by NATO, has swung round hard. Lars Klingbeil, the 44-year-old party co-chair, said that Ukraine’s sovereignty and freedom to choose its alliances are not negotiable. Annalena Baerbock, the 40-year-old Green foreign minister, called out the Kremlin’s threats early on and demonstrated her support for Kyiv by visiting the Ukrainian frontline.
+
+Still, this newfound realism will come under immense pressure in the months to come. Gas prices are spiking and the stock markets are tanking. Inflation is likely to rise even higher. And the German economy will bear the brunt of the burden of financial sanctions and export controls.
+
+All this will increase public apprehension about the costs of the conflict for Europe and Germany, and it will become a test for the convictions and the stamina of this as yet mostly untested German government.
+
+Caitlin Talmadge (@ProfTalmadge)
+
+Nonresident Senior Fellow, Center for Security, Strategy, and Technology
+
+Putin’s pointed, not-veiled nuclear threats are remarkable, signaling a willingness to turn to the country’s arsenal if the West interferes with the Russian invasion of Ukraine. This constitutes worrying evidence in favor of the so-called Stability-Instability Paradox: the notion that mutual vulnerability at the strategic nuclear level can actually make conflict more likely at lower rungs of the escalation ladder.
+
+Deterrence theorists often dismiss this idea, arguing that nuclear stalemate means both sides will avoid crises and conflicts out of the fear they could escalate. The result should be peace, stability, and less military competition. Yet Putin’s behavior suggests that revisionist actors are not so inhibited and may instead use their strategic nuclear forces as a shield behind which they can pursue conventional aggression, knowing their nuclear threats may deter outside intervention.
+
+Notably, of course, Ukraine is not a member of NATO, nor a U.S. treaty ally. But then neither is Taiwan. So those who believe that nuclear stalemate is going to keep the peace in the Strait need to do some hard thinking about why it hasn’t kept the peace in Eastern Europe. China, in fact, is developing the same types of forces that Putin references in his remarks: not only a survivable second-strike capability, but also theater nuclear forces suited for limited strikes for coercive escalation. This is not a coincidence.
+
+SHIBLEY TELHAMI (@ShibleyTelhami)
+
+Nonresident Senior Fellow, Center for Middle East Policy
+
+The immediate consequence of Russian aggression is the devastating tragedy for the Ukrainian people. But the post-Cold War order is also a casualty. Its breakdown has had many authors, not the least of which is Putin’s ambition, witnessed long before this invasion. But the U.S. role has been central too; a 2021 poll in 53 countries found the U.S. is seen as bigger threat to democracy than Russia and China.
+
+Emerging as the sole superpower, the U.S. failed to help build an inclusive order. Instead, Washington has flaunted American power, as it did in expanding NATO into former Soviet-orbit states. But American policy in the Middle East takes a lion’s share in undermining a rules-based order.
+
+The first major event of post-Cold War was Iraq’s 1990 invasion of Kuwait. The U.S. secured Soviet backing at the United Nations for war against their erstwhile partner in Baghdad. U.S. victory, however, resulted in building U.S. regional power, at Russia’s expense. The devastating U.S.-led 2003 Iraq war, without U.N. support, stands out as a blatant violation of norms under false pretext that infuriated many, including Putin. In 2011, NATO got Russian acquiescence for limited action against Libya, but went well beyond its mandate. The U.S. has continued to give cover to Israeli violation of international norms in Palestinian territories and embraced Israel’s annexation of the Golan Heights. And President Donald Trump unilaterally withdrew from the Iran nuclear deal.
+
+While our focus must start with helping Ukraine and resisting Putin, the moment begs introspection.
+
+DAVID G. VICTOR
+
+Nonresident Senior Fellow, Energy Security and Climate Initiative
+
+Russia’s invasion of Ukraine will cause massive long-term harm to the country’s crown economic jewels: oil and gas production. Throughout the Soviet era, as Western Europe became more dependent on imported gas, analysts always worried that the gas weapon might be wielded. In reality, supplies proved reliable and prices, for the most part, reasonable. Russian exporters and Western importers, it was assumed, has discovered a stable, common interest in reliable supply. The current crisis in Ukraine is the latest and most visible evidence that all those old assumptions are no longer valid.
+
+Weaning Europe off Russian gas will take a while, of course, because transformations in energy systems don’t happen quickly. But Putin has done something extraordinary that no Western leader could do. He united the West around sanctions. As Mike O’Hanlon and I have argued swift and painful sanctions are essential. Sure, as time drags on the sanctions will splinter and special interests will appear here and there, eroding the impacts. But the main effect is signal to Western companies that, going forward, Russia is toxic and risky — politically and legally. That harm won’t disappear any time soon.
+
+Russia’s vulnerability is the need for technology and markets, especially for lucrative liquefied natural gas exports. Russian tax policy already encourages state firms to lower dependence on Western technology, but those efforts go only so far. Isolation is the new norm, and with even stronger sanctions — including antitrust action against Russian gas exporters — the harms will grow.
+
+Andrew Yeo (@AndrewIYeo)
+
+Senior Fellow, Center for East Asia Policy Studies and SK-Korea Foundation Chair in Korean Studies
+
+The Biden administration released its Indo-Pacific strategy exactly two weeks ago. Russia’s invasion of the Ukraine has now forced the U.S. to shift its full attention to Europe.
+
+Although the crisis in Ukraine directly affects European security, its effects will ripple across the Indo-Pacific region. China is unlikely to follow Russia’s power play and attack any of its neighbors any time soon. However, Russia’s willingness to wage open war on Ukraine — hard to believe until yesterday — will weigh on the minds of Asian policymakers as they make decisions about boosting their own defense spending, seeking security guarantees from the U.S., and joining multilateral security coalitions. Critics of Washington’s “military-first” approach to the region, and experts calling for a stronger economic component to the Indo-Pacific strategy may now find themselves competing with voices to strengthen defense and deterrence capabilities in places like Taiwan. In South Korea, which will hold presidential elections in 12 days, a candidate’s position on defense and security issues may now actually weigh on voters’ minds as they see images of Russian artillery and fighter jets bombarding Ukraine.
+
+The Indo-Pacific strategy may be an afterthought as the Ukrainian crisis unfolds. Nevertheless, the conflict in Europe will have a bearing on how Asian policymakers think about their own security in the wake of Chinese assertiveness and Beijing’s sovereignty claims in Asia.",https://www.brookings.edu/blog/order-from-chaos/2022/02/25/around-the-halls-implications-of-russias-invasion-of-ukraine/

@@ -1,0 +1,481 @@
+,uid,article_author,article_date,article_text,article_url
+0,834e9848-6240-44ac-80fc-a191bff17485,[],2022-02-23 00:00:00,"Figurines with computers and smartphones are seen in front of the words ""Cyber Attack"", binary codes and the Ukrainian flag, in this illustration taken February 15, 2022. REUTERS/Dado Ruvic/Illustration/File Photo
+
+LONDON/KYIV, Feb 23 (Reuters) - A newly discovered piece of destructive software found circulating in Ukraine has hit hundreds of computers, according to researchers at the cybersecurity firm ESET, part of what Ukrainian officials said was an intensifying wave of hacks aimed at the country.
+
+The company said on Twitter that the data wiping program had been installed on hundreds of machines in the country, an attack it said had likely been in the works for the past couple of months.
+
+Vikram Thakur of cybersecurity firm Symantec, which is also looking into the incident, told Reuters that infections had spread outside Ukraine.
+
+Register now for FREE unlimited access to Reuters.com Register
+
+""We see activity across Ukraine and Latvia,"" Thakur said. A Symantec spokesperson later added Lithuania.
+
+Who is responsible for the wiper is unclear, although suspicion immediately fell on Russia, which has repeatedly been accused of launching data-scrambling hacks against Ukraine and other countries. Russia has denied the allegations.
+
+The victims in Ukraine included a government agency and a financial institution, according to three people who studied the malware since its release.
+
+The new cyberattack required existing access to function, meaning those computer networks were already compromised, said Juan-Andres Guerrero-Saade, a cybersecurity researcher at digital security firm SentinelOne.
+
+""In order to push this, they would have already needed domain admin. They basically owned the entire enterprise. The entire network. So, they didn't have to do this. This was meant to damage, disable, signal and cause havoc,"" said Guerrero-Saade.
+
+Researchers found that the wiping software appeared to have been digitally signed with a certificate issued to an obscure Cypriot company called Hermetica Digital Ltd.
+
+Because operating systems use code-signing as an initial check on software, such a certificate might have been designed to help the rogue program dodge anti-virus protections. Getting such a certificate under false pretences - or stealing it - isn't impossible, but it is generally the sign of a ""sophisticated and targeted"" operator, said Brian Kime, a vice president at U.S. cybersecurity firm ZeroFox.
+
+Contact details for Hermetica - which was set up in the Cypriot capital, Nicosia, almost a year ago, were not immediately available. The company did not appear to have a website.
+
+Earlier on Wednesday the websites of Ukraine's government, foreign ministry and state security service were down in what the government said was another denial of service (DDoS) attack.
+
+""At about 4 p.m., another mass DDoS attack on our state began. We have relevant data from a number of banks,"" said Mykhailo Fedorov, Minister of Digital Transformation, adding that the parliament website was also hit.
+
+He did not say which banks were affected and the central bank could not immediately be reached for comment.
+
+""Cyber is now simply a component of hybrid warfare,"" said Guerrero-Saade.
+
+Ukraine's data protection watchdog said hacks were on the upswing.
+
+""Phishing attacks on public authorities and critical infrastructure, the spread of malicious software, as well as attempts to penetrate private and public sector networks and further destructive actions have intensified,"" it said in an email.
+
+Last week, the online networks of Ukraine's defence ministry and two banks were overwhelmed in a separate intrusion. The U.S. company Netscout Systems Inc (NTCT.O) later said the impact had been modest. read more
+
+U.S. Senate Intelligence Committee Chairman Mark Warner, speaking to Reuters before news of the wiper was made public, said the denial of services actions against Ukraine were still ""well short of what Russia could potentially unleash.""
+
+Ukraine has suffered a drumbeat of digital assaults that Kyiv and others have blamed on Russia since 2014 when Moscow annexed the Crimean peninsula and backed a separatist rebellion in eastern Ukraine. The Kremlin has denied any involvement.
+
+Register now for FREE unlimited access to Reuters.com Register
+
+Reporting by Christopher Bing and Jonathan Landay in Washington; Maria Tsvetkova and Natalia Zinets in Kyiv; and James Pearson and Raphael Satter in London; Writing by Raphael Satter; Editing by Alex Richardson, Grant McCool and Daniel Wallis
+
+Our Standards: The Thomson Reuters Trust Principles.",https://www.reuters.com/world/europe/ukrainian-government-foreign-ministry-parliament-websites-down-2022-02-23/
+1,834e9848-6240-44ac-80fc-a191bff17485,[],2022-02-24 00:00:00,"This Thursday morning, Russia started its invasion on Ukraine and, as predicted, the attacks in the physical world have been preceded and accompanied by cyber attacks:
+
+Renewed DDoS attacks have been launched against websites Ukrainian government agencies and banks
+
+New data wiper malware has been discovered on Ukrainian computers, as well as machines in Latvia and Lithuania
+
+Researchers have identified a web service hosting cloned copies of a number of Ukrainian government websites and the main webpage of the Office of the President, booby-trapped with malware
+
+Also, UK’s National Cyber Security Centre (NCSC) and the US Cybersecurity and Infrastructure Security Agency (CISA) have released details about a new malware targeting network devices, which they attributed to Sandworm (aka BlackEnergy), a threat actor that those agencies have previously attributed to the Russian GRU’s Main Centre for Special Technologies GTsST.
+
+The DDoS attacks
+
+This latest round of DDoS attacks started on Wednesday afternoon. As before, the targets were the websites of several Ukrainian banks and government agencies, including those of the Ukrainian Ministry of Defence, the Ministry of Foreign Affairs, the Ukrainian parliament, and the Security Service of Ukraine.
+
+All except the last are currently accessible. Traffic directed to the website of the Ukrainian Ministry of Defence is passing through Cloudflare’s filters first. Access to Privatbank’s website is also moderated by a set-up aimed at thwarting bots.
+
+Privatbank is working for me now, although the ""Human Verification"" page doesn't remember me when I refresh, which suggests a very aggressive bot-checking feature that's probably smart. But now the website of Ukraine's SBU (their FBI) is also down. https://t.co/TmdikUdpIU — Eric Geller (@ericgeller) February 23, 2022
+
+A new data wiper: HermeticWiper
+
+ESET researchers have discovered on Wednesday a new data wiper malware used in Ukraine.
+
+“ESET telemetry shows that it was installed on hundreds of machines in the country. This follows the DDoS attacks against several Ukrainian websites earlier today,” the company shared.
+
+Dubbed HermeticWiper, the malware has also been spotted by Symantec researchers.
+
+New #wiper malware being used in attacks on #Ukraine
+
+1bc44eef75779e3ca1eefb8ff5a64807dbc942b1e4a2672d77b9f6928d292591 — Threat Intelligence (@threatintel) February 23, 2022
+
+The victim organizations outside Ukraine appear to be Ukrainian government contractors with presences in those countries, per Symantec's Vikram Thakur. — Dustin Volz (@dnvolz) February 23, 2022
+
+According to ESET, the wiper binary has been signed with a legitimate code signing certificate (possibly compromised), abuses legitimate drivers from the EaseUS Partition Master software to corrupt the data, and then finally reboots the target computer.
+
+“In one of the targeted organizations, the wiper was dropped via the default (domain policy) GPO meaning that attackers had likely taken control of the Active Directory server,” the company also added.
+
+Cloned copies of Ukrainian government websites
+
+Independent threat researcher Snorre Fagerland, Bellingcat and The Insider have unearthed a web service that “has played a role in past cyber-attacks linked to Russian state interests,” and found hosted on it cloned copies of a number of Ukrainian government websites.
+
+“These cloned websites were created no earlier than November 2021, around the time when Russia’s latest round of escalations against Ukraine began,” Bellingcat said.
+
+“Notably the cloned version of the site of the Ukrainian president is modified to contain a clickable ‘Support the President’ campaign that, once clicked, downloads a package of malware to the user’s computer.”
+
+How these cloned websites would have been used is, of course, impossible to know, though the researchers found copied login pages that point toward phishing.
+
+They also speculated about the malware’s ultimate goals, such as compromising the machines of tens or hundreds of thousands of Ukrainians and using them for DDoS attacks, and stealing credentials for social media accounts, for future use in online disinformation campaigns.
+
+“There is no evidence that the infrastructure and malware behind [this web service] was used or linked to today’s cyber attacks experienced by Ukrainian government institutions,” Bellingcat researchers noted.
+
+They also added that during the last two months, “the same threat actors were sending malware in over 35 different zip files via discord links,” aimed at high-value Ukrainian targets in the various ministries and the country’s nuclear agency.
+
+Cyclops Blink malware “replaces” VPNFilter
+
+The NCSC and the CISA have released details about Cyclops Blink, a new piece of malware targeting network devices that is ostensibly being used by the Sandworm threat actor.
+
+“Cyclops Blink appears to be a replacement framework for the VPNFilter malware exposed in 2018, which exploited network devices, primarily small office/home office (SOHO) routers, and network attached storage (NAS) devices,” the NCSC said.
+
+“The actor has so far primarily deployed Cyclops Blink to WatchGuard [firewall] devices, but it is likely that Sandworm would be capable of compiling the malware for other architectures and firmware.”
+
+The malware collects device information, sends it to a command and control server, and is capable of downloading and executing files, as well as getting additional modules at a later date.
+
+The most interesting thing about this malware is its persistence mechanism: the devices’ legitimate device firmware update process:
+
+Cyclops Blink persistence throughout the legitimate update process
+
+“This achieves persistence when the device is rebooted and makes remediation harder,” the NCSC noted.
+
+More technical details about Cyclops Blink and indicators of compromise are available here. WatchGuard has also released a FAQ about it, a diagnosis and remediation plan, and detection tools.
+
+“Following a thorough investigation, WatchGuard believes that the threat actor used a previously identified and patched vulnerability that was accessible only when firewall appliance management policies were configured to allow unrestricted management access from the Internet. This vulnerability was fully addressed by security fixes that started rolling out in software updates in May 2021,” the company noted.
+
+WatchGuard was first informed by the FBI about the attack against its devices in late November 2021, so this widespread compromise does not seem to linked to the current situation in Ukraine. Nevertheless, given its alleged source, it might be a preparation for future attacks that may yet happen during this unfolding military conflict.
+
+What to expect next?
+
+Chester Wisniewski, Principal Research Scientist at Sophos, has pointed out that information warfare is how the Kremlin can try to control the rest of the world’s response to actions in Ukraine or any other target of attack.
+
+“False flags, misattribution, disrupted communications, and social media manipulation are all key components of Russia’s information warfare playbook. They don’t need to create a permanent cover for activities on the ground and elsewhere, they simply need to cause enough delay, confusion and contradiction to enable other simultaneous operations to accomplish their objectives,” he told Help Net Security.
+
+“Interestingly, the United States and United Kingdom are trying to preempt some of the misinformation campaigns, and this could limit their effectiveness. However, we shouldn’t assume the attackers will stop trying, so we need to remain prepared and vigilant.”
+
+“While defense-in-depth security should be the normal thing to strive for at the best of times, it is especially important if we can expect an increase in the frequency and severity of attacks. The misinformation and propaganda will soon reach a fever pitch, but we must keep our nose to the ground, batten down the hatches and monitor for anything unusual on our networks as the conflict cycles ebb and flow and even when/if they end soon. Because as we all know, it could take months for evidence of digital intrusions due to this Russian-Ukrainian conflict to surface.”",https://www.helpnetsecurity.com/2022/02/24/cyber-attacks-ukraine/
+2,834e9848-6240-44ac-80fc-a191bff17485,[],,"Cyber security firm SEON has come up with a snapshot of how the threat of cyber crime differs around the world, ranking countries that are most and least vulnerable.
+
+Credit: Dreamstime
+
+The risk of cyber crime is not spread equally across the globe. Cyber threats differ widely, with internet users in some countries at much higher risk than those in nations that offer more security due to strong cyber crime legislation and widely implemented cyber security programs, according to fraud-detection software company SEON.
+
+SEON combined data from a variety of cyber security indices and indicators to come up with a global ranking of countries that are least and most at risk of cyber crime. Cyber security for internet users is strongest in Denmark, where people are protected from cyber crime through both legislation and technology, according to the SEON ranking. It is followed, in order, by Germany and the US.
+
+How cyber security rankings were determined
+
+To arrive at its Global Cyber Safety Index, SEON first collected data from the National Cyber Security Index (NCSI), which ranks every country based on the strength of their cyber security measures.
+
+The company then took data from a similar ranking, the Global Cybersecurity Index 2020, which also ranked countries based on their respective cyber security practices. Data from both of these sources were used since they used different criteria to rank each country.
+
+SEON also used the Basel AML Index: 9th Edition, which ranks countries based on the risk of money laundering and terrorist financing. This illegal activity is most commonly done digitally, so it is a good indicator of how well-policed and secure the internet is in each country.
+
+To come up with its overall ranking, SEON also took into account the Cybersecurity Exposure Index (CEI) 2020, which measures how at-risk internet users are in each country. In addition to these various indices, SEON looked at the strength of cyber crime legislation in each country.
+
+“We assigned each country one point for each piece of legislation, and half a point if the legislation was only in draft form,"" says Gergo Varga, author of the report. ""We then added an extra point for each regulatory category that this covered, thereby including the coverage of legislation as a part of the scoring process. The scores from all of these factors were converted into a single, equally-weighted score out of 10.""
+
+The lowest-risk countries for cyber threats
+
+At the top of the ranking for most cyber secure countries, Denmark secured an overall cyber safety score of 8.91, doing particularly well on the Cybersecurity Exposure Index, where it scored just 0.117.
+
+Germany had a cyber safety score of 8.76, while the US scored 8.73. The relatively overall high rank for US was due in part to its first place score in the Global Cybersecurity Index, while also ranking well in terms of overall cyber security exposure and strong legislation.
+
+Other countries that made it to the top 10 of most secure countries were, in order of ranking, Norway, the UK, Canada, Sweden, Australia, Japan and Netherlands.
+
+At the other end of the scale are the countries that offer the least protection against cyber crime. These countries have very weak legislation regarding cyber crime or even none at all, and therefore carry the greatest risk to transactions that involve personal information, the report said.
+
+The highest-risk countries for cyber threats
+
+
+
+Myanmar has the worst ranking for internet safety, scoring just 2.22 on SEON’s Global Cyber-Safety Index. The country scored poorly across the board, especially in terms of legislation, as hardly any has been enacted to put barriers in the way of cyber criminals.
+
+“Based on the methodology of the report, most of the rationale behind the risk ranking comes down to legislation and an involved government infrastructure focused on regulation and enforcement,” said Liz Miller, a vice president at Constellation Research.
+
+“But if we are being honest, a regulatory environment will only get you so far, for example, even if a country has passed or is in the process of passing legislation around consumer privacy or digital safety, if there are no real ramifications or consequences to those crimes, be it for the criminals executing those crimes or for businesses who refuse to invest in compliance or those who purposefully ignore privacy and safety regulations … then what? You have a piece of paper with great intentions and no teeth,” Miller added.
+
+Cambodia follows Myanmar with a cyber safety score of 2.67, the second-worst overall score in the SEON rankings. Cambodia performs marginally better than Myanmar in every metric other than the Global Cybersecurity Index.
+
+Honduras takes third place with a score of 3.13. The Central American country scored lowest on the Global Cybersecurity Index of any in the study while performing poorly in all other areas. However, Honduras does perform twice as well as Myanmar and Cambodia in terms of anti-cybercrime legislation.
+
+The other countries in the list of those most at risk of cyber threats are (from most at risk to least): Bolivia, Mongolia, Algera, Zimbabwe, Nicaragua, Bosnia-Herzegovina, and El Salvador.
+
+Most common forms of cyber crime
+
+
+
+The SEON report also focuses on the most commonly reported cyber crimes of 2020. It said that phishing emails and pharming are the top online threat to US internet users, accounting for 32.9 per cent of all reported cyber crime in the country in 2020. Phishing and pharming refer to the fraudulent practice of luring people into revealing personal information, such as passwords, login details and credit card numbers.
+
+The second most common type of cybercrime was non-payment and non-delivery, which was reported 108,869 times and made up 14.9 per cent of cyber crimes in the US. Non-payment refers to a buyer not paying for goods or services received, while non-delivery refers to the failure to deliver goods or services that have been paid for.
+
+Extortion is the third most common form of cybercrime, with 76,741 reported incidents in 2020 in the US, reflecting 10.4 per cent of all cyber crime in the country. Extortion comes in several forms, with the most common being the use of ransomware to seize access to files and devices, followed by a demand for money, cryptocurrency, gift cards or any other form of payment.
+
+Strong security requires resources
+
+To really dig into why some countries may be at higher risk than others, resources and the wealth of targets need to be considered, Constellation Research's Miller said. Security requires resources that some organisations in some countries may not have access to, be it the budget to implement proactive protection measures or the talent and time to staff security teams and operations.
+
+Companies that lack resources may also prioritise operations over security and that, according to Miller, creates an environment that is opportunistic for bad actors looking to exploit vulnerabilities.
+
+Countries that are most at risk should take steps toward regulation and public education, Miller says.
+
+“The average consumer simply does not see themselves as part of the vulnerability supply chain, with some calling for the government to resolve these issues of faceless strangers lurking in basements wearing hoodies. But we all know that the faceless hoodie guy didn’t click the link in the email that really didn’t come from the bank,” Miller says.
+
+If a government is truly serious about addressing threats, partnerships will be key, Miller says. The public and private sectors will need to come together on solutions and shared intelligence for the purpose of early detection and rapid mitigation in order to stay ahead of bad actors.",https://www.arnnet.com.au/article/693057/which-countries-most-least-risk-cyber-crime/
+3,834e9848-6240-44ac-80fc-a191bff17485,['Elizabeth Fichtner'],,"By Elizabeth Fichtner
+
+Cyber attacks are increasingly common, and according to the Cisco Annual Cybersecurity Report, attackers can launch campaigns without human intervention with the advent of network-based ransomware worms.
+
+A cyber attack is when an individual or an organization deliberately and maliciously attempts to breach the information system of another individual or organization. While there is usually an economic goal, some recent attacks show destruction of data as a goal.
+
+Malicious actors often look for ransom, or other kinds of economic gain, but attacks can be perpetrated with an array of motives, including political activism purposes.
+
+
+
+Top 10 Common Types of Cybersecurity Attacks
+
+1. Malware
+
+The term “malware” encompasses various types of attacks including spyware, viruses, and worms. Malware uses a vulnerability to breach a network when a user clicks a “planted” dangerous link or email attachment, which is used to install malicious software inside the system.
+
+Malware and malicious files inside a computer system can:
+
+Deny access to the critical components of the network
+
+Obtain information by retrieving data from the hard drive
+
+Disrupt the system or even render it inoperable
+
+Malware is so common that there is a large variety of modus operandi. The most common types being:
+
+Viruses —these infect applications attaching themselves to the initialization sequence. The virus replicates itself, infecting other code in the computer system. Viruses can also attach themselves to executable code or associate themselves with a file by creating a virus file with the same name but with an .exe extension, thus creating a decoy which carries the virus.
+
+—these infect applications attaching themselves to the initialization sequence. The virus replicates itself, infecting other code in the computer system. Viruses can also attach themselves to executable code or associate themselves with a file by creating a virus file with the same name but with an .exe extension, thus creating a decoy which carries the virus. Trojans —a program hiding inside a useful program with malicious purposes. Unlike viruses, a trojan doesn’t replicate itself and it is commonly used to establish a backdoor to be exploited by attackers.
+
+—a program hiding inside a useful program with malicious purposes. Unlike viruses, a trojan doesn’t replicate itself and it is commonly used to establish a backdoor to be exploited by attackers. Worms —unlike viruses, they don’t attack the host, being self-contained programs that propagate across networks and computers. Worms are often installed through email attachments, sending a copy of themselves to every contact in the infected computer email list. They are commonly used to overload an email server and achieve a denial-of-service attack.
+
+—unlike viruses, they don’t attack the host, being self-contained programs that propagate across networks and computers. Worms are often installed through email attachments, sending a copy of themselves to every contact in the infected computer email list. They are commonly used to overload an email server and achieve a denial-of-service attack. Ransomware —a type of malware that denies access to the victim data, threatening to publish or delete it unless a ransom is paid. Advanced ransomware uses cryptoviral extortion, encrypting the victim’s data so that it is impossible to decrypt without the decryption key.
+
+—a type of malware that denies access to the victim data, threatening to publish or delete it unless a ransom is paid. Advanced ransomware uses cryptoviral extortion, encrypting the victim’s data so that it is impossible to decrypt without the decryption key. Spyware—a type of program installed to collect information about users, their systems or browsing habits, sending the data to a remote user. The attacker can then use the information for blackmailing purposes or download and install other malicious programs from the web.
+
+2. Phishing
+
+Phishing attacks are extremely common and involve sending mass amounts of fraudulent emails to unsuspecting users, disguised as coming from a reliable source. The fraudulent emails often have the appearance of being legitimate, but link the recipient to a malicious file or script designed to grant attackers access to your device to control it or gather recon, install malicious scripts/files, or to extract data such as user information, financial info, and more.
+
+Phishing attacks can also take place via social networks and other online communities, via direct messages from other users with a hidden intent. Phishers often leverage social engineering and other public information sources to collect info about your work, interests, and activities—giving attackers an edge in convincing you they’re not who they say.
+
+There are several different types of phishing attacks, including:
+
+Spear Phishing —targeted attacks directed at specific companies and/or individuals.
+
+—targeted attacks directed at specific companies and/or individuals. Whaling —attacks targeting senior executives and stakeholders within an organization.
+
+—attacks targeting senior executives and stakeholders within an organization. Pharming—leverages DNS cache poisoning to capture user credentials through a fake login landing page.
+
+Phishing attacks can also take place via phone call (voice phishing) and via text message (SMS phishing). This post highlights additional details about phishing attacks—how to spot them and how to prevent them.
+
+3. Man-in-the-Middle (MitM) Attacks
+
+Occurs when an attacker intercepts a two-party transaction, inserting themselves in the middle. From there, cyber attackers can steal and manipulate data by interrupting traffic.
+
+
+
+
+
+This type of attack usually exploits security vulnerabilities in a network, such as an unsecured public WiFi, to insert themselves between a visitor’s device and the network. The problem with this kind of attack is that it is very difficult to detect, as the victim thinks the information is going to a legitimate destination. Phishing or malware attacks are often leveraged to carry out a MitM attack.
+
+4. Denial-of-Service (DOS) Attack
+
+DoS attacks work by flooding systems, servers, and/or networks with traffic to overload resources and bandwidth. The result is rendering the system unable to process and fulfill legitimate requests. In addition to denial-of-service (DoS) attacks, there are also distributed denial-of-service (DDoS) attacks.
+
+DoS attacks saturate a system’s resources with the goal of impeding response to service requests. On the other hand, a DDoS attack is launched from several infected host machines with the goal of achieving service denial and taking a system offline, thus paving the way for another attack to enter the network/environment.
+
+The most common types of DoS and DDoS attacks are the TCP SYN flood attack, teardrop attack, smurf attack, ping-of-death attack, and botnets.
+
+5. SQL Injections
+
+This occurs when an attacker inserts malicious code into a server using server query language (SQL) forcing the server to deliver protected information. This type of attack usually involves submitting malicious code into an unprotected website comment or search box. Secure coding practices such as using prepared statements with parameterized queries is an effective way to prevent SQL injections.
+
+When a SQL command uses a parameter instead of inserting the values directly, it can allow the backend to run malicious queries. Moreover, the SQL interpreter uses the parameter only as data, without executing it as a code. Learn more about how secure coding practices can prevent SQL injection here.
+
+6. Zero-day Exploit
+
+A Zero-day Exploit refers to exploiting a network vulnerability when it is new and recently announced — before a patch is released and/or implemented. Zero-day attackers jump at the disclosed vulnerability in the small window of time where no solution/preventative measures exist. Thus, preventing zero-day attacks requires constant monitoring, proactive detection, and agile threat management practices.
+
+7. Password Attack
+
+Passwords are the most widespread method of authenticating access to a secure information system, making them an attractive target for cyber attackers. By accessing a person’s password, an attacker can gain entry to confidential or critical data and systems, including the ability to manipulate and control said data/systems.
+
+Password attackers use a myriad of methods to identify an individual password, including using social engineering, gaining access to a password database, testing the network connection to obtain unencrypted passwords, or simply by guessing.
+
+The last method mentioned is executed in a systematic manner known as a “brute-force attack.” A brute-force attack employs a program to try all the possible variants and combinations of information to guess the password.
+
+Another common method is the dictionary attack, when the attacker uses a list of common passwords to attempt to gain access to a user’s computer and network. Account lockout best practices and two-factor authentication are very useful at preventing a password attack. Account lockout features can freeze the account out after a number of invalid password attempts and two-factor authentication adds an additional layer of security, requiring the user logging in to enter a secondary code only available on their 2FA device(s).
+
+8. Cross-site Scripting
+
+A cross-site scripting attack sends malicious scripts into content from reliable websites. The malicious code joins the dynamic content that is sent to the victim’s browser. Usually, this malicious code consists of Javascript code executed by the victim’s browser, but can include Flash, HTML, and XSS.
+
+Additional information about cross-site scripting attacks can be found here.
+
+9. Rootkits
+
+Rootkits are installed inside legitimate software, where they can gain remote control and administration-level access over a system. The attacker then uses the rootkit to steal passwords, keys, credentials, and retrieve critical data.
+
+Since rootkits hide in legitimate software, once you allow the program to make changes in your OS, the rootkit installs itself in the system (host, computer, server, etc.) and remains dormant until the attacker activates it or it’s triggered through a persistence mechanism. Rootkits are commonly spread through email attachments and downloads from insecure websites.
+
+10. Internet of Things (IoT) Attacks
+
+While internet connectivity across almost every imaginable device creates convenience and ease for individuals, it also presents a growing—almost unlimited—number of access points for attackers to exploit and wreak havoc. The interconnectedness of things makes it possible for attackers to breach an entry point and use it as a gate to exploit other devices in the network.
+
+IoT attacks are becoming more popular due to the rapid growth of IoT devices and (in general) low priority given to embedded security in these devices and their operating systems. In one IoT attack case, a Vegas casino was attacked and the hacker gained entry via an internet-connected thermometer inside one of the casino’s fishtanks.
+
+Best practices to help prevent an IoT attack include updating the OS and keeping a strong password for every IoT device on your network, and changing passwords often.
+
+The Bottom Line
+
+The complexity and variety of cyberattacks is ever increasing, with a different type of attack for every nefarious purpose. While cybersecurity prevention measures differ for each type of attack, good security practices and basic IT hygiene are generally good at mitigating these attacks.
+
+In addition to implementing good cybersecurity practices, your organization should exercise secure coding practices, keep systems and security software up to date, leverage firewalls and threat management tools and solutions, install antivirus software across systems, control access and user privileges, backup systems often, and proactively watch for breached systems with a managed detection and response service.
+
+Request a demo to see how Datto helps security teams expose, isolate, investigate, and eliminate sophisticated cyber threats and vulnerabilities.",https://www.datto.com/blog/cybersecurity-101-intro-to-the-top-10-common-types-of-cybersecurity-attacks
+4,834e9848-6240-44ac-80fc-a191bff17485,[],,"Hi! You've reached one of our premium articles. This is available exclusively to subscribers.
+
+It's free to register, and only takes a few minutes.
+
+Once you sign up you'll have unlimited access to the full catalogue of Australia's best business IT content, as well as a daily news bulletin delivered straight to your inbox.
+
+Already have an account? Log in to read this article.",https://www.itnews.com.au/news/ukraine-says-another-cyber-attack-downs-state-websites-and-banks-576468
+5,834e9848-6240-44ac-80fc-a191bff17485,"['Jonathan Greig', 'Staff Writer']",,"Ukraine's State Service of Special Communications and Information Protection said a number of government websites and banks are dealing with a ""massive DDoS attack"" as the country prepares for a potential invasion by Russian-backed forces.
+
+The websites for the Ministry of Foreign Affairs, Ministry of Defense, Ministry of Internal Affairs, Security Service (SBU) and Cabinet of Ministers all faced outages confirmed both by the State Service of Special Communications and Information Protection and Netblocks, an organization tracking internet outages around the world.
+
+⚠️ Confirmed: #Ukraine's Ministry of Foreign Affairs, Ministry of Defense, Ministry of Internal Affairs, the Security Service of Ukraine and Cabinet of Ministers websites have just been impacted by network disruptions; the incident appears consistent with recent DDOS attacks 📉 pic.twitter.com/EVyy7mzZRr — NetBlocks (@netblocks) February 23, 2022
+
+PrivatBank, the largest commercial bank in Ukraine, and Oschadbank, the State Savings Bank of Ukraine, both dealt with outages too.
+
+Cloudflare told ZDNet that they have seen sporadic DDoS activity in Ukraine.
+
+""We've seen more DDoS activity this week than last week, but less than a month ago. There have been attacks against individual websites in Ukraine which have been disruptive,"" a Cloudflare spokesperson said.
+
+""So far they have been relatively modest compared to large DDoS attacks we've handled in the past.""
+
+Netblocks
+
+""Today, websites of a number of government and banking institutions have undergone a massive DDoS attack again. Some of the attacked information systems are not available or work intermittently. This is due to switching traffic to another provider to minimize damage. Other websites effectively resist the attack and work normally,"" the Service of Special Communications and Information Protection said in a statement.
+
+""Currently, the State Service of Special Communications and Information Protection of Ukraine and other subjects of the national cybersecurity system are working on countering the attacks, collecting and analyzing information. We ask all authorities that have been attacked or are suspected to have been attacked to contact the Government Computer Emergency Response Team CERT-UA.""
+
+Later in the day, researchers at ESET discovered a new data wiper malware used in Ukraine. ESET telemetry allegedly showed that the wiper was installed on hundreds of machines.
+
+""The wiper abuses legitimate drivers from the EaseUS Partition Master software in order to corrupt data. As a final step the wiper reboots the computer,"" ESET said.
+
+""In one of the targeted organizations, the wiper was dropped via the default (domain policy) GPO meaning that attackers had likely taken control of the Active Directory server.""
+
+The Wiper binary is signed using a code signing certificate issued to Hermetica Digital Ltd 3/n pic.twitter.com/sGCl3Lbqc1 — ESET research (@ESETresearch) February 23, 2022
+
+As many have noted online, the attack began around 4pm local time, right as Ukraine's parliament began to discuss a state of emergency declaration. The 30-day state of emergency was approved by the Ukrainian government as both US and NATO warned that a Russian invasion is likely. Russian forces moved into eastern parts of the country over the last two days.
+
+Ukrainian journalists reported that Ruslan Stefanchuk, the chairman of parliament, said he and his family were repeatedly hit with cyberattacks. Hackers allegedly attempted to get into their email accounts, block access to their bank accounts and more, according to Kyiv Independent reporter Anastasiia Lapatina.
+
+Many of the same websites were attacked last week in a series of DDoS incidents that the US attributed to Russia. The UK Foreign, Commonwealth & Development Office added that the Russian Main Intelligence Directorate (GRU) was involved in the attack.
+
+US Deputy National Security Advisor for Cyber Anne Neuberger told the press that they have technical information showing that ""GRU infrastructure was seen transmitting high volumes of communication to Ukraine-based IP addresses and domains.""
+
+In a detailed breakdown of that DDoS incident, CERT-UA said the attacks involved both the Mirai and Meris botnets and included a supplementary SMS disinformation message campaign.
+
+That attack followed the defacement of more than 70 Ukrainian government websites in January.
+
+Christian Sorensen, former leader of the international cyber warfare team at US CYBERCOM, said these attacks are designed to ratchet up attention and pressure.
+
+""It doesn't sound like much impact yet. In the coming hours/days, I would anticipate more activities to isolate and disrupt Ukrainian citizens and especially government activities,"" said Sorensen, who is now CEO of cybersecurity firm SightGain.
+
+""The purpose at this stage is to cause chaos and seed doubt in the government and economy. Next stage will be impactful and continue deterrence for other countries to get involved.""",https://www.zdnet.com/article/ukrainian-govt-sites-banks-disrupted-by-ddos-amid-invasion-fears/
+6,834e9848-6240-44ac-80fc-a191bff17485,[],,"The websites of Ukraine’s government, foreign ministry and state security service were brought down again by a distributed denial of service attack (DDoS).
+
+
+
+
+
+“At about 4 pm, another mass DDoS attack on our state began. We have relevant data from a number of banks,” said Mykhailo Fedorov, Minister of Digital Transformation, adding that the parliament website was also hit. Earlier this week, Ukrainian authorities noted they had seen signs that hackers were preparing to launch major attacks on government agencies, banks and the defense sector.
+
+
+
+
+
+While the parliament and defense ministry websites were quickly restored, those of the Ministry of Internal Affairs and the security service had not returned online by Wednesday evening in Kyiv.
+
+
+
+
+
+According to Ukraine’s Centre for Strategic Communications, administrators tried to limit the damage by changing providers, but even if sites were restored, users could experience delays.
+
+
+
+
+
+A nonprofit that tracks network disruptions, NetBlocks said that the websites of PrivatBank, a large commercial bank in Ukraine, and Oschadbank, the State Savings Bank of Ukraine, had also been rendered unavailable.
+
+
+
+
+
+Last week, a similar attack took down a number of sites in the country. The White House National Security Council recently said that the GRU, Russia’s military agency, was linked to those cyberattacks. “Known GRU infrastructure has been noted transmitting high volumes of communications to Ukraine-based IP addresses and associated banking-related domains,” the National Security Council said.
+
+
+
+
+
+In January, Ukraine said Russia was behind another DDoS attack that impacted 70 government sites that contained a warning to Ukrainians to “prepare for the worst.”
+
+
+
+
+
+David Jemmett, CEO of Cerberus Sentinel, says, “Today’s attack on Ukraine’s government, foreign ministry and state security service is the latest salvo in yet another digital nation-state assault. It is further proof that all organizations and the world’s citizens need measures to protect their most critical assets: infrastructure, sensitive information, intellectual property, identity and privacy.” Jemmett suggests that security leaders need to work together to establish true security cultures in public and private organizations to stop threats and ensure resiliency.
+
+Update 2/24/2022: It is clear now that the wave of DDoS attacks, as well as a new form of wiper malware installed on hundreds of systems in Ukraine, were a sign that a Russian invasion was imminent.
+
+The attacks were seen hitting Ukraine in the hours leading up to the Russian invasion. As the United Nations Security Council held an emergency session late Wednesday in hopes of preventing the invasion, military strikes began across Ukraine. Reporters heard explosions in the capital Kyiv, in the eastern city of Kharkiv, and in the port city of Odessa. Explosions were reported outside of Kramatorsk, a town in the Donbas region controlled by Ukraine. Explosions were also reported near Kyiv's main airport, as well as around other cities in Ukraine.
+
+After weeks of denying Russia's plans to invade Ukraine, President of Russia Vladimir Putin announced a ""special military operation"" to protect civilians in eastern Ukraine — a claim the U.S. predicted Putin would make as a pretext to invade Ukraine.
+
+Security magazine is actively covering the ongoing Russia-Ukraine crisis. For more information on the conflict, please visit www.securitymagazine.com.",https://www.securitymagazine.com/articles/97140-ukrainian-government-and-banks-affected-by-cyberattacks
+7,834e9848-6240-44ac-80fc-a191bff17485,"['Patrick Tucker', 'Technology Editor']",2022-02-23 19:34:23+00:00,"Cookie Preferences Cookie List
+
+Cookie List
+
+A cookie is a small piece of data (text file) that a website – when visited by a user – asks your browser to store on your device in order to remember information about you, such as your language preference or login information. Those cookies are set by us and called first-party cookies. We also use third-party cookies – which are cookies from a domain different than the domain of the website you are visiting – for our advertising and marketing efforts. More specifically, we use cookies and other tracking technologies for the following purposes:
+
+Strictly Necessary Cookies
+
+We do not allow you to opt-out of our certain cookies, as they are necessary to ensure the proper functioning of our website (such as prompting our cookie banner and remembering your privacy choices) and/or to monitor site performance. These cookies are not used in a way that constitutes a “sale” of your data under the CCPA. You can set your browser to block or alert you about these cookies, but some parts of the site will not work as intended if you do so. You can usually find these settings in the Options or Preferences menu of your browser. Visit www.allaboutcookies.org to learn more.
+
+Functional Cookies
+
+We do not allow you to opt-out of our certain cookies, as they are necessary to ensure the proper functioning of our website (such as prompting our cookie banner and remembering your privacy choices) and/or to monitor site performance. These cookies are not used in a way that constitutes a “sale” of your data under the CCPA. You can set your browser to block or alert you about these cookies, but some parts of the site will not work as intended if you do so. You can usually find these settings in the Options or Preferences menu of your browser. Visit www.allaboutcookies.org to learn more.
+
+Performance Cookies
+
+We do not allow you to opt-out of our certain cookies, as they are necessary to ensure the proper functioning of our website (such as prompting our cookie banner and remembering your privacy choices) and/or to monitor site performance. These cookies are not used in a way that constitutes a “sale” of your data under the CCPA. You can set your browser to block or alert you about these cookies, but some parts of the site will not work as intended if you do so. You can usually find these settings in the Options or Preferences menu of your browser. Visit www.allaboutcookies.org to learn more.
+
+Sale of Personal Data
+
+We also use cookies to personalize your experience on our websites, including by determining the most relevant content and advertisements to show you, and to monitor site traffic and performance, so that we may improve our websites and your experience. You may opt out of our use of such cookies (and the associated “sale” of your Personal Information) by using this toggle switch. You will still see some advertising, regardless of your selection. Because we do not track you across different devices, browsers and GEMG properties, your selection will take effect only on this browser, this device and this website.
+
+Social Media Cookies
+
+We also use cookies to personalize your experience on our websites, including by determining the most relevant content and advertisements to show you, and to monitor site traffic and performance, so that we may improve our websites and your experience. You may opt out of our use of such cookies (and the associated “sale” of your Personal Information) by using this toggle switch. You will still see some advertising, regardless of your selection. Because we do not track you across different devices, browsers and GEMG properties, your selection will take effect only on this browser, this device and this website.
+
+Targeting Cookies
+
+We also use cookies to personalize your experience on our websites, including by determining the most relevant content and advertisements to show you, and to monitor site traffic and performance, so that we may improve our websites and your experience. You may opt out of our use of such cookies (and the associated “sale” of your Personal Information) by using this toggle switch. You will still see some advertising, regardless of your selection. Because we do not track you across different devices, browsers and GEMG properties, your selection will take effect only on this browser, this device and this website.",https://www.defenseone.com/threats/2022/02/more-cyber-attacks-disable-ukrainian-websites/362328/
+8,834e9848-6240-44ac-80fc-a191bff17485,[],,"The US, UK and EU has also blamed it for the hugely disruptive NotPetya ""wiper"" attack, which started in Ukraine but spread globally, causing billions of dollars of damage to computer systems across Europe, Asia, and the Americas.",https://www.bbc.com/news/technology-60500618
+9,834e9848-6240-44ac-80fc-a191bff17485,['Colin Demarest'],2022-02-24 00:00:00,"WASHINGTON — Ukrainian websites were paralyzed by denial of service cyberattacks ahead of Russia’s overnight offensive, with analysts discovering data-corrupting malware coursing through the country’s computers shortly thereafter.
+
+The sites for Ukraine’s defense, foreign affairs and interior ministries, among others, were knocked offline Feb. 23, according to the government, as Russian forces moved in. Explosions were reported around the country — including near the capital, Kyiv.
+
+Distributed denial of service attacks flood a site with traffic, rendering them useless.
+
+Ukrainian agencies and banks were previously hit with a denial of service cyberattack Feb. 15, while Russia continued massing troops and materiel along its border. Websites were crippled in January, as well.
+
+While experts urged caution in attributing blame in the immediate aftermath of the attacks, the White House National Security Council claimed to have evidence linking them to a Russian intelligence agency.
+
+“The U.S. has technical information linking Russian GRU to this week’s distributed denial of service attacks in Ukraine,” the council said in a Feb. 18 tweet. “Known GRU infrastructure has been noted transmitting high volumes of communications to Ukraine-based IP addresses and associated banking-related domains.”
+
+And just hours after the DDoS attacks, cybersecurity firm ESET separately warned of a hostile data-wiping software “installed on hundreds of machines” in Ukraine. Dubbed Hermetic Wiper, the malware was able to corrupt data on users’ computers, according to ESET researchers. The company went on to note that metadata in the software suggests the attack may have been in preparation for almost two months.
+
+Cyberattacks preceding an offensive in Ukraine have long been predicted, though exactly who is to blame for the latest onslaught was not immediately clear. A request for comment made Thursday morning to U.S. Cyber Command was not immediately answered.
+
+Moscow has used cyber and disinformation campaigns to project its force in the past, including in Ukraine in 2015, according to the U.S. Cybersecurity and Infrastructure Security Agency.
+
+Greg Austin, a senior fellow for cyber, space and future conflict at the Institute for Strategic Studies, on Thursday said Russia “has launched many cyberattacks on Ukraine.” But, he added, “even as the Ukraine crisis escalates further, Russia is unlikely to unleash the full power of its cyber sabotage operations.”
+
+Ukraine has sought closer ties to NATO’s cyber center of excellence in Estonia, which could provide much-needed expertise and resources. But the country’s formal membership was denied last year.
+
+The NATO Cooperative Cyber Defence Centre of Excellence is staffed and financed by the U.S., the U.K., Canada, South Korea, Germany, Japan and many others.
+
+CISA on Feb. 18 said the cyber operations observed abroad demonstrate how quickly foreign governments and other actors can spring into action and potentially target U.S. infrastructure and other interests.
+
+“We need to be prepared for the potential of foreign influence operations to negatively impact various aspects of our critical infrastructure with the ongoing Russia-Ukraine geopolitical tensions,” the agency’s director, Jen Easterly, said in a statement at the time.
+
+Easterly in a Thursday morning tweet said there were “no specific threats to the US” at the moment.
+
+Colin Demarest is a reporter at C4ISRNET, where he covers networks and IT. Colin previously covered the Department of Energy and its National Nuclear Security Administration — namely nuclear weapons development and Cold War cleanup — for a daily newspaper in South Carolina.",https://www.c4isrnet.com/battlefield-tech/it-networks/2022/02/24/ukraine-pelted-with-cyberattacks-ahead-of-russian-assault/

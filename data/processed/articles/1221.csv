@@ -1,0 +1,251 @@
+,uid,article_author,article_date,article_text,article_url
+0,ea900dcb-6dc2-4a0d-ad26-55caaeeae1af,[],,"JavaScript is not available.
+
+We’ve detected that JavaScript is disabled in this browser. Please enable JavaScript or switch to a supported browser to continue using twitter.com. You can see a list of supported browsers in our Help Center.
+
+Help Center",https://twitter.com/liveuamap/status/1499527271476084736
+1,ea900dcb-6dc2-4a0d-ad26-55caaeeae1af,['Sarah Perez'],2022-03-05 00:00:00,"Welcome back to This Week in Apps, the weekly TechCrunch series that recaps the latest in mobile OS news, mobile applications and the overall app economy.
+
+The app industry continues to grow, with a record number of downloads and consumer spending across both the iOS and Google Play stores combined in 2021, according to the latest year-end reports. App Annie says global spending across iOS, Google Play and third-party Android app stores in China grew 19% in 2021 to reach $170 billion. Downloads of apps also grew by 5%, reaching 230 billion in 2021, and mobile ad spend grew 23% year over year to reach $295 billion.
+
+Today’s consumers now spend more time in apps than ever before — even topping the time they spend watching TV, in some cases. The average American watches 3.1 hours of TV per day, for example, but in 2021, they spent 4.1 hours on their mobile device. And they’re not even the world’s heaviest mobile users. In markets like Brazil, Indonesia and South Korea, users surpassed five hours per day in mobile apps in 2021.
+
+Apps aren’t just a way to pass idle hours, either. They can grow to become huge businesses. In 2021, 233 apps and games generated over $100 million in consumer spend, and 13 topped $1 billion in revenue, App Annie noted. This was up 20% from 2020, when 193 apps and games topped $100 million in annual consumer spend, and just eight apps topped $1 billion.
+
+This Week in Apps offers a way to keep up with this fast-moving industry in one place, with the latest from the world of apps, including news, updates, startup fundings, mergers and acquisitions, and suggestions about new apps and games to try, too.
+
+Do you want This Week in Apps in your inbox every Saturday? Sign up here: techcrunch.com/newsletters
+
+Top Story
+
+The Russia-Ukraine war continued to have a wide-reaching impact on the world of apps as major tech companies took action to block Russian state media outlets, RT and Sputnik, and to further isolate Russia from participating in the broader tech economy. The EU specifically banned the Kremlin-based media outlets in the region, to prevent the further spread of disinformation and propaganda across EU broadcast channels, online platforms and apps.
+
+The app stores pulled the Russian state-owned media outlets’ apps, RT News and Sputnik News, from their global marketplaces outside Russia. This includes the ban of RT from the Windows app store, plus Google and Apple’s ban of RT and Sputnik’s apps.
+
+Sensor Tower said that RT News had 5.7 million installs worldwide since its launch in May 2013 across the App Store and Google Play, while Sputnik had 2 million installs worldwide since its release in March 2015. Another firm reported different data. Apptopia estimated RT News had 10 million global installs and Sputnik had 3.85 million.
+
+Among other key changes this week:
+
+Facebook and Instagram said they would suppress the spread of Russian state media via algorithms and will begin attaching labels to their content to provide more context. It also restricted access to their content in the EU and, more recently, the U.K., per a government request.
+
+said they would suppress the spread of Russian state media via algorithms and will begin attaching labels to their content to provide more context. It also restricted access to their content in the EU and, more recently, the U.K., per a government request. Facebook said it would let users in Russia and Ukraine lock their profiles — a feature that prevents non-friends from viewing posts and photos, downloading images and more.
+
+said it would let users in Russia and Ukraine lock their profiles — a feature that prevents non-friends from viewing posts and photos, downloading images and more. Instagram announced it would make encrypted DMs available to users in Russia and Ukraine.
+
+announced it would make encrypted DMs available to users in Russia and Ukraine. Reddit banned links to Russian state media outlets across its site for all users worldwide and ads that originated from Russia or those that target the country.
+
+banned links to Russian state media outlets across its site for all users worldwide and ads that originated from Russia or those that target the country. Spotify closed its office in Russia “indefinitely,” and removed all content from Russian state media outlets RT and Sputnik in the EU and other markets, except Russia.
+
+closed its office in Russia “indefinitely,” and removed all content from Russian state media outlets RT and Sputnik in the EU and other markets, except Russia. Snap halted ads in Russia, Belarus and Ukraine and pledged $15 million to relief orgs. It’s also helping to relocate the 300-plus person Ukrainian staff of its AR platform.
+
+halted ads in Russia, Belarus and Ukraine and pledged $15 million to relief orgs. It’s also helping to relocate the 300-plus person Ukrainian staff of its AR platform. TikTok blocked Russian state media accounts, Sputnik and RT, in the EU. The accounts are also no longer able to post to audiences within the EU.
+
+blocked Russian state media accounts, Sputnik and RT, in the EU. The accounts are also no longer able to post to audiences within the EU. YouTube banned Russian state media outlets in the EU and U.K.
+
+banned Russian state media outlets in the EU and U.K. Google Maps removed newly added user content, like pins, in Russia, Ukraine and Belarus, amid claims of its use in coordinating Russian military activity. Google also disabled live traffic tools on Google Maps.
+
+removed newly added user content, like pins, in Russia, Ukraine and Belarus, amid claims of its use in coordinating Russian military activity. Google also disabled live traffic tools on Google Maps. Apple halted product sales in Russa, disabled Apple Pay services in the country and, like Google, disabled Apple Maps’ traffic and live incident reports.
+
+halted product sales in Russa, disabled Apple Pay services in the country and, like Google, disabled Apple Maps’ traffic and live incident reports. Apple’s Maps and Weather apps began showing Crimea as part of Ukraine in all regions outside Russia, after not showing the region as part of any country since 2019.
+
+began showing Crimea as part of Ukraine in all regions outside Russia, after not showing the region as part of any country since 2019. Microsoft halted all new sales in Russia and is suspending many other aspects of its business in the country.
+
+halted all new sales in Russia and is suspending many other aspects of its business in the country. Airbnb suspended all operations in Russia and Belarus and said it was offering free short-term housing for up to 100,000 Ukrainian refugees.
+
+suspended all operations in Russia and Belarus and said it was offering free short-term housing for up to 100,000 Ukrainian refugees. Google stopped selling online ads in Russia on Search, YouTube and outside publishing partners, after similar moves by Snap and Twitter.
+
+Weekly News
+
+Platforms: Apple
+
+Apple is hosting its next event, dubbed “Peek performance,” on March 8 at 10 AM PT. The company is expected to reveal a new 5G iPhone SE, new iPad Air and possibly new Macs.
+
+The company is expected to reveal a new 5G iPhone SE, new iPad Air and possibly new Macs. Apple launched its Entrepreneur Camp for Latin founders, which invites developers from the U.S., Brazil, Guatemala and Portugal to receive one-on-one code-level guidance from Apple experts and engineers, mentorships and other insights from Apple leaders.
+
+to receive one-on-one code-level guidance from Apple experts and engineers, mentorships and other insights from Apple leaders. A group of software engineers and web developers have launched a project called “Open Web Advocacy“ in the hopes of pushing Apple to allow other browser engines on iOS besides WebKit.
+
+in the hopes of pushing Apple to allow other browser engines on iOS besides WebKit. Apple updated its App Store Small Business Program to no longer reject app transfers — that is, when a developer moved one of their apps to another account. Before, developers who transferred apps were barred from the program.
+
+Platforms: Google
+
+Google Play Pass, the company’s subscription-based games and app service, launched in India. The service first arrived in late 2019 and now has over 1,000 titles.
+
+E-commerce
+
+Walmart launched an AI-powered virtual clothing try-on feature called “Choose My Model,” which lets online shoppers build a virtual model that matches their dimensions, body shape and skin tone to see what clothes will look like on their own body. The feature is powered by Walmart’s Zeekit acquisition and will be available on the web and in the Walmart mobile app.
+
+Social
+
+Twitter is expanding its community-based fact-checking service Birdwatch to a small and randomized set of U.S. users after testing it since January 2021. The company was recently criticized for not prioritizing fact checks over other features, when the Russia-Ukraine war is leading to a spike in misinformation.
+
+after testing it since January 2021. The company was recently criticized for not prioritizing fact checks over other features, when the Russia-Ukraine war is leading to a spike in misinformation. Facebook is killing its college-student-only social network called “Campus.” The feature was meant to give students a private place to network like the original Facebook had done and had 204 schools on board — but likely not enough traction to continue. The service shuts down March 10 and all data will be deleted.
+
+Instagram’s standalone IGTV app is shutting down in mid-March and IGTV’s in-stream video ads will be discontinued as well. The company is shifting its focus to Reels, where it just rolled out new advertising options for creators.
+
+and IGTV’s in-stream video ads will be discontinued as well. The company is shifting its focus to Reels, where it just rolled out new advertising options for creators. Trump’s Truth Social app, a right-wing Twitter alternative, has fallen to No. 57 in the U.S. App Store , as many are still on a waitlist after nine days post-launch, and Trump isn’t posting.
+
+, as many are still on a waitlist after nine days post-launch, and Trump isn’t posting. Nextdoor beat Wall Street expectations in its first earnings report as a public company. The neighborhood social network recorded revenues of $59.3 million, up 47.9% from its year-ago tally of $40.1 million.
+
+The neighborhood social network recorded revenues of $59.3 million, up 47.9% from its year-ago tally of $40.1 million. Instagram introduced auto-generated captions for videos initially in 17 languages after TikTok first launched the feature in April 2021.
+
+initially in 17 languages after TikTok first launched the feature in April 2021. Instagram head Adam Mosseri tried to explain why the company isn’t releasing an iPad app, saying there weren’t enough users to justify the work. (Or maybe there are enough iPad users but they just don’t care about Instagram?) He also noted Android is the largest user base and every new surface adds overhead; people share more in messages than Stories and Feed; and Instagram is “leaner than you think.”
+
+Photo/Video + Creator Tools
+
+Face-swapping video app Reface, developed in Ukraine, showed its support for its home country in an interesting way. The app implemented push notifications that alerted its 200 million-strong user base about Russia’s invasion and urged people to #StandWithUkraine by watermarking the videos created in the app.
+
+Streaming & Entertainment
+
+iHeartRadio modernized the radio call-in with its new “Talk Back” feature. The company’s mobile app now offers a microphone button that lets listeners send in voice messages to their favorite radio programs and soon, iHeartRadio podcasts, too. The tool integrates directly with the company’s CMS so the messages can be received in near real time to enhance the radio broadcast. IKHeartRadio says it’s open to expanding access to other broadcasters and podcasters in the future, too.
+
+Disney announced its streaming service, Disney+, would introduce an ad-supported subscription tier later this year. Pricing was not detailed, but the service’s current ad-free plan costs $7.99 per month or $79.99 per year.
+
+Pricing was not detailed, but the service’s current ad-free plan costs $7.99 per month or $79.99 per year. Twitch’s new policy cracks down on chronic spreaders of misinformation on the streaming service, and will take down channels that routinely lie about vaccines and election fraud, as well as Russian state-run media.
+
+and will take down channels that routinely lie about vaccines and election fraud, as well as Russian state-run media. Verizon introduced Plus Play, a new platform that will bundle customer subscriptions across devices, including those for Netflix, Peloton, Disney+, A+E Networks, Duolingo, Calm, Discovery+, AMC Plus, Hulu, The Athletic and more in gaming and news. (Some were already partners before this move.) The service is meant to help customers centralize their subscriptions in one place and plans to offer exclusive deals, Verizon said.
+
+including those for Netflix, Peloton, Disney+, A+E Networks, Duolingo, Calm, Discovery+, AMC Plus, Hulu, The Athletic and more in gaming and news. (Some were already partners before this move.) The service is meant to help customers centralize their subscriptions in one place and plans to offer exclusive deals, Verizon said. Twitter is working on a “Podcasts” feature in its app, which could possibly serve as a home for recorded Twitter Space in the future.
+
+Gaming
+
+Netflix is launching a new interactive daily trivia game, called “Trivia Quest.” The show, which begins airing April 1, is based on the popular Trivia Crack mobile game, which Netflix licensed as part of its broader gaming push. The game will be playable across platforms, including mobile.
+
+The show, which begins airing April 1, is based on the popular Trivia Crack mobile game, which Netflix licensed as part of its broader gaming push. The game will be playable across platforms, including mobile. Mobile games Apex Legends Mobile and Battlefield Mobile will be delayed. EA and Industrial Toys indirectly cited Russia’s invasion of Ukraine (described on Twitter as “current world events“), as the reason.
+
+EA and Industrial Toys indirectly cited Russia’s invasion of Ukraine (described on Twitter as “current world events“), as the reason. Samsung was caught throttling the performance of 10,000 apps on its phones, with its Game Optimizing Service likely to blame. The throttled apps weren’t limited to games, as other top apps — like Office, Google Keep, TikTok and even Samsung’s own apps — were also impacted. Benchmark apps, however, were not throttled. The company said an update is on the way to fix the issue.
+
+The throttled apps weren’t limited to games, as other top apps — like Office, Google Keep, TikTok and even Samsung’s own apps — were also impacted. Benchmark apps, however, were not throttled. The company said an update is on the way to fix the issue. Amazon launched its cloud-based game streaming service Luna in the U.S. with free games for Prime members and more via subscription. Users can try Luna on Fire TV using their iPhone or Android phone as a controller via the Luna Controller app.
+
+Snowman announced its anticipated remastered expansion of Alto’s Adventure, dubbed Alto’s Adventure: The Spirit of the Mountain,” will comes to Apple Arcade on March 25.
+
+Productivity/Utility
+
+Popular productivity app maker Readdle, founded in Ukraine, pulled its apps from the Russian App Store and says it will not do any business with Russian-owned companies. Existing users in Russia will still have access to the apps, but will receive no future updates or support. In a statement, the company shared its reasoning, saying: “Readdle was founded in Ukraine, and many of our employees call it home. Right now, Russian armed forces are bombing & attacking Ukraine by land, air, and sea. Our company stands with the people and government of Ukraine against the Russian invaders.”
+
+and says it will not do any business with Russian-owned companies. Existing users in Russia will still have access to the apps, but will receive no future updates or support. In a statement, the company shared its reasoning, saying: “Readdle was founded in Ukraine, and many of our employees call it home. Right now, Russian armed forces are bombing & attacking Ukraine by land, air, and sea. Our company stands with the people and government of Ukraine against the Russian invaders.” Slack said it’s dropping support for iOS 13 on iPhone and iPad, forcing users to move to at least iOS 14 which was released in 2020.
+
+forcing users to move to at least iOS 14 which was released in 2020. Rakuten Viber said it’s launching free “Viber Out” calls in 34 countries that allow users to reach any phone number, landline or mobile phone. It also disabled advertising within Russia and Ukraine.
+
+that allow users to reach any phone number, landline or mobile phone. It also disabled advertising within Russia and Ukraine. Zillow users now compare for-sale home listings with a new “Homes to Compare” tool in the Zillow mobile app.
+
+Transportation
+
+Uber becomes even more of a super app. The ride-hailing and food delivery app Uber launched a new feature that will allow customers in 15 cities across the U.S. and Mexico to book dinner reservations or other experiences directly in the app. Users will find the options in Uber’s new Explore tab, where they can browse categories like food and drink, art and culture, nightlife, music and shows, and more.
+
+Government & Policy
+
+A bipartisan group of state attorneys general will investigate TikTok to determine if the video platform negatively affects the psychical or mental health of younger users or if it violates state consumer protection laws. The investigation is the latest to examine the potential harms of Big Tech, and follows TikTok’s release of several minor safety features clearly meant to assuage regulators’ and investigators’ concerns.
+
+or if it violates state consumer protection laws. The investigation is the latest to examine the potential harms of Big Tech, and follows TikTok’s release of several minor safety features clearly meant to assuage regulators’ and investigators’ concerns. Apple, which has now been fined six times by Dutch regulators for failing to comply with rules around dating apps and in-app purchases, said in a letter that its App Store IAP changes comply and only need a “minor technical change.”
+
+Security & Privacy
+
+A report by The Markup looks into how location data brokers have simply shifted tactics since Apple and Google rolled out stricter policies. Instead of relying on SDKs that automatically sent data to brokers, they will often just buy the data directly from app publishers, who hide their disclosures in legalese about sharing data with “partners.” And policies don’t necessarily require apps to disclose who the data is sold to.
+
+Instead of relying on SDKs that automatically sent data to brokers, they will often just buy the data directly from app publishers, who hide their disclosures in legalese about sharing data with “partners.” And policies don’t necessarily require apps to disclose who the data is sold to. An Android banking trojan designed to steal user data, including passwords and text messages, was discovered in Google Play and downloaded thousands of times.
+
+Funding and M&A
+
+🤝Netflix acquired Finland-based mobile game developer Next Games for around $72 million to expand its games business. Netflix has been offering subscriber-only games through its mobile apps on iOS and Android through partnerships and licensing deals. Next Games had ties to Netflix already, having published the role-playing game “Stranger Things: Puzzle Tales.” It had reported sales of $30.2 million in 2020, largely from in-app purchases.
+
+💰Thatgamecompany, makers of the popular mobile game “Sky: Children of the Light,” raised $160 million from TPG and Sequoia Capital. “Sky” has over 160 million downloads and nearly 7 million DAUs. The company also added Pixar co-founder Ed Catmull as a principal adviser.
+
+📈 Alibaba-backed Perfect Corp., makers of AR camera app YouCam and maker of tech that powers virtual AR try-on features at Google, Pinterest, Snap and others, to go public in a SPAC merger valuing the business at $1 billion. The company will raise up to $335 million in the merger.
+
+🤝Fortnite maker Epic Games acquired online music platform Bandcamp for an undisclosed sum, hinting at its “music metaverse” ambitions. The company will continue to function as a standalone operation, it said.
+
+💰Bengaluru-based Pocket FM, which offers a streaming app for audiobooks and podcasts, raised $65 million in Series C funding led by Goodwater Capital, Naver and existing investor Tanglin Venture Partners. The app offers more than 100,000 hours of content and reports having over 50 million users.
+
+💰Stax raised $2.2 million in a seed extension round for its app that allows Africans to buy airtime, send and request money and transfer funds between accounts. U.S. firms World Within Ventures and Noemis Ventures co-led the round. Stax has 170,000 customers, 40,000 of which are monthly actives.
+
+💰U.K. investment app Shares raised $40 million in Series A funding in a round led by Valar Ventures. The company has 130 employees in London, Paris and Krakow and is working to expand the app to other EU markets.
+
+🤝Food delivery app maker DoorDash acquired hospitality tech startup Bbot for an undisclosed sum. The deal aims to expand DoorDash’s services, like DoorDash Drive and DoorDash Storefront; increase partner restaurant sales; and reduce wait times to order and pay.
+
+🤝Mobile marketing company AppLovin to acquire content distribution and advertising service for connected TVs, Wurl, for $430 million, 55% cash and 45% stock. The deal will close in the first half of 2022, and follows AppLovin’s acquisition of Twitter’s MoPub.
+
+💰HearHere, a storytelling app designed for road trips, raised $3.2 million in seed funding to scale its business. The app, which is also backed by actor Kevin Costner, has more than 100,000 registered users and offers more than 8,880 stories across the U.S. The new round was led by RV and outdoor camping retailer Camping World.
+
+💰Flashfood raised $12.3 million in Series A funding to scale its grocery app that aims to tackle food waste. The app lets users browse deals at nearby grocery partners, then pay for items in the app and arrange for pick up. To date, the company claims to have saved shoppers $100 million and diverted more than 34 million pounds of food from landfills.
+
+💰GetMyBoat, a boat rental marketplace and mobile app, raised $21 million in Series B funding. Japanese manufacturing company Yanmar Global took a majority stake in the company, which now overs over 150,000 rentals in 9,300 destinations.
+
+🤝iSpot, a real-time TV measurement company, expanded its cross-platform viewing verification capabilities through the acquisition of Tunity, a TV-viewing solutions and analytics company that measures consumer viewing habits in public locations nationwide. Through its iOS/Android app, Tunity allows users to hear live audio from muted televisions directly on their mobile devices.
+
+Download This
+
+MyHeritage (update with LiveStory)
+
+Last year, genealogy service MyHeritage went viral after introducing a new “deepfake” feature that allowed users to animate the faces of loved ones in still photos. TikTok users posted videos reacting to the technology, called “Deep Nostalgia,” as they brought back relatives they never got to meet or those whose loss they still grieved. To date, more than 100 million photos have been animated with the feature. Now comes the next iteration. This week, MyHeritage along with technology partner D-ID is expanding upon “Deep Nostalgia,” with the launch of “LiveStory,” a feature that doesn’t just bring the people in photos to life with movement, but actually has them speak.
+
+The company licensed the new technology from D-ID, a Tel Aviv-based startup that works to create patented video reenactment technology powered by AI and deep learning techniques.
+
+To make the lips match the words, D-ID trained a neural network on a database of videos of people speaking. Its technology is able to work with any language, the company says. The MyHeritage implementation, however, supports 31 languages, including dozens of dialects, with both male and female voice options. After the LiveStory is created, users can watch it, share it with friends or post it to social media. They also can customize the story further by editing the text, choosing a different voice or even uploading their own audio recording.
+
+The feature is available in the MyHeritage mobile app and is free to use a few times before a subscription is required.",https://techcrunch.com/2022/03/05/this-week-in-apps-apps-blocking-russia-walmart-adds-virtual-try-on-netflixs-trivia-game/
+2,ea900dcb-6dc2-4a0d-ad26-55caaeeae1af,['Kevin Curran'],2022-03-04 12:20:45+00:00,"Russia has blocked access to Apple's iOS App store, according to reports by security researchers on Twitter, meaning that iPhone users in the country can no longer download or update news apps or VPNs,...",https://www.computing.co.uk/news/4045987/russia-blocks-apple-app-store-report
+3,ea900dcb-6dc2-4a0d-ad26-55caaeeae1af,[],2022-03-04 06:07:54+00:00,"Users from Russia massively complain about problems with access to a number of foreign and domestic services and sites. This is written by the analytical company GlobalCheck.
+
+According to the source, a lot of complaints from Russians began to arrive at night – they could not access several resources. In particular, problems are observed with access to Twitter and Facebook, it is difficult or impossible to access the websites of the BBC, Deutsche Welle and several Russian media from Russia. The source writes that the level of accessibility of Facebook from the Russian Federation is about 30%, and the BBC – 17%.
+
+But the most unpleasant: it is noted that many Russians cannot enter the Apple App Store and Google Play stores. GlobalCheck employees claim that Roskomnadzor is blocking app stores at apps.apple.com and play.google.com; in addition, this happens gradually, since not all providers have time to deploy the necessary filters – all this is according to GlobalCheck.
+
+Personally, some of the above services and sites open for me, and some do not. The Apple app store works without problems, but some media sites do give an access error. By the way, according to the DownDetector website, app stores have no problems, but Instagram also has real difficulties with access from Russia.
+
+Share in the comments if you have any problems with the listed resources. By the way, just in case, we advise you to download applications now that may come in handy in the near future.",https://gamingsym.in/in-russia-problems-with-access-to-the-bbc-facebook-twitter-as-well-as-the-app-store-and-google-play/
+4,ea900dcb-6dc2-4a0d-ad26-55caaeeae1af,[],,"Press J to jump to the feed. Press question mark to learn the rest of the keyboard shortcuts
+
+Search within r/ukraine r/ukraine r/ukraine",https://www.reddit.com/r/ukraine/comments/t6542m/app_store_and_google_play_blocked_in_russia/
+5,ea900dcb-6dc2-4a0d-ad26-55caaeeae1af,['Tim De Chant'],,"Update 2:40pm EST: Russia's Internet censorship agency, Roskomnadzor, confirmed that it would be blocking access to Facebook, accusing the company of violating the law by blocking state media outlets from the platform.
+
+When reached for comment by Ars, a Facebook spokesperson cited a statement from Nick Clegg, president of global affairs, who said, ""We will continue to do everything we can to restore our services so they remain available to people to safely and securely express themselves and organize for action.""
+
+Original article: Russia is reportedly blocking Twitter, Facebook, various news sites, and major app stores, according to a German journalist.
+
+The move comes after the Russian government announced last week that it was partially restricting access to Facebook in retaliation for the company applying fact-checking labels to posts from state-controlled media outlets. Earlier this week, Meta, Facebook’s parent company, and YouTube blocked access to Russian state media outlets RT and Sputnik in the European Union.
+
+The news of Russia’s blockade came from Mathieu von Rohr, head of the foreign desk at German newsmagazine Der Spiegel. He tweeted that “Twitter, Facebook, BBC, Deutsche Welle, App Stores” were all being blocked. (Deutsche Welle is the German public broadcaster.)
+
+Russia blocks Twitter, Facebook, BBC, Deutsche Welle, App Stores — Mathieu von Rohr (@mathieuvonrohr) March 3, 2022
+
+Putin has long sought to control the Internet inside Russia’s borders in much the same way that the Communist Party does within China. Yet, Russia’s attempts to censor the Internet aren’t as sophisticated and haven’t been as sweeping or effective as China’s Great Firewall, instead relying on regulatory harassment, occasional throttling, and government takeovers. For example, VK, the parent company of Russian social media network VKontakte, was recently taken over by Gazprom, the state-owned natural gas company.
+
+Whether Russia’s attempts to censor the Internet will succeed remains to be seen. Compared with China, the country is late to the game, and it doesn’t have the market size to recreate the range of products and services offered by companies like Meta, Apple, or Google. Any efforts to start beefing up capabilities now will face stiff headwinds as Western sanctions begin to bite, with Russian companies unable to obtain advanced chips for computers, telecommunications, and more.
+
+Advertisement
+
+Ars has contacted Meta, Twitter, Apple, and Google to confirm whether their services are still available inside Russia. We will update this article if we hear back.
+
+Update 12:43 EST: After publication, Ars commenter Artem S. Tashkinov said that connections to Facebook and Twitter were timing out in Russia, even when using a VPN, but that Instagram and Google Play remained accessible via the same route.
+
+Previously, Ukraine had asked Apple to remove the App Store from the Russian market. Apple didn’t accede, but it did remove RT News and Sputnik News from the App Store outside Russia. The company also stopped selling products within the country. An Apple spokesperson said the move was in response to the invasion, though Western companies face myriad hurdles to selling in Russia, including problems processing credit card payments, uncertainties around importing products, and rising inflation in the country. Previously, Apple has temporarily suspended product sales in countries like Turkey where inflation has significantly devalued the currency.
+
+Since President Vladimir Putin ordered the invasion of Ukraine, the Russian government has been pushing an avalanche of pro-Kremlin propaganda, spreading disinformation about the course of the invasion, casualty figures, and more. Not that this is any different from before—RT and Sputnik have long offered audiences a skewed, if not outright false, view of world events, one that hews to Putin’s party line.
+
+Social media companies have been slow to respond to the war in Ukraine, appearing to fall back on their default “neutral” status and leaving their platforms open to state media companies. Even today, Sputnik and RT and its affiliated channels remain on YouTube outside of the EU, though Google has removed their ability to make money so as to comply with sanctions. Perhaps as a result, RT America ceased production yesterday, though its videos are still available on YouTube.
+
+But, as the war drags on, civilian casualties mount, and Russia places even greater pressure on Western companies, social media platforms will likely be forced to decide whether their markets-first ideology will serve them in the long run. Since their advent, platforms like Facebook and Twitter have been able to thread the needle, doing just enough to stay in hostile markets without risking government probes or catastrophic consumer backlashes in Western markets.
+
+That era may be swiftly coming to a close, though, as a Cyber Curtain begins to take shape amid Putin’s efforts to relitigate the end of the Cold War.",https://arstechnica.com/tech-policy/2022/03/putin-reportedly-blocks-russians-access-to-facebook-twitter-app-stores/
+6,ea900dcb-6dc2-4a0d-ad26-55caaeeae1af,"['News Writer', 'Senior News Writer', 'Published']",,"Updated March 28 to reflect SAP's additional response.
+
+Tech companies responding to the war in Ukraine and U.S. economic sanctions imposed on Russia are halting product sales, limiting services, giving up revenue and hurting Russia's access to advanced tech.
+
+Google, Apple, Microsoft, Oracle, Dell and Meta are among the firms announcing changes to their business plans in Russia in response to the country's invasion of Ukraine, sanctions and the urging of one of Ukraine's top officials.
+
+Google cut off ad revenue to Russian-backed state media outlets and increased security measures for Ukrainian users and websites through expansion of its Project Shield campaign. Apple and Microsoft paused new product sales in Russia. Oracle and SAP suspended operations in Russia, and Meta restricted access to Russian state-controlled media outlets Russia Today and Sputnik. According to market research firm IDC, Russia's total Information and Communication Technologies (ICT) spending in 2021 was about $50 billion.
+
+""Like the rest of the world, we are horrified, angered and saddened by the images and news coming from the war in Ukraine and condemn this unjustified, unprovoked and unlawful invasion by Russia,"" said Brad Smith, Microsoft president and vice chair, in a statement.
+
+Economic sanctions imposed by the U.S. on Russia are also causing U.S. companies like VMware as well as the German enterprise software firm SAP to pause some of their services to the country, including stopping new sales transactions with sanctioned Russian customers.
+
+Tech firms are also being urged by Mykhailo Fedorov, Ukraine's vice prime minister and minister of digital transformation, to step up pressure on Russia. He has mounted a vigorous social media campaign aimed at U.S. tech companies and believes they need to do more in response to Russia's aggression.
+
+Fedorov's push to stop tech companies' services to Russia Fedorov is calling out large tech companies on social media and asking for their support by stopping operations, product sales and services to Russia. Apple was one of many companies Fedorov singled out on Twitter, noting that he had contacted Apple CEO Tim Cook asking him to support U.S. sanctions against Russia and block the company's App Store for Russian residents. Though the company stopped product sales, it has not blocked App Store access in Russia. ""No more @Apple product sales in Russia!"" Fedorov tweeted. ""Now @tim_cook, let's finish the job and block @AppStore access in Russia. They kill our children, now kill their access!"" Fedorov also used social media to ask SpaceX CEO Elon Musk to activate Starlink satellite internet service in Ukraine, which Musk did. Company Status Adobe Stopped all new sales ADP Doesn't serve clients headquartered in Russia; serves clients in Russia, Ukraine Amazon Stopped accepting new Amazon Web Services clients or third-party Amazon sellers based in Russia or Belarus; stopped shipment of retail products to customers in Russia and Belarus; suspended access to Prime Video in Russia; provided cybersecurity services to Ukraine AMD* Sanctions prevent chip sales Apple* Suspended product sales; limited services Aruba Suspended shipments Cisco Suspended business operations in Russia, Belarus Commvault* Ceased all commercial operations Dell* Suspended product sales Epicor* Suspended product sales, operations Google* Suspended ad revenue for Russian-backed state media, limited services in Russia, provided cybersecurity services to Ukraine Hitachi Vantara* CEO: It will ""monitor events"" and ""provide updates as the situation develops"" HP* Suspended shipments; halted advertising IBM* Has stopped selling technology IFS Ended operations in Russia more than a year ago; a recently acquired company with a small footprint in Russia is also being addressed in this process Intel* Sanctions prevent chip sales; suspended sales Juniper Networks Suspended all sales, product deliveries and support services for customers in Russia and Belarus Meta Restricted access to Russian-backed state media Micron Halted all shipments to Russia and Ukraine Microsoft* Suspended new products, services sales in Russia; provided cybersecurity services to Ukraine Nvidia* Stopped sales Oracle* Suspended sales, operations Pure Storage* Suspended shipments in support services Salesforce Exiting relationships through resellers/other channels with small number of Russia-based customers; no material business in Russia SAP* Suspended sales SAS Suspended all business operations in Russia Seagate ""Closely monitoring"" developments and U.S.-related sanctions Splunk Withdrew from Russian market in 2019 Supermicro Paused all its sales and shipments to Russia TikTok Restricting services, limiting posting in Russia Veeam* Suspended sales VMware* Suspended sales/support to sanctioned customers; blocked license delivery to partners Workday Does not sell products or services in Russia * Has offices in Russia
+
+ERP companies respond at Fedorov's urging On March 2, ERP giants SAP and Oracle suspended all operations in Russia, in response to a direct appeal from Fedorov. ""Economic sanctions against Russia are an important mechanism in the efforts to restore peace. We are in constant exchange with governments around the world, have every confidence in their guidance, and fully support the actions taken so far,"" said SAP CEO Christian Klein in a blog post on Wednesday. ""We are stopping business in Russia aligned with sanctions and, in addition, pausing all sales of SAP services and products in Russia."" In a tweet, Fedorov thanked SAP for stopping sales in Russia, but argued that it was not enough. ""We ask you to stop support of SAP products as long as Russian tanks and missiles attack Ukraine,"" he tweeted. More recently, SAP extended its response to the Russian invasion by stating that it is ""actively shutting down our cloud operations in Russia,"" it stated in a March 24 blog post. The statement continued that customers in Russia who have purchased and deployed on-premises SAP products and run them in their own IT centers will be able to run those products, but that SAP will not provide support. It's unclear how much business SAP does in Russia, but in 2018 the Germany-based ERP giant opened the SAP Experience Center Moscow to help develop SAP applications for customers in the Russian market. At the time, SAP reported having 1,600 customers and 1,300 employees in Russia. One of these customers is Gazprom, the giant energy conglomerate based in St. Petersburg. SAP's move to suspend new business in Russia is largely symbolic and is not likely to affect the company's bottom line, said Joshua Greenbaum, principal with Enterprise Applications Consulting in Berkeley, Calif. It's a good start, he said, but it may be a little easier than it seems for SAP to do because Russia's economy is not that big. ""There are probably not huge amounts of revenue at stake relative to most, if not all, other European countries,"" Greenbaum said. ""It's tricky, but I think you have to do something, and they did. It's a symbolic gesture but it's symbolism that matters."" It's a complicated balancing act for SAP because it must take into account how the move will affect its Russian customers, partners and employees, he said. ""I don't think SAP will take a financial hit per se, so it's probably not a very big deal,"" Greenbaum said. ""But it's real and it's something that SAP is going to have to monitor very closely because it may change on a daily basis.""
+
+The impact on Russia as companies stop services As companies respond to Fedorov's calls for aid and Russian sanctions, the country is likely to experience a hit to its ability to produce vital technologies, said Charlotte Newton, analyst at market research firm GlobalData. Newton said the most notable hindrance for Russia and its ability to procure vital technologies is limitations on acquiring Taiwanese semiconductors. ""Without access to those, Russia is limited in its ability to manufacture military equipment and basic devices such as laptops and smartphones,"" she said. Without access to [Taiwanese semiconductors], Russia is limited in its ability to manufacture military equipment and basic devices such as laptops and smartphones. Charlotte NewtonAnalyst, GlobalData Companies such as Apple and Google pausing certain services will have a more significant impact on Russia's infrastructure, she said. The effects are already being felt in Russia. Huge queues were seen in Moscow subways because people were unable to pay for tickets with Apple Pay on their iPhones, Newton said. Along with halting product sales, Apple has limited services in Russia, including Apple Pay and Apple Maps. Google also limited its Google Pay services, meaning several banks in Russia are unable to work with Google Pay and Apple Pay due to the financial sanctions, Newton said. ""While Russia represents only 2% of iPhone sales for Apple, the limits on Apple Pay will impact banks operating in Russia reliant on online transactions,"" she said. While these companies wield a significant amount of global power, Newton said it's important not to overstate the companies' influences, as their response likely won't ""shift the needle"" on Putin's resolve to annex Ukraine. ""If the likes of Meta and Apple leave the country, they will probably be replaced by Russian alternatives, widening the gulf between Russia and the rest of the world. However, the extent to which the Kremlin can create its own version of the internet, Runet, will depend on the available resources.""",https://www.techtarget.com/searchcio/news/252514218/Russian-sanctions-prompt-tech-to-stop-sales-curb-services
+7,ea900dcb-6dc2-4a0d-ad26-55caaeeae1af,"['Jamey Tucker', 'Weather Authority Blog']",,"You have permission to edit this article.
+
+Edit Close",https://www.wpsdlocal6.com/news/tech-companies-limiting-russian-posts-state-sponsored-media-amid-ukraine-invasion/article_9af99ad6-9b75-11ec-b345-630da409cb8d.html

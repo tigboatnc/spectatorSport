@@ -1,0 +1,878 @@
+,uid,article_author,article_date,article_text,article_url
+0,d7fb3df3-e2fc-403f-9250-3b3267bcfeb1,"['Sean Hollister', 'Mar']",2022-03-23 06:00:00-04:00,"Share All sharing options for: DJI drones, Ukraine, and Russia — what we know about AeroScope
+
+Last week, Ukraine accused DJI — the world’s leading drone maker — of letting Russia target innocent civilians with missiles using DJI drone technology. “Are you sure you want to be a partner in these murders?” tweeted Ukraine Vice Prime Minister Mykhailo Fedorov last Wednesday. “Block your products that are helping Russia to kill the Ukrainians!”
+
+Reading those words, you might imagine DJI is now shipping killer drones to Russia or perhaps that Russia is using DJI drones as spotters for separate missile systems of its own. But that’s not even remotely what Ukraine’s request is about. It’s actually about DJI AeroScope, a system for locating drones and their operators — which Russia is now allegedly using to find Ukrainian drone pilots and wipe them out.
+
+DJI AeroScope was originally designed for public safety: if a rogue DJI drone gets near an airport runway, a stadium full of people, or, say, a political rally, law enforcement can warn people and find those drones. As part of the AeroScope system, every DJI drone broadcasts a signal that specialized receivers can use to decipher the drone’s position and the position of its pilot. If police need to monitor DJI drone activity in an area and track down their pilots, it’s as simple as planting a receiver and monitoring the signals.
+
+In 21 days of the war, russian troops has already killed 100 Ukrainian children. they are using DJI products in order to navigate their missile. @DJIGlobal are you sure you want to be a partner in these murders? Block your products that are helping russia to kill the Ukrainians! pic.twitter.com/4HJcTXFxoY — Mykhailo Fedorov (@FedorovMykhailo) March 16, 2022
+
+Even in peacetime, that idea might sound a little bit risky: what if a bad actor gets access to an AeroScope receiver and goes around harassing, assaulting, or stealing from people whose eyes legally have to be glued to their drones in the sky? That’s why DJI says they’re only sold to valid law enforcement and security agencies.
+
+But DJI didn’t plan for what might happen when a valid buyer pairs them with a guided missile battery in wartime. Now that Ukrainian civilians and their consumer-grade drones have been enlisted to defend against the Russian army, a deadly and possibly unforeseen consequence of Aeroscope may have emerged. If Aeroscope lets the Russian military know exactly where a Ukrainian drone pilot is standing, Russians could use that information to target an aerial strike at the pilot.
+
+Importantly, we haven’t found any confirmed reports that’s actually happening, even if that’s the story that’s spreading around parts of the internet (often paired with footage of this drone pilot seemingly surviving a near miss). But DJI has confirmed that some of Ukraine’s AeroScope receivers weren’t working properly, and Fedorov is now asking DJI to block Russia’s DJI gear.
+
+That’s likely a non-starter because DJI is a Chinese company, and China is broadly aligned with Russia, not Ukraine — to the point that US officials now believe China might actually provide Russia with assistance instead of staying neutral. DJI is reportedly funded by the Chinese government and has been repeatedly sanctioned by the United States; most recently, the US Treasury named it one of eight “Non-SDN Chinese Military-Industrial Complex Companies,” and the USA has repeatedly accused it of helping China surveil its Uyghur population with drones.
+
+Here’s everything we know about AeroScope, after chatting with DJI spokesperson Adam Lisberg; drone forensics expert David Kovar; Brandon Lugo, director of operations at Aerial Armor, a prominent Aeroscope dealer in the US; and Taras Troiak, a DJI reseller who ran multiple authorized DJI stores in Ukraine and serves as administrator of the 15,000-strong Ukrainian UAV Owners Fan Club, which claims that some of its pilots have been targeted by Russian airstrikes and even killed.
+
+What is DJI AeroScope, and how does it work?
+
+There are two main elements to the AeroScope system:
+
+A signal, automatically broadcast by every DJI drone sold since 2017, that provides the drone’s position, altitude, speed, direction, serial number, and the location of the pilot The receivers that can pick up those signals up to 50 kilometers (31 miles) away
+
+DJI primarily sells two different types of receivers: a short-range football of a “Portable Unit” with its own clamshell case, screen, antennas and batteries, and a long-range “Stationary Unit” that’s designed to jack into a giant omnidirectional outdoor antenna and needs to connect to a server via an Ethernet cable or cellular modem.
+
+There are multiple ways to set up a Stationary Unit, too: transmitting data to DJI’s public servers (hosted by Amazon’s AWS), to an owner’s private cloud, or even an offline server for security. No internet is technically required, says Aerial Armor’s Lugo, and the Portable Unit doesn’t even have the option. “You open the little Pelican case, you sit there, you monitor all the data locally,” he says. “The Ethernet port doesn’t even enable any sort of connectivity; it’s for programming only.”
+
+The Portable Unit only has a tenth of the quoted range of the Stationary Unit at 5 kilometers, but that 50km number is a stretch. In practice, DJI’s Lisberg says that 50 kilometers is “the upper bound of what I’ve heard, on a clear day with no solar flares, a totally rocking antenna, at the edge of the desert or something.” Lugo points out that smaller drones like the DJI Spark transmit more weakly, too, but that even in an urban environment, you should be able to spot a small drone a couple miles away with an AeroScope receiver.
+
+Prices seem to vary a lot: Lugo says he’s seen the Portable Unit going for $10,000 and a medium-range G8 Stationary kit sold anywhere between $25,000 and $150,000. DJI, meanwhile, says it should cost under $10,000 for a full installation.
+
+Wait, are you telling me that every DJI drone is quietly broadcasting my position, not just my drone’s position, to anyone who buys one of these gadgets?
+
+Yes. “It’s essentially a system where the user of the drone is signing a EULA acknowledging that my information will be made available,” says Kovar.
+
+But DJI and Kovar say that it’s encrypted, and the decryption hardware is theoretically only sold to the good guys. “Since the start, we’ve made clear to all our dealers and distributors that Aeroscopes can only be sold to legitimate operators, police and security forces,” says Lisberg. “We hear reports now and then of a billionaire who gets one to watch their yacht or something, but by and large, those are the people using AeroScopes.”
+
+Does Russia have a third, military version of the AeroScope receiver with longer range than Ukraine?
+
+That’s what Troiak tells me explicitly, and Vice PM Fedorov seemingly implies it in his letter to DJI, too. “The Russian army uses an extended version of DJI Aeroscope which were taken from Syria,” writes Fedorov. “The distance is up to 50 km.”
+
+But again, 50 kilometers is the same range that DJI already quotes for its Stationary Unit — when the right antennas are attached — and DJI’s Lisberg says he’s never heard of a longer-range military version.
+
+One thing that’s not in dispute: both Ukraine and Russia have access to AeroScope receivers, including the long-range Stationary versions.
+
+Did DJI disable or weaken Ukraine’s AeroScope receivers, then?
+
+That’s been another accusation out of Ukraine, but the evidence is shaky at best. Troiak — the DJI reseller who appears to be acting as middleman between their operators and DJI, trying to get them fixed — showed me screenshots of an email conversation that allegedly depicts several AeroScope receivers stationed at nuclear power plants mysteriously going offline after Russia invaded Ukraine. But Troiak could not provide better evidence, suggesting his sources might be killed or jailed if he put them in touch, and Vice PM Fedorov’s office didn’t respond to requests for comment.
+
+Accusations are flying
+
+While DJI does confirm that some of Ukraine’s AeroScope receivers went offline, it vehemently denies that the company had anything to do with it.
+
+“All allegations that DJI has deliberately adjusted the functionality of AeroScope to help some parties or hurt other parties are absolutely, thoroughly false,” Lisberg tells The Verge, suggesting they might have been down because of power or internet outages instead. “Nobody credible has alleged that the technical problems we’ve been having with AeroScopes are anything other than technical problems.”
+
+And both Troiak and Lisberg agree that DJI has already helped bring some of Ukraine’s non-working AeroScope receivers back online. “Others, we have not been able to diagnose or fix, but we continue to work with their operators,” DJI’s Lisberg says.
+
+Why can’t DJI or Ukraine just shut off the Aeroscope signals so pilots aren’t targeted?
+
+First off, this isn’t something that DJI can switch off over the internet — the drones themselves are broadcasting the AeroScope signals locally over standard 2.4GHz and 5.8GHz frequencies to any nearby receiver that’s listening. They’re not being sent over the internet.
+
+And DJI says drone owners can’t turn them off either. “This is all encoded in a data packet that’s part of the same data transmission you can use to command and control the drones,” says Lisberg. “You cannot shut that off without also losing control of the drone.”
+
+All that said, AeroScope was retroactively added to some early DJI drones as a firmware update, so theoretically possible a new firmware update could turn it off again. “If you engineered new firmware with no AeroScope, the drone would still fly fine,” Lisberg admits. But that might defeat the public safety purpose of AeroScope since DJI can’t guarantee only resistance fighters would receive the firmware. It could allow bad actors to cloak their drones as well.
+
+But perhaps just as importantly, Ukraine isn’t actually asking DJI to shut off the AeroScope signals — remember, Ukraine is using AeroScope receivers as well, and it wants them turned on.
+
+So what is Ukraine actually asking for?
+
+Vice PM Fedorov wants DJI to cough up information about every DJI product in Ukraine — including where they were purchased and a map of their locations — and to explicitly block DJI products from functioning if they came from Russia, Syria and Lebanon.
+
+Does DJI actually have that map of where its products are?
+
+The company says no. “We have no way of tracking where an AeroScope is,” says Lisberg. “We sell mostly through distributors, which sell to dealers, which sell to the public... there’s a big gap between the information people think we have on our users and what we actually have on our users,” he adds, when I ask if DJI might at least have sales data on its drones.
+
+Aerial Armor’s Lugo backs that up. “They don’t have immediate visibility, if any, into the clients we sell to... they might know we have an NFL stadium, but they don’t know which one or where it’s at.”
+
+Can’t DJI see the positions of the drones? Isn’t it tracking flight data too?
+
+That was the theory in 2017, but DJI says it’s not happening at all.
+
+“I was one of the people five years ago or so who was accusing them of doing that, and at the time, they might well have been. There were strong indications that telemetry data was flowing off of the drone and through the app to some domains, likely controlled by DJI,” says Kovar, the drone forensics expert.
+
+The short version: in 2017, a hacker named Kevin Finisterre discovered that DJI had left some of its Amazon AWS cloud data publicly accessible, with Ars Technica writing that it included “flight logs from accounts associated with government and military domains.” That’s when the US Army got suspicious and began to ground its own DJI drones.
+
+“it was not done, those programs do not exist”
+
+In 2020, Finisterre uploaded another chunk of data from that same breach, which appears to show an online heatmap of drone activity around the globe — something DJI theoretically wouldn’t be able to generate without tracking of some sort. (The ominous name “DJI Sentinel & Supervisor” didn’t help.)
+
+But DJI’s Lisberg says that “Sentinel & Supervisor” never actually existed: it was an internal proposal that didn’t go anywhere. “[Finisterre] came across a presentation someone put together about something that could be done; it was not done, those programs do not exist,” he says.
+
+And DJI firmly says it doesn’t have your flight data unless you upload it yourself. Though Finisterre has suggested that the DJI Fly app might do that automatically with its “Auto-sync Flight Records” feature, I was able to confirm that at least the current US version of the app has that feature turned off by default.
+
+While the app does push you into sharing the location of your own drone, hardware info, and your device’s “daily diagnostic and usage data,” you can opt out of all of those, and Kovar says he’s convinced that the company’s not siphoning off flight info now. Repeated independent security audits by consulting firms and US government agencies also found nothing of the sort.
+
+Breaking: Yet another security examination, this time by FTI Consulting, has validated DJI's security features, concluding that no drone data is transmitted to DJI or elsewhere:https://t.co/O98gDBzQIM pic.twitter.com/KirWcJV8jY — Brendan Schulman (@dronelaws) September 9, 2020
+
+“People have looked at the traffic, and they have been unable to come to any conclusion that there’s telemetry data flowing across the link anymore,” he says, adding that DJI has managed to convince many law enforcement agencies since 2017 that their data is safe as well.
+
+Couldn’t DJI access AeroScope receivers based in Ukraine to find the data Ukraine wants?
+
+Theoretically — if Russia or Ukraine set their Aeroscope receivers to upload their data to DJI’s public AWS cloud servers, and if DJI had access, then DJI would have the same information that Ukraine’s own receivers can already get on the ground. It depends on where the data is hosted. “If a stationary AeroScope customer uses our AWS server, it is theoretically possible for us to access it,” says Lisberg. And Lugo says that in his experience, AeroScope dealers tend to put their clients on the cheaper AWS “demo cloud” more often than not.
+
+That said, some of the AeroScope stations upload to a private cloud rather than AWS — and that’s the kind that you’d be likely to use to secure military data. They would only connect to DJI’s servers once a year to get a new digital certificate so they can operate, according to Kovar and Lugo.
+
+Even if DJI did have the data, it wouldn’t give it to Ukraine, says Kovar, because that would be providing military intelligence to one side of the war. “It’s a request DJI is not going to go along with because DJI is a Chinese company, and Russia is a Chinese ally.”
+
+If the AeroScope receivers need a digital certificate to work, couldn’t DJI just shut them off?
+
+Perhaps. While DJI tells me there’s no explicit kill switch — “it was not something that we contemplated,” says Lisberg — Lugo confirms that an AeroScope sensor will drop offline if its certificate expires, after repeatedly warning its owners that it’s time to pay up.
+
+But it’s not clear if DJI could revoke a certificate prematurely, and they otherwise last an entire year before they expire. Lugo says the Portable Units don’t require one at all, and since many Stationary Units aren’t connected to the internet, it wouldn’t be possible to send a signal to cut them off early.
+
+Either way, shutting down the AeroScope receivers is not what Ukraine is asking for, and DJI is trying to maintain a neutral stance anyhow.
+
+Couldn’t DJI establish a neutral no-fly zone for its drones over Ukraine?
+
+Yes, but not a particularly effective one. DJI has the ability to set up geofences, and it’s one of the few things DJI has actually offered to do in response to Ukraine’s ask — but as DJI points out, it’s not foolproof.
+
+Russian and Ukrainian pilots could dodge the geofence by not installing the latest software update. “There are software hacks that disable most of that,” too, says Kovar. Pilots could also physically block the antennas from seeing satellite signals or disable GPS positioning entirely — which is actually what Troiak is already recommending Ukrainian drone pilots do to avoid getting spotted by Russia’s AeroScope sensors. Those drones would still broadcast an AeroScope signal, but it wouldn’t accurately provide the exact coordinates of a drone or its pilot.
+
+How are Ukrainians using their DJI drones in wartime, anyhow?
+
+“Civilians have been using the aerial cameras to track Russian convoys and then relay the images and GPS coordinates to Ukrainian troops,” according to the Associated Press. While there have also been reports on a drone that can drop Molotov cocktails, the pictures only show it dropping a beer bottle. “I think it’s mostly aspirational,” says Kovar, while adding how ISIS and others have indeed used DJI products to drop 40mm grenades in the past.
+
+Nevertheless, Ukraine does have some history with makeshift drone weaponry. In 2018, Smithsonian Magazine reported on the custom-made “fighting drones of Ukraine,” and the Ukrainian National Guard was reportedly using DJI Mavic 2 drones to direct airstrikes and drop homemade bombs in 2020, according to Coffee or Die.
+
+DJI drones aside, Ukraine has reportedly also been using inexpensive military-grade drones from Turkey that drop laser-guided bombs. The US is sending 100 “Switchblade” kamikaze drones to Ukraine as well.
+
+Has DJI stopped sales in either Russia or Ukraine?
+
+No. “We’ve always told our distributors and our dealers, you have to follow any applicable export control laws of any country where you’re operating and the US... we’ve reemphasized that guidance since this began,” says Lisberg.
+
+Stopping sales of AeroScope receivers wouldn’t necessarily deter the Russian military from tracking down these drones, anyhow. Troiak believes Russia already has hundreds of them in the country. And, “state-level militaries have probably figured out how to decrypt that information as well,” says Kovar.
+
+Over four hundred companies have withdrawn from Russia in protest. Will DJI?
+
+No.
+
+“For 15 years, DJI has tried our best to stay out of geopolitics,” says Lisberg.
+
+What kind of oversight keeps an AeroScope station owner from, say, logging all nearby flights and selling that data?
+
+Nothing, it seems.
+
+“[A]s with all DJI products, your data is your data,” writes Lisberg. “We’re not a data company. We don’t want to be the repository for our customers’ data. Just like with our drones, we offer data hosting as a convenience for customers who want to use it and who have no security concerns about it. And once you generate data with our products, it’s yours to use and control and keep.”
+
+In hindsight, is the AeroScope system a good idea?
+
+DJI has said publicly that the situation in Ukraine goes to show that the company’s drones don’t belong in a warzone, and it’s hard to disagree. AeroScope clearly wasn’t designed for that.
+
+“In this situation, no, it’s clearly a bad idea,” says Kovar. “[AeroScope] is exposing people fighting for democracy, whose nation is under attack, who are trying to use a powerful, very commercially available drone to defend their country, to being identified and located by opposing forces. In that regard, it’s a horrible, horrible idea. But for law enforcement purposes, to protect our critical infrastructure and such, it was an excellent idea.”
+
+Unforeseen consequences
+
+He likens it to other unforeseen uses of technology that have unfortunate implications for their owners, like how Toyota might be associated with images of insurgents with machine guns mounted to its pickups or Caterpillar with their bulldozers that have been used to demolish settlements in the West Bank.
+
+Lisberg also wants to be clear that DJI thought a technology like AeroScope was inevitable and saw government regulation heading its way if it didn’t produce it voluntarily. “The message was delivered clearly that if solutions like this weren’t developed, the government would go ahead and develop them and mandate them for us.”
+
+According to a 2020 Bloomberg Businessweek feature, one country that clearly delivered that message was China itself.
+
+DJI AeroScope is just part of a much larger conversation about who and what should be able to identify a drone and its owner, by the way — new FAA Remote ID rules could be shaking that up again soon.
+
+Update March 24th, 3:26PM ET: Clarified that DJI and Kovar claimed the AeroScope signals are encrypted rather than stating it as fact — however, DJI has gone back to double-check at our request and says that yes, they’re encrypted.",https://www.theverge.com/22985101/dji-aeroscope-ukraine-russia-drone-tracking
+1,d7fb3df3-e2fc-403f-9250-3b3267bcfeb1,"['H I Sutton', 'View All Posts H I Sutton']",2022-03-25 00:00:00,"The Russian landing ship attacked by Ukrainian forces this week at in the southern port city of Berdyansk has sunk, Pentagon officials confirmed on Friday.
+
+Satellite images provided to USNI News by Maxar Technologies prove the Alligator-class landing ship tank (LST) that was seen on video on Thursday was underwater at the side of the pier, with the superstructure and forecastle sticking up above the water.
+
+The imagery shows that the fire spread to a merchant ship moored in front of it. It appears that the merchant ship, likely a grain carrier, had been docked there since before the invasion. The fire also spread to tanks on the pier. Both of these fires were still burning today when the satellite passed.
+
+Video footage of the burning ship, taken soon after the attack, shows that two Ropucha-class landing ships were also damaged. They had been berthed alongside and in front of the Alligator-class amphibious ship. They sailed away fighting their own blazes as the fire on the Alligator raged.
+
+A senior U.S. defense official confirmed to reporters on Friday that Ukrainian forces had struck and destroyed the Alligator-class LST while it was pierside.
+
+“It appears from the imagery we’ve seen that they destroyed that ship. We don’t know how many casualties. I don’t know how many people were on the ship when it got hit,” the official said.
+
+It is unclear whether the attack involved a ballistic missile or a drone. The U.S. defense official would not say what Ukraine used to attack the ship, citing operational security for Ukrainian forces.
+
+The Alligator-class ship was performing a resupply mission, the official said, as fighting continues in the port city of Mariupol on the Sea of Azov.
+
+“It’s clear that at least one thing they were trying to do was use the port there at Berdyansk as a resupply depot for their fight up near Mariupol,” the official said.
+
+The official told reporters that there had been “no real changes in Mariupol,” as of Friday.
+
+“Obviously vicious, vicious fighting continues there and still long-range strikes. So lots of heavy fighting there,” the official said.
+
+The Pentagon’s assessment is that Russia is focusing on the eastern part of Ukraine in a ground offensive, as Russian forces try to cut off the Donbas region, the official said.
+
+“They’re trying to break out – to take Mariupol – and then be able to break off north from there to do that from the south. Now that’s why they’re frustrated and frankly, we think that’s of a piece of why they had LSTs dropping off supplies in Berdyansk – to try to reinforce their efforts to take Mariupol,” the official said.
+
+The official said there has been no change in naval activity in the Sea of Azov since the attack on the Russian amphibious ship.
+
+Russia has been amassing landing ships for the war in Ukraine. During the build-up phase, six ships from the Northern and Baltic Fleets sailed into the Black Sea. More are on their way from the Pacific Fleet, although it is unclear whether Turkey will allow them to enter the Black Sea.
+
+Docking at Berdyansk would have been a calculated risk for the Russian Navy. The city, which was recently captured by Russian forces, provides a logistics hub close to the siege at Mariupol. Reinforcements, armored vehicles and supplies can be unloaded. The struck landing ship appeared to have been carrying substantial quantities of ammunition which likley
+
+Although the landing ships can theoretically perform cross-beach landings, this would have complicated unloading. The captured port of Berdyansk provides a hard quay for unloading vehicles and supplies using cranes. Additionally, the Sea of Azov is very shallow and the port is one of the few places where larger ships can get close to land.
+
+It is unclear how the loss of the ship will affect the Russian Navy. The destruction of the LST as has only blocked one berth. There are several other berths that can still be used.
+
+
+
+The two Ropucha-class ships have likely returned to Sevastopol in Crimea, meaning they’ve left the Sea of Azov. Two Ropuchas were observed approaching the port from the direction of Berdyansk today.
+
+As for Odesa, the senior U.S. defense official said it appears the port city is not at risk of an immediate Russian amphibious or ground assault.
+
+“No signs that Odesa is under an imminent threat of an amphibious assault, or frankly a ground assault. They can’t break out of Mykolaiv and we haven’t seen anything noteworthy in terms of naval activity in the Black Sea,”the official said.
+
+Russia currently has 22 warships in the Black Sea – 15 surface combatants, while most of the remaining ships are amphibs, according to the Pentagon.
+
+“We’ve seen them move into the Sea of Azov to conduct an amphibious assault, to try to resupply their efforts on Mariupol. We have not seen them move on Odesa. It’s unclear the degree to which they would or could use naval power to assist in what they’re trying to do in the eastern – in the Donbas,” the official said when asked how Russia moving its ships out of the Sea of Azov could affect its effort to cut off the Donbas region.
+
+“But clearly they could reach parts of the Donbas from the Sea of Azov if they wanted to. They could absolutely use some of their surface power – particularly missiles – if they wanted to. But we just haven’t seen that happen.”",https://news.usni.org/2022/03/25/satellite-images-confirm-russian-navy-landing-ship-was-sunk-at-berdyansk
+2,d7fb3df3-e2fc-403f-9250-3b3267bcfeb1,[],2022-03-23 00:00:00,"War in Ukraine: What you need to know
+
+The latest: Kyiv region police said Friday that the bodies of more than 900 civilians had been tallied in the area — more than 350 of which were discovered in the Bucha suburb. The vast majority of them were found with gunshot wounds. Russia appears to be on the verge of capturing the devastated port city of Mariupol, which a regional leader said had been “wiped off the face of the earth.”
+
+The fight: Russian forces continue to mount sporadic attacks on civilian targets in a number of Ukrainian cities. Ukrainian prosecutors have been taking detailed testimony from victims to investigate Russian war crimes.
+
+The weapons: Ukraine is making use of weapons such as Javelin antitank missiles and Switchblade “kamikaze” drones, provided by the United States and other allies. Russia has used an array of weapons against Ukraine, some of which have drawn the attention and concern of analysts.
+
+In Russia: Putin has locked down the flow of information within Russia, where the war isn’t even being called a war. The last independent newsletter in Russia suspended its operations.
+
+Photos: Post photographers have been on the ground from the very beginning of the war — here’s some of their most powerful work.
+
+How you can help: Here are ways those in the U.S. can help support the Ukrainian people as well as what people around the world have been donating.
+
+Read our full coverage of the Russia-Ukraine crisis. Are you on Telegram? Subscribe to our channel for updates and exclusive video.",https://www.washingtonpost.com/world/2022/03/23/russia-ukraine-war-news-biden-live-updates/
+3,d7fb3df3-e2fc-403f-9250-3b3267bcfeb1,[],2022-03-24 00:00:00,"War in Ukraine: What you need to know
+
+The latest: Kyiv region police said Friday that the bodies of more than 900 civilians had been tallied in the area — more than 350 of which were discovered in the Bucha suburb. The vast majority of them were found with gunshot wounds. Russia appears to be on the verge of capturing the devastated port city of Mariupol, which a regional leader said had been “wiped off the face of the earth.”
+
+The fight: Russian forces continue to mount sporadic attacks on civilian targets in a number of Ukrainian cities. Ukrainian prosecutors have been taking detailed testimony from victims to investigate Russian war crimes.
+
+The weapons: Ukraine is making use of weapons such as Javelin antitank missiles and Switchblade “kamikaze” drones, provided by the United States and other allies. Russia has used an array of weapons against Ukraine, some of which have drawn the attention and concern of analysts.
+
+In Russia: Putin has locked down the flow of information within Russia, where the war isn’t even being called a war. The last independent newsletter in Russia suspended its operations.
+
+Photos: Post photographers have been on the ground from the very beginning of the war — here’s some of their most powerful work.
+
+How you can help: Here are ways those in the U.S. can help support the Ukrainian people as well as what people around the world have been donating.
+
+Read our full coverage of the Russia-Ukraine crisis. Are you on Telegram? Subscribe to our channel for updates and exclusive video.",https://www.washingtonpost.com/world/2022/03/24/russia-ukraine-war-news-putin-live-updates/
+4,d7fb3df3-e2fc-403f-9250-3b3267bcfeb1,['Peter Weber'],2022-03-23 00:00:00,"A month into Russia's invasion, ""one of the biggest surprises of the war in Ukraine is Russia's failure to defeat the Ukrainian Air Force,"" The New York Times reports. ""Military analysts had expected Russian forces to quickly destroy or paralyze Ukraine's air defenses and military aircraft, yet neither has happened.""
+
+Russia invaded Ukraine ""with an arsenal of advanced fighter planes, bombers, and guided missiles, but significant combat losses in more than three weeks of fighting raise questions whether Moscow will ever fully dominate the skies,"" The Wall Street Journal adds. How did Ukraine's Soviet-era fighter jets and air defense systems deny Russia aerial impunity?
+
+First, Ukraine has been nimble and creative with the air defense systems they have, a mixture of decades-old S-300 long-range missile-defense units, Turkish Bayraktar TB-2 drones, and portable U.S.-provided Stinger anti-aircraft missiles. Ukraine's long-range anti-air batteries have forced ""Russian pilots to fly lower to escape those systems, but that put them within range of the shoulder-fired weapons,"" like the heat-seeking Stingers, the Journal reports. The heavy losses inflicted by these weapons have limited Russian sorties.
+
+Second, despite having only about 55 working fighter jets, Ukraine utilizes its home-field advantage. ""Ukraine has been effective in the sky because we operate on our own land,"" says Ukrainian Air Force spokesman Yuriy Ihnat. ""The enemy flying into our airspace is flying into the zone of our air defense systems.""
+
+The Russians ""have almost full air superiority,"" because Ukrainian has limited air defense and aircraft, a Ukrainian fighter pilot using the call sign ""Juice"" told CNN's Anderson Cooper on Monday. But ""Russians have a lot of losses, and they have a fear of our air defense.""
+
+""It's just my job. I was trained for this."" - Ukrainian fighter pilot ""Juice"" talks with @andersoncooper about the air war over Ukraine and fighting the Russians. pic.twitter.com/kwY7f8bWWr — CNN (@CNN) March 22, 2022
+
+Third, in the eight years since Russia annexed Crimea and stealth-invaded Ukraine's eastern Donbas region, ""we have developed different techniques to give the enemy a punch in the teeth,"" Ignat tells the Journal. Ukraine's air defense has also likely ""benefited from new approaches to fighting that the military embraced as it reorientated toward NATO and abandoned its Soviet-era centralized command,"" the Journal reports.
+
+Ukraine's air force is greatly outnumbered, but its jets can take off from partially destroyed runways or even highways, the Times reports. ""I only have to use my skills to win,"" a fighter pilot name Andriy tells the Times. ""My skills are better than the Russians. But on the other hand, many of my friends, and even those more experienced than me, are already dead.""",https://theweek.com/russo-ukrainian-war/1011660/3-ways-ukraines-outgunned-air-force-has-kept-russia-from-controlling
+5,d7fb3df3-e2fc-403f-9250-3b3267bcfeb1,[],2022-03-25 00:00:00,"During the early hours of February 24, Russia launched a military offensive at various points in Ukraine. As a result, dozens of videos and images supposedly linked to the start of this military conflict are being shared on social media. However, many of them are either old or have not been recorded in Ukraine. Disinformation thrives during crisis, so when in doubt, avoid sharing content if you are not sure that it’s legit.
+
+These are the hoaxes and misinformation cases that we have spotted since the attack started:
+
+No, this video is not from the campaign of the president of Ukraine, Volodímir Zelenski: it is a scene from a series in which he was the main actor
+
+""The election campaign of Zelenski, the president of Ukraine"". With this message, a video has been shared in which Volodímir Zelenski, president of Ukraine, is seen shooting dozens of people in a room. It's a hoax: it's a scene from the series “Servant of the People 2” in which he played the role of main actor in 2017, almost two years before he was named as a president of Ukraine.
+
+The video of Vladimir Putin where his hand supposedly passes through a microphone: better quality images show that the microphone does not disappear
+
+A video of Russian President Vladimir Putin, in which he appears at a table with several people around is circulating. It spreads with comments indicating that the images would be recorded on a chroma key (the green background that is placed to recreate scenes added later digitally) because, supposedly, at the moment when he passes his hand behind one of the microphones on the table, it disappears. But if we look at higher quality videos at the same time, we can see that this effect does not occur and that the microphone is seen in front of the hand.
+
+What do we know about the woman injured in Ukraine who is accused of working for the Ministry of Defense?
+
+""The bloodied woman who appears on the front pages of all the newspapers turns out to be an employee of the Armed Forces of Ukraine"", claim several viral contents that unite three different photos saying that the same person appears in them: a wounded woman with bandages on the head, another with a rifle in his hand and another group with several people in military uniforms. The Russian Embassy in Spain shared the same images stating that ""a woman very similar"" to the wounded one was ""an employee of the Ukrainian special unit of internal organs"". We tell you what we know.
+
+Misinformation claiming that Zelensky, the president of Ukraine, has fled to Poland (as of March 7)
+
+You are asking us on our WhatsApp service (+34 644 229 319) if it is true that Volodymyr Zelensky, the president of Ukraine, has left the country and defected to Poland. In Spain, this content has been published by the website 'El Común', and it talks about how ""there are various sources from Russia that suggest that the President of Ukraine [...] could have fled to Poland"". There are other websites in other languages ​​that claim the same. We explain what we know.
+
+The Ukrainian woman victim of the explosions and misinformation in the Russian invasion
+
+On February 24, the day the Russian invasion of Ukraine began, there was an explosion in the Ukrainian city of Chuhuiv or Chuguyev, in the Kharkov oblast. An apartment block was damaged and one person was killed and several others were injured, according to Ukraine's State Emergency Service. The image of one of those injured people went viral and has also been a victim of misinformation. We explain what we know.
+
+No, this photo of a Russian flag being placed on a public building in Ukraine has not been taken during the current attack: it is from 2014
+
+A photo where we can see a person on a ladder placing a Russian flag on a public building in Ukraine is circulating on social media platforms such as Twitter. It is being shared as if the image were current, coinciding with the military offensive that Russia has carried out in several places in Ukraine during the early hours on February 24.
+
+It's a hoax. The photo was taken in Ukraine, but it is from the 1st of March 2014. The picture can be found on the website of the Reuters agency with the following description: “A pro-Russian protester installs the Russian flag at the regional government building after clashes with supporters of Ukraine's new government in central Kharkiv March 1, 2014”.
+
+No, this photograph of people praying in Ukraine is not recent: it has been circulating since at least 2019
+
+""Christians in Ukraine praying outdoors, in the snow, asking the Lord to save them from war"" (sic). This message is being shared along with an image of people kneeling in a snowy square. The photograph has gone viral after Russia's attack on Ukraine. But it is a hoax. The image is not recent and has been shared since at least 2019.
+
+No, this video does not show Ukrainian forces shooting down a Russian combat aircraft: it was filmed in Libya in 2011
+
+Coinciding with the Russian attack on Ukrainian territory that began in the early hours of February 24, a video has been shared on social media in which a plane is seen crashing after being shot down. The video is spread claiming that it is a ""Russian combat aircraft shot down by the Ukrainian air defense"", but it is a hoax.
+
+The video is not recent: it is about a fighter shot down in 2011 in Libya.
+
+What do we know about the pictures published by the Russian Embassy in Spain that allegedly show how Russian soldiers provide “humanitarian aid to Ukrainian civilians”?
+
+“Russian soldiers give 30 tons of humanitarian aid to Ukrainian civilians”. That’s the text with wich the Russian Embassy in Spain (@EmbajadaRusaES) shared a tweet on March 3 including three pictures of its army allegedly handing out “humanitarian aid” to Ukrainians after Russia invaded the country. However, the picture of the lorries is not recent: it has been on the Internet since, at least, November 2020.
+
+There’s no evidence that the pregnant woman injured in Mariupol’s child hospital is a Ukrainian soldier
+
+Since the 9th of March, many pictures of injured pregnant women being evacuated from Mariupol’s bombed hospital have been shared. Some of them have been used to claim that one of them is actually a Ukrainian soldier.
+
+However, there’s no evidence of such a thing. The photo of the soldier has been repeatedly shared since, at least, 2014, and linked to a cadet from Ukraine's military institute who won a literary competition that same year.
+
+No, this video doesn’t show Putin threatening Mexico for condemning Russia’s invasion of Ukraine: the subtitles are false
+
+We have spotted a viral video in which Russian President, Vladimir Putin, is allegedly threatening the Government of Mexico as it has condemned the invasion of Ukraine. It’s a hoax: the Spanish subtitles are false.
+
+No, CNN has not tweeted that “intelligence agencies from across the world have seen American actor Steven Seagal among Russian special forces”
+
+“Intelligence agencies from across the world have spotted American actor Steven Seagal among Russian special forces positioned in the outskirts of Gostomel airport, close to Kyiv”. That’s the translation of an alleged CNN tweet that is making the rounds on Twitter and Facebook.
+
+But CNN has not published such a thing.
+
+No, this video in which an alleged dead body appears to be smoking is not related to Russia’s invasion of Ukraine: it’s a music video
+
+“This is how Ukrainian propaganda works. He smokes a cigarette before his cremation”. That’s the text with which a video of a lorry with an orange trailer containing what appears to be dead bodies in black bags is being shared. When the camera zooms in you can see how one of the alleged dead bodies is smoking a cigarette. It’s a hoax: the images were filmed during the shooting of a music video from Russian rapper Husky.
+
+No, this picture of armoured military vehicles beside a building doesn’t show the children’s hospital in Mariupol (Ukraine)
+
+A picture of armoured military vehicles beside a building is being shared with a message that claims it shows the bombed children’s hospital in Mariupol. It’s a hoax: the image is of a building that is around 10 kilometres away from such a hospital.
+
+No, Putin has not said that the bombed hospital in Mariupol (Ukraine) had biological weapons in a call with Donald Trump
+
+“In a call with Trump on Wednesday, Putin said that the bombed hospital in Mariupol contained a biological weapon lab with no security measures at all”. That’s the claim made by a viral message made by Telegram channel Rafapal, but it’s a hoax.
+
+No, this video doesn’t show how a Ukrainian Bayraktar TB2 is brought down by Russian forces: the video is not recent
+
+A video is being shared in which we allegedly see how Russian forces bring down a Ukrainian Bayraktar TB2 (Am unmanned combat plane), but it’s a hoax: the video is not recent and has been shared since, at least, 2021.
+
+No, the symbol on Zelenski’s jersey is not the logo of the Azov Battalion, it’s that of the Ukrainian Football Federation
+
+An image of Ukrainian President, Volodimir Zelenski, holding a football jersey is being widely shared on social media. The jersey has a symbol that, according to some posts, belongs to the Azov Battalion, which is part of the country’s National Guard and has been described as neo-Nazi by the US Congress.
+
+However, the logo that can be seen on the jersey is actually from Ukraine’s football federation.
+
+No, this video is not recent nor does it show how the Russian Military Choir is arrested for signing against the war: it has been shared since, at least, 2015
+
+A video in which several masked people arrest singers who are dressed in military uniforms has been shared on Facebook and Twitter, claiming those who were detained were actually part of the Russian Military Choir and were protesting against the war. It’s a hoax.
+
+The disinformation without evidence that the Chinese Ministry of Defense says that they ""are ready to support Russia"" in case the US and NATO ""want to intervene militarily""
+
+It is being said that ""Chinese National Defense Ministry spokesman Tan Kefei said that they are ready to support Russia in case of a US and NATO militar intervention"". There is no evidence that Kefei made any such statements. The message circulates with the same text on Twitter accounts that are not from the outlet and is shared without a link to any news or a video of the alleged statements. In addition, there is no trace of that intervention in the media or through official channels.
+
+No, this 'Time' magazine cover with Putin turned into Hitler isn't real
+
+An image of an alleged cover of 'Time' magazine with a photo of Vladimir Putin, president of Russia, mixed with a photo of Adolf Hitler and with the headline ""The return of history"" is going viral as if it was authentic. It is not a real cover.
+
+It is a montage made by Patrick Mulder and you can see how his name is at the bottom of the false cover. In fact, Mulder himself has published a statement this February 28 on Twitter assuring that he created the cover because the original of Time magazine ""was not inspiring and lacked conviction"".
+
+What do we know about whether the Polish and Ukrainian military and police are preventing black people from crossing the border?
+
+Since the beginning of Russia's attack on Ukraine, thousands of people have fled to neighboring countries. According to the United Nations High Commissioner for Refugees, Filippo Gradi, as of February 28, more than 280,000 people had fled to Poland. This March 2, the Government of Poland raised this figure to more than 450,000 people.
+
+With these large movements of people, videos have been shared of the situation at the borders and of messages and testimonies from people who claim that non-Ukrainians are being discriminated against at the border crossing between Ukraine and Poland, content that has been shared, in many cases with the hashtag #africansinukraine.
+
+Some journalists on the ground say that non-Ukrainians are being allowed to enter Poland. Some of them, like the journalists Pablo González or Nicolas Castellano, or the chef Jose Andrés, have shared stories of Nigerians or Cameroonians on their social networks. Others recount the difficulties they are having in crossing through the testimonies of non-Ukrainians. In addition, the Chancellery of the Polish Prime Minister has branded as ""disinformation"" the messages that say that it is not being allowed to cross the border by nationality or ethnicity. We tell you what we know.
+
+No, this 'CNN' tweet reporting that an American activist has been killed in Russia's attacks on Ukraine is not real
+
+""We are sad to announce that there has been the first American casualty of the Ukraine crisis. Thoughts and prayers with the family of activist Bernie Gores, who died this morning after a mine planted by Russian-backed separatists exploded”. With this text is circulating a tweet from the supposedly US network CNN in Ukraine on February 23. But it is a hoax, it is a fake tweet and the photo is not of an activist but of a youtuber.
+
+No, these are not actors simulating the war that Russia has started against Ukraine: it is a video of a historical military festival held in Russia
+
+“Look at the doll in the back, it's a mannequin! This was broadcast on TV” (sic) or “These are CRISIS ACTORS, who are hired to stage situations in false war conflicts or false flag attacks”. With these messages, a video is being shared on social media platforms such as Twitter, Telegram or TikTok in which several people can be seen as if they were fleeing, a tank in the distance and even at one point a supposed doll can be seen (as if were a person) flying in the air.
+
+With this video, many of the users who share it claim that the war initiated by Russia against Ukraine has been staged and is being carried out by actors, thereby denying that there is an invasion in Ukraine.
+
+But it is a hoax that these images are of a montage of actors hired to stage situations ""in false wars or false flag attacks,"" as the contents say. It is a military-historical festival that takes place every year in Russia dedicated to the soldiers of the Second Shock Army. Specifically, we can see that the images in this video are from the 2021 edition.
+
+What do we know about the video in which a tank runs over a car in Ukraine?
+
+It is one of the videos that has been shared the most in recent days: a ""tank"" advances at full speed when, in the Obolon district (Kyiv/Kiev), it suddenly runs over a car that went in the opposite direction. They are images that have been broadcast by the media around the world, which claim that it was a Russian tank. Other versions indicate that it was actually a Ukrainian tank that lost control before the collision. This article contains images of sensitive content.
+
+No, this photo in which the president of Ukraine, Volodymyr Zelensky, holds a shirt with the Nazi swastika is not real: it is a montage
+
+After Russia's invasion of Ukraine, a photo is circulating on social media networks in which we see the president of Ukraine, Volodymyr Zelensky, allegedly holding a shirt with the Nazi symbol. But it is a hoax: the photo is a montage.
+
+No, this video of a girl confronting a soldier is not current or related to Russia's invasion of Ukraine: it happened in 2012 and it shows a Palestinian girl
+
+After the recent Russian invasion of Ukrainian territory, a video of a girl is seen confronting a soldier has gone viral. The recording is shared with the following message: ""A Ukrainian girl yells at a Russian soldier to return to his country.""
+
+It's a hoax. The video was recorded in 2012 and it shows a confrontation between a Palestinian girl and an Israeli soldier.
+
+What do we know about the ""ghost of Kiev"", the alleged Ukrainian pilot who allegedly shot down several Russian planes?
+
+Images and videos are being spread in which we supposedly see the alleged Ukrainian pilot who would have shot down six Russian planes on the first day of Russia's attack on Ukraine, which they have called the ""ghost of Kiev"", but of which there is no evidence of its existence.
+
+No, neither 'La Vanguardia' nor Pedro Sánchez have said that the Government of Spain will train young people between the ages of 18 and 25 in the event of war
+
+""The Spanish government will shortly call young Spaniards between the ages of 18 and 25 to train them in case of war. Statements by President Pedro Sánchez together with the defense minister"" (sic). This is the message of a tweet that is shared on social media networks like TikTok as if they were real statements by the President of the Government published by the Spanish newspaper La Vanguardia, but it is a hoax.
+
+There is no trace of the La Vanguardia tweet or these statements by Sánchez in any other media or public intervention.
+
+No, this video of an alleged ""Russian attack on the Ukrainian defense"" is not current: it dates back to at least 2018
+
+A video of an alleged ""Russian attack on Ukrainian defense (sic.)"" has gone viral on networks such as Twitter or TikTok, as if it were part of the current invasion initiated by Russia on February 24. It is a hoax: the video has been circulating since at least 2018.
+
+No, this video of Putin threatening Spain is not real: the subtitles are false and its author has described it as humourous
+
+""Let's see this goes for all of Spain, including Pedro Sánchez, do you really think you can defend Ukraine? Being one of the countries that has managed to collect the most fools"" [sic]. This is the supposed translation of a video of Putin that is circulating on TikTok and WhatsApp, going viral as real with messages like ""Putin threatens Spain."" It's a hoax: the subtitles are fake and it's an excerpt from a longer TikTok video that was labeled ""humor"" by its author.
+
+No, this video is not a ""montage"" made in Ukraine during the invasion of Russia: it was recorded in Birmingham (UK) and has been circulating since at least 2013
+
+A video is circulating on social media networks that supposedly shows how the Ukrainians record a ""montage"" of people running because of an ""alleged bombing"" by Russia. It is spread with messages such as ""Putin should be thanked for ending the virus. Now we only talk about war and terror, making montages for garbage TV."" It's a hoax: the images were recorded at least in 2013 in Birmingham (UK) during the filming of the movie Kaleidoscope Man (also known as Invasion Planet Earth).
+
+No, this tweet about Putin is not from the president of the Principality of Asturias, Adrián Barbón: it is a fake tweet
+
+Coinciding with Russia's invasion of Ukraine, a screenshot of a tweet supposedly from the president of the Principality of Asturias, Adrián Barbón, is circulating, in which he says that ""it does not seem appropriate to have communist people like Putin as a reference”. But it is a hoax that it is a tweet from Barbón. It is not published on his profile nor is there a trace of archived versions on the web and the screenshot that circulates is always the same. Also, while his account is verified (it has the blue tick that Twitter offers to those accounts), in the screenshot it appears unverified, without that blue tick. From the press department of the Presidency of the Principality they affirm to Maldita.es that ""the tweet is clearly false"".
+
+No, this tweet by Santiago Abascal quoting Vladimir Putin is not ""fake"": it is real, but he has deleted it
+
+The president of Spanish political party Vox, Santiago Abascal, published a tweet in November 2015 quoting this phrase attributed to the Russian president, Vladimir Putin: ""We will go looking for you until the end of the world and, there, we will kill you"". In the publication, Abascal linked to an article in La Gaceta in which those same statements were collected. According to this website, Putin was addressing those responsible for the explosion of a Russian passenger plane that occurred that same year when it was flying over Egypt.
+
+Coinciding with the current Russian invasion of Ukraine, screenshots of that publication by the leader of Vox are being spread, despite the fact that there are users who assure that it is ""a false tweet that pretends to be Abascal."" It's a hoax: it's a real tweet, although it has been deleted. You can view an archived version here.
+
+What do we know about Puigdemont's vote in mid-February on the European Commission's proposal to give financial support to Ukraine?
+
+On February 16, the European Parliament approved a ""macro-financial assistance"" program to provide Ukraine with a total of 1.2 billion euros distributed in the form of loans. This is a proposal introduced by the European Commission on February 1 after talks with this country, three weeks before the Russian attack on Ukraine began. The approval on February 16 was a week before the bombing began.
+
+Various messages are circulating commenting on the position that Carles Puigdemont, former president of the Generalitat of Catalonia and MEP, had on this matter. Some state that he voted against, others that he abstained, and still others that he voted in favour. In reality, Puigdemont voted in favor of processing the initiative through the urgent procedure and abstained from voting on its content. Of course, the MEP notified Parliament's services on Thursday, March 3, that he wanted to vote in favor on both occasions, but abstained in the second vote ""due to a technical error""*. We tell you what we know about the votes related to this initiative and Puigdemont's vote in each case
+
+Snake Island and the alleged sacrifice of the Ukrainian military: a misinformation story
+
+The story of 13 Ukrainian soldiers who guarded the Snake Island and who appeared ""heroically"" and ""without surrendering"", according to the Ukrainian president, has gone viral. Several media outlets spread after a recording of what were his last moments before the Russians bombed the island. Now, according to local media citing the Ukrainian army, they would be alive but Russia would have prisoners. We tell you the story of misinformation on Snake Island.
+
+No, this video of a Ukrainian tank fleeing and being attacked by the population is not recent: it is from 2014
+
+After Russia's recent attack on Ukrainian territory, a video is circulating on social media platforms in which people from the Ukrainian city of Kharkiv/Kharkov are allegedly seen throwing stones at a Ukrainian tank and how it flees.
+
+The video is real, but it is a hoax that it is current. The video is from 2014 and was recorded in the Ukrainian city of Mariupol. That year there were clashes in this city between the Ukrainian army and pro-Russian groups.
+
+No, this money has not been found in a bunker of Ukrainian nationalists
+
+A video is circulating on social media networks in which boxes appear with the logo of the International Committee of the Red Cross (ICRC), and apparently are full of wads of bills. It is said about this video that the ""Chechen guard"" has found them in a bunker of ""Ukrainian nationalists"" in the context of Russia's invasion of Ukraine.
+
+It's a hoax. The video is not current and has been circulating on the internet since at least 2018. The Red Cross issued a statement that year about these images in which it denied any relationship with money and denounced an ""illegitimate use"" of the organization's emblem. The UN Security Council also released a report in 2017 showing similar boxes linked to the missing fortune of Gaddafi, Libya's former dictator.
+
+Misinformation without evidence about this photo of civilians trying to flee from Irpin (Ukraine)
+
+Content is circulating on social media networks in which it is said that members of the Azov Battalion (of the National Guard of Ukraine and described as neo-Nazi by the United States Congress), are holding Ukrainian civilians and preventing them from being evacuated in this photo where a bunch of people appear under a bombed-out bridge and some soldiers in military clothes at the front of the crowd.
+
+There is no evidence that the photo shows civilians being held. They are civilians who are fleeing the town of Irpin and who are being ""helped"" by the Ukrainian military, according to the Associated Press (AP) agency, and the photo shown in the tweets was taken by a Spanish photojournalist on March 5. The destroyed bridge under which people are crowding is located about 25 kilometers from Kyiv/Kiev, the country's capital. That March 5 the city was bombed and that was the main escape route. There is no evidence that these soldiers are from the Azov Battalion or that they were holding the population at that point.
+
+No, this video of a car with a white flag and the ""Santísimo"" is not current: it has been circulating since at least 2015 and it is a funeral
+
+“The Blessed Sacrament walks the streets and highways of Ukraine. The white flag of the car indicating that the Lord is going on a mission of Peace”. With texts like this, a video is circulating on social networks like Facebook and Twitter.
+
+In the video you can see a gray car with a white flag and a red van in front driving on a highway. To the sides, hundreds of people leaning on the ground with only one knee, with both or standing.
+
+But it is a hoax that the video is current. Doing a reverse search of the images, we found that the video has been circulating since at least 2015. The different publications indicate that it is about a Ukrainian soldier who was killed in a confrontation with Russian troops. In a longer version of the video, you can also see a crowd of people accompanying a coffin covered with the Ukrainian flag.
+
+No, this video does not show ""the moment when a Russian missile hits the largest nuclear power plant in Ukraine"": it is a flare
+
+The Twitter account of the program 'Al Rojo Vivo' of the television channel LaSexta tweeted a video on March 4 in which is seen ""the moment in which a Russian missile hits the largest nuclear power plant in Ukraine"".
+
+Despite the fact that local authorities reported a fire after the bombing at the Zaporizhia plant, the images that have been shared do not show the fall of a missile.
+
+It's a hoax. The bright object seen in the video has the characteristics of a flare or an illuminating projectile, as defense experts have indicated to Maldita.es, but not of a missile. In addition, international media, such as Reuters or The Guardian, have reported that what we see in the video is a flare. Likewise, Rafael Mariano Grossi, director general of the International Atomic Energy Agency (IAEA), stated that it was Russian ""projectiles"" that caused the fire.
+
+What do we know about the video of the explosion next to an administrative building in the Ukrainian city of Kharkov?
+
+A video from a security camera shows the exterior of a building and car traffic. And we see an explosion. The timestamp says that it was recorded on March 1, 2022 at 8:01 (Ukrainian time). Some contents say that the projectile seen in the video has hit the building, others that it has destroyed it. We explain how we know that the explosion is in Kharkov, the second most populous city in Ukraine. Two hours after the explosion, volunteers for the Azov Battalion, described as neo-Nazi by the United States Congress, were scheduled to be recruited in the bombed-out government building. Ukraine has blamed Russia for the attack and speaks of dozens of victims. As of March 1, Kharkiv is controlled by the Ukrainian government. It is located less than 40 kilometers from Russia and is considered the capital of Russophone Ukraine.
+
+No, this video is not of a paratrooper ""invading Ukraine"" during the current Russian attack: it has been circulating since at least 2015
+
+More than two million 'likes' has a video published this February 24 on TikTok that is being shared as if it was a Russian paratrooper ""invading Ukraine"" during the current Russian attack. It spreads with comments like ""watching World War III on TikTok"", but it's a hoax: the recording has been around since at least 2015.
+
+No, these photos of bombings are not related to the conflict between Russia and Ukraine: they are photos taken in Gaza (Palestine) in 2018 and 2021
+
+Two images of alleged bombings that would have occurred during the conflict between Russia and Ukraine that began on February 24 are being disseminated. It's a hoax. Both photographs are old, they were taken in 2018 and 2021, respectively. They correspond to bombings in Gaza (Palestine) due to the Palestinian-Israeli conflict.
+
+No, this photo of an injured girl is not from the conflict in Ukraine: it is from Palestine in 2021
+
+“Ukraine is trending because of the images that the war against Russia is leaving. People and children injured by the detonations and people sleeping in the subway,"" states a tweet along with two images, one of them of an injured girl rescued by a person, who is carrying her in his arms. But it is a hoax: the photo was taken in Gaza (Palestine) in 2021.
+
+No, the images of a Russian tank with the flag of the Soviet Union are not ""a montage"": they are real
+
+One of the images that has spread the most since Russia began the invasion of Ukraine on February 24 is that of a Russian tank on which a Soviet Union flag flies. It is being said that this image is false, but it is not: the photo is real and, in fact, there are other photos and videos of that same tank.
+
+No, this video of riot police refusing to ""go against their people"" in Ukraine is not current: it is from 2014
+
+""Police in Odessa [Ukraine] refuse to go against their people,"" states a viral tweet that shares a video of riot police breaking formation and abandoning their shields. It is being shared as if it had been flimed in 2022 during the conflict in Ukraine. But it's a hoax: the video is from 2014.
+
+No, this woman was not the victim of a gas explosion that occurred in a building in 2018: she was injured at the beginning of the Russian attack on Ukraine in 2022
+
+“VICTIM OF RUSSIAN BOMBING IN 2022 WITH THE SAME CLOTHES AND BANDAGE AS IN 2018 😂😂😂 This woman was the victim of a gas explosion that occurred in a building in Ukraine in 2018, not a bomb dropped today by the Russians”, states a content on Telegram. But it is a hoax: the woman was injured on February 24, 2022 in Ukraine.
+
+No, this father is not saying goodbye to his daughter to ""fight against Russia"": it was recorded in Donetsk, they were being evacuated to Russia and the video is prior to the Russian aggression against Ukraine
+
+Following the Russian aggression against Ukraine that began on February 24, the video in which a father says goodbye crying to his daughter, who is evacuated on a bus, has gone viral and has been published in numerous media outlets, as if he were going to fight “against Russia”. But it is a hoax: the video is recorded in a city of the self-proclaimed People's Republic of Donetsk recognized by Russia and the Government of that area evacuated the civilian population to Russia.
+
+What do we know about the alleged increase in radiation in the area of ​​the Chernobyl nuclear plant?
+
+This February 24, Russian forces have taken control of the old Chernobyl nuclear power plant, located in Ukraine. As a result of this event, warnings have begun to circulate that the radiation levels in the area have altered.
+
+The State Inspectorate for Nuclear Regulation of Ukraine has reported, on February 25, that gamma radiation levels have increased in the area. The Ministry of the Interior has indicated that, for the moment, this increase ""is not critical"" for Kiev, the Ukrainian capital. Meanwhile, the Russian state agency RT has indicated that ""background radiation is normal, according to the military.""
+
+We tell you what we know about it.
+
+Disinformation without evidence that claims President Zelensky has fled Ukraine (as of March 1, 2022)
+
+Numerous contents and rumors without evidence affirm that the president of Ukraine, Volodymyr Zelensky, would have fled the country after the aggression of Russia, whose troops are already in the Ukrainian capital. These claims have been going on since February 24. But as of March 1, there is no evidence Zelensky fled Ukraine.
+
+No, this video of an encounter between Russian and Ukrainian soldiers is not current: it was recorded in 2014
+
+More than 4,000 times a video has been shared on TikTok that has almost 90,000 ""likes"" and shows a meeting between ""Russian and Ukrainian soldiers"". The recording is shared on other social media platforms such as Twitter after the invasion initiated by Russia towards Ukrainian territory as if it were recent and accompanied by messages such as ""peace"", but it is a hoax that is related to the recent military offensive launched by Russia.
+
+The video dates back to 2014, when Ukrainian soldiers approached the air base in the city of Belbek, in Crimea, when it was guarded by Russian soldiers.
+
+The hoax that claims 'CNN' has said that the same journalist has been killed in Afghanistan and now in Russia's attack on Ukraine
+
+""The same person who was 'executed' by the Taliban in Afghanistan is also the first American victim in the 'Ukraine crisis.' See how it works? CNN is the enemy of the people. Why lie?"" This claim is included in a Facebook post along with two alleged tweets from the US network CNN announcing that Bernie Gores, an alleged ""activist"" or ""journalist"", has died in different conflicts. But it is a hoax.
+
+CNN has not reported the death of Bernie Gores on different occasions: the tweets that circulate are false. The accounts that have published those tweets (@CNNUKR and @CNNAfghan) do not belong to the US network, are not verified and are suspended.
+
+No, this message asking for families interested in hosting children from Ukraine is not from the Association of Children of Ukraine-Castellón (Aniukcas)
+
+""If you know of families interested in welcoming children from Ukraine, when the situation allows humanitarian aid to enter, you can contact the Association of Ukrainian Children of Castellón (Aniukcas). Here’s the e-mail address: [email protected]"". That is the text that has been widely shared around WhatsApp in recent days and about which you have asked us dozens of times through our chatbot (+34 644 22 93 19).
+
+It is a hoax: the association assures that there some messages are being shared under their name and that such messages are false. Currently, they say, the association can only ""plan the evacuation of children who already have their foster family for the summer program."" They also state that ""right now there is no official information on the reception in Spain"".
+
+No, this video of a crowd waving Ukrainian flags during the country's anthem was not recorded in 2014: it is from February 23, 2022
+
+A video of a crowd is circulating in which we can see how Ukrainian flags wave while the country's anthem plays. The video has been published by the Spanish newspaper El Mundo stating that they are Ukrainians who have gathered ""to sing the national anthem in Donetsk"", but some users on social media networks say that it is a video from 2014 that they have passed off as recent. It is a hoax that it is a video from 2014. It was recorded in the city of Kramatorsk on February 23, 2022.
+
+No, this photo of a woman dressed in a military uniform is not the wife of the President of Ukraine, Volodymyr Zelensky and it is not recent: it is from August 2021
+
+""People say that the wife of the president of Ukraine is going to go to war."" With messages like this, a photo of a woman dressed in a military uniform is circulating on social media platforms. According to those who share the photograph on networks such as Twitter, the woman who appears in it is the wife of the president of Ukraine, Volodímir Zelenski.
+
+It's a hoax. The woman in the photograph is not Olena Zelenska, Zelensky's wife, nor the image is recent. It was taken in August 2021 during the rehearsal of the Ukrainian Independence Day military parade.
+
+No, this video that supposedly shows ""Ukrainian soldiers killed in combat outside Kiev"" is not current: it has been circulating since at least 2015
+
+""Ukrainian soldiers killed in combat outside Kiev, so far the Ukrainian government has confirmed more than 170 soldiers killed in combat."" With this text, a video is circulating on Twitter that already has more than 2,000 ""likes"".
+
+Supposedly, the people who appear in the video would be ""Ukrainian soldiers"" who would have ""died in combat"" on February 24 after Russia launched a military offensive in various parts of Ukraine.
+
+But it is a hoax. If we do a search of the video, we find that it has been circulating since at least 2015 and that it is shared as if it had been recorded in September 2014. According to the texts, it was recorded in the Lugansk People's Republic ( Ukraine), although this could not be independently verified by Maldita.es.
+
+No, this video is not a Russian fighter jet shot down by a Ukrainian plane: it is from a simulator
+
+A Ukrainian Air Force MiG-29 fighter shoots down a Russian Ork Su-35 VKS fighter jet, several viral contents claim, in which also appears a video of the explosion in the air of a military plane allegedly caused by another fighter. But it is a hoax: Eagle Dynamics, the company that created the air combat simulator “Digital Combat Simulator”, has told Maldita.es that it is a simulation using its software. The official Facebook account of the Ground Forces of the Ukrainian Defense Forces and the Twitter account of the Ukrainian Defense Ministry have shared this hoax.
+
+No, this video in which a ""corpse"" is seen moving is not related to Ukraine: it was a protest in Austria against climate policies
+
+""Filmed in Poland during the covid. Filmed to present it as if it’s Ukraine now,"" says the text included in a video in which a reporter is seen speaking to the camera while behind there are several body bags and a living person moves in one of them. But it is a hoax: the video is from an Austrian news program covering a protest in Vienna against climate policies on February 4, 2022.
+
+No, this video of ""Ukrainian civilians"" throwing Molotov cocktails at armored troop carriers is not recent: it was recorded in 2014
+
+""Early today in Kiev, Ukrainian civilians defended their barricades with Molotov cocktails against advancing Russian tanks."" That’s the text with which a video of people throwing Molotov cocktails at tanks is being shared. It has spread as if it’s related to Russia's invasion of Ukraine. But it is a hoax. It's from protests in Kyiv/Kiev, the Ukrainian capital, in 2014.
+
+No, this video of an explosion is not related to Russia's invasion of Ukraine nor is it current: it is Beirut, Lebanon in 2020
+
+Coinciding with the Russian invasion of Ukrainian territory, a video of an explosion is being shared on social media platforms such as Facebook. The recording is shared as if it were current and is linked to the crisis situation that Ukraine is experiencing, but it is a hoax.
+
+The scene shown in the video occurred in 2020, when an explosion occurred in the port of Beirut (Lebanon).
+
+No, the man dressed as a samurai in this photo is not the Japanese ambassador in Kiev, Ukraine
+
+""The Japanese ambassador to Ukraine stayed in Kiev."" This message is being shared on Facebook posts along with a photo of a man dressed as a samurai with the coat of arms of Ukraine behind him. Supposedly, he is the Japanese ambassador who asked for ""his great-grandfather's samurai sword and traditional armor"" to be sent from Tokyo to protect Ukraine after Russia's invasion began on February 24. But it's a hoax, the one in the photo is actually the Ukrainian ambassador to Japan.
+
+No, this video of ""Ukrainian soldiers saying goodbye to their wives to go defend Ukraine"" is not recent: it is a scene from a 2017 documentary about the Donbas war
+
+""Ukrainian soldiers saying goodbye to their wives to go defend Ukraine."" With this text, a video is circulating on TikTok in which two men dressed in military uniform say goodbye to two women, stating that they are two Ukrainian soldiers who are saying their farewells to their partners to go defend their country in the war that Russia initiated on February 24.
+
+But it is a hoax that this video is recent. This is a scene from the 2017 Ukrainian documentary “The War of Chimeras” about a volunteer who goes to war in Donbas.
+
+No, this video of an explosion is not from a Russian attack on Ukraine: it was recorded in Beirut, Lebanon, in 2020
+
+The video of an explosion is broadcast with messages that suggest that it is an attack by Russia on Ukraine or that it has been recorded in Kiev, the capital of the Ukrainian country. It's a hoax. The video corresponds to the explosion that occurred in the port of Beirut, the capital of Lebanon, in 2020.
+
+No, these photos of a ""bloody baby"" and ""an executed citizen"" are not current: they are old and the one of the girl was taken in Syria
+
+""A bloodied baby, a citizen executed by a Russian Soldier Murderer. Let's not forget these scenes when we execute Putin."" It is the text with two images, one of a girl with blood on her face and another of a man with the Ukrainian flag while being gunned down by another person who wears the Russian flag on his uniform, are circulating. They move coinciding with Russia's attack on Ukraine that began on February 24, but it is a hoax that they are current: the one about the Ukrainian soldier has been circulating since at least 2018, while the one about the girl was taken in Syria and is also spread from al minus 2018.
+
+No, this video of soldiers shooting in a trench with the swastika nazi flag is not current: it has been circulating since at least 2017
+
+“This is happening in Donetsk. Ukrainian soldiers defending a trench with the nazi flag waving. Remember friends, with fascism there is no dialogue"". With this message, a video in which a military man is seen entrenched and shooting while waving a flag with the nazi symbol is being posted in social media.
+
+The recording has begun to spread this March 1, after the Russian invasion of Ukrainian territory, but it is a hoax that it is recent. The video has been circulating since at least 2017.
+
+No, this message calling for shelter for ""Ukrainian children"" is not from the Government of Aragon
+
+You are asking us through our WhatsApp chatbot (+34 644 22 93 19) about a message that is circulating stating that ""from the Government of Aragon the telephone number 976 (...) has been enabled for all those families that offer themselves to embrace Ukrainian boys/girls” (sic).
+
+Although the telephone number exists and coincides with that of the Department for Child Protection and Guardianship of the Government of Aragon, from the government itself they affirm that it is a hoax that they have made that call so that families can shelter refugee children from Ukraine, as they have explained on their Twitter profile on March 3.
+
+No, these photos of the Ukrainian president, Volodymyr Zelensky, in a military uniform are not current: they have been circulating since at least 2021
+
+Two photos of the Ukrainian president, Volodymyr Zelenski, are circulating, dressed in a military uniform, vest and helmet, as if they were current with messages that affirm that he is ""in his uniform and first in the line of combat defending his nation."" It is a hoax that the images are from now, after the start of the conflict in Russia and Ukraine on February 24, 2022. The photos have been circulating since at least 2021.
+
+No, this photo of two children greeting some Ukrainian soldiers is not current: it has been circulating for years
+
+The photo of two children who are greeting soldiers from a road in military vehicles with the Ukrainian flag is being spread. It is shared now, after the start of the conflict in Russia and Ukraine, as if it were current, but it is a hoax. The photo has been circulating for years.
+
+No, this video does not show Russian paratroopers landing in Ukraine during the current conflict: it has been circulating since at least 2016 and it is linked to the Russian city of Rostov
+
+A video is being shared on social media in which that shows a sky full of paratroopers and dozens of soldiers on the ground. According to those who share this video, the scene belongs to the current conflict between Russia and Ukraine. It’s also said that they are ""Russian military paratroopers landing in Ukraine"", specifically, in the city of Kharkov.
+
+It's a hoax. The video has been circulating since at least 2016 and is linked to a landing in the Russian city of Rostov.
+
+No, this video of an explosion is not from the bombing of Ukraine: it has been circulating since 2015 related to an explosion in China
+
+""Shortly before 4 am the missile bombardment of Ukraine began"". Some images of an explosion with this message have been played in the Antena 3 news program on February 24 [minute 4:20]. But it is a hoax: it is a recording that has been circulating since August 2015, linked to an explosion in Tianjin, China.
+
+No, this picture of a fire near Chernobyl is not current or related to the conflict of Russia and Ukraine: it is from a fire that occurred in April 2020
+
+""ALERT!!! CROSSFIRE generates fires near Chernobyl, the sarcophagus of the nuclear power plant is in danger"" (sic). With this text, a photo is shared in which we see a part of the restricted area in Chernobyl (Ukraine) after the nuclear power plant accident in 1986 and a fire in the background. It is spread as if it were current, after the start of the conflict between Russia and Ukraine, and as if the fire had been generated by a ""crossfire"" between the two countries, but it is a hoax. The photo is from April 2020.
+
+Disinformation claiming that ""North Korea just sent troops to Ukraine in support of Russia""
+
+""North Korea has just sent troops to Ukraine in support of Russia,"" says a screenshot of a tweet in Portuguese that has been gone viral in recent hours. According to this tweet, posted alongside a photo of Russian President Vladimir Putin and North Korean leader Kim Jong-un, the latter has just sent troops to Ukraine to support Russia after that country's bombing of Ukraine.
+
+But there is no evidence that North Korea has just sent troops to Ukraine in support of Russia, as of February 24 at 1:00 p.m. If we do a search we can see that neither the media nor the correspondents and journalists in Ukraine who are reporting on the conflict have echoed it. On the other hand, the account that has spread the tweet has already been deleted on Twitter.
+
+No, this photo is not from the current Russian bombardment of Ukraine: it has been circulating since at least 2021 related to Gaza (Palestine)
+
+After Russia's bombing of Ukraine during the early hours of February 24 in several parts of the country, an image that supposedly shows one of those bombings has gone viral. It is a hoax: the image has been circulating since 2021 related to an attack in Gaza (Palestine).
+
+No, this video does not show real images of a bombing of Ukraine by Russia: it is a video game
+
+Coinciding with the military offensive by Russia to Ukraine that began in the early hours of February 24, a video of an alleged bombing in Ukrainian territory has gone viral on social media networks. The recording is shared with messages such as ""it is not a movie or a video game, they are real images of the bombing of Ukraine by Russia"" (sic).
+
+It is a hoax. The images correspond to the video game War Thunder and can be seen in a video uploaded to YouTube in December 2021.
+
+No, the video of Putin announcing a bombing against Ukraine was not recorded on Monday, February 21, it is from this Thursday 24
+
+In the early hours of February 24, the president of Russia, Vladimir Putin, announced a bombardment against Ukraine in several areas of the country.
+
+After the message, rumors have begun to circulate on Twitter indicating that the video would have been recorded on the afternoon of Monday 21 because the Russian president's suit coincided with that of the announcement he made that day where he recognized the separatist regions of Donetsk and Lugansk as independent. But it is a hoax and the video was not recorded three days before. It has been recorded this Thursday 24.
+
+No, this video of an explosion is not from a Russian attack on Ukraine on February 24: it has been circulating, at least, since the end of January 2022
+
+""The sky lights up as the Russian attack continues"" or ""explosions registered in Mariupol"". With messages like these, a video is circulating saying it corresponds to the conflict between Russia and Ukraine that began in the early hours of February 24. However, it is a hoax. The video has been circulating since the 29th of January 2022.
+
+No, this video is not recent nor was it filmed in Ukraine: it is from a rehearsal of a military parade recorded in Russia in May 2020
+
+“LAST MINUTE | This is how Ukraine wakes up after the start of the attack by Russian troops. The Russian military air force flies over Ukraine”. With this text, a video circulates on Twitter assuring that it has been recorded after the start of Russia's bombing of Ukraine at dawn on February 24 in various parts of the country.
+
+But it is a hoax. The video can be found on YouTube with the title: “Parade rehearsal 04/05/2020. Air part. Plane flight over Tushino” (a city in the North of Moscow). As the BBC explained, that day there was a rehearsal in Moscow on the occasion of the Victory parade that is held every May 9, although due to the coronavirus pandemic that year's military parade was postponed to the month of June.
+
+No, this video is not of the destruction of Russian military equipment by the Ukrainian Army: it was recorded in Syria in 2020
+
+""Video of destruction of Russian military equipment by [the drone] Bayraktar TB2"", claims a viral tweet in Ukrainian that shares a video recorded from the air in which the bombing of a military convoy is seen as if it had been done by the Ukrainian Army . But it is a hoax: the video was recorded in Syria in the year 2020. They have inverted the video and now it is being shared as if it had happened in Ukraine in February 2022.
+
+No, this video of a missile launch has not been recorded in Ukraine: it was recorded in May 2021 and it is from the conflict between Palestine and Israel
+
+""URGENT - UKRAINE-RUSSIA WAR: Vladimir Putin is killing children, the elderly and pregnant women."" Whit this text a video of a missile launch is being shared on social media networks, as if it were related to the current situation that Ukraine is experiencing after Russia bombed some of its cities on the night of February 23, 2022. But it is a hoax. The video is from May 2021, when Hamas launched missiles at several Israeli cities.
+
+No, this photograph of a young woman carrying a gun on a bus is not current or related to the military crisis between Russia and Ukraine
+
+Coinciding with the recent offensive launched by Russia in Ukraine, an image of a young woman, supposedly Ukrainian, on a bus carrying a weapon is spreading on social media platforms.The photograph is shared with messages such as ""Ukrainian women are ready to accompany their compatriots to defend their homeland against the Russian invasion"" (sic).
+
+It is a hoax that the image is current and is related to the military conflict between Russia and Ukraine. It is also not true that the photograph was taken in Ukraine. The young woman in the image is a Russian model named Ekaterina Gladkij who shared the photo on the Russian social network VK in March 2020.
+
+No, this video is not from ""Russia at war with Ukraine"": it is a simulation of a video game
+
+After the bombing of some areas of Ukraine on February 24, a video is circulating and supposedly shows ""Russia at war with Ukraine."" The recording shows how a plane bombs some buildings, but it is a hoax: it is a simulation of the video game Arma 3 and is not a real video of what happened in the last few hours in Ukraine.
+
+No, this video of an alleged ""Russian attack on the Ukrainian defense"" is not current: it dates back to at least 2018
+
+A video of an alleged ""Russian attack on Ukrainian defense (sic.)"" has gone viral on networks such as Twitter or TikTok, as if it were part of the current invasion initiated by Russia on February 24. It is a hoax: the video has been circulating since at least 2018.
+
+No, this photo of a plane on fire in the air is not current or related to the situation in Ukraine: it has been circulating for years related to an accident in 1993
+
+The photo of a plane on fire in the air, supposedly shot down by a missile, is being shared as if it were current, after the Russian bombing in several places in Ukraine in the early hours of February 24, 2022. It is a hoax. The photo has been circulating for years linked to an accident between two Russian planes in 1993.
+
+No, this video is not of a Russian attack on Ukraine: it is of explosions in an industrial zone in Tianjin (China) in 2015
+
+""URGENT hell on earth, Russia-Ukraine conflict"". With this message a video is being shared on social media networks such as Twitter stating that it is a video recorded during the Russian bombing of Ukraine in the early hours of this February 24 in various parts of the country.
+
+But it is a hoax. The images were recorded in 2015 during explosions that took place in Tianjin, a port city in northeastern China and that left more than 50 dead, according to media such as the BBC or The Guardian.
+
+No, Biden does not claim in this video that the US would attack Russia for invading Ukraine: the subtitles are false
+
+A video with Spanish subtitles of a press conference from the president of the United States, Joe Biden, in which he allegedly confirmed that Putin had decided to invade Ukraine, is going viral. The video has been circulating since at least February 21, the date on which you first sent it to our WhatsApp chatbot (+34 644 229 319). But the video is spreading from before the conflict between Russia and Ukraine began in the early hours of February 24.
+
+Biden allegedly said that the US would attack Russia before Russia could ""harm"" Americans in Ukraine. But it is a hoax, the subtitles in Spanish are false.
+
+No, this video is not of ""Russian warplanes"" shooting civilians in Ukraine: it was recorded in Turkey in 2016
+
+""Let the whole world know that Russian warplanes are shooting at innocent civilians in Ukraine."" With this message, a video in which we see people running down the street while being shot from the air is circulating. It is shared as if it were related to the current situation in Ukraine after Russia bombed several points in this country in the early hours of February 24, 2022. It is a hoax. The video was recorded in Turkey in 2016.
+
+No, this video warning that the war between Russia and NATO is imminent and there is a danger of a nuclear attack is not from the 'BBC': it is a fictional recording that has been circulating since at least 2018
+
+A video in which supposedly the British public television and radio service, BBC, warns of an imminent war between Russia and NATO and the danger of a nuclear air attack has gone viral.
+
+It's a hoax. The video does not belong to the BBC. It is a fictional representation by an Irish company, as the network itself indicated in 2018: “We'd like to make absolutely clear that it's a fake and does not come from the BBC”, stated on Twitter.
+
+No, this video does not show a Russian military invasion of a town in Ukraine: it was recorded in 2019 in Aleppo (Syria)
+
+More than 27,000 users have viewed a TikTok video in which soldiers are seen in a military operation. As you can read in the caption of the video, the images supposedly correspond to a Russian invasion of a town in Ukraine.
+
+It's a hoax. The recording was shared by Russia Today (RT) in 2019 and, as they claimed at that time, it was a ""training"" by Russian instructors to Syrian army forces in the city of Aleppo.
+
+No, this photo of two men with fake guns has not been taken during the Russian invasion of Ukraine
+
+""It's good that the media is conveniently there to cover this, and tell the world that they're shooting flattened, rectangular bullets from fake guns. With fake news, nothing is real, it's all staged."" This is one of the messages in a screenshot of a video of the American TV channel Fox News that has been spread. We can see two men carrying two apparently false weapons as if they were Ukrainian civilians during the Russian invasion. This is being used to claim that the Ukraine conflict is false. It's a hoax: the photo was taken before the Russian invasion of Ukraine and is a training of civilians.
+
+No, this video is not of a gas explosion in the Russian city of Magnitogorsk in 2018: it was recorded in Ukraine on February 24, 2022
+
+Journalist Justin Yau tweeted a video on Thursday 24th showing a damaged apartment block with the following text: “An apartment building is devastated by bombing, at the South of Chuguyev [Ukraine]. Incalculable number of victims”. In response, several people have tried to discredit that it is a Russian bombing in Ukraine, stating that it is actually a gas explosion in the Russian city of Magnitogorsk in 2018. But this is a hoax. In fact the video was recorded in Ukraine the day Russia began bombing the country.
+
+No, Putin does not threaten Mexico in this video for condemning the attack on Ukraine: the subtitles are false
+
+A video in which Vladimir Putin, President of Russia, allegedly threatens the Government of Mexico for condemning the invasion of Ukraine has gone viral. However, it is a hoax: the Spanish subtitles of the video are false.
+
+What do we know about the map that supposedly shows ""NATO bases"" in the world? From the organization they assure that it does not represent their bases
+
+A map in which we see points with the logo of NATO (North Atlantic Treaty Organization) indicated at different points in the countries of the northern half of the Earth is circulating on social media networks. It spreads with comments claiming that they are ""NATO bases"" that are supposed to be surrounding Russia.
+
+From NATO they assure Maldita.es that this map does not represent their bases around the world. The points that appear on it do not correspond to those that indicate the presence of the organization in different countries on the maps at the NATO´s website. However at Maldita.es we have not been able to independently verify if there are more bases in other places.
+
+No, this image of César Carballo as an ""expert in geostrategy"" is not real: it is a meme
+
+Coinciding with the escalation of military tension between Russia and Ukraine in late January, an image— in which the doctor César Carballo appears supposedly making some statements about the aforementioned conflict— began spreading. ""Putin is taking a lot of risks if he wants to invade Ukraine"", said carballo allegedly.
+
+It's a hoax. The image is a meme that is shared as real and in the original statement, this assistant doctor from the Emergency Service of the Ramón y Cajal Hospital in Madrid was stating that he had confined himself due to his daughter's positive for COVID-19. In fact, it is not the first time that César Carballo memes have been shared in which this doctor is presented as an expert in all kinds of issues unrelated to COVID-19.
+
+No, 'CNN' has not published a tweet stating that ""intelligence agencies around the world have seen the American actor Steven Seagal among the Russian special forces""
+
+""Intelligence agencies around the world have seen American actor Steven Seagal among Russian special forces positioned outside the Gostomel airfield near Kiev (...)"". This is the translation of a screenshot of an alleged tweet in English from CNN that is going viral on social networks such as Twitter and Facebook.
+
+But it is a hoax that CNN published that tweet. There is no trace of it on his Twitter profile and it is not archived either. In addition, the same captures are always moved, either with the same “likes” and times shared, or without showing that data.
+
+What do we know about the rocket launcher in this video in the hands of the Azov Battalion? They are not those sent by the Spanish Government to Ukraine
+
+""Ukrainian soldiers proudly carry the KRPG [anti-tank rocket launchers] sent by the Spanish government [...] Images have also emerged where several instructors show the Azov Battalion how to handle this type of weapon,"" says a Telecinco news video broadcast on 8 March. March [7:02-7:31] and that has gone viral as if the images showed rocket launchers sent by the Government of Spain in the hands of the Azov Battalion, part of the state National Guard of Ukraine and described as neo-Nazi by Congress from the United States. In fact, the rocket launchers shown in the images that Azov has received are Swedish-made in collaboration with the United Kingdom. They are neither of Spanish manufacture nor have they been sent by the Government of Spain.
+
+What do we know about the Russian list that includes Taiwan among the ""states and territories"" that have taken ""hostile"" measures against Russia
+
+As a result of the publication of a list published by the Russian Government of ""States and territories"" that have taken measures described as ""hostile"" and among which it included Taiwan, content and comments are circulating on social media networks. These interpret an implicit recognition of sovereignty Taiwanese and a potential diplomatic problem between China and Russia. A specialist in Asian politics tells Maldita.es that she doubts that the Russian accusation of Taiwan, in response to the imposed sanctions, could lead to a dispute.
+
+In this other article we explain what we know about this resolution published on March 7 in response to the sanctions imposed against Russian companies, citizens and institutions for the attack against Ukraine that began on February 24.
+
+No, Spanish MP Pablo Echenique has not tweeted that Putin's ""mission"" in Ukraine is to ""impose order"" and that the ""civilian Ukrainian victims are insignificant collateral damage""
+
+Coinciding with Russia's invasion of Ukraine, the capture of an alleged tweet by the spokesman for Unidas Podemos parliamentary group, Pablo Echenique, is circulating. In this tweet he would have written that ""the people of Ukraine have to understand"" that ""the mission (sic) of President Putin"" is to ""impose order"". And he adds that ""the Ukrainian civilian victims (sic) are minor collateral damage."" It is a hoax that it is a tweet from Echenique.
+
+No, this military convoy is not heading to Ukraine from Santander: it is going to Norway and Spain does not include tanks among the material sent to Ukraine
+
+""Spain begins mobilizing tanks and troops to Ukraine to face invading Russian forces"" (sic). With this message, a video is shared in which a convoy of tanks and combat vehicles can be seen moving along a Spanish highway. The video includes the caption ""via Santander heading to Ukraine, brave Spain"", but it is a hoax that the convoy is heading towards Ukraine.
+
+No, this military convoy spotted in Reys and Alcover (Tarragona) and Binefar (Huesca) is not heading towards Ukraine: they are going to Zaragoza and Spain has not sent tanks to Ukraine
+
+Through social networks, images and videos of the Reus and Alcover stations (Tarragona, Spain) are shared in which a train can be seen transporting a convoy of tanks and combat vehicles. Some affirmations in networks assure that ""today a convoy of war tanks left for Ukraine from Spain, Tarragona"" and on TikTok these videos are shared with hashtags such as ""war"", ""ukraine"", ""preparing"" and ""third world war"". But it is a hoax that this convoy is heading towards Ukraine.
+
+What do we know about the videos showing military convoys moving along Spanish roads and railways? They are not related to Ukraine
+
+During the last few hours, various videos have been broadcast through social networks in which several military convoys can be seen moving through various points on Spanish roads and railways. The recordings, which have been disseminated on networks such as Twitter or TikTok, are shared with messages linked to the recent attack by Russia on Ukraine stating that ""Pedro Sánchez has already sent troops to fight against Russia."" We tell you what we know.
+
+Primera fecha de publicación de este artículo: 24/02/2022",https://maldita.es/malditobulo/20220325/hoaxes-misinformation-russia-ukraine/
+6,d7fb3df3-e2fc-403f-9250-3b3267bcfeb1,"['Helen Regan', ""Seán Federico O'Murchú"", 'George Ramsay', 'Sana Noor Haq', 'Adrienne Vogt', 'Melissa Macaya', 'Maureen Chowdhury', 'Meg Wagner', 'Jason Kurtz']",2022-03-24 04:00:22+00:00,"17-year-old Yuliia Karpenko describes how she and her family lived in the besieged city of Mariupol. (CNN)
+
+Yuliia Karpenko, 17, and her family lived through winter without heat for weeks in their Mariupol home, taking shelter as the port city in southeastern Ukraine came under unrelenting fire by Russian forces.
+
+Speaking from Berlin — where she recently escaped to with her mother — the teenager on Thursday described their life under Russia's assault.
+
+""On March 2 they turned off everything but gas — and they turned off gas a few days later,"" she told CNN. At the time, the temperature outside had dropped as low as -7 degrees Celsius (19.4 degrees Fahrenheit).
+
+""We had to sleep in our jackets, and we had five sweaters and T-shirts on, and we slept under all the blankets we had — but I was cold anyway,"" she said.
+
+Karpenko said the family melted snow for water and used candles to light their small shelter, while living with the mental stress of constant attacks.
+
+""I couldn't see my friends, I couldn't talk to them, I could only talk to my family,"" she said. ""It's a feeling of helplessness, and it's the feeling that you don't know when it ends ... when you don't have anything but the sound of bombings.
+
+""You're only feeling more and more miserable. You know that nowhere is safe.""
+
+After she left Mariupol, her family's building was directly hit, and much of it burned down, she said. Videos of the building show ""nothing is left,"" she added.
+
+In Germany, Karpenko plans to find a school to attend and pursue higher education. But her stepfather, dogs and grandparents are still in Ukraine. ""They didn't want to leave,"" she said.",https://www.cnn.com/europe/live-news/ukraine-russia-putin-news-03-24-22/index.html
+7,d7fb3df3-e2fc-403f-9250-3b3267bcfeb1,['Steve Hendrix'],2022-03-25 00:00:00,"The Brinc pilot shows how the drone can crack the windows of a car. CREDIT: Photo for The Washington Post by Karolina Jonderko. Read more
+
+KUJAWY-POMERANIA PROVINCE, Poland — Olexi Kroshchenko, a clean-cut Ukrainian helicopter pilot, stood elbow-to-elbow with Chase Bailey, a bearded Las Vegas hipster, and learned how to fly drones in war zones.
+
+Within days, Kroshchenko hoped, some of the 10 specialized quadcopters donated by an American manufacturer would be angling into the treacherous gaps of bombed-out apartments and high-rises, giving Ukrainian rescuers a better chance to reach victims.
+
+""A little more throttle,"" said Bailey, gently touching the joystick controller. ""Watch the screen, not the drone.""
+
+“Da, yes,” said Kroshchenko, 25, as he mastered the subtle pitch and yaw of a device designed — with laser guidance, night-vision and a concrete-penetrating signal — to operate in the kind of grisly rubble being created daily by Russian missiles and shells.
+
+Nearby, two others — Ukrainian military officers who had traveled secretly into Poland — were practicing another wartime application: using the drones to soar above ridgelines and buildings to peer down at enemy forces and feed targeting locations to artillery units and reconnaissance information to commanders.
+
+They were rehearsing these new skills amid the sheds and garages outside a public safety facility in northern Poland, where the military officers and 10 others from the Ukrainian Emergency Service had come to meet a team from Brinc, a Seattle-based drone maker. Polish officials asked that the exact location of the training not be identified because of security concerns.
+
+The Ukrainians now hoped the aircraft would make a difference in the growing hellscapes of Kharkiv, Kherson and Dnipro, Ukrainian cities where a lack of equipment and relentless attacks have made rescues difficult and perilous.
+
+""There are many destroyed buildings and the conditions are too dangerous,"" said Yan Koshman, a rescue official from an area near the Ukrainian city of Chernihiv who was waiting his turn at the controls. ""This drone can go where we can't.""
+
+This two-day training and $150,000 worth of drones and supplies are part of the rapidly expanding transfer of technology, expertise and provisions to Ukraine from foreign companies and volunteers. Across Poland and other European neighbors, pop-up teams are finding ways to funnel critical resources across the border, from retrofitted vehicles and body armor to specialized orthopedic equipment and medicines.
+
+The drone training was arranged with help from the Ukraine Freedom Alliance, a newly created nonprofit looking to bring some efficiency to the pell-mell rush of supplies and expertise toward the war zone.
+
+After some basics, the training progressed to more challenging maneuvers. Bailey and the other instructors showed how the drone, called a Lemur, could push open a blocked door, enter confined spaces, flip over and fly if it were knocked on its back.
+
+“That is mind-blowing,” Kroshchenko said after Bailey intentionally punched the drone through the side window of a derelict hatchback. After the craft was steered twice into the car, the glass gave way in a glistening shower of shards.
+
+Blake Resnick, the 22-year-old founder of Brinc, watched with approval as the Ukrainians went through their paces. ""Pretty impressive for so little flying time,"" he said as two of the drones did figure eights. ""They are really motivated.""
+
+On one side of the training site, the two Ukrainian military officers worked at hovering the drone at higher altitudes. Drones are already used by both sides in the war to locate enemy forces and relay targeting data back to artillery batteries. While the tiny aircraft are difficult to shoot down, their signals can be jammed and even traced back to the drone operator, who would then be the new target.
+
+""If they find us, they shoot at us,"" said one of the men, who spoke on the condition of anonymity because of security concerns. ""We have had to pack up and run.""
+
+The Lemur, which navigates by laser-based lidar rather than satellite-based GPS, is less hackable.
+
+Resnick, as a teenager, developed the Lemur after the 2017 Mandalay Bay shooting that killed 60 people in his native Las Vegas. He said he envisioned a device that SWAT teams could use to reach shooters and hostages in hazardous settings. The drone's communications system allow users to negotiate with bad guys or reassure victims.
+
+Lemur quadcopters had proved useful to rescuers at last year’s collapse of the Champlain Towers condominium building in Surfside, Fla. Rescuers flew the devices into the wreckage while there was still the risk that a second adjoining tower could collapse, according to Byron Evetts, a structural specialist who worked at that disaster scene. The drone allowed them to monitor individual cracks for any sign of shifting or movement.
+
+And in combat situations, the drone's range can be invaluable by letting the operator stay thousands of feet away.
+
+As the drones zipped past through Poland’s afternoon sky, Phil Anderson, the Washington-based consultant who started the Ukraine Freedom Alliance, fielded calls about other supply efforts.
+
+""Well, I can't thank you enough,"" he said, finishing a conversation with an executive who was willing to lend a Falcon 900 jet to ferry more than a 5,000 pounds of combat trauma aid and other supplies collected by the Special Forces community around Fort Bragg, N.C., and other places.
+
+Once materials get to Poland, the challenge is finding Ukrainians to take custody. On the morning drive from the Polish capital of Warsaw, Anderson had taken a call from a medical group that had made it into Ukraine with a team of doctors, equipment and an ambulance but had nowhere to deploy.
+
+Anderson turned to his main Ukrainian partner, a well-connected former military pilot who operates his own air transport company. After an hour, the man approached Anderson with good news. He had called a member of the Ukrainian parliament, who had in turned contacted the minister of health.
+
+After 15 hours of practice, the drone trainers began packing up their aircraft. The drones were on their way to Warsaw, and the former military pilot would get them into Ukraine.
+
+“This is one of the most black-and-white wars I can remember,” Resnick said. “I think it’s just about a moral obligation to support them.”",https://www.inquirer.com/wires/wp/polish-site-ukrainians-train-fly-drones-rescue-missions-targeting-russians-20220325.html
+8,d7fb3df3-e2fc-403f-9250-3b3267bcfeb1,[],2022-03-23 00:00:00,"Sailors attend a memorial and funeral service for first rank captain Andrei Paliy, Russia's Black Sea Fleet deputy commander, who was killed in the eastern Ukrainian port city of Mariupol on March 20, in Sevastopol, Crimea March 23, 2022. REUTERS/Alexey Pavlishak
+
+Summary Russia has not revised troop casualties from 498 since March 2
+
+Ukraine puts Russian casualties at 15,600
+
+Russia's invasion of Ukraine has displaced nearly 10 mln
+
+March 23 (Reuters) - Russia held a funeral service for the deputy commander of its Black Sea Fleet in annexed Crimea on Wednesday, the latest in what Ukraine says is a string of high-ranking Russian military casualties since Moscow invaded on Feb. 24.
+
+Ukrainian presidential adviser Mykhailo Podolyak on Sunday named six Russian generals who he said had been killed in Ukraine along with dozens of colonels and other officers.
+
+Russia's Defence Ministry has not confirmed any of those casualties. It has not revised its troop casualties since March 2, a week into the war, when it said that 498 of its soldiers had died. Ukraine puts the figure at 15,600.
+
+Register now for FREE unlimited access to Reuters.com Register
+
+Reuters could not independently verify most of Ukraine's claims, but some have been confirmed from Russian sources.
+
+Local Russian government in the southern port of Novorossiysk confirmed the death on Feb. 28 of Major General Andrei Sukhovetsky in a statement on its website. It said he had served in Syria, the North Caucasus and Abkhazia.
+
+On Wednesday, hundreds converged in the Crimean city of Sevastopol to attend a funeral service with a gun salute for Andrei Paliy, a first rank captain and the deputy commander of Russia's Black Sea Fleet.
+
+Konrad Muzyka, director of the Poland-based Rochan consultancy, said the Ukrainian estimates of Russian high-ranking casualties were plausible, but they were difficult to verify and the actual figure was probably smaller.
+
+""Even if we are talking about two generals, that's a big deal,"" he said. ""We're not only talking about generals, we're also talking about colonels who are of course also really high in the organisation.""
+
+He said such casualties suggested Russia didn't have a good understanding of Ukrainian artillery positions and Ukraine was having success in pinpointing the location of senior Russian officers, possibly via their mobile phone signals.
+
+'TOO MANY COLONELS, TOO FEW CORPORALS'
+
+A senior foreign diplomat in Moscow told Reuters: ""For me what is important is the reported heavy casualties at colonel and above, the backbone of the Russian army, not just generals,""
+
+The diplomat said the Russian army was heavily centralised and hierarchical, and lacking in empowered Western-style junior officers. ""There are too many colonels, too few corporals. So what happens is tasks requiring resolution, which in the West would be resolved at much lower levels, get passed up the chain for decision,"" the source said.
+
+The diplomat said that the hierarchical structure drew senior officers to the front to sort out problems or revitalise the effort, leaving them vulnerable to attack.
+
+""Centralisation of command and control, lack of dispersal, and paucity of secure communication also puts them in locations where they can be identified and picked off by Ukrainian UAVs,"" the diplomat said, referring to unmanned drones.
+
+Russia's invasion of Ukraine has killed thousands of people, displaced nearly 10 million and raised fears of a wider confrontation between Russia and the United States.
+
+Russia says its ""special military operation"" was necessary because the United States was using Ukraine to threaten Russia and Moscow had to defend against the ""genocide"" of Russian speakers by Ukraine. Ukraine has dismissed those claims.
+
+Register now for FREE unlimited access to Reuters.com Register
+
+Reporting by Reuters, editing by Mark Trevelyan and Vinay Dwivedi
+
+Our Standards: The Thomson Reuters Trust Principles.",https://www.reuters.com/world/europe/russias-military-hit-by-high-ranking-losses-ukraine-2022-03-23/

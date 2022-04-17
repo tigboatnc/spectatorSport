@@ -1,0 +1,526 @@
+,uid,article_author,article_date,article_text,article_url
+0,4b524a6e-d69e-4a6a-a61a-b34207d63533,['Billy Perrigo'],,"In a grainy cell-phone video shared widely on Twitter early on Thursday morning, plumes of black smoke billow out of a burning vehicle on the tarmac of what appears to be a military airstrip. The heavy breathing of the man holding the camera is audible over the sounds of broken glass and rubble crunching underfoot.
+
+The video, which was originally shared on a Ukrainian Telegram channel, was verified and uploaded to Twitter by Thomas van Linge, a 25 year-old based in Amsterdam. The video, van Linge wrote online, depicted “utter destruction” after an explosion at the military airfield in Lutsk, western Ukraine, just 90 kilometers away from the border with Poland. It appeared to be some of the day’s first evidence that the Russian assault on Ukraine was confined not just to the country’s south and east, but military targets across the country, even those just miles away from a border with a NATO member-state.
+
+Another video shared by van Linge on Thursday morning purportedly showed Russian military vehicles advancing north into Ukraine from Crimea. This time, the source of the footage was a public-facing CCTV camera trained on a road leading off the peninsula.
+
+Read more: Here’s What We Know So Far About Russia’s Military Operation in Ukraine
+
+As the Russian invasion of Ukraine unfolded in the early hours of Thursday morning, van Linge and hundreds of other OSINT researchers pored over the thousands of videos emerging from the country. The acronym is short for “open source intelligence,” a field of social media analysis that over the last decade has emerged from obscurity into a central feature of modern war reporting, as social media and smartphone access have allowed videos, photos, and other data from war-zones around the world to proliferate. Together, via a loosely-organized community mostly based on Twitter, these researchers work together to verify the location of videos, piecing together the first public details of a rapidly-changing situation on the front line of Europe’s most volatile military conflict in nearly eight decades. Online, in real time, they share these pieces of evidence with the world, rivaling established newsrooms and defense analysts in a parallel effort to reveal what is happening on the ground.
+
+“On Twitter, there’s a lot of cooperation. People share footage, geolocate it, try to identify the types of tanks, armed vehicles, that kind of stuff,” van Linge said in an interview on Thursday morning. “Everyone is doing their own part to get as much information out there as we can.” Van Linge says he was able to verify that the videos from Lutsk were likely genuine, because the airstrip and buildings were recognizable and could be compared against older footage.
+
+Read More: How Putin’s Denial of Ukraine’s Statehood Rewrites History
+
+The picture researchers are seeing, with the benefit of the birds-eye-view from OSINT, is of a fast-changing military situation in Ukraine. “From around 5am local time until [11am], the videos were mostly missile strikes, smoke clouds, the sounds of shelling and stuff,” van Linge says. “Since [midday local time], it has actually developed to footage of Russian forces on the move across parts of Ukraine—they’ve broken out of Crimea, they’ve broken through front-lines near Kharkiv, there’s also reports of fighting south of Belarus, [and] around Donetsk.”
+
+OSINT analysts are acutely aware of the risks that their work may be playing into the Kremlin’s hands, and experts have raised concerns that Russian actors may try to seed false reports of military activities in order to encourage Ukrainian surrender. The internet in Ukraine is currently still broadly accessible, indicating that the Kremlin does not necessarily want to suppress footage depicting their Blitzkrieg attack. “I guess the Russians might consider it beneficial as an intimidation tactic,” van Linge says. “They want to show their striking capabilities.”
+
+But the news isn’t all good for Russia. Some footage indicates that the most fierce fighting so far has been around Kharkiv, in the north-east of Ukraine, according to Kyle Glen, the co-founder of Conflict News, a popular OSINT-focused online news platform. Early on Thursday, Glen shared a graphic video—apparently filmed near Kharkiv—depicting what he said were burning Russian tanks and a dead Russian soldier.
+
+“There’s a definite possibility that Russia wants this information to come out,” Glen says. “On the other hand, in the Kharkiv region they are definitely not doing as well as they had hoped—and there are a lot of videos of dead Russian soldiers and destroyed Russian equipment. They’re not going to be happy about stuff like that coming out. If we start seeing more and more evidence of the Russian offensive not going so well, maybe we’ll start to see them crack down on the internet a little bit more.”
+
+People wait in a traffic jam as they leave the city of Kharkiv, Ukraine, after Russian President Vladimir Putin authorised a military operation in eastern Ukraine, Feb. 24 Antonio Bronic—Reuters
+
+OSINT techniques have also allowed sleuths to pick holes in Kremlin rhetoric. On Monday, researchers deduced that a video of Putin meeting with his security council to discuss Ukraine was not broadcast live, as Moscow had claimed, but several hours earlier—a fact given away by closeup analyses of the wristwatches of several participants.
+
+In the Twitter group chats where OSINT analysts share videos and help each other verify material, an informal code of conduct has emerged, according to Glen and van Linge. Some researchers have said they will not share graphic videos of dead bodies. Others have decided to keep a lid on any videos that reveal Ukrainian troop movements. In cases where researchers accidentally share false or misleading information, researchers tend to delete their tweets and issue corrections. Much of the time, the collegiate atmosphere helps prevent mistakes before they happen. Overnight, Glen observed two debunks on a Twitter group chat in real-time, before anybody posted the videos to public-facing social media accounts. One video, depicting an explosion in the dead of night, turned out to be from Yemen, not Ukraine. Another video that purported to show a Russian helicopter attack against a Ukrainian base turned out to actually be from Afghanistan.
+
+These informal ethical guidelines and verification techniques have been honed over the last decade. Van Linge and Glen both started their work in 2014, during the Ukrainian revolution and the Syrian civil war. In Syria, OSINT information helped to link deadly gas attacks on the regime of Bashar al-Assad, and undermine the U.S. military’s claims that its airstrikes were hardly killing any civilians. But there is a sense in the OSINT community that something about this invasion is different. “OSINT was a lot more niche in the Syrian civil war,” Glen says. “There was a lot of really gritty technical stuff, like analyzing shell craters. Whereas it seems the community in the buildup to this [invasion of Ukraine] has been a lot more accessible. It’s not difficult to understand if someone posts a video of a Russian convoy of vehicles and can demonstrate how they know where that convoy is.”
+
+“OSINT first and foremost is a collaborative effort,” Glen says. “A great thing about OSINT is that when you’re posting the evidence, you’re posting how you came to it. It allows people to have a lot more trust in what you’re doing—and maybe things get taken a little more seriously.”
+
+Write to Billy Perrigo at billy.perrigo@time.com.",https://time.com/6150884/ukraine-russia-attack-open-source-intelligence/
+1,4b524a6e-d69e-4a6a-a61a-b34207d63533,[],2022-02-25 00:00:00,"Placeholder while article actions load
+
+It was 3:15 a.m. in Belgorod, Russia — much too early for a traffic jam, thought Jeffrey Lewis, who was watching the traffic pileup on Google Maps. Lewis, a professor specializing in arms control and nonproliferation at the Middlebury Institute of International Studies in Monterey, Calif., was monitoring Google Maps with a research team of students he mentors as part of a project to analyze images taken from space. He and his team realized what was happening: a Russian armored unit was moving toward the border with Ukraine.
+
+By combining Google Maps traffic information with a radar image that showed troops, Lewis and his team realized an invasion was underway hours before the news became public and from thousands of miles away in California. Russia officially announced its assault on Ukraine on Thursday morning, which President Biden called “unprovoked and unjustified.”
+
+Advertisement
+
+“In the old days, we would have relied on a reporter to show us what was happening on the ground,” Lewis said. “And today, you can open Google Maps and see people fleeing Kyiv.”
+
+Lewis’s sleuthing helps demonstrate how technology — and specifically Google Maps — is making it so people even far away can see in real time what’s happening , all the way down to the street level. What billions of people around the world can see from the palm of their hands reflects that people on the ground, in the midst of troop movements, are also constantly connected to their devices. And in some cases those devices are becoming a tool for civilians.
+
+Google on Sunday made it more difficult to see some Google Maps features from afar. The company said it has temporarily disabled its live traffic and “busyness” features on Google Maps in Ukraine.
+
+Advertisement
+
+Google spokesperson Alex Krasov confirmed the company made the move, as reported by Reuters, ""for the safety of local communities in the country, after consulting with sources including regional authorities.”
+
+On Thursday, the Indian Embassy in Ukraine tweeted an advisory to its citizens and students in the country: It suggested that if they could hear air sirens, they should search for nearby bomb shelters on Google Maps.
+
+Google Maps, as a market leader in particular, has faced scrutiny for the way it shapes people’s perceptions of the world, drawing the borders of countries and regions differently depending on where a user is and disputes around those territories, including the representation of the border between Ukraine and Russia. In Russia, the Crimean Peninsula is represented with a hard-line border as Russian-controlled, whereas Ukrainians and others see a dotted-line border.
+
+Advertisement
+
+Last year, Google Maps faced criticism from researchers for its blurry images of Gaza.
+
+Google Maps and other map applications track cellphone locations in real time, more typically to indicate a traffic jam or a car crash. But over the years, the companies have built in other capabilities, including emergency alerts and those for natural disasters to help users avoid dangers.
+
+Google has also used “active shooter” alerts, as well as “SOS Alerts” to “make emergency information more accessible during a crisis,” the company said.
+
+Traffic data on Google Maps on Thursday night, hours after the initial invasion of Ukraine, showed road closures near Kharkiv. It showed stalled traffic on the road closures out of the capital city, Kyiv, as well as information about train schedules, or stalled service, at subway stations in the city.
+
+Advertisement
+
+Google earlier declined to comment on the use of Maps to track activities related to the invasion of Ukraine.
+
+The company did not confirm whether its Maps app showed any SOS alerts in Ukraine, or whether it shows a list of bomb shelters in the country. But it does give information about subway stations, some of which are being used as shelters.
+
+In Monterey, Lewis and his team had seen a radar image from earth observation company Capella Space, which appeared to show an armed Russian vehicle unit lined up near Belgorod. The team started looking at traffic data on Google Maps, and was surprised to see a traffic jam so long before rush hour.
+
+That told the researchers that civilians in their cars were probably being stopped at roadblocks, while military vehicles passed.
+
+“We have so much data that shows us what a normal pattern of life looks like, that when we see deviations we can tell something is happening on the ground,” he said.
+
+According @googlemaps, there is a ""traffic jam"" at 3:15 in the morning on the road from Belgorod, Russia to the Ukrainian border. It starts *exactly* where we saw a Russian formation of armor and IFV/APCs show up yesterday.
+
+Someone's on the move. pic.twitter.com/BYyc5YZsWL — Dr. Jeffrey Lewis (@ArmsControlWonk) February 24, 2022
+
+Google Maps analyzes phone movements to estimate road traffic. Lewis dismissed the idea that the traffic information was actually coming from Russian soldiers who had their smartphones with them. The Russian soldiers were moving, so that would have shown clear traffic, he said. Instead, the traffic jam was likely to have been generated from the phones of stopped civilians, he surmised.
+
+The ubiquity of high-quality maps in people’s pockets, coupled with social media where anyone can stream videos or photos of what’s happening around them, has given civilians insight into what is happening on the ground in a way that only governments had before, said Steve Blank, a founding faculty member at Stanford University’s Gordian Knot Center for National Security Innovation.
+
+But there are ways to cut off Internet and cell service, he said. And what the high-tech world still cannot do is definitively say what a military will do next.
+
+“What you can still hide is intent,” he said.
+
+GiftOutline Gift Article",https://www.washingtonpost.com/technology/2022/02/25/google-maps-ukraine-invasion/
+2,4b524a6e-d69e-4a6a-a61a-b34207d63533,"['Pamela Falk', ""Charlie D'Agata"", 'Associated Press', 'Michael Kaplan', 'Eleanor Watson', 'Christopher Brito', 'Alex Sund', 'Haley Ott', 'Kathryn Watson', 'Li Cohen']",,"California teen who vanished three years ago found alive in Utah
+
+Accident or murder? Wife of Pittsburgh dentist dies from fatal gunshot
+
+2 killed, 9 wounded in shooting at Pittsburgh party, police say
+
+Police arrest suspect in South Carolina mall shooting that injured 14
+
+Global COVID relief ""critical"" to U.S. national security, Coons says
+
+Suing over climate change: Taking fossil fuel companies to court
+
+Righting wrongs: How Joyce Watkins was exonerated in court
+
+U.S. arms to Ukraine: Is it enough?
+
+U.S. arms to Ukraine: Is it enough?
+
+Transcript: Ukrainian Foreign Minister Dmytro Kuleba on ""Face the Nation""
+
+Transcript: Ukrainian Foreign Minister Dmytro Kuleba on ""Face the Nation""
+
+Transcript: Ret. Lt. Gen. Ben Hodges on ""Face the Nation""
+
+Transcript: Ret. Lt. Gen. Ben Hodges on ""Face the Nation""
+
+Full transcript: World Food Programme chief David Beasley on ""Face the Nation""
+
+Full transcript: World Food Programme chief David Beasley on ""Face the Nation""
+
+Russia will soon try to storm Kyiv, Ukrainian president says
+
+Zelensky: Russia will soon try to storm Kyiv
+
+Zelensky: Russia will soon try to storm Kyiv
+
+Be the first to know
+
+Get browser notifications for breaking news, live events, and exclusive reporting.
+
+Not Now
+
+Turn On",https://www.cbsnews.com/live-updates/russia-ukraine-invasion-donbas-troops/
+3,4b524a6e-d69e-4a6a-a61a-b34207d63533,[],,"JavaScript is not available.
+
+We’ve detected that JavaScript is disabled in this browser. Please enable JavaScript or switch to a supported browser to continue using twitter.com. You can see a list of supported browsers in our Help Center.
+
+Help Center",https://twitter.com/tom_bullock_/status/1496742808358686723?lang=en
+4,4b524a6e-d69e-4a6a-a61a-b34207d63533,"['Social Links For Joshua Rhett Miller', 'Contact The Author']",2022-02-25 00:00:00,"A Ukrainian man desperately tried to block a Russian military convoy — risking his life by stepping in front of a speeding truck, intense footage shows.
+
+The clip, which circulated online Friday, purportedly showed a courageous Ukrainian citizen attempting to get in the way of a Russian convoy — in a scene reminiscent of the famed moment a protester stood in front of Chinese tanks in Tiananmen Square in 1989.
+
+“Ukrainian rushes under enemy equipment so that the occupiers do not pass,” Ukraine news outlet HB tweeted.
+
+In a now-iconic image, a man in 1989 blocked the path of tanks heading east in Tiananmen Square. Jeff Widener/AP
+
+The latest map on the escalating conflict in Ukraine.
+
+The 28-second video begins as a woman gasps and the convoy of vehicles marked with an oversize letter “Z” barrel down a remote road. The unidentified man steps in front of one truck, prompting the vehicle to swerve out of the way to avoid hitting him, the footage shows.
+
+The footage went viral online Friday — with many linking the brave Ukrainian to “tank man” from decades earlier.
+
+Get the latest updates in the Russia-Ukraine conflict with The Post’s live coverage.
+
+“Remember #TankMan from June 5th 1989? Here’s another one for you,” one tweet read. “In Ukraine this time.”
+
+“Ukraine just got its very own Tank Man,” another tweet read.",https://nypost.com/2022/02/25/ukrainian-man-steps-in-front-of-russian-convoy/
+5,4b524a6e-d69e-4a6a-a61a-b34207d63533,[],,"A video reportedly shows Ukrainian men rummaging through boxes of firearms in a Kyiv suburb on Friday.
+
+Ukraine is providing weapons to any citizen wanting to fight against Russia. All they need is ID.
+
+Advertisement
+
+Ukrainian men helped themselves to guns on Friday, a video reportedly shows, a day after the country urged regular citizens to take up arms and fight against the Russian invasion.
+
+The video, which was shared on Twitter by Illia Ponomarenko, the defense correspondent at the Kyiv Independent, appears to shows civilians on a suburban street in a Kyiv suburb rummaging through boxes of firearms unloaded from trucks, as a voice off-camera says ""Slava Ukraini!"" (Glory to Ukraine!).
+
+It was reportedly filmed in the Obolon district, around 6 miles north of the city center, where Ukraine's Defense Forces asked residents to prepare homemade Molotov cocktails after Russian troops were spotted in the suburb on Friday morning.
+
+""Firearms are delivered to anyone willing,"" Ponomarenko said in the tweet of the video.
+
+On Thursday, Ukrainian President Volodymyr Zelensky barred male citizens aged 18 to 60 from leaving the country as part of a military mobilization order, CNN reported.
+
+Advertisement
+
+Zelensky also said he would provide weapons to any citizen wanting to defend the country against Russian attacks.
+
+Mikhail Palinchak/Pool via REUTERS
+
+Regular Ukrainian citizens can join the fight and receive weapons very easily, only needing a form of ID to sign up, according to Ukraine's Armed Forces.
+
+""We give weapons to all patriots!"" Ukraine's Armed Forces said in a tweet.
+
+Some 18,000 machine guns have already been handed out to volunteers in Kyiv since the Russian invasion began on Thursday morning, Ukraine's Interior Ministry adviser Vadym Denysenko said, per the BBC.
+
+The BBC also reported that armed civilians are regularly visible on the streets of Kyiv, citing an example of men in trainers and jeans with rifles slung across their backs.
+
+The Agence France-Press interviewed Yuriy Korchemniy, a historian who has never fired an assault rifle in his life, about being handed a firearm.
+
+Advertisement
+
+""They gave out the rifles, loaded them for us and here we are,"" he said, per The Guardian. ""I only know how to shoot single rounds, so my plan is to click this here and switch off the automatic mode.""",https://www.businessinsider.in/international/news/video-reportedly-shows-ukrainian-men-helping-themselves-to-guns-on-a-kyiv-street-after-all-18-60-years-were-urged-to-take-up-arms-and-fight-the-russian-invasion/articleshow/89836411.cms
+6,4b524a6e-d69e-4a6a-a61a-b34207d63533,[],,"Russia attacked Ukraine early Thursday in what Ukraine called a ""full-scale invasion .""
+
+attacked early Thursday in what Ukraine called a ""full-scale ."" Dozens of Russian and Ukrainian troops, and at least eight Ukrainian civilians, were reported dead.
+
+Advertisement
+
+Russian forces attacked Ukraine early Thursday morning, with Ukraine reporting dozens of deaths on both sides.
+
+Ukraine said at least 40 of its soldiers and 50 Russian troops were killed early in the fighting, according to the Associated Press and Reuters.
+
+At least eight Ukrainian civilians were killed and nine were wounded by Russian shelling, a Ukrainian internal affairs ministry advisor said, according to Reuters.
+
+Russia's offensive threatens to kill thousands of people, force millions more to flee, and destabilize much of Europe, with the consequences certain to reverberate across the world.
+
+'Full-scale invasion of Ukraine'
+
+Ukraine's foreign minister called Russia's actions ""a full-scale invasion of Ukraine,"" with his ministry saying Russian forces were ""launching attacks on peaceful Ukrainian cities from different directions.""
+
+Advertisement
+
+Starting early Thursday, blasts were heard from Kyiv, the capital, to the eastern city of Kharkiv about 280 miles away, with reports of outgoing artillery fire from Russian forces across the border. Missile strikes and explosions were heard across Ukraine, the BBC reported.
+
+Ukraine's interior ministry said early Thursday that Russian tanks were pouring over the border from Belarus as well as from occupied Crimea, with Russian troops attacking Ukrainian security forces with artillery and small arms.
+
+Ukraine's president, Volodymyr Zelensky, declared martial law and said the country would arm any citizen willing to defend it.
+
+""We will give weapons to anyone who wants to defend the country,"" he said. ""Be ready to support Ukraine in the squares of our cities.""
+
+Valentyn Ogirenko/Reuters
+
+Ukraine's border guard said early Thursday that Russian military columns had entered the Ukrainian regions of Chernihiv, Kharkiv, and Luhansk, according to Reuters.
+
+Advertisement
+
+People have been fleeing Kyiv and using the city's subway stations as bunkers.
+
+Ukraine announced on Thursday that it was cutting diplomatic ties with Russia, and it called on allies to do the same. It also said it was evacuating its embassy staff from Moscow.
+
+Valentyn Ogirenko/Reuters
+
+NATO was due to hold an emergency session Thursday, and the UK and the European Union promised to impose more sanctions against Russia.
+
+Thursday's invasion was preceded by a formal request for military intervention from Russian-backed separatists in eastern Ukraine, where rebels backed by Russia have been fighting Ukrainian troops for eight years.
+
+On Wednesday evening, Zelensky took to the airwaves in a last-ditch appeal for peace — while pledging that Ukrainians would ""fight back"" against any further Russian incursion.
+
+Advertisement
+
+Hours later, in an early-morning address that coincided with an emergency meeting of the United Nations Security Council, Russian President Vladimir Putin effectively declared war, insisting that Russian forces would strive for the ""demilitarization"" and ""denazification"" of Ukraine, whose president is Jewish.
+
+The road to war
+
+Tensions had been mounting for months as Russia amassed troops, tanks, and amphibious ships near Ukraine's borders.
+
+Late last year, Russia began amassing tens of thousands of troops on Ukraine's borders, with an estimated 190,000 deployed by the time of the attack . This buildup prompted US President Joe Biden to conclude an invasion was nearly certain.
+
+Russia in mid-February claimed to be withdrawing some of its troops from Ukraine's borders, but the US and NATO didn't buy it, citing intelligence that the Kremlin had actually deployed thousands more troops.
+
+Biden warned last week that he believed Russian forces would ultimately besiege Ukraine's capital, which has a population of nearly 3 million people. Earlier this week, he unveiled a new round of sanctions against Russian officials in response to Moscow deploying troops to the eastern Donbas region, which he characterized ""the beginning of a Russian invasion of Ukraine.""
+
+Advertisement
+
+Over the past few months, the US and its allies worked to find a diplomatic solution to prevent a broader confrontation, but Russia made demands for binding security guarantees to which they would never agree. This included permanently barring Ukraine and Georgia from NATO, a request the alliance and Washington repeatedly made clear was a nonstarter.
+
+Ukraine has sought to join NATO for years, and it maintains robust ties with the alliance. The US since 2014 has provided Ukraine with billions of dollars' worth of military assistance, including lethal aid like Javelin anti-tank missiles.
+
+Other NATO members have also provided Ukraine with weapons. That said, Ukraine is not on track to become a NATO member in the near future, despite suggestions from the Kremlin to the contrary.
+
+For years, Putin offered hints of his ambitions when it comes to Ukraine. In 2008, he told President George W. Bush that Ukraine was ""not even a country,"" and he's referred to Ukrainians and Russians as ""one people.""
+
+In short, Putin has been clear he wants Ukraine under Russian sway and the US out of the region he perceives as being in Russia's sphere of influence.
+
+Advertisement
+
+Putin, a former KGB operative, during his 20 years in power has moved to reestablish Moscow's hegemony in countries that were once part of the Soviet Union. The military operation he just ordered in Ukraine shows he's committed to this course, despite the risks that it will damage his economy or provoke a more robust NATO presence.",https://www.businessinsider.in/politics/world/news/russia-attacks-ukraine-launching-a-new-war-in-europe-for-the-first-time-in-years/articleshow/89790359.cms
+7,4b524a6e-d69e-4a6a-a61a-b34207d63533,"['Sebastien Roblin', 'Written By']",2022-02-25 21:09:38+00:00,"At around 8 AM local time on February 24, a formation of 34 helicopters flew south across the Ukraine-Belarus border skimming at low altitude towards the Ukrainian capital of Kyiv.
+
+Riding point for the formation was lethal-looking two-seater Ka-52 Alligator attack helicopters with distinctive double-rotors, side-mounted 30-millimeter cannons, and a dozen Ataka anti-tank guided missiles on stub wings.
+
+But the Alligators were but the escort for the real strike force: Mi-8 ‘Hip’ assault transports carrying a more lethal cargo: up to 300 elite Russian airborne soldiers. Reportedly the paratroopers may have come from the 11th Guards Air Assault Brigade.
+
+Huge Russian Air Assault ongoing just north of Kyiv pic.twitter.com/nFPUFmytR4 — C O U P S U R E (@COUPSURE) February 24, 2022
+
+The paratroopers, or desantniki, weren’t heading for Kyiv itself, but rather Antonov Airport ten miles northwest on the outskirts of the metropolis. Also known as Hostomel or Gostomel after the nearby town, Antonov Airport was operated by the former chief manufacturer of Soviet transport aircraft, and its 2.17 mile-long runway was used principally for cargo flights and aircraft testing.
+
+The airport’s most famous resident was the world’s heaviest and widest cargo aircraft (in terms of wingspan) ever made: the only ever built Antonov An-225 Mriya (“Dream”), which has remained in demand to deliver oversized cargoes across the world on short notice, most recently shipment of Covid-treating medicines.
+
+If the Russian assault went as planned, Antonov could be used to land thousands of additional airborne soldiers and their light armored vehicles by cargo plane, allowing Russian troops to begin tightening the noose around the Ukrainian capital even before Russian mechanized armies fought their way in.
+
+Cell phone cameras recorded the helicopters’ approach which evoked the famous aerial assault scene in the Vietnam war film Apocalypse Now.
+
+Confirmed by Ukrainian authorities. A large air assault operation with Mi-8 helicopters on Antonov International Airport in Hostomel. Interior Ministry says Russia has seized control. Very dangerous; it’s just 15 minutes west of the capital ring road. pic.twitter.com/JhlyVktVRC — Christopher Miller (@ChristopherJM) February 24, 2022
+
+Unconfirmed images of Antonov airport Via – @WhereisRussia pic.twitter.com/PYGWa4tAXn — C O U P S U R E (@COUPSURE) February 24, 2022
+
+Russian soldiers were then recorded striding across the airport tarmac, an An-74T transport plane burning in the background. Overhead, the Mi-8 transports blasted potential opposition using rocket pods.
+
+Unconfirmed images of Antonov airport Via – @WhereisRussia pic.twitter.com/PYGWa4tAXn — C O U P S U R E (@COUPSURE) February 24, 2022
+
+UPDATE: VERIFIED IMAGES FROM ANTONOV AIRPORT Russian Mi-8 identified firing at an unidentified target on the airfield. We assess this to have occurred around midday on 02/24/22.
+
+Geolocated: 50.591, 30.204 Additional images to follow 🧵 pic.twitter.com/CrTVKwHHge — WhereisRussiaToday (@WhereisRussia) February 24, 2022
+
+Kyiv soon admitted the desantniki had seized control of an airport right on its doorstep.
+
+But Russia’s ambitious airborne assault was a high-risk affair. It meant flying a bunch of helicopters in proximity to numerous short-range air defense systems—often using heat-seeking missiles instead of radar guidance, and thus not disabled by Russian air defense suppression strikes targeting Ukrainian radars.
+
+The other problem was that openly inserting a small infantry unit deep behind enemy lines—say right next to the capital—is very risky, a move predicated on hopes that Ukrainian forces would be in such disarray they would be unable to mount a counter-attack.
+
+So despite the overwhelming scale of Russia’s assault on Ukraine, the gambit for Antonov Airport did not go as planned.
+
+Alligators in the Dnieper River
+
+As Russian helicopters skimmed south along the Dnieper River dividing Kiev toward and Hostomel, they came under fire from small arms and man-portable surface-to-air missiles—likely Soviet Strela or Iglas-S missiles and/or possibly Piorun and U.S.-built Stinger missiles recently transferred from Poland and Lithuania respectively. Short-range air defense vehicles with autocannons and their own short-range missiles may also have engaged.
+
+#war The footage was shot near Vyshgorod, 20 km from 🇺🇦Kiev. pic.twitter.com/ug8x7Viu4a — Capt(N) (@Capt_Navy) February 24, 2022
+
+Aware of their peril, helicopters pumped out scores of brilliant flares in the hopes of decoying heat-seeking missiles. But it did not prove enough. One of the Alligators was struck and fell into the Dnieper, smoke pouring upwards into the sky even after its immersion.
+
+Both the helicopter’s crew members ejected—an unique capability of the Ka-52 found in a few other helicopters—lofted down into the water as well.
+
+Another Alligator appears to have sustained so much damage it was forced to crash land. Footage of the empty cockpit implies both crew members escaped.
+
+#Russian Ka-52 appears to have made an emergency landing after being shot pic.twitter.com/NRFQ21NQML — Michael A. Horowitz (@michaelh992) February 24, 2022
+
+Ukrainian sources claim a third helicopter downed, though confirmation is unavailable, with some alleging a Ukrainian MiG-29 fighter made the kill.
+
+Counterattack
+
+Contrary to Russian hopes, Kyiv’s defenders were not so disorganized as to fail to assess both the small size of the paratrooper force and the danger an enemy airheadt next to the capital posed if let uncontested. Indeed, after 10 AM a Ukrainian told a journalist their intelligence reported eighteen Il-76MD troop transports bound towards Kyiv had taken off from Pskov, base of the 76th Guards Air Assault Division.
+
+First, the 4th Rapid Response Brigade of the Ukrainian National Guard surrounded the airport. This was a new model unit organized according to NATO standards combining light infantry, a battalion of T-64BV main battle tanks, an artillery battery and supporting surveillance drones.
+
+Lacking armored vehicles, the Russian airborne at Hostomel depended on air support to stave off Ukrainian attack. Russian Su-25 Frogfoot ground attack jets were recorded flying in for strikes.
+
+But Ukrainian warplanes—having remarkably escaped Russia’s first strike—pounded the airfield in return, with an image showing two of Ukraine’s swing-wing Su-24M ‘Fencer’ bombers swooping over the airfield and releasing a brace of bombs, as well as flares for self-defense.
+
+Due to the considerable change in lighting between this image and others previously posted we assess this to be early evening at Antonov Airfield on 02/24/22 – this is likely when Ukrainian Forces were reclaiming the airfield. pic.twitter.com/dugRWK5P1q — WhereisRussiaToday (@WhereisRussia) February 24, 2022
+
+Another video recorded from a civilian home near Hostomel shows a Ukrainian MiG-29 skimming over rooftops and launching what appear to be unguided S-8 rockets terrifyingly close to the recorder—reportedly targeting either withdrawing Russian airborne infantry, or a Russian helicopter per various sources.
+
+MiG-29 fighter jets of 40th Tactical Aviation Brigade of #Ukraine Air Force are trying to hunt the #RussianArmy airborne troops who are transported by helicopters to the North of #Kiev. This MiG-29 fired S-8 unguided rockets at them who are hiding between civilian houses. pic.twitter.com/CftTv0Cntx — Babak Taghvaee – Μπάπακ Τακβαίε – بابک تقوایی (@BabakTaghvaee) February 24, 2022
+
+Eventually, Ukrainian minister Oleksiy Arestovych claimed the airport had been secured by Ukrainian forces. But twenty minutes later he issued a partial retraction—a mopping up operation was still ongoing. When CNN’s Matthew Chance arrived at the airport gate he encountered Russian, not Ukrainian soldiers he was expecting.
+
+Breaking: @mchancecnn with Russian forces at the Antonov airport about 15 miles outside of Kyiv. ""These troops you can see over here, they are Russian airborne forces. They have taken this airport"" pic.twitter.com/SnvmwQ1GeA — Natasha Bertrand (@NatashaBertrand) February 24, 2022
+
+Later that evening, the Russian airborne were allegedly driven from the airport, though the remaining elements continued skirmishing in the woods outside of it.
+
+Some accounts claim Ukraine’s ‘45th Spetsnaz Brigade’ was responsible for the final assault, but this appears to refer only to a Russian, not Ukrainian, unit. Instead, at 10 PM local time, the 4th Brigade’s Facebook page posted an image of soldiers holding a seemingly bullet-riddled battle flag celebrating the victory.
+
+On the same site, Antonov Airline’s chief pilot assured that the legendary An-225 remained undamaged, contrary to earlier reports claiming its hangar had caught fire.
+
+Russia strikes back
+
+Kyiv’s forces may have sought to render Hostomel inoperable by demolishing or obstructing its runway after the battle. That’s because Russian forces crossing the Ukraine-Belarus border had reportedly penetrated through the Exclusion Zone around Chernobyl and were rolling towards northwestern Kyiv.
+
+Furthermore, a contingent of Spetsnaz special forces infiltrated into Kyiv wearing Ukrainian military uniforms—incidentally, a violation of Article 39 of the Geneva Convention—sprang into action, causing small arms fire to echo throughout the capital.
+
+Videos recorded from high-rise apartments in the northern Obolon suburb show a Spetsnaz- gun truck riddled by fire from Ukrainian troops, while a hijacked Strela-10 (SA-8) tracked air defense vehicles races away—only to run over a civilian car driving from the opposite direction. Remarkably the elderly man inside survived and was hospitalized for treatment.
+
+Incredibly, the driver survived this. Pulled out of the wreckage thanks to bystanders pic.twitter.com/bgx5vT9cHH — James Withers (@scotfoodjames) February 25, 2022
+
+Fighting meanwhile continued around Hostomel with remnants of the Russian airborne, who may have been reinforced by Spetsnaz or by Russian mechanized elements. Finally around 2 PM local time on February 25, Russia’s ministry of defense claimed it had recaptured Antonov Airport supposedly in an operation involving 200 helicopters, a number unlikely to be accurate.
+
+Nonetheless, video footage does appear to show Russian paratroopers manning a checkpoint at Hostomel.
+
+Video reportedly shows Russian VDV paratroopers stopping traffic in Hostomel. https://t.co/zZWCIgSQ4L pic.twitter.com/yLQOuJDYxE — Rob Lee (@RALee85) February 25, 2022
+
+Another recording allegedly depicts the burning remains of a Russian tank column there. Furthermore, a Ukrainian Ground Forces Mi-24P helicopter gunships was recorded unleashing barrages of S-8 80-millimeter rockets from 20-shot launcher pods on targets around Hostomel.
+
+Video reportedly from today, shows Mi-24P helicopter launching missiles over Hostomel – just outside Kyiv, Ukraine. H/t @RALee85 pic.twitter.com/bfZXTByh07 — Moshe Schwartz (@YWNReporter) February 25, 2022
+
+While Ukraine’s victory at Hostomel may have proved ephemeral, it indicated that Ukraine’s military is neither paralyzed nor evaporating in the face of Russia’s assault like Georgia’s did in the 2008 Russo-Georgia war.
+
+However, Ukraine’s capacity to defeat an arguably ill-advised Russian operational gambit does not assure future success. Russia is attacking Ukraine on so many fronts it can afford to be stalled in some areas, such as around Kharkiv and Mariupol, as long as breakthrough are achieved elsewhere, as has occurred in southern Ukraine at Kherson and Melitopol.
+
+As Russia has yet to commit all its forces, it will likely use Soviet ‘echelon’ style tactic wherein troops withheld from the first wave are channeled down the most promising avenues of attack, or into as yet untested sectors deemed vulnerable.
+
+Still, the battle at Hostomel suggests Putin’s unprovoked invasion will meet stiffer resistance than he apparently expected.
+
+Sébastien Roblin writes on the technical, historical and political aspects of international security and conflict for publications including the 19FortyFive, The National Interest, NBC News, Forbes.com and War is Boring. He holds a Master’s degree from Georgetown University and served with the Peace Corps in China. You can follow his articles on Twitter.",https://www.19fortyfive.com/2022/02/pictures-in-battle-for-hostomel-ukraine-drove-back-russias-attack-helicopters-and-elite-paratroopers/
+8,4b524a6e-d69e-4a6a-a61a-b34207d63533,"['Sam Tonkin', 'Sam Tonkin For Mailonline']",2022-02-25 17:14:07+00:00,"Advertisement
+
+British rockets, anti-tank missiles from the US and Estonia, and Turkish drones are just some of the weapons being used by Ukrainian forces in a fierce defence of their homeland.
+
+Troops are desperately trying to repel Putin's military onslaught, with the national guard taking up defensive positions across Kyiv and residents urged to make Molotov cocktails in a battle for control of the capital.
+
+Yesterday Ukrainian soldiers used shoulder launched guided missiles to take out Russian tanks and helicopters, after being sent thousands of 'self-defence' weapons by a number of countries in the West.
+
+The UK has shipped 2,000 Next Generation Light Anti-tank Weapons (NLAW) to Ukraine, while the US last month sent a plane loaded with 300 Javelin missiles worth some $50million to Kyiv.
+
+Other countries, including Turkey, the Czech Republic and Estonia have also followed suit, but nations including Hungary, Germany and Belgium ruled out supplying weapons to counter Putin.
+
+Despite the support, Ukrainian defense minister Alexey Reznikov has pleaded for more, saying: 'We need as much Stinger [anti-aircraft] and anti-tank weapons as possible.
+
+'In order to provide for reliable procurement of equipment, you may deliver it to Poland. From there we will transport them across the land and quickly saturate our defense.'
+
+From cutting edge drones to artillery that was first designed in the 1950s, MailOnline looks at what military aid has been sent to help Ukraine, and which Western nation it has come from.
+
+From cutting edge drones to artillery that was first designed in the 1950s, MailOnline looks at what military aid has been sent to help Ukraine, and which Western nation it has come from
+
+Javelin anti-tank guided missiles
+
+A Ukrainian soldier aims a Javelin launcher from the top of an armoured vehicle during a military parade in Kiev in 2018. The weapons can also be carried into battle by troops and fired over-the-shoulder
+
+Countries that sent them: UK, Estonia and the US
+
+How many has Ukraine received? 300 from the US, unknown from the others
+
+Cost: £130,000 ($175,000) each just for the missile
+
+How they work: Javelins work by using infrared systems to lock on to their targets, meaning troops do not need to keep aiming after pulling the trigger.
+
+Once the missile is fired, it ejects from the tube using a small charge - so it can be fired in a confined space - before the main rockets ignite.
+
+The missile then flies up to 490ft into the air before slamming down on its target from above - known as a 'curveball' shot.
+
+This them especially deadly against tanks because their armour is thinnest on top, although Javelins can also be used to blow up buildings.
+
+Javelin missiles use a 'curveball' shot - approaching their target from above - which makes them especially deadly against tanks which have less armour on the top. They also have two warheads which are designed to overcome 'reactive' armour that Russia uses
+
+Fact-file: The FGM-148 Javelin is a US-made missile that is primarily designed to destroy tanks, using a combination of 'curveball' attack - meaning it comes down on its targets from above - and dual high explosive warheads to take them out.
+
+Javelins were developed in the 1990s and have been in service since 1996 - coming up against Russian-designed T-72 tanks during the Second Iraq War, where they proved particularly effective.
+
+Russia still uses T-72 tanks - with dozens of T-72Bs now deployed near Ukraine - and while they have undergone several rounds of improvements since Saddam's day, they are still thought to be vulnerable to the missile.
+
+Where have they been used in Ukraine? In Glukhov, in the east of the country, to destroy 15 Russian T-72 tanks
+
+Next Generation Light Anti-tank Weapon
+
+Lightweight: The UK has shipped 2,000 Next Generation Light Anti-tank weapons to Ukraine (pictured during drills in Lviv)
+
+Country that sent them: UK
+
+How many has Ukraine received? At least 2,000
+
+Cost: £35,000 ($48,000) per single-shot unit
+
+How they work: Launched on the shoulder and can be fired from confined spaces.
+
+A 'cold launch' system ejects the missile with pressurised gas before it ignites its rocket motor, accelerating the weapon to 440 miles per hour (200 meters per second).
+
+The missile then uses an inertial navigation system to fly to a target vehicle.
+
+Fact file: The Next Generation Light Anti-tank Weapon (NLAW) began as a joint British-Swedish project in 2002 to replace Cold War-era weapons designed to give infantry squads a portable, close-range defense against tanks.
+
+The Next Generation Light Anti-tank Weapon (pictured) began as a joint British-Swedish project in 2002 to replace Cold War-era weapons designed to give infantry squads a portable, close-range defense against tanks
+
+The 3.2 feet (1 metre) long weapon, which has a shelf life of 20 years, was built from components manufactured by BAE, Saab, Thales and the US company Raytheon.
+
+It weighs just 27.5 pounds and can launch a single 150-millimetre diameter missile out to an effective range between 65 and 2000 feet (20 and 600 metres), or up to 1,300 feet (400 metres) for moving targets.
+
+The weapon is much lighter than the American-made Javelin missiles.
+
+Last month British military trainers, drawn from the newly formed Ranger Regiment, were sent to Ukraine to instruct its troops on how to use the anti-tank weapons.
+
+Where have they been used in Ukraine? Kharkiv, to the north-east of the country, to destroy four Russian tanks and three attack helicopters
+
+Stinger missiles
+
+The Stinger made history in the 1980s in Afghanistan when a man used the weapon to shoot down a Soviet Hind attack helicopter. A Ukrainian solider is pictured helping to transfer 92 Stinger missiles in Kyiv earlier this month
+
+Countries that sent them: Latvia and Lithuania
+
+How many has Ukraine received? Unknown
+
+Cost: £97,000 ($130,000) per unit
+
+How they work: To operate the weapon, the soldier inserts a Battery Coolant Unit into the handguard, which releases a stream of argon gas into the machine.
+
+It also shoots a chemical energy charge, which powers the indicators and missile.
+
+Fact-file: The Stinger made history in the 1980s in Afghanistan when a man used the weapon to shoot down a Soviet Hind attack helicopter.
+
+The move changed the course of the war and led to the breakup of the USSR.
+
+It is a Man-Portable-Air-Defense System (MANPADS) that uses infrared homing technology to search and strike flying targets.
+
+The Stinger, which sits on the operator’s shoulder, was first developed in the US in 1981 and is currently used by more than 18 nations.
+
+The missile is 5.0 ft (1.52 m) long and 2.8 in (70 mm) in diameter with 10 cm fins.
+
+And the missile weighs about 22 lb (10.1 kg), while the missile with launcher weighs approximately 34 lb (15.2 kg).
+
+Where have they been used in Ukraine?
+
+To bring down a number of Russian aircraft, though unclear exactly where. Ukraine’s military said five Russian planes and one helicopter had been shot down in Luhansk in the east yesterday.
+
+Bayraktar TB2 drones
+
+Turkey first developed a prototype for the TB2 (pictured) in 2007 before the drones reached the final production stage in 2012
+
+Country that sent them: Turkey
+
+How many has Ukraine received? Several batches, but official figure unknown
+
+Cost: Around £3.7 million ($5 million) each
+
+How they work: Capable of 24-hour flights at an altitude of 24,000 feet (7,300 metres) and carrying a payload of 330 lbs (150kg), the TB2 is well-armed and is a source of Turkish national pride.
+
+It is capable of carrying out aerial strikes against tanks and bunkers, with a maximum altitude of five miles to avoid enemy machine guns.
+
+The drone can also navigate even if it loses GPS signal.
+
+Fact-file: Turkey first developed a prototype for the TB2 in 2007 before the drones reached the final production stage in 2012.
+
+They have previously been used by Azerbaijan against Armenian separatists; Turkish security forces, including their allies in Libya and Syria; and also sold to Ukraine and Qatar.
+
+The drones are 21ft long, have a top speed of 80mph and a range of 93 miles.
+
+Where have they been used in Ukraine? Unclear
+
+152mm artillery ammunition
+
+Artillery guns in 152 mm or 155 mm calibres can be found in the majority of current and recent conflicts. They are designed to provide fire support for armour and infantry forces by firing munitions at greater distances than small arms and light weapons
+
+Country that sent them: Czech Republic
+
+How much has Ukraine received? Unknown
+
+Cost: Around £746 ($1,000) per round
+
+How they work: Artillery guns are designed to provide fire support for armour and infantry forces by firing munitions at greater distances than small arms and light weapons.
+
+Fact-file: Artillery guns in 152 mm or 155 mm calibres can be found in the majority of current and recent conflicts.
+
+The two calibres are broadly similar in capabilities; both are able to deliver a projectile of approximately 88 lbs (40 kg) to ranges of 10-24 miles (17-40 km). 152 mm and 155 mm calibre guns are often considered to be 'heavy artillery'.
+
+One of the most common towed 152 mm artillery pieces is the Soviet-designed M1955 (D-20) gun-howitzer, first observed during the 1950s.
+
+Where have they been used in Ukraine? Unclear",https://www.dailymail.co.uk/sciencetech/article-10551271/The-weapons-Ukraine-using-hold-invading-Russian-Army.html

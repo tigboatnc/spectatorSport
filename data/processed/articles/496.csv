@@ -1,0 +1,275 @@
+,uid,article_author,article_date,article_text,article_url
+0,dc6e24e1-8b59-40b5-9463-befc467a62d7,[],2022-03-18 00:00:00,"Why did this happen?
+
+Please make sure your browser supports JavaScript and cookies and that you are not blocking them from loading. For more information you can review our Terms of Service and Cookie Policy.",https://www.bloomberg.com/news/articles/2022-03-18/russian-cyber-attacks-struggling-to-impact-ukraine-networks
+1,dc6e24e1-8b59-40b5-9463-befc467a62d7,['Dan Milmo'],2022-03-18 00:00:00,"Amateur hackers are being warned off joining Ukraine’s “IT army” by western officials, amid fears that activists could be breaking the law or launch attacks that spiral out control.
+
+Ukraine’s cyber-response to the Russian invasion has been bolstered by hackers organising on the Telegram messaging app under the IT Army of Ukraine banner. More than 300,000 people have signed up to the group, including members from outside Ukraine.
+
+Western officials said they would “strongly discourage” joining the group and taking part in hacking activity against Russia.”
+
+“We wouldn’t encourage criminality in any way, shape or form,” said one official on Thursday. “We would strongly discourage people from looking to get involved in those kinds of activities.”
+
+Ukraine’s cyber-offensive has had particular success with distributed denial of service (DDoS) attacks, in which websites are rendered unreachable by being bombarded with traffic. Russian government websites including the Kremlin and the Duma have been targeted in this way as well as Russia Today, the state-media owned news service.
+
+Anonymous, a hacking collective, has also claimed credit for DDoS attacks.
+
+Joining Ukrainian cyber-attacks from the US or the UK could break the law in those countries, according to experts, such as the Computer Fraud and Abuse Act in the US and the computer misuse act in the UK.
+
+“Whilst I totally understand the sentiment behind the actions of many in this IT army, two wrongs do not make a right. Not only might it be illegal but it runs the risk of playing into Putin’s hands by enabling him to talk about ‘attacks from the west’,” said Alan Woodward, a professor of cybersecurity at Surrey University.
+
+He added that hacks could have unintended consequences and “it’s very easy for cyber-attacks is to spill over into unintended areas”.”
+
+Western officials said the Ukrainian government has so far performed well against cyber-attacks during the war. So far Ukraine has been targeted by DDoS attacks and several “wiper” attacks, which destroy computers but have had limited impact in this instance.
+
+Officials said a “successful” Ukrainian cyber-defence had been assisted by western governments. “Behind the scenes [there has been] … a massive international government effort to support our Ukrainian allies in this space,” said one official.
+
+They added that the UK and other western allies of Ukraine had not seen an increase in hostile Russian cyber-activity since the invasion began last month. “We are not seeing a heightened threat to the UK or generally to allies. It’s fair to say that the level of cyber-activity we see is not significantly up or down,” said one official.
+
+The most significant cyber-incident involving a western target during the conflict involved the US telecoms firm Viasat. Unidentified hackers disabled tens of thousands of modems that communicate with Viasat Inc’s KA-SAT satellite, which supplies internet to some customers in Europe, including in Ukraine.
+
+“It’s certainly something we’re investigating quite actively,” said an official.",https://www.theguardian.com/world/2022/mar/18/amateur-hackers-warned-against-joining-ukraines-it-army
+2,dc6e24e1-8b59-40b5-9463-befc467a62d7,['Thomas Rid'],2022-03-18 00:00:00,"Once again, though, the origin of the leak remains unclear. The material could have been procured from a Russian whistle-blower or taken through a network breach. Leaked files — in contrast to hacked machines — rarely contain clues for attribution. Some of the most consequential computer network breaches may stay covert for years, even decades. Cyberwar is here, but we don’t always know who is launching the shots.
+
+Second, cyberoperations in wartime are not as useful as bombs and missiles when it comes to inflicting the maximum amount of physical and psychological damage on the enemy. An explosive charge is more likely to create long-term harm than malicious software.
+
+A similar logic applies to the coverage of hostilities and the psychological toll that media reporting can have on the public. There’s no bigger story than the violent effects of war: victims of missile attacks, families sheltering underground, residential buildings and bridges reduced to piles of smoking rubble. In comparison, the sensationalist appeal of cyberattacks is significantly lower. Largely invisible, they will struggle to break into the news cycle, their immediate effect greatly diminished.
+
+We saw these dynamics play out in the Russian destructive malware “wiper” attacks of Feb. 23 and 24. Just hours before the invasion started, two cyberattacks hit Ukrainian targets: HermeticWizard, which affected several organizations, and IsaacWiper, which breached a Ukrainian government network. A third destructive malware attack was discovered on March 14, CaddyWiper, again targeting only some systems in a few unidentified Ukrainian organizations. It is unclear if these wiping attacks had any meaningful tactical effect against the victims, and the incidents never broke into the news cycle, especially when compared to the physical invasion of Ukraine by tanks and artillery.
+
+Finally, without deeper integration within a broader military campaign, the tactical effects of cyberattacks remain rather limited. Thus far, we have no information on Russian computer network operators integrating and combining their efforts in direct support of traditional operations. Russia’s muted showing in the digital arena most likely reflects its subpar planning and performance on the ground and in the air. Close observers have been baffled by the Russian Army’s insufficient preparation and training, its lack of effective combined arms operations, its poor logistics and maintenance and its failure to properly encrypt communications.
+
+Cyberwar has been playing a trick on us for decades — and especially in the past weeks. It keeps arriving for the first time, again and again, and simultaneously slipping away into the future. We’ve been stuck in a loop, doomed to repeat the same hackneyed debate, chasing sci-fi ghosts.
+
+To harden our defenses, we must first recognize cyberoperations for what they have been, are and will be: an integral part of 21st-century statecraft. The United States has a unique competitive advantage through its vibrant tech and cybersecurity industry. No other country comes even close to matching the U.S. public-private partnership in attributing and countering adversarial intelligence operations. These collaborative efforts must continue.",https://www.nytimes.com/2022/03/18/opinion/cyberwar-ukraine-russia.html
+3,dc6e24e1-8b59-40b5-9463-befc467a62d7,[],,"Hacking. Disinformation. Surveillance. CYBER is Motherboard's podcast and reporting on the dark underbelly of the internet. See More →
+
+For years, Russian state hackers have used Ukraine as a training ground, testing out methods to shut off sections of the country’s electricity with hacking tools or letting potent malware run amok. Suspected Russian hackers also deployed wiping malware at the start of the recent conflict, and hackers targeted internet company Viasat and knocked out some communications. But hacking has taken something of a backseat, or at least has not been as ruthless as some might expect as the war enters its 23rd day.
+
+Advertisement
+
+Russia’s invasion of Ukraine seems like a good reason for it to use every offensive cyber capability it has, so why does it seem that so far hacking has not played a more obvious role in the war?
+
+One key reason is that, despite all the attention that cyber attacks get during times of relative peace, kinetic weapons such as the missiles that Russian troops are firing onto civilian areas are a higher priority once conventional war breaks out.
+
+Victor Zhora, the deputy chief of Ukraine's State Service of Special Communications and Information Protection, recently gave three potential reasons for why Russian hacking hasn’t been worse during the invasion. One was that Russian hackers are not nimble enough to compromise Ukrainian targets during the invasion; a second was that stealthy cyberattacks aren’t that useful when compared to the damage that Russian troops are doing with missiles and bombs; and thirdly that Russian hackers are too busy protecting their own digital infrastructure.
+
+Thomas Rid, professor of strategic studies at Johns Hopkins School of Advanced International Studies, told Motherboard that the first and third options are not really credible. Instead, he said he leans towards a “version” of the second point.
+
+Advertisement
+
+“But this isn't about ‘stealthy’ computer network exploitation. Proper computer network attacks are very rarely ""stealthy,"" because their goal is to mess with targets,” he said in an online chat. “Such digital covert action, of course, is usually designed to be deniable, and very rarely do governments take credit for such operations. But the key point is probably this: digital sabotage is effective also for psychological reasons, think of the extraordinary press coverage previous cyber operations targeting Ukraine have received.”
+
+Do you know about any other hacks around the Ukraine invasion? We'd love to hear from you. Using a non-work phone or computer, you can contact Joseph Cox securely on Signal on +44 20 8133 5190, Wickr on josephcox, or email joseph.cox@vice.com.
+
+In 2015, Russian hackers managed to turn off the lights in a section of Ukraine. The following year, they did much the same. NotPetya, one of if not the largest cyberattack ever, started with the poisoning of a software update from a Ukrainian accounting company. As Rid said, all of these, rightly so, received massive media coverage.
+
+Advertisement
+
+But at the moment, the psychological aspect of cyberattacks is likely outweighed by that of missiles dropping onto residential blocks in Ukraine.
+
+“An ongoing, brutal war with such powerful images is changing the psychological environment for digital sabotage, crowding it out of the news cycle—one more reason why hacking is probably less attractive right now,” Rid added. He pointed to how the hack of Viasat has not broken through the news cycle at this point.
+
+“Under normal circumstances it would be one of the biggest infosec stories of the year, if not bigger,” Rid said. At the moment, it is more of a footnote to the ongoing, physical war.
+
+John Hultquist, VP of Intelligence Analysis at cybersecurity firm Mandiant largely echoed those points.
+
+“Russia has other tools to disrupt Ukrainian infrastructure, like kinetic weapons, and may not need to lean on cyber in their campaign. Cyber capabilities are great tools before war starts because they are reversible and nonviolent, but in open conflict when restraint is no longer an issue, they may no longer be appropriate. Also, the psychological effects of cyber capabilities may be blunted in the mortally dangerous situation Ukrainians find themselves in,” he said in an emailed statement. “We are likely to see more cyberattacks as this war continues, but Russia may find they are better used outside of the conflict zone, where their particular advantages are more appropriate.”
+
+And, of course, weapons can provide more reliable operational results than any sort of cyber-focused alternative.
+
+“Conventional munitions are more reliable than cyberattacks. They disable infrastructure more reliably than cyberattacks, and once hit, the target is disabled in a way that keeps it disabled for an extended period of time,” Matt Tait, a cybersecurity expert, told Motherboard in an online chat.
+
+“Cyber attacks will probably retain their specific tactical effects throughout the war, but it is also less likely we will learn about such successful technical sabotage while the shells and missiles are still exploding,” Rid added.",https://www.vice.com/en/article/88gbk5/why-we-havent-seen-debilitating-cyberwar-in-ukraine
+4,dc6e24e1-8b59-40b5-9463-befc467a62d7,"['Natasha Ishak', 'Ellen Ioanes', 'Anna Goldfarb', 'Laura Bult', 'Alex Abad-Santos', 'Keren Landman', 'Constance Grady', 'Mar']",2022-03-19 00:00:00,"After three weeks of fighting, Russia is beginning to deploy increasingly brutal tactics in Ukraine, including indiscriminate shelling of cities and “medieval” siege warfare. Other elements of its military strategy, however, are conspicuously absent — cyberwarfare among them.
+
+Russia has a history of employing cyberwarfare tactics, which some experts believed could feature prominently in its invasion of Ukraine. The cyberattacks launched by Russia in the conflict so far have been relatively minimal though, and far less damaging than they could have been.
+
+While Ukrainian government websites were the target of distributed denial of service (DDoS) attacks shortly before the invasion, for example, a larger attack, possibly knocking out Ukraine’s power grid or other key infrastructure, hasn’t taken place.
+
+“I think the biggest surprise to date has been the lack of success for Russia with cyber attacks against Ukraine,” Stephen Wertheim, a senior fellow in the American statecraft program at the Carnegie Endowment for International Peace, told Vox. “This has not been a major part of the conflict.”
+
+That’s particularly odd since the threat of cyberwarfare by Russian entities was already a major concern for the West, even before the recent escalation of the Russia-Ukraine conflict. It was widely established that Russia may have significant cyberwarfare capabilities following successive cyberattacks it launched against Ukraine after Russia’s 2014 annexation of Crimea.
+
+Notably, a pair of attacks in 2015 and 2016 took out power in parts of Ukraine, albeit at a relatively small scale. Since then, according to a Politico story from February, the United States and allies have attempted to bolster Ukraine’s power grid, but “nobody thinks it will be enough.”
+
+In 2017, Kremlin-linked hackers launched a different kind of a cyberattack in Ukraine: a ransomware program known as NotPetya, which encrypted any data it reached, leaving the data’s unsuspecting owner locked out from accessing their own files. Victims were told to pay a ransom of $300 in bitcoin if they wanted access to their data returned. But the ransomware attack spread beyond Ukraine’s borders, infecting computer networks of companies around the world. According to a former US official, the attack resulted in more than $10 billion in total loss in damages, and the NotPetya attack is now regarded as one of the worst cyberattacks in modern history.
+
+The US has not been safe from such cyberattacks, either. In 2021, for example, a group of Russia-based cybercriminals hacked into the IT network of Colonial Pipeline, a major oil pipeline system that carries gasoline and jet fuel to the southeastern US. The company was forced to pay a ransom of $5 million in exchange for the extracted files.
+
+Despite the apparent vulnerabilities in Ukrainian and Western cyberdefenses, though, more sweeping cyberattacks haven’t to date been a part of Russia’s war in Ukraine.
+
+Why hasn’t Russia launched major cyberattacks yet?
+
+The lack of full-scale Russian cyberattacks is a phenomenon that has surprised some experts, including Wertheim.
+
+“On some level,” he said, “the reason Russia launched a full-scale war against Ukraine is precisely that it didn’t think cyber means were sufficient. But one might have expected the war itself to have involved more cyber operations.”
+
+It’s difficult to know exactly what is behind Russia’s behavior, but experts have speculated about a number of potential reasons why Russia has hesitated to launch any stronger attacks. Some have theorized that Russia’s cyberwarfare capabilities may have been inflated, which is why it has not thus far launched a more sophisticated cyberattack against Ukraine or its Western allies.
+
+However, a more likely reason may be that Russia is still weighing its options carefully, and is simply waiting for the right time to respond.
+
+“It could be that Russia fears retaliation that would set its cause back, at least at this point,” said Wertheim, noting the relative lack of progress by Russia’s armed forces so far. “Perhaps over time, if and when Russian leaders believe that the situation is stabilized then Russia would be better able to absorb retaliation, it could launch a cyberattack then. It’s possible.”
+
+Given the setbacks that Russia has encountered on the battlefield, combined with the notable resistance by Ukrainian forces that have held steady against Russia’s attacks for the last three weeks, it may also be a matter of Russia prioritizing its military actions, according to Wertheim.
+
+“There might just simply be a kind of finite attention problem operating for [Russia],” he said.
+
+According to Olena Lennon, an adjunct professor of political science and national security at the University of New Haven, setbacks for Russia include the loss of junior, and even some higher-level, commanders among its military personnel, which may be affecting its operations on the ground.
+
+“We’re definitely seeing some leadership deficiencies that could explain some of these surprises,” Lennon said.
+
+The US could also be a target of Russian cyberattacks
+
+US authorities were already wary of a possible cyberattack from Russian hackers as a potential response to US support for Ukraine. That concern has only increased following major sanctions imposed on Russia by Western powers, as well as escalating rhetoric from Russian President Vladimir Putin.
+
+Putin described the sanctions as “akin to declaring war,” and Russian government officials have warned there will be swift action from Russia in response. US officials warned public and private entities of potential ransomware attacks after President Joe Biden announced initial sanctions against Russia late last month.
+
+“DHS has been engaging in an outreach campaign to ensure that public and private sector partners are aware of evolving cybersecurity risks and taking steps to increase their cybersecurity preparedness,” a DHS spokesperson said in a statement to the press.
+
+But the strong response against sanctions that Russian officials have warned of has yet to materialize in the weeks since. Although it’s certainly possible that Russia will react to US sanctions at some future point, the absence of action so far is notable, according to Wertheim.
+
+“It’s very hard to sort of assign exact probabilities to these kinds of things,” Wertheim said. “But it’s notable that there hasn’t been a response. And I think it remains a real possibility that even if the West does nothing more to escalate in a conflict that Russia could do so by undertaking what it believes is retaliation.”
+
+That could be particularly likely as the impact of already-imposed sanctions continues to mount. Sanctions have had an enormous effect on day-to-day life inside the country: The value of the ruble, Russia’s official currency, has plummeted to less than 1 cent, and Russian citizens have already seen price surges, particularly for electronic goods and appliances. The early price hike has motivated many residents to stock up on items in case prices continue to rise as the conflict rages on.
+
+“For the past few days, it’s been like Christmas for us,” one electronics-shop staffer told the Financial Times. “People are ready to buy things even [though] we have been raising prices every few hours based on the forex situation.”
+
+With heavy economic sanctions already in place, Wertheim says there are potential risks to pushing Putin further into a corner, which in itself could motivate Russia to take more drastic measures — including, potentially, cyberattacks — as the war continues.
+
+“What I most worry about is a circumstance in which Vladimir Putin thinks that his regime may be teetering and that he has to do something dramatic to change the status quo in order to maintain his grip on power,” Wertheim said. “And, thus, perhaps his own personal survival.”
+
+Correction, March 20, 9 am: A previous version of this story misstated the year of the Colonial Pipeline hack. It was 2021.",https://www.vox.com/2022/3/19/22986316/russia-ukraine-cyber-attacks-holding-back
+5,dc6e24e1-8b59-40b5-9463-befc467a62d7,"['Autumn Demberger', 'Axa Xl', 'R I Editorial Team']",2022-03-17 16:18:04+00:00,"With the ongoing war in Ukraine, the conversation turns to what the cyber implications are for the rest of the world.
+
+With Russia’s continued — and deplorable — assault on Ukraine, questions abound on the war’s influence on cyber threats.
+
+Not one to shy away from large-scale cyber attacks, Russia is under the watchful eye of cyber security experts worldwide, as the country continues to advance its heinous acts of violence on the ground in Ukraine.
+
+Predictions posit that as more sanctions are placed on Russia by, well, the world (and the corporate world, too), the greater the risk there is of cyber retaliation.
+
+“Putin has declared that countries taking unfriendly actions toward Russia [that inhibit the invasion] will be punished,” said William Altman, principal cyber security consultant at CyberCube.
+
+“The more allied nations seek to impose sanctions on Russia, the more likely it is that Putin will begin to flex his military and intelligence agencies’ formidable cyber force.”
+
+Though we can’t predict exactly how things will go, risk experts are trying to keep one step ahead by reviewing past incidents, monitoring the ongoing situation and updating best practice recommendations.
+
+Why Is the Current Environment Ripe for Attack?
+
+As soon as Russian military invaded Ukraine, the outside world discussion began on whether or not cyber warfare would escalate in tandem.
+
+News outlets speculated Russian President Vladimir Putin would engage cyber attacks as part of his military strategy. Politico went so far as to say that the Russian invasion could “redefine cyber warfare” altogether.
+
+“Russia has demonstrated the intent and the capability to attack globally and largely at will when it comes to waging cyber offensive operations,” said Altman. “The opportunity for cyber attacks to spill over into countries outside of Ukraine and Russia is apparent. Risks include self-replicating wiper malware, similar to NotPetya in 2017, and escalating retaliatory cyber attacks exchanged between parties.”
+
+Yet cyber warfare hasn’t exactly made a big imprint on the battlefield.
+
+“Despite the use of data-wiping malware at the start of the invasion, we have yet to see more destructive and severe cyber attacks,” Altman said.
+
+As noted, cyber attacks were involved in the leadup to the invasion: “Google said it had uncovered widespread phishing attacks targeting Ukrainian officials and Polish military. Security outfit Resecurity, Inc. also shared evidence of a coordinated hacking campaign targeting U.S. firms that supply natural gas,” The Verge reported. These incidences were recorded before the Feb. 24 invasion.
+
+This environment of unrest and uncertainty is ripe for cyber activity.
+
+Sanctions placed on Russia’s banks, oil refineries and military exports are being used to stifle its economy. While Putin had spent almost a decade building one the world’s largest reserves of foreign currency — $640 billion, as reported by New York Magazine — such a stockpile became meaningless when the world started boycotting Russia.
+
+This is because the sanctions placed on the country all but made the ruble worthless while also cutting Putin off from access to banks holding his foreign currency fallback.
+
+And when the money dries up, who’s to say cyber warfare won’t be the most far reaching option for the Kremlin?
+
+What About Hacking Russia Instead?
+
+An interesting thought, one that the online hacker group known as Anonymous has already tried (and succeeded at) earlier this month.
+
+To thwart Russian media from downplaying and even not reporting on the war at all, Anonymous hacked into Russian television broadcasts and aired on-the-ground footage of Ukraine under attack.
+
+Cries of “fake news” rang from Russian officials, and anyone found linked to the hack could face a $14,000 fine or a prison sentence of up to 15 years, according to The Independent.
+
+Still, it’s one way the world is fighting back. (Visit Fortune to read more about the Anonymous hack.)
+
+Cyber Experts on the Case
+
+For the time being, cyber activity from Russia seems laser-focused on Ukraine, with both countries openly recruiting a global volunteer cyber force to help attack their enemies’ IT systems and networks.
+
+“The U.S. and Ukrainian cyber forces have been working together to bolster Ukraine’s ability to repel Russian cyber attacks and to defend critical infrastructure,” Altman said.
+
+“The world’s biggest technology companies are also responding by acting on cyber intelligence to quickly address attacks flowing through their products.”
+
+One example of such cyber defenses comes from California-based cyber insurer Coalition, whose CEO Joshua Motta announced Operation Nightingale earlier this month.
+
+Operation Nightingale, as Motta writes, is an “effort to mitigate the impact of escalating cyber risks for nonprofits and public interest organizations around the globe — and particularly for all such organizations in Ukraine — [that] may not have the resources to invest in cyber security tools, or the capability to address and recover from a cyber attack.”
+
+Tech giant Microsoft has already lent a helping hand as well, stopping a malware known as FoxBlade from infiltrating Ukrainian computers as early as the start of the invasion.
+
+The question turns to the world’s preparedness. The potential for the current Ukraine-Russia attacks to spill out into the world at large, much like the NotPetya attack Altman alluded to, is high. Cyber disaster scenarios could include attacks on critical infrastructure such as banks, oil and gas, electricity, shipping and mobile network operators.
+
+Glenn S. Gerstell, a senior adviser at the Center for Strategic and International Studies and the former general counsel of the National Security Agency, told The Guardian that the U.S. is “not ready to defend [a cyber attack] as a country.”
+
+It’s a worrisome sentiment, considering that the world is waiting for the cyber shoe to drop.
+
+“The U.S. has been reactive and side-stepped cyber responsibility by simply grafting it on to existing government agencies, making each agency responsible for its own area,” Gerstell said.
+
+But that isn’t to say all businesses and individuals are completely at a loss.
+
+Altman and the team at CyberCube published a study on the cyber threat shift caused by the current situation, looking at the impact cyber warfare may have on the insurance and reinsurance industries.
+
+CyberCube’s Study at a Glance
+
+The CyberCube study, “War in Ukraine Creates Fundamental Shift in the Cyber Threat Landscape,” reiterates that while cyber has yet to make a big impact on the ongoing conflict, it has the potential to become a critical — and disastrous — player.
+
+“We are continuing to watch the criminal cyber threat landscape closely. This includes studying the known tactics, techniques, and procedures of the prolific ransomware threat actors that have pledged their allegiance to the Russian state,” Altman said. “We think these threat actors will continue to hunt opportunistically for targets with lapses in cyber security.”
+
+Of note, the study reports on three main types of cyber attacks witnessed to date, including distributed denial of service (DDoS) attacks, data corruption and wiper malware with self-propagating capabilities, and misinformation campaigns.
+
+Altman stated that the initial set of DDoS attacks were created to undermine Ukrainians’ faith in their government, but so far, such attacks have fallen short as the citizens bravely fight on for their home.
+
+DDoS aren’t slowing, however: “Today, we see similar attacks including DDoS and website defacement being waged on both sides of the conflict and by hundreds of volunteer cyber forces operating from around the world,” Altman said.
+
+Government websites, agencies and ministries on both sides have seen denials of service as well as data leaks since the start of the invasion. But, Altman relayed, “these attacks contribute to the escalatory nature of the conflict and muddy the waters for properly attributing cyber attacks to nation states.”
+
+The key takeaway, Altman and the experts at CyberCube said, is that these current events could change the cyber threat landscape for years to come. It’s setting the stage for how war could play out in the digital age. For insurers and reinsurers, that could mean finding their businesses or their clients’ businesses in the crosshairs.
+
+Would such events fall under an act of war? Cyber policies and general P&C policies often include “war exclusion” or “hostile act exclusion” language. (Though, pharmaceuticals company Merck recently landed a $1.4 billion victory over NotPetya after a New Jersey judge deemed the attack as not an act of war.)
+
+Added to policy exclusions, rates are rising, as Risk & Insurance reported in February, and protecting against threat of ransomware is becoming an evermore challenging environment.
+
+Best Practices
+
+So what can be done in the interim while events unfold?
+
+“Russian APT [advanced persistent threats] actors and their criminal cyber gang counterparts are opportunistic hunters,” Altman said. “They will look for targets that meet strategic as well as operational criteria. This means primarily compromising companies that fail at cyber security basics.”
+
+Related Reading: 7 Risk Management Insights for Social Engineering and Ransomware Threats
+
+These basics include training employees to detect even the simplest of phishing attempts, as well as keeping systems and software up-to-date, requiring multi-factor authentication when logging in, and backing up data as often as possible.
+
+“Companies that maintain a consistently high level of cyber maturity for phishing prevention, logging, monitoring and identity access management are poised to defend themselves,” noted Altman.
+
+The good news for now is that full escalation still seems to be at bay: “Both the U.S. and Russia are likely to be embedded in each other’s critical infrastructure systems, creating a non-nuclear form of mutually assured destruction. Both sides are treading very carefully in cyber space trying not to trigger escalation,” he said. &",https://riskandinsurance.com/cyber-warfare-how-the-russia-ukraine-conflict-changes-the-global-cyber-risk-approach/
+6,dc6e24e1-8b59-40b5-9463-befc467a62d7,[],,"Future of Security - 17/03/2022
+
+Almost two weeks after Russia’s invasion and with no signs of the conflict abating, the resilient defence by Ukrainian forces has left many surprised. The recent attacks on nuclear facilities, the mass geographical scope of shelling operations across the country, and repeated ceasefire breaches indicate that Russia is escalating its offensive operations to complete the illegal capture of Ukraine. We look at some initial takeaways from the Russian invasion of Ukraine in the context of cyberspace.
+
+1, Predictions of cyberwar have been thwarted
+
+One of the more surprising aspects of the war has been the lack of cyber offensive operations by Russia. Compared to early predictions of the conflict being driven primarily in cyberspace, the almost entirely opposite reality is apparent. The war is being waged through the use of physical force and conventional arms with cyberspace barely playing a supporting character. While the Whispergate malware and the more recently-discovered Hermetic malware, both with the aim of rendering computer systems inoperable, present a serious threat to critical assetsof Ukrainian government organizations, they are not necessarily out of the ordinary in the context of Russia’s long-standing cyber operations against Ukraine.
+
+For example, in 2015, private cybersecurity companies and public attributions by the Ukraine’s Security Service (SBU) pointed to cyber espionage efforts of significant depth – including ‘Operation Armagedon’ (active since 2013) with the purpose of stealing information from the Ukrainian government and activities of the Gamaredon group (discovered to be active since 2013, prior to Russia’s annexation of Crimea) which were found to be aligned with Russia’s security interests.
+
+The 2014 election interference was an attack on democratic processes attributed to pro-Russian hactivist group CyberBerkut with suspected ties to GRU’s hacking group APT28 (also called Fancy Bear). This was decried to be information warfare by Ukraine – malware rendered their vote-tallying systems inoperable and displayed erroneous election results. The first cyber-attack on critical infrastructure in 2015 carried out by the Sandworm hacker group – also associated with Russia’s GRU which was responsible for disconnecting electric substations, leaving close to 225,000 people without power in Western Ukraine – represented Russia’s massive escalation in cyber operations. This level of serious escalation has been missing throughout the current state of conflict.
+
+2, There should be a reassessment of the utility of cyber offensive capabilities in warfare
+
+The reasons behind Russia not declaring ‘cyberwar’ or not even heavily supplementing conventional war with offensive operations are not straightforward. Cyber warfare does not lend itself to a linear plan of attack with defined inputs and outcomes as might be the case with most forms of kinetic warfare. Russia’s campaign since 2014 has evolved with respect to sophistication but it is tricky to assess the actual strategic gains they have made in Ukraine in the past. In some cases, the damage was limited (as in the 2014 election interference) while in others like the 2016 power outages and NotPetya, the consequences were significant and some, unintended.
+
+Therefore, it is possible that in Putin’s calculus, the risk of collateral damage to Russia’s systems was too high. However, it may very well be that as the war drags on, these risks might become worth taking with the advantage of the element of surprise in cyber warfare. Attacking military infrastructure and communication lines, critical infrastructure, information operations and electronic warfare in Ukraine are still all within the realm of possibility.
+
+On the other hand, it is equally possible that Russia’s cyber operations have suffered from lack of preparedness or impaired capability or both. Ciaran Martin, former head of the United Kingdom’s National Cyber Security Centre has that the cyber domain may influence the war at the margins, but it will not decide it.The reality that a state with extremely sophisticated cyber operations capabilities has not relied on the domain to drive its war efforts only reiterates the caution that needs to be taken in assessing the utility of cyberspace in war.
+
+3, Limited impact of the contest between vigilante hackers
+
+Non-state actors with varying cyber capabilities are joining the war against Ukraine. Back in 2017, while denying state involvement in the US elections, Putin that hackers could contribute to a nation’s efforts if they have a ‘patriotic mindset’. Recent reports of vigilante hackers taking down Ukrainian government websites, sending bomb threat emails and similar tactics.,are a reminder of the malicious behavior of patriotic hackers. A high level of sophistication in these attacks seems implausible to expect. These have so far been restricted to DDoS (Distributed Denial of Service) attacks, hacking into the live dashboard feeds of an unidentified Ukrainian “rapid response team”, and gaining access to official email addresses to carry out phishing attacks.
+
+On the other side, Ukraine has called on cybersecurity specialists to join its ‘Digital Army’ and contribute to the cyber defence of the country. They have emphasized that this cyber army is a volunteer movement with attacks strictly planned only on Russian government targets, not civilian. Other hacker collectives have mostly carried out activities that aim to counter Russia’s propaganda and are on the much lower spectrum of cyber escalation. Some unverified claims on disrupting rail networks to prevent troops moving in have been made by the Belarusian Cyber Partisans. The sheer speed at which different actors have joined this fight online is intriguing and perhaps unprecedented. The chances of this contest having a huge impact, however, seem low.
+
+Whether cyberspace will feature more decisively remains to be seen as Ukraine’s robust defence continues but it is certain that the reliance on cyberspace as a domain of warfare should not be assumed.",https://www.globsec.org/news/where-is-cyberwar-preliminary-takeaways-from-russias-war-on-ukraine/
+7,dc6e24e1-8b59-40b5-9463-befc467a62d7,[],,,https://www.cato.org/commentary/what-ukraine-shows-about-cyber-defense-partnerships

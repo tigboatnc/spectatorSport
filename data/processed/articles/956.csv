@@ -1,0 +1,47 @@
+,uid,article_author,article_date,article_text,article_url
+0,9500722b-cf31-4c37-8e06-cf5590618b79,[],2022-03-23 21:43:36+00:00,"Ukraine CERT-UA warns of cyberattack aimed at Ukrainian enterprises using the a wiper dubbed DoubleZero.
+
+Ukraine CERT-UA continues to observe malware based attacks aimed at Ukrainian organizations, in a recent alert it warned of attacks employing a wiper dubbed DoubleZero.
+
+The government CERT started observing this campaign on March 17, 2022, threat actors launched spear-phishing attacks using malicious
+
+The archive contains an obfuscated .NET program, experts tracked it as DoubleZero and the analysis revealed it was developed to destroy the infected system.
+
+“On March 17, 2022, the government team responding to computer emergencies in Ukraine CERT-UA discovered several ZIP archives, one of which was called “Virus … extremely dangerous !!!. Zip”. ” reads the advisory published by CERT-UA. “As a result of the analysis, the identified programs are classified as DoubleZero – a malicious destructor program developed using the C # programming language.”
+
+DoubleZero wipe files use two techniques, overwriting their content with zero blocks of 4096 bytes (using FileStream.Write) or using API-calls NtFileOpen, NtFsControlFile (code: FSCTL_SET_ZERO_DATA).
+
+The malware deletes the following Windows registry HKCU, HKU, HKLM, HKLM \ BCD before shutting down the infected system.
+
+“The activity is tracked by the UAC-0088 identifier and is directly related to attempts to violate the regular mode of operation of information systems of Ukrainian enterprises.” concludes the alert that also reports Indicators of Compromise (IoCs).
+
+Follow me on Twitter: @securityaffairs and Facebook
+
+Pierluigi Paganini
+
+(SecurityAffairs – hacking, DoubleZero)",https://securityaffairs.co/wordpress/129417/malware/doublezero-wiper-hit-ukraine.html
+1,9500722b-cf31-4c37-8e06-cf5590618b79,[],2022-03-24 09:46:26+00:00,"Ukrainian CERT-UA observes malware-based attacks at Ukrainian organisations, employing a wiper dubbed DoubleZero.
+
+On March 17, 2022, the government CERT started observing these campaigns where threat actors launched spear-phishing attacks.
+
+The archive contains an obfuscated .NET program, experts traced it as DoubleZero and the analysis revealed it was developed to destroy the infected system.
+
+On March 17, 2022, the government team responding to computer emergencies in Ukraine CERT-UA discovered several ZIP archives, one of which was called “Virus … extremely dangerous !!!. Zip”. ” states the advisory disclosed by CERT-UA.
+
+“As a result of the analysis, the identified programs are classified as DoubleZero – a malicious destructor program developed using the C # programming language.”
+
+DoubleZero wipe files use two methods, overwriting their content with zero blocks of 4096 bytes or utilizing API-calls NtFileOpen, NtFsControlFile (code: FSCTL_SET_ZERO_DATA).
+
+The malware deletes the following Windows registry HKCU, HKU, HKLM, HKLM \ BCD before closing down the infected system.
+
+“The activity is tracked by the UAC-0088 identifier and is directly related to attempts to violate the regular mode of operation of information systems of Ukrainian enterprises,” concludes the alert that also reports Indicators of Compromise (IoCs).
+
+For the latest cyber threats and the latest hacking news please follow us on Facebook, Linkedin, and Twitter.
+
+You may be interested in reading: How to Survive the COVID Time Cyber ​​Security Threats?",https://securereading.com/doublezero-wiper-hits-ukrainian-enterprises/
+2,9500722b-cf31-4c37-8e06-cf5590618b79,['Network Intelligence'],,,https://www.niiconsulting.com/trainings.html
+3,9500722b-cf31-4c37-8e06-cf5590618b79,[],,"JavaScript is not available.
+
+We’ve detected that JavaScript is disabled in this browser. Please enable JavaScript or switch to a supported browser to continue using twitter.com. You can see a list of supported browsers in our Help Center.
+
+Help Center",https://twitter.com/petrusvasenius

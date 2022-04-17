@@ -1,0 +1,392 @@
+,uid,article_author,article_date,article_text,article_url
+0,da606cc3-ab34-43f7-bf0a-d3eb78c60ee1,[],,"JavaScript is not available.
+
+We’ve detected that JavaScript is disabled in this browser. Please enable JavaScript or switch to a supported browser to continue using twitter.com. You can see a list of supported browsers in our Help Center.
+
+Help Center",https://twitter.com/esetresearch/status/1496581903205511181?lang=en
+1,da606cc3-ab34-43f7-bf0a-d3eb78c60ee1,[],2022-02-24 00:00:00,"Hundreds of computers in Ukraine compromised just hours after a wave of DDoS attacks brings down a number of Ukrainian websites
+
+A number of organizations in Ukraine have been hit by a cyberattack that involved new data-wiping malware dubbed HermeticWiper and impacted hundreds of computers on their networks, ESET Research has found. The attack came just hours after a series of distributed denial-of-service (DDoS) onslaughts knocked several important websites in the country offline.
+
+Breaking. #ESETResearch discovered a new data wiper malware used in Ukraine today. ESET telemetry shows that it was installed on hundreds of machines in the country. This follows the DDoS attacks against several Ukrainian websites earlier today 1/n — ESET research (@ESETresearch) February 23, 2022
+
+Detected by ESET products as Win32/KillDisk.NCV, the data wiper was first spotted just before 5 p.m. local time (3 p.m. UTC) on Wednesday. The wiper’s timestamp, meanwhile, shows that it was compiled on December 28th, 2021, suggesting that the attack may have been in the works for some time.
+
+HermeticWiper misused legitimate drivers of popular disk management software. “The wiper abuses legitimate drivers from the EaseUS Partition Master software in order to corrupt data,” according to ESET researchers.
+
+Additionally, the attackers used a genuine code-signing certificate issued to a Cyprus-based company called Hermetica Digital Ltd., hence the wiper’s name.
+
+It also appears that at least in one case, the threat actors had access to a victim’s network before unleashing the malware.
+
+Earlier on Wednesday, a number of Ukrainian websites were knocked offline in a fresh wave of DDoS attacks that have been targeting the country for weeks now.
+
+In the middle of January, another data wiper swept through Ukraine. Called WhisperGate, the wiper masqueraded as ransomware and brought some echoes of the NotPetya attack that hit Ukraine in June 2017 before causing havoc around the world.
+
+Sign up to receive an email update whenever a new article is published in our Ukraine Crisis – Digital Security Resource Center Submit",https://www.welivesecurity.com/2022/02/24/hermeticwiper-new-data-wiping-malware-hits-ukraine/
+2,da606cc3-ab34-43f7-bf0a-d3eb78c60ee1,"['Catalin Cimpanu', 'Catalin Cimpanu Is A Cybersecurity Reporter For The Record. He Previously Worked At Zdnet', 'Bleeping Computer', 'Where He Became A Well-Known Name In The Industry For His Constant Scoops On New Vulnerabilities', 'Cyberattacks', 'Law Enforcement Actions Against Hackers.']",2022-02-23 21:06:23+00:00,"Second data wiper attack hits Ukraine computer networks
+
+Two cybersecurity firms with a strong business presence in Ukraine—ESET and Broadcom’s Symantec—have reported tonight that computer networks in the country have been hit with a new data-wiping attack.
+
+The attack is taking place as Russian military troops have crossed the border and invaded Ukraine’s territory in what Russian President Putin has described as a “peacekeeping” mission.
+
+Details about the attack are still being collected, and the attack is still going on. It’s scale and the number of impacted systems is still unknown.
+
+New #wiper malware being used in attacks on #Ukraine
+
+1bc44eef75779e3ca1eefb8ff5a64807dbc942b1e4a2672d77b9f6928d292591 — Threat Intelligence (@threatintel) February 23, 2022
+
+Breaking. #ESETResearch discovered a new data wiper malware used in Ukraine today. ESET telemetry shows that it was installed on hundreds of machines in the country. This follows the DDoS attacks against several Ukrainian websites earlier today 1/n — ESET research (@ESETresearch) February 23, 2022
+
+Today’s event marks the second time this year that a data wiper was deployed on Ukrainian computer systems after a first attack took place in mid-January.
+
+The deployment of that first malware (named WhisperGate) was hidden under the guise of a fake ransomware outbreak and during a series of coordinated defacements of Ukrainian government websites.
+
+Similarly, today’s data-wiping attacks were also accompanied by a series of distributed denial of service (DDoS) attacks against government websites, in a similar attempt to distract government IT workers and the public’s attention.
+
+“Targets have included finance and government contractors,” Vikram Thakur, Technical Director at Symantec Threat Intelligence, a division of Broadcom Software, told The Record in an email. Infections were reported from Ukraine, but some systems were also hit across Latvia and Lithuania.
+
+Malware corrupts data, rewrites the MBR
+
+At the time of writing, Ukrainian government officials have not confirmed or released any details about the ongoing attack.
+
+However, according to a technical analysis of the malware, which ESET said it was tracking as HermeticWiper, the wiper is sometimes deployed via Windows group policies, suggesting the attackers may have full control of some of their target’s internal networks.
+
+Once deployed, the wiper runs a version of the EaseUS Partition Master software, a disk partitioning utility, which it uses to corrupt local data and then reboot the computer.
+
+According to Silas Cutler, a security researcher for Stairwell, HermeticWiper doesn’t just destroy local data, but it also damages the master boot record (MBR) section of a hard drive, which prevents the computer from booting into the operating system after the forced reboot—behavior identical with the WhisperGate wiper attack from last month.
+
+I can confirm this damages a systems MBR. https://t.co/68B0V743lR — Silas (@silascutler) February 23, 2022
+
+ESET said today’s attack was first seen around 16:52, Ukraine time. According to security researcher MalwareHunterTeam, the malware appears to have been compiled just five hours before it was deployed in the wild, suggesting its code and operational infrastructure was most likely set up and ready to go well in advance.
+
+Article updated at 4am ET with new name for the malware and to add that Russia has formally declared war on Ukraine hours after this piece of malware was deployed, confirming theories that HermeticWiper’s primary role was to cripple local IT systems and prevent the Ukrainian government from reacting with its full capabilities. Almost 18 hours after it was deployed, it remains unclear if the malware succeeded.",https://therecord.media/second-data-wiper-attack-hits-ukraine-computer-networks/
+3,da606cc3-ab34-43f7-bf0a-d3eb78c60ee1,[],2022-02-23 00:00:00,"3D printed models of people working on computers and padlock are seen in front of a displayed ""cyber attack"" words and binary code in this picture illustration taken, February 1, 2022. REUTERS/Dado Ruvic/Illustration
+
+LONDON, Feb 23 (Reuters) - A newly discovered piece of destructive software found circulating in Ukraine has hit hundreds of computers, researchers at cybersecurity firm ESET said on Wednesday.
+
+In a series of statements posted to Twitter, the company said the data-wiping program had been ""installed on hundreds of machines in the country,"" an attack it said had likely been in the works for the past couple of months.
+
+loading
+
+Register now for FREE unlimited access to Reuters.com Register
+
+Reporting by Raphael Satter; Editing by Leslie Adler
+
+Our Standards: The Thomson Reuters Trust Principles.",https://www.reuters.com/technology/destructive-malware-circulating-ukraine-has-hit-hundreds-computers-eset-2022-02-23/
+4,da606cc3-ab34-43f7-bf0a-d3eb78c60ee1,[],2022-02-24 11:54:24+00:00,"Cybersecurity experts discovered a new data wiper malware that was used in attacks against hundreds of machines in Ukraine.
+
+The threat of hybrid warfare is reality, Russia-linked APT group have supported the operations of the Russian army while preparing for the invasion.
+
+Researchers from cybersecurity firms ESET and Broadcom’s Symantec discovered a new data wiper malware that was employed in a recent wave of attacks that hit hundreds of machines in Ukraine.
+
+Breaking. #ESETResearch discovered a new data wiper malware used in Ukraine today. ESET telemetry shows that it was installed on hundreds of machines in the country. This follows the DDoS attacks against several Ukrainian websites earlier today 1/n — ESET research (@ESETresearch) February 23, 2022
+
+New #wiper malware being used in attacks on #Ukraine
+
+1bc44eef75779e3ca1eefb8ff5a64807dbc942b1e4a2672d77b9f6928d292591 — Threat Intelligence (@threatintel) February 23, 2022
+
+A tweet from ESET revealed that the company’s telemetry shows the presence of the wiper, tracked as “HermeticWiper” (aka KillDisk.NCV), on hundreds of machines in the country. According to the security firm, the infections followed the DDoS attacks against several Ukrainian websites, including Ministry of Foreign Affairs, Cabinet of Ministers, and Rada.
+
+The first sample of the wiper was observed by ESET yesterday around 14h52 UTC (16h52 local time), but more interesting is the PE compilation timestamp of one of the samples which is 2021-12-28, suggesting that the cyber attack might have been in preparation for almost two months.
+
+The malicious binary was signed using a code signing certificate issued to Hermetica Digital Ltd.
+
+The Wiper binary is signed using a code signing certificate issued to Hermetica Digital Ltd 3/n pic.twitter.com/sGCl3Lbqc1 — ESET research (@ESETresearch) February 23, 2022
+
+The wiper abuses legitimate drivers from the EaseUS Partition Master software for corrupt data.
+
+In at least one of the targeted organizations, the attackers have taken control of the Active Directory server and dropped via the default Group Policy Object (GPO).
+
+At this time, there is no info to determine the impact of attacks employing the data wiper. Experts did not publicly attribute the attack to Russia, anyway, this is the second wiper that was deployed in a few weeks on Ukrainian computer systems after the WhisperGate.
+
+Yesterday, a new wave of DDoS attacks hit Ukrainian government websites and banks.
+
+“Today, websites of a number of government and banking institutions have undergone a massive DDoS attack again. Some of the attacked information systems are not available or work intermittently. This is due to switching traffic to another provider to minimize damage. Other websites effectively resist the attack and work normally.” reads the alert published by State Service of Special Communications and Information Protection of Ukraine.
+
+“Currently, the State Service of Special Communications and Information Protection of Ukraine and other subjects of the national cybersecurity system are working on countering the attacks, collecting and analyzing information.”
+
+Follow me on Twitter: @securityaffairs and Facebook
+
+Pierluigi Paganini
+
+(SecurityAffairs – hacking, Ukraine)",https://securityaffairs.co/wordpress/128349/malware/wiper-malware-hermeticwipe-ukrain.html
+5,da606cc3-ab34-43f7-bf0a-d3eb78c60ee1,"['Jonathan Greig', 'Staff Writer']",,"Ukraine's State Service of Special Communications and Information Protection said a number of government websites and banks are dealing with a ""massive DDoS attack"" as the country prepares for a potential invasion by Russian-backed forces.
+
+The websites for the Ministry of Foreign Affairs, Ministry of Defense, Ministry of Internal Affairs, Security Service (SBU) and Cabinet of Ministers all faced outages confirmed both by the State Service of Special Communications and Information Protection and Netblocks, an organization tracking internet outages around the world.
+
+⚠️ Confirmed: #Ukraine's Ministry of Foreign Affairs, Ministry of Defense, Ministry of Internal Affairs, the Security Service of Ukraine and Cabinet of Ministers websites have just been impacted by network disruptions; the incident appears consistent with recent DDOS attacks 📉 pic.twitter.com/EVyy7mzZRr — NetBlocks (@netblocks) February 23, 2022
+
+PrivatBank, the largest commercial bank in Ukraine, and Oschadbank, the State Savings Bank of Ukraine, both dealt with outages too.
+
+Cloudflare told ZDNet that they have seen sporadic DDoS activity in Ukraine.
+
+""We've seen more DDoS activity this week than last week, but less than a month ago. There have been attacks against individual websites in Ukraine which have been disruptive,"" a Cloudflare spokesperson said.
+
+""So far they have been relatively modest compared to large DDoS attacks we've handled in the past.""
+
+Netblocks
+
+""Today, websites of a number of government and banking institutions have undergone a massive DDoS attack again. Some of the attacked information systems are not available or work intermittently. This is due to switching traffic to another provider to minimize damage. Other websites effectively resist the attack and work normally,"" the Service of Special Communications and Information Protection said in a statement.
+
+""Currently, the State Service of Special Communications and Information Protection of Ukraine and other subjects of the national cybersecurity system are working on countering the attacks, collecting and analyzing information. We ask all authorities that have been attacked or are suspected to have been attacked to contact the Government Computer Emergency Response Team CERT-UA.""
+
+Later in the day, researchers at ESET discovered a new data wiper malware used in Ukraine. ESET telemetry allegedly showed that the wiper was installed on hundreds of machines.
+
+""The wiper abuses legitimate drivers from the EaseUS Partition Master software in order to corrupt data. As a final step the wiper reboots the computer,"" ESET said.
+
+""In one of the targeted organizations, the wiper was dropped via the default (domain policy) GPO meaning that attackers had likely taken control of the Active Directory server.""
+
+The Wiper binary is signed using a code signing certificate issued to Hermetica Digital Ltd 3/n pic.twitter.com/sGCl3Lbqc1 — ESET research (@ESETresearch) February 23, 2022
+
+As many have noted online, the attack began around 4pm local time, right as Ukraine's parliament began to discuss a state of emergency declaration. The 30-day state of emergency was approved by the Ukrainian government as both US and NATO warned that a Russian invasion is likely. Russian forces moved into eastern parts of the country over the last two days.
+
+Ukrainian journalists reported that Ruslan Stefanchuk, the chairman of parliament, said he and his family were repeatedly hit with cyberattacks. Hackers allegedly attempted to get into their email accounts, block access to their bank accounts and more, according to Kyiv Independent reporter Anastasiia Lapatina.
+
+Many of the same websites were attacked last week in a series of DDoS incidents that the US attributed to Russia. The UK Foreign, Commonwealth & Development Office added that the Russian Main Intelligence Directorate (GRU) was involved in the attack.
+
+US Deputy National Security Advisor for Cyber Anne Neuberger told the press that they have technical information showing that ""GRU infrastructure was seen transmitting high volumes of communication to Ukraine-based IP addresses and domains.""
+
+In a detailed breakdown of that DDoS incident, CERT-UA said the attacks involved both the Mirai and Meris botnets and included a supplementary SMS disinformation message campaign.
+
+That attack followed the defacement of more than 70 Ukrainian government websites in January.
+
+Christian Sorensen, former leader of the international cyber warfare team at US CYBERCOM, said these attacks are designed to ratchet up attention and pressure.
+
+""It doesn't sound like much impact yet. In the coming hours/days, I would anticipate more activities to isolate and disrupt Ukrainian citizens and especially government activities,"" said Sorensen, who is now CEO of cybersecurity firm SightGain.
+
+""The purpose at this stage is to cause chaos and seed doubt in the government and economy. Next stage will be impactful and continue deterrence for other countries to get involved.""",https://www.zdnet.com/article/ukrainian-govt-sites-banks-disrupted-by-ddos-amid-invasion-fears/
+6,da606cc3-ab34-43f7-bf0a-d3eb78c60ee1,[],2022-02-25 00:00:00,"Feb 25, 2022 11:04:00
+
+DDoS attack on Ukrainian government site and new malware discovering data deletion on hundreds of Ukrainian machines
+
+
+
+
+
+ESET Research Labs,
+
+⚠️ Confirmed: #Ukraine's Ministry of Foreign Affairs, Ministry of Defense, Ministry of Internal Affairs, the Security Service of Ukraine and Cabinet of Ministers websites have just been impacted by network disruptions; the incident appears consistent with recent DDOS attacks ??? ? pic.twitter.com/EVyy7mzZRr — NetBlocks (@netblocks) February 23, 2022
+
+ESET 's research division that develops and sells security software, has revealed that a Ukrainian government site that is being invaded by Russian troops is being attacked by malware.On February 24, 2022 local time, the Ukrainian Special Communications and Information Protection Agencythat the country's government websites and banks were under heavy, which oversees cybersecurity and internet governance, said: 'Websites involved in the Ukrainian Ministry of Foreign Affairs, Defense, Interior, Security Bureau and Ministerial Conference have just been affected by a network disruption. This event has just been sent to the Ukrainian government site. It seems to be consistent with the DDoS attack in Ukraine ', and it has been confirmed that many websites have been shut down due to the DDoS attack.
+
+
+
+
+
+Cloudflare, which also deploys Internet security services, said about DDoS attacks detected in Ukraine: 'This week we have detected more DDoS attacks than last week, but the activity period is less than a month. Still, Ukraine Attacks on individual websites have been devastating. '' So far, it's a modest attack compared to the large-scale DDoS attacks we've dealt with in the past. '
+
+
+
+A week before this DDoS attack was detected, a DDoS attack targeting the Ukrainian website was detected. Regarding this attack, the Foreign, Commonwealth and Development Ministry of the United Kingdom pointed out that ' GRU , the intelligence agency of the Russian government, is involved in the attack.'
+
+
+
+
+
+
+
+After the Special Communications Information Protection Agency reported on the new DDoS attack, ESET Research Labs reported that it had detected the new data wiper malware 'Hermetic Wiper' used in Ukraine. According to a study by ESET Research Labs, Hermetic Wiper has already infected hundreds of machines deployed in Ukraine and is 'a cyberattack following a DDoS attack detected on a website related to the Ukrainian government.' I am.
+
+
+
+Breaking. #ESETResearch discovered a new data wiper malware used in Ukraine today. ESET telemetry shows that it was installed on hundreds of machines in the country. This follows the DDoS attacks against several Ukrainian websites earlier today 1 / n — ESET research (@ESETresearch) February 23, 2022
+
+
+
+
+
+The first attack was observed at 16:52 local time. The compile-time time stamp of one of the samples is 'December 28, 2021', which indicates that the attack using Hermetic Wiper may have been prepared for about two months.
+
+
+
+It seems that the code signing certificate issued by a company called Hermetica Digital is used for Hermetic Wiper.
+
+
+
+The Wiper binary is signed using a code signing certificate issued to Hermetica Digital Ltd 3 / n pic.twitter.com/sGCl3Lbqc1 — ESET research (@ESETresearch) February 23, 2022
+
+
+
+
+
+Hermetic Wiper is exploiting a legitimate driver used by EaseUS Partition Master software to corrupt the infected device data, and the final step is for the malware to restart the infected device.
+
+
+
+The wiper abuses legitimate drivers from the EaseUS Partition Master software in order to corrupt data. As a final step the wiper reboot computer 4 / n pic.twitter.com/JsAT11S8lK — ESET research (@ESETresearch) February 23, 2022
+
+
+
+
+
+One of the targeted organizations has revealed that Hermetic Wiper was dropped via the default GPO . 'This means that the attacker is likely to have control of Active Directory ,' explains ESET Research Labs.
+
+
+
+In one of the targeted organizations, the wiper was dropped via the default (domain policy) GPO meaning that attackers had likely taken control of the Active Directory server. 5 / n — ESET research (@ESETresearch) February 23, 2022
+
+
+
+
+
+The Hermetic Wiper attack began around 16:00 local time when the Ukrainian Parliament began discussing a state of emergency.
+
+
+
+In addition, Ukrainian journalists have detected that the country's chairman, Ruslan Stefanchuk, and his family have been repeatedly targeted by cyberattacks. According to another reporter, cyber attacks on Ukraine are trying to break into targeted email accounts and block access to bank accounts.
+
+
+
+In addition, Avast Threat Labs, a research arm of another cybersecurity company Avast, points out the existence of new Go language-based ransomware in Ukraine, in addition to the Hermetic Wiper detected by ESET.
+
+
+
+
+
+
+
+",https://gigazine.net/gsc_news/en/20220225-ukraine-ddos-hermetic-wiper/
+7,da606cc3-ab34-43f7-bf0a-d3eb78c60ee1,"['Kim Zetter', 'Eset Research']",,"KYIV, UKRAINE - People hold signs and chant slogans during a protest outside the Russian Embassy on February 22, 2022 in Kyiv in anticipation of an invasion from Russia. (Photo by Chris McGrath/Getty Images)
+
+For the second time in two months, a destructive wiper attack struck computer systems in Ukraine as well as in two neighboring countries, according to researchers at two security companies who discovered the wiper Wednesday afternoon as it infected the machines.
+
+ESET, a security firm based in Slovakia that was the first to report the malware, indicated that it found the wiper on “hundreds of machines” in Ukraine, but didn’t identify the victims or specify how many companies or organizations this involved.
+
+Symantec, a division of U.S.-based Broadcom Software, reported that it had found the wiper malware on about 50 systems belonging to a bank in Ukraine as well as on systems belonging to two different contractors that do work for the Ukrainian government, according to Vikram Thakur, technical director of Symantec's threat intelligence team. Symantec later published a blog post about the attack and revealed it had found additional victims in the defense, aviation, and IT services sectors.
+
+One contractor has offices in Ukraine and Latvia, the other has offices in Ukraine and Lithuania, according to Thakur, who added that they found infections only on the contractors’ machines in Latvia and Lithuania and didn’t find any infections on the companies’ machines in Ukraine.
+
+“This looks extremely targeted,” Thakur told Zero Day. “This is not going after all Ukrainian organizations, but ones that do specific roles that support the Ukrainian government. So the actors don’t care where the organizations physically are located.”
+
+He declined to identify what kind of work the contractors do and says it’s too early to say whether the attackers siphoned data from the systems before wiping them.
+
+The wiper, dubbed HermeticWiper, appears to have been in the works for months but was only released on computers today. It follows on a previous wiper attack that struck Ukrainian systems in January called WhisperGate. Like that previous infection, HermeticWiper is designed to overwrite files on systems to render them inoperable.
+
+But Juan Andrés Guerrero-Saade, principal threat researcher at SentinelOne, whose team also examined the malware, said HermeticWiper is a much better and more efficient wiper than WhisperGate was and appears to have been more carefully crafted, suggesting that two different teams may have developed the wiper programs.
+
+“I was kind of surprised WhisperGate worked,” he told Zero Day, based on how it was written. “In comparison [HermeticWiper] is reminiscent of Destover and Shamoon.” Destover is a wiper that was launched by North Korea against Sony Pictures in 2014, wiping systems across the company simultaneously while Shamoon is a wiper attributed to Iran that struck Saudi Aramco in 2012, wiping data from more than 30,000 machines.
+
+How HermeticWiper Works
+
+According to analysis conducted by ESET and Symantec, the attackers may have pushed the wiper to systems from inside victim networks. The malware appears to have been loaded onto systems in some cases through what’s known as a Windows Group Policy — a feature that lets network administrators perform actions simultaneously across multiple systems inside a network, such as configure machines or install software.
+
+This means the attackers already had a foothold inside the target networks and may have used stolen administrator credentials to use the Group Policy feature to push the HermeticWiper to systems.
+
+The wiper files were signed with a legitimate digital certificate belonging to a company named Hermetica Digital LTD, based in Cyprus.
+
+Digital certificates are used to sign software to authenticate them to computers as legitimate code from the company that signs them. But hackers can steal digital certificates from legitimate companies to sign their malicious code or create fake shell companies in order to get certificate authorities to issue them a legitimate certificate under false pretenses. They sign their malicious code with these certificates to bypass antivirus software by making their rogue code look like code from a legitimate company.
+
+Hermetica Digital appears to have been set up only last March and doesn’t have a web site, which raises the possibility that the company was created for the purpose of obtaining a certificate, says Guerrero-Saade.
+
+“We don’t see any other software signed with that digital certificate,” he says. “If the only thing that’s signed is that wiper, then I’m suspicious whether that company is real.”
+
+Zero Day was unable to reach anyone at the company for comment.
+
+Once the HermeticWiper lands on systems, it immediately begins the work of wiping files and destroying the Master Boot Record, the part of the computer responsible for launching the operating system when a machine is booted. According to Silas Cutler, a security researcher with Stairwell, the wiper begins its dirty work within 15 seconds.
+
+This is different than the WhisperGate wiper from January. That malware masqueraded as a fake ransomware attack and worked in three stages. Once the hackers loaded WhisperGate onto a system, it would overwrite the Master Boot Record with a fake ransomware note demanding Bitcoin worth $10,000.
+
+“Your hard drive has been corrupted,” the note read. “In case you want to recover all hard drives of your organization, You should pay us $10k via bitcoin wallet. We will contact you to give further instructions.""
+
+At the same time, the malware reached out to a Discord channel and pulled down another malicious component. The attackers would then force the computer to power down, which caused that second malicious component to wipe important system files on the machine. When the machine booted back up, the user would see the ransomware message displayed on their screen, making them think they could get access to their files restored if they paid the ransom, when in fact their system had already been rendered inoperable and unrecoverable by the wiper. [Update: Symantec in its new report indicates that HermeticWiper also used a fake ransom note.]
+
+Improved Wiper
+
+Guerrero-Saade says the HermeticWiper is better than WhisperGate in that it’s very thorough and systematic in the way it operates. Hackers generally want to overwrite the Master Boot Record in the quickest and easiest way to bring a system down. If they overwrite additional files, their malware will generally overwrite just enough data in each file to wipe it so it can move on quickly to the next file and do the same.
+
+But HermeticWiper he says uses “multiple redundant ways of trashing the file system” and makes sure to wipe each drive on a system.
+
+“That is way more thorough than anything we saw with WhisperGate,” he says. “Somebody took their time preparing this thing before they fired it off.”
+
+He also says the code’s thoroughness makes him speculate that it may have served a different purpose than just rendering systems inoperable — it may have been designed in part to erase evidence of the hackers’ activity on the systems before they wiped them. As noted before, the use of Windows Global Policy to distribute their wiper indicates they had a foothold inside the networks for a while before wiping the systems. This potentially bolsters the idea that the wiper was intended to erase what they did inside infected systems before wiping them. [Update: Symantec revealed in its new blog post that one of the victim’s networks had been compromised on December 23rd and another on November 12th, giving them several months of access to systems before they wiped them.]
+
+Although ESET and Symantec detected the malware landing on systems at around the same time on Wednesday afternoon, suggesting a coordinated operation — ESET says it detected the malware at around 4:52 pm local time; Thakur says Symantec detected it around 4:48 pm local time — the wiper had already been prepared months earlier.
+
+A version of the wiper ESET examined had been compiled December 28 last year. But researchers with MalwareHunterTeam said another version appeared to have been compiled on Wednesday, just five hours before it infected machines. A file is compiled when the source code written in a programming language that humans can read is turned into binary code that machines read.
+
+The new cyberattack came hours before Russian President Vladimir Putin declared war on Ukraine.
+
+The same day the wiper was deployed, a DDoS campaign was launched against web sites belonging to several government agencies and banks in Ukraine.
+
+Ukraine as well as the U.S. and allies have been warning for months about a potential escalation in cyberattacks from Russia to accompany hostilities on the ground. Ukraine did not attribute Wednesday’s wiper infections to Russia, though it attributed the wiper attack in January, as well as DDoS campaigns and website defacements, to its eastern adversary.
+
+Updated 7:45pm PST: To indicate that Russia had declared war on Ukraine.
+
+Updated 2.24.22: To add new information from Symantec’s analysis of the attack.
+
+Related:
+
+Inside the Cunning, Unprecedented Hack of Ukraine’s Power Grid
+
+The Ukrainian Power Grid Was Hacked Again
+
+What We Know and Don’t Know about the Cyberattacks Against Ukraine
+
+Dozens of Computers in Ukraine Wiped with Destructive Malware in Coordinated Attack
+
+Hackers Were in Ukraine Systems Months Before Deploying Wiper
+
+Wiper in Ukraine Repurposed from WhiteBlackCrypt Ransomware
+
+If you like this story, feel free to share with others.
+
+Share
+
+If you’d like to receive future articles directly to your email in-box, you can also subscribe:",https://zetter.substack.com/p/second-wiper-attack-strikes-systems
+8,da606cc3-ab34-43f7-bf0a-d3eb78c60ee1,['Karolis Liucveikis'],,"The single event that much of the world feared would happen as soon as Russian military forces were assembled on the borders of Ukraine and within Belarus happened during the early hours of Thursday morning. The result of the invasion has unleashed a raft of sanctions on the Russian financial system meant to hurt wealthy oligarchs who support President Vladimir Putin’s government. War, geopolitics, and related topics are not covered by this publication, however, just as the invasion began reports started emerging of Distributed Denial of Service (DDoS) attacks targeting Ukrainian banks and the country's critical infrastructure emerged.
+
+It was later revealed by several security firms and researchers that during the attacks it also seemed that a new data wiper malware was being deployed. Data wipers, or just simply wipers, are a family of malware which destroys data stored on a machine’s hard drive.
+
+This can be done in several ways but one of the popular methods involves corrupting the machine's Master Boot Record (MBR). It was also later revealed that the wiper was masquerading as ransomware, a tactic seen in previous NotPetya attacks which also target Ukrainian infrastructure in 2017.
+
+Given how quickly this story has developed looking back to the build-up of the invasion and the beginning of cyberattacks in the assistance of an invasion, what has become known as hybrid warfare.
+
+The DDoS attack on Ukrainian banks and government institutions seems to have started in earnest on February 23. The State Service of Special Communication and Information Protection (SSCIP) of Ukraine issued a statement said,
+
+“Today, websites of several government and banking institutions have undergone a massive DDoS attack again. Some of the attacked information systems are not available or work intermittently. This is due to switching traffic to another provider to minimize damage. Other websites effectively resist the attack and work normally.
+
+Currently, the State Service of Special Communications and Information Protection of Ukraine and other subjects of the national cybersecurity system is working on countering the attacks, collecting and analyzing information. We ask all authorities that have been attacked or are suspected to have been attacked to contact the Government Computer Emergency Response Team CERT-UA.”
+
+However, this was not the first attack on the country this year. On January 14 reports emerged that the Ukrainian government was blaming Russia for conducting a DDoS attack on websites associated with government institutions.
+
+According to reports approximately 70 websites had been shut down, amounting to the largest cyberattack the country had experienced in four years when the country's power grid come under extended attack. This attack was largely attributed to Russia.
+
+WhisperGate
+
+On January 16, Microsoft released an article detailing that they had discovered a new data wiper, later to be called WhisperGate. The malware appeared as ransomware and was first discovered on January 13 targeting machines in Ukraine including machines belonging to multiple government, non-profit, and information technology organizations.
+
+WhisperGate is a two-stage malware with the first stage being described by Microsoft researcher as,
+
+“The malware resides in various working directories, including C:\PerfLogs, C:\ProgramData, C:\, and C:\temp, and is often named stage1.exe. In the observed intrusions, the malware executes via Impacket, a publicly available capability often used by threat actors for lateral movement and execution.
+
+The two-stage malware overwrites the Master Boot Record (MBR) on victim systems with a ransom note (Stage 1). The MBR is the part of a hard drive that tells the computer how to load its operating system. The ransom note contains a Bitcoin wallet and Tox ID (a unique account identifier used in the Tox encrypted messaging protocol) that have not been previously observed by MSTIC…”
+
+In analyzing the malware researchers soon determined that the malware is not ransomware providing several reasons as to why this is the case. Firstly, ransomware operators, especially those of today, customize the payload depending on the victim.
+
+Secondly, Ransomware looks to encrypt file contents, not overwrite the MBR which makes data recovery all but impossible. Further, payment amounts and cryptocurrency wallet addresses are rarely specified in modern criminal ransom notes but were involving WhisperGate infections.
+
+The same Bitcoin wallet address has been observed across all the malware campaigns intrusions and at the time of Microsoft’s analysis, the only activity was a small transfer on January 14. Researchers provided further proof as to the decoy nature of the supposed ransomware but the ones above are deemed by the writer to be the most conclusive proof.
+
+The second stage of the malware involves a downloader, named stage2.exe, for a malicious file corrupter malware. Upon execution, stage2.exe downloads the next-stage malware hosted on a Discord channel, with the download link hardcoded in the downloader.
+
+The next-stage malware is best described as a malicious file corrupter. Interestingly, If a file carries one of the extensions listed in the MIcrosoft article, the corrupter overwrites the contents of the file with a fixed number of 0xCC bytes (total file size of 1MB). After overwriting the contents, the destructor renames each file with a seemingly random four-byte extension.
+
+KillDisk
+
+On February 23, Eset took to Twitter to announce that it had discovered another new data wiper. The tweet read,
+
+“Breaking. #ESETResearch discovered a new data wiper malware used in Ukraine today. ESET telemetry shows that it was installed on hundreds of machines in the country. This follows the DDoS attacks against several Ukrainian websites earlier today…We observed the first sample today around 14h52 UTC / 16h52 local time. The PE compilation timestamp of one of the sample is 2021-12-28, suggesting that the attack might have been in preparation for almost two months.”
+
+A day later, Symantec published a report detailing how the new wiper was masquerading as ransomware. A tactic we have now seen more than once being used by Russian nation-state groups in destructive cyberwarfare campaigns.
+
+By this point, the malware has been named KillDisk, not to be confused with the ransomware of the same name despite the masquerade, and Symantec researchers summarised its capabilities as follows,
+
+“Trojan.Killdisk comes in the form of an executable file, which is signed by a certificate issued to Hermetica Digital Ltd. It contains 32-bit and 64-bit driver files which are compressed by the Lempel-Ziv algorithm stored in their resource section. The driver files are signed by a certificate issued to EaseUS Partition Master. The malware will drop the corresponding file according to the operating system (OS) version of the infected system. Driver file names are generated using the Process ID of the wiper Once run, the wiper will damage the Master Boot Record (MBR) of the infected computer, rendering it inoperable. The wiper does not appear to have any additional functionality beyond its destructive capabilities.”
+
+According to the research published by Symantec, it would seem that actual ransomware is being deployed along with the data wiper but this is believed purely to be a decoy with the wiper being the main payload.
+
+Researchers noted the similarities between the WhisperGate infections but noted in that case the malware was disguised as ransomware, not bundled with ransomware.
+
+It is important to note that this is still a developing situation, security researchers currently do not have the whole picture so information is incredibly scarce other than what can be analyzed.
+
+Sadly, the invasion is still ongoing and more cyber attacks are predicted to occur to assist Russian military forces in the area. While the cyberattacks can be devastating the potential for the mass loss of life wars bring is the true tragedy.",https://www.pcrisk.com/internet-threat-news/23165-new-data-wiper-found-on-the-heels-of-ukrainian-invasion

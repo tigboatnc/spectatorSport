@@ -1,0 +1,696 @@
+,uid,article_author,article_date,article_text,article_url
+0,7e214090-dd2c-4cff-ad94-a76da3303bd3,"['Craig Silverman', 'Craig Silverman Is A National Reporter For Propublica Covering Voting', 'Platforms', 'Disinformation', 'Online Manipulation.', 'Jeff Kao', 'Jeff Kao Is A Computational Journalist At Propublica Who Uses Data Science To Cover Technology.']",,"ProPublica is a nonprofit newsroom that investigates abuses of power. Sign up to receive our biggest stories as soon as they’re published.
+
+On March 3, Daniil Bezsonov, an official with the pro-Russian separatist region of Ukraine that styles itself as the Donetsk People’s Republic, tweeted a video that he said revealed “How Ukrainian fakes are made.”
+
+The clip showed two juxtaposed videos of a huge explosion in an urban area. Russian-language captions claimed that one video had been circulated by Ukrainian propagandists who said it showed a Russian missile strike in Kharkiv, the country’s second-largest city.
+
+ProPublica Get Our Top Investigations Subscribe to the Big Story newsletter. Thanks for signing up. If you like our stories, mind sharing this with a friend? https://www.propublica.org/newsletters/the-big-story?source=www.propublica.org&placement=share®ion=national Copy link
+
+For more ways to keep up, be sure to check out the rest of our newsletters. See All
+
+Fact-based, independent journalism is needed now more than ever. Donate
+
+But, as captions in the second video explained, the footage actually showed a deadly arms depot explosion in the same area back in 2017. The message was clear: Don’t trust footage of supposed Russian missile strikes. Ukrainians are spreading lies about what’s really going on, and pro-Russian groups are debunking them. (Bezsonov did not respond to questions from ProPublica.)
+
+Stills from a Russian-language video that falsely claims to fact-check Ukrainian disinformation. There’s no evidence the video was created by Ukrainian media or circulated anywhere, but the label at the top says the video is a “New Fake from Ukrainian media.” The central caption inaccurately labels the footage as “Kharkiv is again under attack by the occupants!” falsely attributing the claim to Ukrainian media. The lower caption correctly identifies the event as “Fire at the ammunition depot, the city of Balakliya, 2017.” Credit: Screenshot taken by ProPublica
+
+It seemed like yet another example of useful wartime fact-checking, except for one problem: There’s little to no evidence that the video claiming the explosion was a missile strike ever circulated. Instead, the debunking video itself appears to be part of a novel and disturbing campaign that spreads disinformation by disguising it as fact-checking.
+
+Researchers at Clemson University’s Media Forensics Hub and ProPublica identified more than a dozen videos that purport to debunk apparently nonexistent Ukrainian fakes. The videos have racked up more than 1 million views across pro-Russian channels on the messaging app Telegram, and have garnered thousands of likes and retweets on Twitter. A screenshot from one of the fake debunking videos was broadcast on Russian state TV, while another was spread by an official Russian government Twitter account.
+
+The goal of the videos is to inject a sense of doubt among Russian-language audiences as they encounter real images of wrecked Russian military vehicles and the destruction caused by missile and artillery strikes in Ukraine, according to Patrick Warren, an associate professor at Clemson who co-leads the Media Forensics Hub.
+
+“The reason that it’s so effective is because you don’t actually have to convince someone that it’s true. It’s sufficient to make people uncertain as to what they should trust,” said Warren, who has conducted extensive research into Russian internet trolling and disinformation campaigns. “In a sense they are convincing the viewer that it would be possible for a Ukrainian propaganda bureau to do this sort of thing.”
+
+Russia’s Feb. 24 invasion of Ukraine unleashed a torrent of false and misleading information from both sides of the conflict. Viral social media posts claiming to show video of a Ukrainian fighter pilot who shot down six Russian planes — the so-called “Ghost of Kyiv” — were actually drawn from a video game. Ukrainian government officials said 13 border patrol officers guarding an island in the Black Sea were killed by Russian forces after unleashing a defiant obscenity, only to acknowledge a few days later that the soldiers were alive and had been captured by Russian forces.
+
+For its part, the Russian government is loath to admit such mistakes, and it launched a propaganda campaign before the conflict even began. It refuses to use the word “invasion” to describe its use of more than 100,000 troops to enter and occupy territory in a neighboring country, and it is helping spread a baseless conspiracy theory about bioweapons in Ukraine. Russian officials executed a media crackdown culminating in a new law that forbids outlets in the country from publishing anything that deviates from the official stance on the war, while blocking Russians’ access to Facebook and the BBC, among other outlets and platforms.
+
+Media outlets around the world have responded to the onslaught of lies and misinformation by fact-checking and debunking content and claims. The fake fact-check videos capitalize on these efforts to give Russian-speaking viewers the idea that Ukrainians are widely and deliberately circulating false claims about Russian airstrikes and military losses. Transforming debunking into disinformation is a relatively new tactic, one that has not been previously documented during the current conflict.
+
+“It’s the first time I’ve ever seen what I might call a disinformation false-flag operation,” Warren said. “It’s like Russians actually pretending to be Ukrainians spreading disinformation.”
+
+Stills from a Russian-language video that falsely claims to fact-check Ukrainian disinformation. There’s no evidence the video was created by Ukrainian media or circulated anywhere, but the label at the top says the video is “Fake Ukrainian media.” The captions on the left inaccurately label the footage as “A shopping center in Kyiv caught on fire after being hit by a Russian rocket,” falsely attributing the claim to Ukrainian media. The caption on the right correctly identifies the event as “Fire in Pervomais’k from 2021.” Credit: Screenshot taken by ProPublica
+
+The videos combine with propaganda on Russian state TV to convince Russians that the “special operation” in Ukraine is proceeding well, and that claims of setbacks or air strikes on civilian areas are a Ukrainian disinformation campaign to undermine Russian confidence.
+
+It’s unclear who is creating the videos, or if they come from a single source or many. They have circulated for roughly two weeks, first appearing a few days after Russia invaded. The first video Warren spotted claimed that a Ukrainian flag was removed from old footage of a military vehicle and replaced with a Z, a now-iconic insignia painted on Russian vehicles participating in the invasion. But when he went looking for examples of people sharing the misleading footage with the Z logo, he came up empty.
+
+“I’ve been following [images and videos of the war] pretty carefully in the Telegram feeds, and I had never seen the video they were claiming was a propaganda video, anywhere,” he said. “And so I started digging a little more.”
+
+Warren unearthed other fake fact-checking videos. One purported to debunk false footage of explosions in Kyiv, while others claimed to reveal that Ukrainians were circulating old videos of unrelated explosions and mislabeling them as recent. Some of the videos claim to debunk efforts by Ukrainians to falsely label military vehicles as belonging to the Russian military.
+
+“It’s very clear that this is targeted at Russian-speaking audiences. They’re trying to make people think that when you see destroyed Russian military hardware, you should be suspicious of that,” Warren said.
+
+There’s no question that older footage of military vehicles and explosions have circulated with false or misleading claims that connect them to Ukraine. But in the videos identified by Warren, the allegedly Ukrainian-created disinformation does not appear to have circulated prior to Russian-language debunkings.
+
+Searches for examples of the misleading videos came up empty across social media and elsewhere. Tellingly, none of the supposed debunking videos cite a single example of the Ukrainian fakes being shared on social media or elsewhere. Examination of the metadata of two videos found on Telegram appears to provide an explanation for that absence: Whoever created these videos simply duplicated the original footage to create the alleged Ukrainian fake.
+
+A digital video file contains embedded data, called metadata, that indicates when it was created, what editing software was used and the names of clips used to create a final video, among other information. Two Russian-language debunking videos contain metadata that shows they were created using the same video file twice — once to show the original footage, and once to falsely claim it circulated as Ukrainian disinformation. Whoever created the video added different captions or visual elements to fabricate the Ukrainian version.
+
+“If these videos were what they purport to be, they would be a combination of two separate video files, a ‘Ukrainian fake’ and the original footage,” said Darren Linvill, an associate professor at Clemson who co-leads the Media Forensics Hub with Warren. “The metadata we located for some videos clearly shows that they were created by duplicating a single video file and then editing it. Whoever crafted the debunking video created the fake and debunked it at the same time.”
+
+The Media Forensics Hub and ProPublica ran tests to confirm that a video created using two copies of the same footage will cause the file name to appear twice in the video’s metadata.
+
+Joan Donovan, the research director of Harvard’s Shorenstein Center on Media, Politics and Public Policy, called the videos “low-grade information warfare.” She said they don’t need to spread widely on social media to be effective, since their existence can be cited by major Russian media sources as evidence of Ukraine’s online disinformation campaign.
+
+“It works in conjunction with state TV in the sense that you can put something like this online and then rerun it on TV as if it’s an example of what’s happening online,” she said.
+
+That’s exactly what happened on March 1, when state-controlled Channel One aired a screenshot taken from one of the videos identified by Warren. The image was shown during a morning news program as a warning to “inexperienced viewers” who might be fooled by false images of Ukrainian forces destroying Russian military vehicles, according to a BBC News report.
+
+“Footage continues to be circulated on the internet which cannot be described as anything but fake,” the BBC quoted a Channel One presenter telling the audience.
+
+At least one Russian government account has promoted an apparent fake debunking video. On March 4, the Russian Embassy in Geneva tweeted a video with a voiceover that said “Western and Ukrainian media are creating thousands of fake news on Russia every day.” The first example showed a video where the letter “Z” was supposedly superimposed onto a destroyed military vehicle.
+
+Stills from a Russian-language video that falsely claims to fact-check Ukrainian disinformation. There’s no evidence the video was created by Ukrainian media or circulated anywhere, but the label at the top says the video is a “Ukrainian edit.” The top caption inaccurately labels the footage as “Ukrainians captured Russian equipment.” The lower caption correctly identifies the event as “Video of Ukrainian equipment 2019.” Credit: Screenshot taken by ProPublica
+
+Another video that circulated on Russian nationalist Telegram channels such as @rlz_the_kraken, which has more than 200,000 subscribers, claimed to show that fake explosions were added to footage of buildings in Kyiv. The explosions and smoke were clearly fabricated, and the video claims they were added by Ukraininans.
+
+Stills from a Russian-language video that falsely claims to fact-check Ukrainian disinformation. There’s no evidence the video was created by Ukrainian media or circulated anywhere, but the label in the middle of the images says “New Fake from Ukraine.” The caption at the top says “Urgent!” and inaccurately labels the footage as “Kyiv was attacked by the Russian army!” while falsely attributing the claim to Ukrainian media. The lower caption correctly identifies the image as “Kyiv 2017.” Credit: Screenshot taken by ProPublica
+
+But as with the other fake debunking videos, reverse image searches didn’t turn up any examples of the supposedly manipulated video being shared online. The metadata associated with the video file indicates that it may have been manipulated to add sound and other effects using ​​Microsoft Game DVR, a piece of software that records clips from video games.
+
+The fake debunking videos have predominantly spread on Russian-language Telegram channels with names like @FAKEcemetary. In recent days they made the leap to other languages and platforms. One video is the subject of a Reddit thread where people debated the veracity of the footage. On Twitter, they are being spread by people who support Russia, and who present the videos as examples of Ukrainian disinformation.
+
+Francesca Totolo, an Italian writer and supporter of the neo-fascist CasaPound party, recently tweeted the video claiming that a Ukrainian flag had been removed from a military vehicle and replaced with a Russian Z.
+
+“Now wars are also fought in the media and on social networks,” she said.",https://www.propublica.org/article/in-the-ukraine-conflict-fake-fact-checks-are-being-used-to-spread-disinformation
+1,7e214090-dd2c-4cff-ad94-a76da3303bd3,"['Mark Mackinnon', 'Murat Yukselir', 'The Globe And Mail', 'Source', 'Graphic News']",2022-03-10 07:26:43-05:00,"A Ukrainian soldier hides from a helicopter airstrike amid Russia's invasion of Ukraine, near Demydiv, Ukraine, March 10, 2022.MAKSIM LEVIN/Reuters
+
+Russian forces continued their advance toward Kyiv Thursday and appeared to take heavy losses, as the city’s mayor said roughly half the prewar population had now left the Ukrainian capital.
+
+The reported Russian advance into Brovary, a satellite town on the northeastern edge of Kyiv, came shortly after talks between the Russian and Ukrainian foreign ministers – the highest-level negotiations of the 15-day-old war – ended without progress toward a ceasefire.
+
+The move into Brovary by a column of Russian armour appeared to fail. A video posted to social media by Ukraine’s Defence Intelligence Service shows more than a dozen tanks parked on the main road to Kyiv before they are suddenly hit by a series of explosions – likely Ukrainian artillery fire. Several tanks appeared to be damaged by the blasts, and the others pull back, heading away from Kyiv. The Defence Intelligence Service said a Russian tank regiment had suffered “significant losses in personnel and equipment” and had been “forced to retreat.”
+
+Follow live updates of the war in Ukraine
+
+Nonetheless, the appearance of Russian armour on the eastern edge of Kyiv highlights that the already ruthless battle for the capital is only beginning. Russian forces have for several days been fighting for control of suburbs and villages north and northwest of the city, which has also faced two weeks of air strikes and cruise-missile attacks.
+
+On Thursday, Kyiv Mayor Vitaly Klitschko said roughly “every second resident” had left the city, which had a prewar population of three million.
+
+“The key goal of the Russians is to capture Kyiv … to surround Kyiv, to take it in a ring, then to attack and overthrow the government. Their plans are not realized, thanks to our guys,” Mr. Klitschko said in praising the Ukrainian military, which many analysts had predicted would quickly fold if Russia invaded. “Kyiv has now become a fortress.”
+
+People rush to board a train at a railway station in Odesa, Ukraine.BULENT KILIC/AFP/Getty Images 1 of 40
+
+A Ukrainian soldier walks past barricades set outside the entrance of the Odesa National Academic Theatre of Opera and Ballet in Odesa, Ukraine.ALEXANDROS AVRAMIDIS/Reuters 2 of 40
+
+A man pushes a baby stroller as he waves to Ukrainian soldiers on an armoured personnel carrier passing by in the Vyshgorod region close to Kyiv, Ukraine.Efrem Lukatsky/The Associated Press 3 of 40
+
+A member of the Ukrainian Territorial Defence Forces keeps watch in central Kyiv, Ukraine.GLEB GARANICH/Reuters 4 of 40
+
+An elderly woman walks down an empty street in central Kyiv, Ukraine.GLEB GARANICH/Reuters 5 of 40
+
+A Russian military winter hat lies among belongings Russian soldiers left behind after Ukrainian forces routed their armoured vehicles outside Brovary near Kyiv, Ukraine.THOMAS PETER/Reuters 6 of 40
+
+People walk between destroyed cars as they evacuate from the Irpin town, outside of Kyiv, Ukraine.VALENTYN OGIRENKO/Reuters 7 of 40
+
+Territorial Defence Forces members help to evacuate a man from the Irpin town outside of Kyiv, Ukraine.VALENTYN OGIRENKO/Reuters 8 of 40
+
+A man carries a baby as he crosses the Irpin river next to a destroyed bridge during evacuation from the Irpin town, outside of Kyiv, Ukraine.VALENTYN OGIRENKO/Reuters 9 of 40
+
+A baby stroller left by people fleeing from the Irpin town is seen next to a destroyed bridge over the Irpin river.VALENTYN OGIRENKO/Reuters 10 of 40
+
+Volunteers collect food, clothes and other goods in an exhibition pavilion, following Russia's invasion of Ukraine, in Brussels, Belgium.YVES HERMAN/Reuters 11 of 40
+
+A resident cries as she evacuates the city of Irpin, north of Kyiv.ARIS MESSINIS/AFP/Getty Images 12 of 40
+
+A Ukrainian serviceman talks with a resident in a basement for shelter in the city of Irpin, north of Kyiv.ARIS MESSINIS/AFP/Getty Images 13 of 40
+
+Cars drive past a destroyed Russian tank as a convoy of vehicles evacuating civilians leaves Irpin, on the outskirts of Kyiv, Ukraine.VADIM GHIRDA/The Associated Press 14 of 40
+
+Residents wait to be evacuated from the city of Irpin, north of Kyiv.ARIS MESSINIS/AFP/Getty Images 15 of 40
+
+A woman covers her nose as she evacuates the city of Irpin, north of Kyiv.ARIS MESSINIS/AFP/Getty Images 16 of 40
+
+A Ukranian soldier hugs his wife in the city of Irpin, north of Kyiv.ARIS MESSINIS/AFP/Getty Images 17 of 40
+
+A local retiree Nataliya Mykolaivna, 64, gestures next to a minibus, bringing supplies and gifts soldiers and residents, destroyed by Russian shelling at a short distance from the frontline in Horenka, northern Kyiv.SERGEI SUPINSKY/AFP/Getty Images 18 of 40
+
+A destroyed Russian tank is seen after battles on a main road near Brovary, north of Kyiv, Ukraine.Felipe Dana/The Associated Press 19 of 40
+
+Destroyed Russian tanks are seen on a main road after battles near Brovary, north of Kyiv, Ukraine.Felipe Dana/The Associated Press 20 of 40
+
+Residents evacuate the city of Irpin, north of Kyiv.ARIS MESSINIS/AFP/Getty Images 21 of 40
+
+Shrapnel punched in the door of the private maternity clinic Leleka located at a short distance from the frontline in Horenka, northern Kyiv.SERGEI SUPINSKY/AFP/Getty Images 22 of 40
+
+Ukrainian emergency employees work at the side of the damaged by shelling maternity hospital in Mariupol, Ukraine.Evgeniy Maloletka/The Associated Press 23 of 40
+
+The aftermath of Russian artillery shelling on a residential area in Mariupol where a rocket hit a house, according to the Armed Forces of Ukraine in Mariupol, Ukraine.ARMED FORCES OF UKRAINE/Reuters 24 of 40
+
+Ukrainian servicemen stand guard at a check point near the village of Velyka Dymerka, 40 km east of Kyiv.DIMITAR DILKOFF/AFP/Getty Images 25 of 40
+
+Refugees from Ukraine arrive from Gdynia in Poland after travelling with a Stena Line ferry to Karlskrona, Sweden.JOHAN NILSSON/AFP/Getty Images 26 of 40
+
+U.S. troops prepare to fire Stinger missiles from their Stryker armored fighting vehicle during Saber Strike military drill in Rutja, Estonia.INTS KALNINS/Reuters 27 of 40
+
+A Ukrainian serviceman takes a shooting position as he looks at approaching vehicles in Irpin, on the outskirts of Kyiv, Ukraine.VADIM GHIRDA/The Associated Press 28 of 40
+
+A child looks out a steamy bus window with drawings on it as civilians are evacuated from Irpin, on the outskirts of Kyiv, Ukraine.Vadim Ghirda/The Associated Press 29 of 40
+
+Ukrainian servicemen board a train as they depart in the direction of Kyiv at the central train station in the western Ukrainian city of Lviv.ALEKSEY FILIPPOV/AFP/Getty Images 30 of 40
+
+People carry their belongings as they flee, amid Russia's invasion of Ukraine, in Odessa, Ukraine.STRINGER/Reuters 31 of 40
+
+People wait outside an immigration office after fleeing from Ukraine to Belgium in Brussels.YVES HERMAN/Reuters 32 of 40
+
+British national newspapers on Thursday, in London, showing the reaction to the report of an airstrike on Mariupol hospital in Ukraine.Alastair Grant/The Associated Press 33 of 40
+
+Prime Minister Justin Trudeau walks with Polish Prime Minister Mateusz Morawiecki for a meting at the Chancellery in Warsaw.Adrian Wyld/The Canadian Press 34 of 40
+
+A person walks past the ""Slovo"" building in Kharkiv, Ukraine.STRINGER/Reuters 35 of 40
+
+Tanks are seen being destroyed on the outskirts of Brovary, Ukraine, in this screengrab from an undated handout video obtained by Reuters on March 10, 2022.AZOV HANDOUT/Reuters 36 of 40
+
+A Ukrainian Territorial Defence Forces member hugs a resident who left his home following Russian artillery shelling in Irpin, Ukraine,Oleksandr Ratushniak/The Associated Press 37 of 40
+
+A man rides a bicycle in front of a damaged by shelling apartment building in Mariupol, Ukraine.Evgeniy Maloletka/The Associated Press 38 of 40
+
+Polish Prime Minister Mateusz Morawiecki and US Vice President Kamala Harris prior to a meeting at the office of the Prime Minister of Poland in Warsaw.SAUL LOEB/AFP/Getty Images 39 of 40
+
+Ukrainian Foreign Minister Dmytro Kuleba speaks during a news conference after meeting with his counterparts Russian Sergei Lavrov and Turkish Mevlut Cavusoglu in Antalya, Turkey.MURAD SEZER/Reuters 40 of 40
+
+But many more bleak days appear to lie ahead for Kyiv and the country. Russian Foreign Minister Sergey Lavrov and Ukrainian Foreign Affairs Minister Dmytro Kuleba met Thursday in the Turkish city of Antalya, and Mr. Kuleba told reporters afterward that he saw no sign Russia was ready to end its invasion, which has killed thousands of people and caused more than 2.3 million Ukrainians to flee the country.
+
+“Russia is not in a position at this point to establish a ceasefire. They seek a surrender from Ukraine. This is not what they are going to get. Ukraine is strong, Ukraine is fighting,” Mr. Kuleba said after the meeting.
+
+Security analyst Serhiy Solodky – who works for the Kyiv-based New Europe Centre but, like so many residents of the capital, has been forced to flee his home – told The Globe and Mail that the fruitless talks underlined that “Russia does not want to negotiate peace or even ceasefire. Russia wants to see the failure of Ukraine.”
+
+Moscow, which says it was threatened by Ukraine’s desire to join NATO, has said it intends to demilitarize its smaller neighbour. The Kremlin also claims it is acting to remove “neo-Nazis” inside the government of Ukrainian President Volodymyr Zelensky, who is Jewish.
+
+Mr. Kuleba said Mr. Lavrov had ignored Ukraine’s plea for an urgent humanitarian ceasefire in the southeastern port city of Mariupol, where at least 1,170 people have reportedly been killed since the start of the war. A Russian air strike badly damaged a maternity hospital in the city Wednesday.
+
+“I made a simple proposal to Minister Lavrov: I can call my Ukrainian ministers, authorities, President now and give you 100-per-cent assurances on security guarantees for humanitarian corridors,” he said. “I asked him: ‘Can you do the same?’ And he did not respond.”",https://www.theglobeandmail.com/world/article-no-progress-on-russia-ukraine-talks-in-turkey-as-bloody-war-enters/
+2,7e214090-dd2c-4cff-ad94-a76da3303bd3,"['Dave Burke', 'Image', 'Anadolu Agency Via Getty Images']",2022-03-10 19:58:05+00:00,"Ukraine: Fire near the Kharkiv Institute of Physics and Technology
+
+Ukraine: Fire near the Kharkiv Institute of Physics and Technology
+
+Ukraine's Centre for Strategic Communications and Information Security warned that equipment at the Kharkiv Institute of Physics and Technology could cause radioactive pollution if damaged
+
+The Ukrainian nuclear regulator says Russia has committed an ""act of nuclear terrorism"" in bombing a research facility containing a reactor.
+
+The State Nuclear Inspectorate of Ukraine said the reactor core at the Kharkiv Institute of Physics and Technology in the city of Kharkiv had been loaded with fresh nuclear fuel just prior to the start of Russian aggression.
+
+Russian forces carried out an airstrike on the science research centre in the Ukrainian city of Kharkiv today, sparking fears of radiation exposure, according to reports.
+
+In a statement released this evening nuclear watchdog said they were still assessing the damage to the site, adding: ""This list of injuries is not complete at this time.""
+
+They said: ""Prior to the Russian aggression, the Source of Neutrons was at the stage of physical start-up, during which the core was loaded with fresh nuclear fuel.
+
+""On February 24, 2022, the unit was transferred to a deep subcritical state by the operational personnel of the Source of Neutrons.""
+
+In a report on the state of the reactor, which is used in scientific research at the institute, the Inspecorate said critical buildings at the site had sustained damage during the attack but the reactor was currently in a ""deep subcritical state"" and ""completely de-energized"".
+
+Video from the scene is understood to show huge flames at the centre, where the first development of a nuclear bomb was carried out in the USSR.
+
+The shelling was carried out at around 8.20pm local time, according to witnesses.
+
+Ukraine's Centre for Strategic Communications and Information Security posted on Twitter: ""In Kharkiv, eyewitnesses report a fire in the building of Kharkiv Institute of Physics and Technology.
+
+""The building contains equipment which, if damaged, can lead to radioactive pollution of the environment.""
+
+Image: Anadolu Agency via Getty Images) Anadolu Agency via Getty Images)
+
+
+
+The building has already been hit during Russia's bombardment of Kharkiv earlier this week.
+
+After it was first targeted, authorities said the institute is home to a nuclear research facility with 37 nuclear fuel cells.
+
+Russian strikes risked a “large-scale ecological disaster”, security services said three days ago after the facility was reportedly targeted.
+
+Security consultants the Cavell Group tonight tweeted: Ukraine/Russia: ""Significant artillery fire again tonight on Kharkiv and reports of air activity. Reports also that a large fire is burning at the Institute of Physics and Technology after it was targeted.""
+
+Western officials fear the number of refugees fleeing Ukraine could hit 4 million as Russia continues its brutal onslaught.
+
+The UN refugee agency briefed Western countries on Wednesday that there were now an estimated 2.2 million refugees from the conflict - and the number could rise to 4 million over the days to come.
+
+Officials say the Russian invasion has sparked almost ""unprecedented"" movements of people across Europe, triggering the greatest refugee crisis since the Second World War.
+
+One said: ""I would like to stress the sheer scale of this, which is something that we haven't seen, certainly since the end of the Second World War, and that is a real challenge to us all.""
+
+It comes as Home Secretary Priti Patel was forced to streamline the visa process for Ukrainian's seeking sanctuary in Britain after a public outcry.
+
+
+
+",https://www.mirror.co.uk/news/world-news/breaking-huge-fire-ukraine-science-26439132
+3,7e214090-dd2c-4cff-ad94-a76da3303bd3,[],,"OPERATIONAL SITUATION
+
+
+
+Total combat losses of the Russian troops from 24.02 to 08.03 were estimated at over 12,000 men, over 303 tanks, 1,510 armored vehicles and vehicles and 128 aircraft (planes and helicopters). The Air Force of the Armed Forces of Ukraine successfully repelled enemy missile and air attacks and provided air cover for critical facilities in Ukraine and troop groups. The Kyiv defense forces continued to defend the capital along the outer defense line and in additionally defined directions.
+
+Kyiv and Zhytomyr directions:
+
+There was constant fighting in the Kyiv direction, particularly in Makariv, Irpin, Hostomel, and Borodianka. The Russian Armed Forces were accumulating troops and equipment, shelling social infrastructure.
+
+Two Russian missiles were shot down over Boryspil, a third injured two people. In the evening, Russian troops launched a rocket attack on Korbutivka near Zhytomyr, hitting a dormitory in which civilians have lived for more than 20 years. The building was completely destroyed as a result of the missile attack.
+
+The Izovat plant, producing 70 percent of Ukraine’s mineral wool, was destroyed in an airstrike in Zhytomyr.
+
+In the city of Malyn, Zhytomyr region, an airstrike destroyed seven private single-story residential buildings.
+
+Chernihiv and Sumy directions:
+
+Russian planes dropped bombs on residential neighborhoods in Sumy this night. Six houses were destroyed and about 20 damaged, at least nine people were killed, including two children. In addition, Russian aviation raided Okhtyrka, bombing residential areas, the private sector and grocery stores. The already destroyed Okhtyrka thermal power plant was also hit again.
+
+Kharkiv and Luhansk directions:
+
+On March 8, in the Vovchansky district of the Kharkiv region, the aggressors landed an assault group of 120 people on 3 helicopters. The territorial defense together with the Armed Forces of Ukraine defeated the Russian troops. The vast majority of the Russian Armed Forces landing force was destroyed right on the spot. Those who survived escaped to the territory of the Belgorod region of Russia.
+
+Donetsk and Zaporizhzhia directions:
+
+The Armed Forces of Ukraine took a number of measures to evacuate civilians in Mariupol via a single route: roads were cleared of mines, engineering barriers were removed, etc. However, Russian troops did not let children, women, and elderly people out of the city and launched an attack in the direction of the humanitarian corridor.
+
+Defending Mariupol, the Azov Detachment conducted an effective counterattack operation and defeated units of the 102nd Motorized Rifle Regiment of the 150th Motorized Rifle Division of the Southern Military District with its location in Novocherkassk (Rostov region). The Ukrainian military obtained documentation of the Russian Armed Forces, including name lists of Russian servicemen attempting to break into Mariupol.
+
+Around 16:30, an air raid on Mariupol was carried out. Two bombs were dropped on institutions of the International Red Cross and the Ukrainian Red Cross Society. Residential buildings and a shopping center were destroyed.
+
+Mykolaiv and Kherson directions:
+
+Ukrainian Armed Forces reinforcements with equipment arrived in Mykolaiv, defenders were preparing for the aggressor’s offensive.
+
+Resistance
+
+Residents of Kherson region continued to hold protests calling against the temporary occupation by Russian troops. Within a day, rallies were held in Oleshki, Hola Prystan, Berezhanka and the Verkhny Rogachyk township.
+
+In Zaporizhzhia region, residents of Melitopol, Tokmak and Berdyansk also continued their pro-Ukrainian peaceful actions.
+
+In Kharkiv region, about three dozen residents of Kupyansk staged an anti-Russian rally, which lasted half an hour and did not provoke a reaction from Russian troops.
+
+Information confrontation
+
+In the temporarily occupied territories of Kherson and Mykolaiv Regions, the enemy uses psychological warfare units. 10 tactical groups were created to conduct propaganda work with local residents.
+
+Russian information and psychological operations units actively began spreading a disinformation campaign among the residents of Kyiv in social networks about the lack of reagents for water purification and problems with its quality. The official authorities urged people not to believe rumors and fakes, and to check the information only on the official information channels of the authorities and public utilities.
+
+In Balakliya, Russian troops are collecting dozens of buses with the crowd to shoot staged stories for the Russian media. They plan to shoot stories about the liberation of the town from the “nationalists” and gratitude to the Russian troops. The purpose of these stories is to justify military action in Ukraine, distort the existing reality, and increase support for the Russian leadership.
+
+In Mariupol, Russian troops began broadcasting Russian propaganda over radio frequencies. They were actively spreading narratives that the top political and military commanders had fled the territory of Ukraine and that the so-called “DNR” occupied the entire Donetsk region.
+
+In Berdyansk, the Russian military seized the “Azov Wave” radio station. The radio station seized by the Russian Armed Forces’ troops may start broadcasting propaganda and anti-Ukrainian information in the near future.
+
+Mayors and heads of state administrations of various localities, in particular, mayors and heads of city/regional administrations of Kharkiv, Sumy, Odesa, Chernihiv, Irpin, Bila Tserkva, and others simultaneously began receiving SMS messages with threats and demands to surrender the populated area, let Russian troops in, and support the Russian Armed Forces.
+
+The Russian Federation began spreading another fake that the UN prohibited its employees from using the flag of Ukraine in social networks and calling the war on the territory of Ukraine a war. Instead, it was recommended to treat these events as a conflict or a military offensive. After the news was widely publicized in the media, the UN denied this information and stated that no such instructions were given to the employees.
+
+Parents’ school Viber chats in the temporarily occupied Crimea tried to intimidate the Crimeans not to protest against Russia’s full-scale war against Ukraine, as well as the economic situation resulting from the sanctions directed against Russia. The implicit language constructions traced the threats of imprisonment of children in order to have more influence on the parents.
+
+HUMANITARIAN SITUATION
+
+
+
+Vorzel, Bucha, Hostomel, Zabuchchya, Irpin are cities in the Kyiv direction, where there is no mobile communication, light, water supply. Due to fires in many neighborhoods had to cut off gas supply. People are forced to sit in cold basements, sometimes without food and water. This is the epicenter of a humanitarian catastrophe. The district receives humanitarian medical and food aid. But the aggressor does not give the opportunity to help the occupied communities.
+
+The situation in Mariupol remains critical, with Russia effectively taking 300,000 civilians hostage and refusing to evacuate them, despite agreements with the International Committee of the Red Cross. Residents of Mariupol and other cities in Ukraine need food, water and medical care. One child died of dehydration.
+
+The aggressors offered unprotected people to be evacuated to Russia via Belarus, as we pointed out earlier, this is a war crime.
+
+The Armed Forces of the Russian Federation, once again violating the rules of warfare, fired on the civilian infrastructure of Okhtyrka. As a result of the bombings and shellings, as of 1 pm on March 8, one civilian was killed and 14 others were injured.
+
+Kharkiv has been under fire since the beginning of the war, the city has suffered significant damage, as of 18:00 on March 8, since February 24 in Kharkov and the region killed 170 civilians, including 5 children. Russian aggressors shot dead two volunteers who came to Feldman Ecopark to feed the animals.
+
+In Mykolaiv the minibus which was marked by signs of a “red cross” came under fire of the Russian military. As a result of the shelling, according to preliminary information, at least three educators of a family-type orphanage who were going to change colleagues were killed.
+
+The city of Izyum in the Kharkiv region was destroyed by fighting, bridges were blown up, evacuation was not possible, and locals needed urgent humanitarian assistance. Russian troops completely destroyed the city’s central hospital.
+
+The UN High Commissioner for Refugees estimates the number of people who left Ukraine because of the war at 2 million.
+
+INTERNATIONAL REACTION
+
+
+
+Important achievements of Ukrainian diplomacy are changes in the international energy arena. The United States is imposing a ban on imports of Russian oil and gas to the United States due to the war in Ukraine. The British government intends to stop importing Russian oil by the end of 2022. The European Commission has proposed a plan REPowerEU, which provides for a reduction in EU demand for Russian gas by two thirds by the end of 2022.
+
+The Council of the Organization for Economic Cooperation and Development (OECD) has decided to immediately suspend the participation of Russia and Belarus in all its bodies.
+
+After Volodymyr Zelensky’s remote speech in the British Parliament on March 8, British Prime Minister Boris Johnson promised to do everything possible to make Russian leader Vladimir Putin lose the war against Ukraine. Johnson noted that Britain will influence the situation by helping Ukraine with weapons and economically holding back Russia.
+
+US President Joe Biden noted the strong opposition of Ukrainians to the Russian occupation forces and expressed the opinion that already at this stage of the war it is clear that Ukraine will not be a “victory” for Putin. Biden added that the United States would continue to support Ukrainians in their struggle and called on Congress to support a $12 billion aid package for Ukraine.
+
+The World Bank has announced its intention to provide Ukraine with more than $700 million to help the Ukrainian government continue to provide vital services to people: salaries for doctors, pensions and social benefits for vulnerable groups.
+
+Luxembourg has provided €250 million in aid to Ukraine, while €106 million has been raised in the Netherlands for housing, health care and water supplies for war victims.
+
+And although Russia has already become the most sanctioned state in the world due to the invasion of Ukraine, the international community continues to impose sanctions on Russia.
+
+Thus, the European Commission has prepared a new package of sanctions against Russia and Belarus, which provides:
+
+– a ban on the export of marine technology from the EU to Russia;
+
+– closing access to the SWIFT system to three Belarusian banks;
+
+– inclusion of several oligarchs and Russian deputies in the “black list”.
+
+At the same time, a bipartisan group of U.S. senators has introduced a bill proposing to ban Russia’s operations with gold reserves, which could mitigate the effects of sanctions. It is reported that if sanctions are imposed on these reserves, it could potentially further isolate Russia from the world economy and further complicate Putin’s military campaign.
+
+International companies and organizations continue to stop cooperating with Russia due to aggression on the territory of Ukraine.
+
+– Oil and gas company Shell completely stops buying oil from Russia.
+
+– The British oil and gas company BP will stop concluding new agreements on the purchase of Russian gas and oil.
+
+– Japan has announced a ban on exports of refining equipment to Russia.
+
+– Australia’s largest oil companies Ampol and Viva Energy have stopped buying oil from Russia.
+
+– The largest cryptocurrency exchange Binance announced that from March 9 it will stop supporting Mastercard and Visa cards issued in Russia.
+
+– South Korea, following the United States and the European Union, has banned transactions with Russia’s Central Bank.
+
+– The Estonian government has decided to suspend the registration of Russian and Belarusian citizens as electronic residents of Estonia.
+
+– The American technology company VMware, which is the developer of virtualization software, is terminating all business operations in Russia and Belarus.
+
+– Akamai Technologies, a company that protects against DDoS hacking attacks, is terminating contracts with the public sector in Russia and Belarus.
+
+– The venture fund Index Ventures has stated that it will not make any investments in Russia.
+
+– Photobank Depositphotos, as well as the platform for graphic design VistaCreate stopped selling and accessing the service to customers from Russia and Belarus.
+
+– The Association of European Energy Exchanges (Europex) has decided to exclude the St. Petersburg International Commodity Exchange (SPIMEX) from its membership.
+
+– Yum! Brands, which includes Taco Bell, KFC and Pizza Hut, is suspending investment in Russia.
+
+– Dutch ISPs have begun blocking Russian media sites in the country.
+
+– Procter & Gamble Corporation is stopping all new capital investments in Russia.
+
+– Colliers, a commercial real estate consulting firm, has ceased operations in Russia and Belarus.
+
+– Cosmetics manufacturer Estee Lauder completely stops selling in Russia.
+
+– OBI Group’s chain of construction and hardware stores is shutting down in Russia.
+
+– The American diversified corporation, the world’s largest manufacturer of many types of equipment, General Electric ceases operations in Russia.
+
+– Unilever (brands Dove, Ax, Rexona, Clean Line, Domestos, Cif and others) has suspended exports to Russia.
+
+– The world’s largest cosmetics company L’Oreal Group has announced the closure of stores and boutiques in Russia.
+
+– The Italian company Ferrari, which manufactures luxury sports cars, is stopping production of vehicles for Russians.
+
+– McDonald’s is temporarily closing 850 restaurants in Russia.
+
+– Starbucks suspends business in Russia and closes its cafes.
+
+– Swiss watch company Rolex stops exporting goods to Russia.
+
+– PepsiCo ceases advertising and beverage sales in Russia.
+
+– Universal Music, the world’s largest record company, is closing its offices in Russia and suspending all business operations in its territory.
+
+The information in the digest is collected from official sources — reports of state authorities of Ukraine, Ukrainian and international news agencies. The accuracy of the data is carefully checked by the project team and corrected in case of fake news.
+
+Center for International Security",https://www.blackseanews.net/en/read/186159
+4,7e214090-dd2c-4cff-ad94-a76da3303bd3,"['Condé Nast', 'Charlotte Klein', 'Sebastian Junger', 'Eric Lutz']",2022-03-10 16:56:01.577000+00:00,"Russian officials are struggling to get their story straight on Wednesday’s bombing of a Ukrainian maternity hospital that, according to Ukrainian authorities, left at least three dead—including a child—and 17 wounded. Kremlin spokesman Dmitry Peskov told Reuters in the immediate aftermath of the strike on Wednesday that “Russian forces do not fire on civilian targets.” On Thursday he told reporters that the Kremlin would look into the incident “because you and I don’t have clear information about what happened there.” Following a meeting with Ukraine’s foreign minister in Turkey on Thursday, Russian Foreign Minister Sergei Lavrov took a different stance as he claimed without evidence that the hospital in Mariupol was a warranted target because the building had been “seized long ago” by Ukrainian militia who had “expelled” all patients and doctors there. That narrative flies in the face of images of bloodied pregnant women being evacuated from the scene.
+
+Twitter content This content can also be viewed on the site it originates from.
+
+Ukrainian President Volodymyr Zelenskyy said Thursday that the attack was “proof that the genocide of Ukrainians is taking place” and an “atrocity.” Lavrov during Thursday’s press conference dismissed the accusation as “pathetic shouting about so-called atrocities by the Russian armed forces,” as Russian foreign ministry spokeswoman Maria Zakharova likewise cried fake news. “This is information terrorism,” she said of Ukraine’s claim, according to Reuters. “Like always, they lie confidently,” Zelenskyy said in a televised address.
+
+Twitter content This content can also be viewed on the site it originates from.
+
+It’s not the first time Russia has targeted hospitals nor denied responsibility for doing so. In Syria, Physicians for Human Rights corroborated 492 attacks on healthcare facilities and 847 deaths of medical personnel between March 2011 and December 2017—more than 90% of which were carried out by Russian and Syrian forces; an investigation by the New York Times in October 2019 also tied Russian pilots to bombings of four Syrian hospitals that took place within a 12-hour period months earlier. Russia has dismissed such findings as “figments of the imagination,” per the Wall Street Journal.
+
+Decrying the hospital bombing and other attack on civilians on Thursday, Vice President Kamala Harris said there should “absolutely” be an international war crimes investigation of Russia over its invasion of Ukraine. Speaking during a joint press conference with Poland’s President Andrzej Duda in Warsaw, Harris noted that the United Nations “has set up a process by which there will be a review and investigations” and that the United States would “participate as appropriate and necessary.” Harris stopped short of accusing Russia of having committed war crimes, an allegation that Politico notes other world leaders—including Duda on Thursday—have leveled since Vladimir Putin invaded Ukraine. The vice president did, however, go so far as to classify “what we have seen” of Russian attacks on Ukraine as “atrocities.”
+
+More Great Stories From Vanity Fair
+
+— ​​Images of Russia’s Attack on Ukraine
+
+—Trump Calls Putin’s Ukraine Moves “Genius” Because He Hates Democracy
+
+— The Zucker-Cuomo Saga Just Got Even Messier
+
+— Why Biden Wanted Americans to Know Exactly What Putin Was Planning
+
+— It’s Been a Hell of a Week for Letitia James
+
+— “If Ukraine Matters, Tell Us Why”: Joe Biden Is Talking to Everyone Except the American People
+
+— Republicans on Russia Crisis: It’s Biden’s Fault
+
+— Thieves in the Night: A Vast Burglary Ring From Chile Has Been Targeting Wealthy U.S. Households
+
+— Watergate’s Central Mystery: Why Did Nixon’s Team Order the Break-In in the First Place?
+
+— From the Archive: Russia’s Dark Master
+
+— Not a subscriber? Join Vanity Fair to receive full access to VF.com and the complete online archive now.",https://www.vanityfair.com/news/2022/03/russia-struggles-to-get-its-story-straight-on-horrific-bombing-of-maternity-hospital
+5,7e214090-dd2c-4cff-ad94-a76da3303bd3,[],,"Visitors of the Unmanned Systems Exhibition and Conference UMEX 2022 at Abu Dhabi National Exhibition Centre begin getting acquainted with Ukrainian developments in this field. Ukrspetsexport State Enterprise, which is a part of Ukroboronprom, is an organizer of Ukrainian exposition, which presents the products of national state and private enterprises. On the first day of the exhibition, the Deputy Prime Minister and the Minister of Presidential Affairs of the UAE Sheikh Mansour bin Zayed Al Nagayan the Ukrainian exposition was visited Ukraine’s exposition. General Director of Ukrspetsexport Vadym Nozdrya told the high-ranking guest about promising Ukranian developments. In particular, the enterprises of the State Concern presented SOKIL-300 reconnaissance and strike unmanned aerial vehicle (by the LUCH State Kyiv Design Bureau State Enterprise) and the AI-350 aircraft engine (by the Ivchenko-Progress State Enterprise). An important component of UMEX 2022 is a business program, which provides poewrful opportunities to share best practices, negotiate and reach certain agreements. On the opening day, directors of Ukrspetsexport held meetings with representatives of the General Staff of the UAE Armed Forces, as well as representatives of the delegation of the Air Force of Kazakhstan. The parties discussed the current state of cooperation and prospects for further cooperation in the field of manufacture and use of unmanned systems. Considerable attention was paid to the current state of military and technical cooperation between the countries, the most priority areas for cooperation were identified. Possibilities of domestic defense industry, specifically of aviation equipment, were presented. Another meeting was held involving the representatives of the EDGE Group Emirati Defense Holding, during which they discussed the progress of current projects and prospects for expanding the partnership. «We are ready for active and mutually beneficial cooperation with our foreign partners and we can confidently state that Ukraine has all the opportunities and significant potential for this,» Vadym Nozdrya said, General Director of Ukrspetsexport. The Fifth IUnmanned Systems Exhibition and Conference UMEX 2022 was organized by the National Company of Abu Dhabi in cooperation with the UAE Ministry of Defense. This is the largest industry event in the United Arab Emirates since 2015.",https://ukroboronprom.com.ua/en/news
+6,7e214090-dd2c-4cff-ad94-a76da3303bd3,"['The Saker', 'Tom Luongo', 'Inspector General', 'Lone Wolf', 'George Chamberlain', 'Prof. Spudd', 'James Gibson', 'A.N. Moskow', 'A.N. Moskva', 'Robert Rangewolf']",,"The Russian military intervention in the Ukraine – a macro view
+
+Today, rather than comment on the latest developments on the ground, I want to step back and revisit a few basic, but I believe absolutely fundamental aspects of the Russian military operation in not only the Donbass, but the entire Ukraine. In fact, lets’ begin here:
+
+What was the generally expected scope of operations?
+
+Okay, there is A LOT of nonsense written about this, so I need to clarify a few basic points.
+
+First, absolutely NOBODY had ANY idea of the actual plan until that plan was decided upon. Let me clarify what I mean. Putin, the Kremlin or the Russian General Staff do not have “a plan”, that is not how things work. The Russian GS in particular is tasked with preparing plans for pretty much ANY contingency. So, let’s imagine that for the case of the Ukraine, they have a choice of 12 possible plans. What then happened is this, after being fully briefed on the situation, Putin, as commander in chief, would select one of these plans and give the order to execute it. At which point a number of coded messages will be sent out to various subunits, units, and formations ordering a specific set of instructions to be opened. These instructions would give their first orders for all subunits, units, and formations involved.
+
+What did the vast majority of analysts expect? Here are a few options:
+
+Russia would wait for the Ukies to attack the LDNR and then assist the LDNR in ways ranging from indirect, deniable, support to a full-scale Russian move into the LDNR.
+
+Opinions were split on how far the Russians would go. Personally, I believed that they would probably liberate the Donetsk and Lugansk region, free Mariupol, and then dig in. I was very wrong, to put it mildly.
+
+That operation to “free the LDNR from constant attacks” never happened. Putin never gave that order. That is absolutely crucial to understand.
+
+==>>Again, that order never came.<<==
+
+Instead, and in his own words, Putin came to the conclusion that if the LDNR (possibly assisted by Russia) just moved to the administrative borders that would open a long front in which Western assistance would be poured in. He also knew that the Ukie forces in the Donbass were highly concentrated, heavily armed and “motivated”, if needed, by many hardcore Nazi groups inside them. In fact, about 60-75% of all Ukrainian forces were poised for a Blitzkrieg attack à la “Operation Storm” which NATO executed against the UN-protected areas (UNPAs) of Serbian civilians in Croatia. According to at least one well-informed analyst, the operation was planned for the 25th of February. If true, that means that Russia merely preempted a Ukrainian attack.
+
+But what is really crucial is not this, what is crucial is the actual order Putin gave to the Russian armed forces. It was NOT “support the LDNR and push back the Ukie lines”. The order Putin gave was totally different:
+
+Disarm the Ukraine
+
+Denazify the Ukraine
+
+The first thing to understand is that an operation to deblock the LDNR would have been a mainly tactical level operation, possibly with subsequent operational level development (such as the closing off the Ukie forces in the Donbass cauldron). But both orders say “the Ukraine” not “the Donbass”.
+
+That means, by definition, that the order Putin gave was for a strategic operation, covering the entire territory of the Ukraine.
+
+In other words, all the opinions, expert or not, which were given about what everybody thought would be a tactical-operational Russian intervention on the Donbass were totally wrong (very much including my own!), at the very least wrong in the scope of operations they assumed.
+
+Okay, what about the predicted timelines?
+
+Let’s look at what most observers agreed upon. The general consensus was something along these lines: it will take Russia about 24 hours to turn the Ukrainian Armed Forces into smaller, isolated units and subunits which would not be able to coordinate attacks and force movements. Okay, IN SPITE OF THE FACT that most analysts expected a tactical to operational attack to deblock the LDNR, this part of the “special operation” was fully successful and achieved on time.
+
+Why?
+
+Because that initial standoff strike was a feature common to both plans! Either way, the FIRST thing Russia had to do is to break up the Ukrainian Armed Forces into discrete and separate “chunks”. Again, BOTH plans assumed that, so it is hardly surprising that this is what actually happened.
+
+However,
+
+While a plan aimed solely at unblocking the LDNR could have been crudely summed up as “kill as many Urkonazis as you can, as quick as you can”, that was NOT an option for the strategic level plan chosen by Putin. There are many reasons for that including:
+
+Russians do not hate Ukrainians and see them as brothers (the LDNR forces not so much)
+
+Focusing on the destruction of the Ukie forces in the Donbass would leave their lines of supply open
+
+Focusing on the destruction of the Ukie forces in the Donbass would have left much of the Ukrainian airspace unchallenged, thereby slowing down Russian air and anti-air operations
+
+While it is pretty clear that Russia wants as many dead Nazis as possible, there are three things which the folks in the Kremlin do NOT want , and wisely so:
+
+Staying in the Ukraine forever (or for a long time) Having to police this huge country and restore law and order everywhere Pay for all the destruction
+
+For this reason, what the Russians did is make maximal use of their air superiority and mobility, but did not storm all the cities or Ukrainian fortifications.
+
+While there is no doubt in my mind that the Nazis and the bosses in the USA had correctly predicted that the Russian operation to dismember and disorganize the Ukie units would affect the entire Ukraine, including long range strikes deep in the Ukie rear.
+
+What I think they missed is the Russians achieved strategic surprise achieved by immediately launching a full-scale strategic assault. Now let’s revisit the timelines:
+
+Dismembering and disorganizing the Ukrainian military achieved in the estimated 24 hours Closing the operational cauldron behind the Ukie forces in the Donbass: achieved in 2 weeks (in fact, it is even better, the Russians are now cutting the Ukie forces in the Donbass into two smaller cauldrons, see map here: (you see TWO blue circles, not one anymore!) Within the same two weeks, Russia liberated the entire Sea of Azov coast and much of the Black Sea Coast , which is now either under Russian control, or under direct Black Sea Fleet blockage. Also within those two weeks, Russia basically encircled Kiev . This map shows you the situation around Kiev as it was today. While the situation on the south side is still unstable, combat operations are taking place, what is certain is this: only small, secondary, roads and open terrain are left to escape the city. Like everywhere else (see below), the Russians have offered humanitarian corridors and promised safety and good treatment to all Ukrainian POWs (Nazis are excluded, as are foreign mercenaries, they will be interrogated and shot). But to no avail, the Nazi delegation cannot agree to anything because their bosses in DC tell them to fight down to the last Ukrainian (as for the Anglos, Polaks & Co. they announce Russian defeats everywhere and every day, but for some unfathomable reason, they all are safely tucked away in Lvov or even Warsaw. How surprising!)
+
+And, again, all that was achieved in TWO WEEKS and WITHOUT numerical superiority!
+
+So to those who are still trying to convince the world that the Russian plan failed and the indomitable Ukronazi forces about to encircle the Kremlin, I ask:
+
+If you have no idea about modern warfare, why express opinion based on nothing other than frankly silly US PSYOPs and your own, personal, lack of the kind of education needed to speak about these matters?
+
+If you have some basic understanding of modern warfare, please name a recent operation in which such a huge swathe of land was taken so quickly and by such a small force?
+
+[Sidebar: oh, I know. We recently saw how the entire planet was populated by experienced microbiologists, virologists and epidemiologists, so why not also simply accept that besides being by experienced microbiologists, virologists and epidemiologists they are also experienced tacticians, force commanders and strategists? After all, all you need to qualify is: 1) being unaware of your own ignorance 2) a desire to preach 3) a keyboard and computer. In the Empire of Lies, actual expertise is utterly useless. There is a word on both Russian and Spanish which comes to my mind, and it suggest a strong desire to eat droppings. I will settle for “scatophage” and leave it at that]
+
+Okay, but did the Russians not also have defeats, failures, screw-ups, and other face plants?
+
+OF COURSE they did.
+
+I just came across this one, and I am utterly appalled. The Kremlin says “absolutely no conscripts” as late as yesterday and, voilà, not only conscripts, but even dead ones! BRAVO KREMLIN PROPAGANDA, WELL DONE!
+
+In terms of actual defeats, no, sorry. There were several Ukrainian counter attacks, but they were limited in scope and even when they, for example, obliterated a Russian checkpoint, it was quickly restored and the guilty Ukies ran for their lives under counter-battery fire.
+
+Guys, let’s be serious here.
+
+If there are, roughly, 150k Russians and another 150k Ukrainians fighting each other, there will be blood on both sides. Ask any military person and he/she will tell you that 300+k fully armed soldiers fight each other, you are going to have not hundreds, but many THOUSANDs of dead people on both sides, plus plenty of civilians. In fact, force planners and military analysts even have formulas to calculate it all: numbers engaged, armaments, timing, etc. and, of course, expected casualties.
+
+So the headline “hundreds of dead Russian soldiers” might do miracles for morale in the Empire of Lies and in Banderastan, and it might even frighten a lot of people in Russia, but they will have exactly zero effect on how the operation is being executed by the Russian General Staff.
+
+Guys – the Russian General Staff has planned many such operations for months, possibly even years. And with each plan, they had “estimated losses” entries. That is why Putin, his government and even the Russian generals tried to do everything they could to gain time and to hope for some other solution.
+
+But the Empire of lies gave no other option. Not to the Russians and not to the Ukrainians.
+
+In a way, both sides are fighting for their very existence.
+
+Ukies are not Anglos, and a lot of them gained combat experience during the 8 years of war. Add to this the most powerful PSYOP operation in history, and you will get many MANY Ukrainians fighting really hard, all for different reasons including
+
+Being a real Russia-hating Nazi (they have no hope for mercy)
+
+Being a mercenary (they have no hope for mercy)
+
+Having given an oath to your country and armed forces
+
+Deep resentment for Russia for many, many reasons
+
+Protection of your unit and comrades
+
+Blaming Russia for attacking first and so hard
+
+Sincerely believing that Russia wants to occupy the Ukraine and recreate the USSR
+
+etc. etc. etc.
+
+How much is “many” here? I don’t know. But I would say “enough to force Russians to stop expecting being greeted everywhere as liberators“. In some locations, this is true. But in many other, it is not.
+
+In spite of the many warnings by many Russians, including myself and Andrei Martyanov, an ethnogenesis did happen in the Ukraine. The old, historical, Ukraine (which did exist as a prosperous region until 1917) is gone, and so are the generations of Ukrainians which saw themselves as “central-Russians” (the word “small” as in “small Russian” means “central”, like “central Greece) and the “spread-out-Russians” (as in “not in the center) as brothers and liberators. That old Ukraine is gone forever.
+
+What we have instead is a weird and ugly Banderastan where the Nazis are a numerical minority, but where they run everything, courtesy of the Empire of Lies, of course. How bad is it?
+
+One example: Odessa.
+
+If the Odessa of 2022 was inhabited by the kind of folks who lived there before 1917 or even before 1991, by now there would have been an uprising, especially with the Black Sea Fleet within visual range of the city. But after the massacre of scores Russian-speakers in Odessa on May 2nd, 2014 (shot, burned to death, beat up to death, tortured, etc.) and the subsequent total whitewashing of this massacre by the Nazi authorities, something must have snapped in the minds of many residents who clearly gave up hope, and waiting 8 years under Nazi rule is a hell I wish on nobody. So I am not condemning them. They paid a huge price in blood.
+
+But the fact is, as of today, there has been no uprising in Odessa.
+
+And it’s not like Russians are universally greeted as liberators. Yes, there were some touching scenes of reunited families in Mariupol, but I don’t exactly observe big crowds of Ukrainian civilians welcoming the Russians with flowers, bread and salt.
+
+I actually don’t think that Putin or the General Staff misread the situation. In fact, I explain Putin’s obvious reluctance to openly intervene precisely because he knew that “just” liberating the LDNR was not an option anymore and that the entire Ukraine MUST, absolutely MUST, be denazified.
+
+Putin and the GS did not want that, they hoped that somehow the Ukrainian people would find it in themselves to “clean house”.
+
+This did not happen and I don’t see it happening anytime soon (especially with any degree of sincerity).
+
+Conclusion: the Russian PYSOPs in the Ukraine failed miserably.
+
+And not only in the Ukraine.
+
+Russian PSYOPs comprehensively failed. Here are a few examples:
+
+Russia was not ready for western cyberattacks, including government servers. That is just a fact.
+
+The Russian PSYOPs were crushed and obliterated by the most effective and biggest PSYOP in history
+
+Russian PR even failed INTERNALLY, especially during the first week, when a lot of Russians did fully believe that they would soon have no money, no food and, basically, no nothing . The Kremlin scrambled to fix this by putting a ton of experts on talk shows and by having well-known Russian war correspondents reporting from the front lines. It did help. The figures of support for the special military operation did slowly creep up and roughly 70% or so of Russians support Putin and the operation. But, frankly, the credit here is mostly due to the truly imbecilic nonsense spewed by the Russian 5th column and Atlantic Integrationists in power. They lost the internal political war, but the Kremlin hardly contributed to that.
+
+. The Kremlin scrambled to fix this by putting a ton of experts on talk shows and by having well-known Russian war correspondents reporting from the front lines. It did help. The Russians completely failed to explain what made this operation “special”, they failed that inside Russia, in Zone A, and even in Zone B!
+
+So now I have to do it :-(
+
+Okay, let’s begin by what this special operation is not. It is not
+
+A repeat of WWII or WWI
+
+A repeat of either/both wars in Chechnia
+
+A repeat of the Russian military intervention in Syria
+
+A repeat of the war in Korea, Vietnam, Afghanistan or any war you can think of
+
+A full-scale Russian attack
+
+WWIII (at least until now, that might change!).
+
+Andrei Martyanov coined a very apt expression: “combined arms police operation“.
+
+Combined arms means basically formation-level warfare.
+
+Police operation means just that, the arrest/destruction of criminals.
+
+So a “combined arms police operation” is strictly speaking nonsensical, and that is why Russian military specialists don’t use it. But it is still one I like, because it reveals both the full scope and full dilemma of Russian strategists.
+
+How do you launch a combined arms attack ONLY against criminals and while sparing innocent lives?
+
+The truth is – you cannot.
+
+So here is what the Russians apparently decided:
+
+Begin with a tactical assault against the Ukie forces in the Donbass
+
+assault against the Ukie forces in the Donbass Bypass all Ukie fortifications and cities which are not willing to surrender
+
+Develop your tactical assault into an operational one by encircling the ENTIRE Ukrainian force in the Donbass
+
+one by encircling the ENTIRE Ukrainian force in the Donbass Move along the coast to liberate Mariupol (tactical), then continue further west (operational development)
+
+Clear the Ukrainian skies and quickly achieve air supremacy thereby dramatically reducing the ability of the Nazis to run, the Ukrainians keep their supply lines open.
+
+Once the skies are safe (not so much from Ukie aircraft, but from their air defenses), fully engage your rotary and fixed-wing aviation for reconnaissance, close air support, move forces, etc.
+
+Block the main Ukie Nazi centers: Mariupol (combats well inside the city), Nikolaev (combats all around the city), in Kharkov (blocked), Chernigov (blocked), Odessa (almost blocked) and Kiev (almost blocked). Then wait for the city to surrender. For that, the city would have to get rid of the local Nazis first, of course. If they cannot do that, then use specialized urban assault to liberate the city and kill all the Nazis, but their orders should be to save their own lives before saving anybody else. So this implies a very slow and deliberate gradual movement in the depth of the city.
+
+Next, destroy the long-range artillery which STILL strikes at the LDRN from several locations (Avdeevka). Then blockade the remaining forces and wait for them to surrender. Strongly urge the Ukrainian commanders to avoid a useless carnage and lay down arms. If all else fails, say within a week or so, wipe them out. Literally and quickly: once the entire Ukronazi controlled areas are declared “open fire zones” the really heavy Russian hardware will take less than 24 hours to completely liberate the entire Donbass.
+
+Then liberate the south first, that is the full Black Sea coast.
+
+Then begin to move forces towards the general direction of central Ukraine (south of Kiev) and wait for more strategic -level decisions by the Russian General Staff and the Kremlin
+
+Will that work?
+
+Frankly, I am not so sure.
+
+My fear is that the United States and Joe “Biden” have decided that the best thing for them is to have as many dead Ukrainians as possible. And that is not a means to an end, it is the end: have as many Steppe Nigger and Snow Niggers kill each other.
+
+This is the West sole and entire plan for the Ukraine: (example from CNN)
+
+I wish I could place any hopes on the people of the Ukraine.
+
+Frankly, I don’t. I think that many decades of joint US and Soviet propaganda (yes, on that they agreed!) following by 30 years of rabid Nazi propaganda, followed by 2 civil wars in the Donbass and a MASSIVE repression against THOUSANDS of people all over the Ukraine broke the spirit of those who have survived it all.
+
+Again, I don’t blame them. I just see them as (mostly) a broken people.
+
+Oh, I still hope and pray for an insurrection liberating the beautiful city of Odessa, but hope dies last: as for prayers, they are never wasted.
+
+But I am afraid that unless something major changes soon, the “combined arms police operation” will drop its latter goal and become a real combined arms operation to occupy, disarm and denazify the entire Ukraine with the possible exception of the area I call the mini-Banderastan (see map here).
+
+If that decision is taken, then Russia will have to move major reinforcements into the Ukraine. Maybe that can still be avoided, but only if the forces currently surrounding the Ukrainians in the Donbass cauldron (well, the two cauldrons inside the bigger Donbass cauldron, really) are quickly made available.
+
+Russia also needs to DRAMATICALLY increase her air operations NOW, like “yesterday now!”, which might mean moving in larger unit (air regiments) into western Russia.
+
+Last, but not least, what about the Empire of Lies?
+
+Yeah, I mean the rumors about volunteer brigades, Polish MiG-29 flying Ukies from NATO bases and all the rest of the crap.
+
+Frankly, here is how I see it: I totally gave up on the West. And by this, I mean two totally different things:
+
+I gave up on any notion of honor, truth, dignity, courage, compassion, decency or any other little sign of hope from a civilization that has already died and whose last legacy to our planet will be the Empire of Lies and everything that entails. In other words, I assume that the level of evil and corruption of the western ruling elites (ALL of them, not just politicians) is infinite and there is no such action or idea which would be deemed “too evil” or “too horrible” for these people. My last words about them will be taken from the 1983 Tempelton speech of Alexander Solzhenitsyn: “Before the multitude of those who have perished and who are oppressed today, may God be their judge.“ I also have given up on any notion of common sense or even on a healthy instinct of self-preservation. It is not that the western elites are not narcissistic enough to care about their sorry asses, not at all. But they are not smart/educated enough to realize that they are looking at the potential devastation of our planet’s entire northern hemisphere, including all of the USA and UK – nevermind Poland! The Poles think that the Anglos will give them cover and the Anglos think that the Russians don’t mean serious business. That unique combination of cowardice and evil might well bring about the end of our world.
+
+So, to answer the question above: it really does not matter what the folks in Zone A think.
+
+It makes for great headlines from the terminally “presstituted” press and it makes some TV watching zombies feel triumphant.
+
+For me, this means this: while I hope to continue to write analyses about this war, I am now officially done debunking the many idiocies still spread by the Western PSYOPs.
+
+What I wrote above is my version of a mini crash course on basic military realities, almost 3500 words, and I am now sure that:
+
+Those who ‘got it’ get it and don’t need the repetition
+
+Those who did not ‘get it’ won’t
+
+And the ratio of those who ‘get it’ to those who don’t make no difference at all
+
+Why?
+
+Because Russia already won the military war and because Russia already lost the PR war.
+
+Okay, I just wrote this in one shot, over 3800 words of analysis, and I am too tired to edit it, and I am going to take a few hours off.
+
+Cheers
+
+Andrei
+
+PS: It took me 4 hours, and I wrote it all in one shot. So it is probably very poorly written. Sorry!!!!
+
+PPS: I friend from Russia pointed out to me that Putin did specifically mention the protection of the LDNR as a goal. He is correct, that was the POLITICAL reason given by Putin, but his MILITARY orders clearly when far beyond that limited political objective.",http://thesaker.is/the-russian-military-intervention-in-the-ukraine-a-macro-view/comment-page-3/

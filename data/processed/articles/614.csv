@@ -1,0 +1,213 @@
+,uid,article_author,article_date,article_text,article_url
+0,fad26b81-392e-4308-aae7-2b785b9f83ea,[],,Meta removed a deepfake video from its platforms Wednesday that depicted Ukrainian President Volodymyr Zelensky ordering his country’s troops to surrender to Russia.,https://www.adweek.com/media/meta-removes-deepfake-video-of-ukrainian-president-volodymyr-zelensky/
+1,fad26b81-392e-4308-aae7-2b785b9f83ea,[],2022-03-17 09:10:14+00:00,"The recent deepfake video of President Volodymyr Zelensky appears to be the first use of AI-generated multimedia during the war against Ukraine.
+
+Facebook’s owner Meta removed the fake video of the Ukrainian president showing the president encouraging the citizens to ‘lay down arms.’ After the video started floating on social media, president Zelensky said the video was false.
+
+“Earlier today, our teams identified and removed a deepfake video claiming to show President Zelensky issuing a statement he never did,” Meta’s head of security policy Nathaniel Gleicher tweeted.
+
+According to Gleicher, the video that appeared on a compromised website was later shared on Facebook and violated the company’s policy on misleading and manipulated media.
+
+An excerpt from a deepfake video Meta removed.
+
+YouTube’s spokesperson Ivy Choi issued a similar statement claiming the platform also deleted the video and suspended reuploads, apart from cases when the video is used for educational or research purposes.
+
+According to Sam Gregory, program director at WITNESS, a New York-based human rights and video evidence group, the fake video of President Zelensky appears to be the first explicit deceptive deepfake in the context of Russia’s war against Ukraine.
+
+Weapon and a tool
+
+Deepfakes is a genre of content generated using artificial intelligence or, more specifically, a Generative Adversarial Network (GAN).
+
+Programs that generate deepfakes use two or more different AIs working together. The first AI scans an image (or video, or audio) of the subject to be faked and then creates a doctored image or other media types.
+
+The second AI will then examine these fakes and compare them to authentic images. And if the differences are too stark, the second AI will mark the image as an obvious fake and tell the first AI.
+
+The first AI takes this information and continually adjusts the fake image until the second AI can’t tell a fake from the real thing anymore. This system is called Generative Adversarial Network, or GAN for short.
+
+While deepfakes can be used to generate legitimate video content as we do at Cybernews, threat actors can abuse the technology with malicious intent.
+
+As of now, the vast majority of deepfakes online are used to generate pornography. Experts feared deepfakes might be instrumental in shaping the 2020 US Presidential elections. However, the fears did not play out.
+
+More from Cybernews:
+
+Government sites under 'unprecedented' cyberattack - Russian ministry
+
+Russia’s cyber weapons might be as weak as its artillery, says expert
+
+AI startup tracks companies breaking off ties with Russia
+
+Not for love nor money: dating app crypto thieves hold on hard to stolen loot
+
+Predictive policing comes under the spotlight in Europe
+
+Subscribe to our newsletter",https://cybernews.com/cyber-war/meta-removes-a-deepfake-of-the-ukrainian-president/
+2,fad26b81-392e-4308-aae7-2b785b9f83ea,['Phil Muncaster'],2022-03-17 10:00:00,"Meta has been forced to remove a deepfake of the Ukrainian President in which he appeared to call on the military to lay down their arms.
+
+Nathaniel Gleicher, head of security policy at the social media giant, announced the move in a series of tweets late on Wednesday.
+
+“Earlier today, our teams identified and removed a deepfake video claiming to show President Zelensky issuing a statement he never did. It appeared on a reportedly compromised website and then started showing across the internet,” he explained.
+
+“We’ve quickly reviewed and removed this video for violating our policy against misleading manipulated media, and notified our peers at other platforms.”
+
+It’s been reported that the compromised site in question was Russian language Ukrainian news site Segodnya, with text reporting the same fake news appearing on a news ticker during a live TV broadcast on Ukraine 24.
+
+However, Zelensky hit back quickly, taking to Telegram to post his own message of defiance at the deepfake hackers.
+
+“If I can offer someone to lay down their arms, it’s the Russian military,” he reportedly said. “Go home. Because we’re home. We are defending our land, our children, & our families.”
+
+The incident marks the first time deepfakes have been used to spread uncertainty and disinformation among the populace in a kinetic war. However, experts have warned for several years that the technology is becoming more accurate and affordable.
+
+Meta announced its plans to ban the AI-powered tech from its platform in early 2020.
+
+According to its policy, videos will be taken down if: “the video is the product of artificial intelligence or machine learning, including deep learning techniques (eg a technical deepfake) that merges, combines, replaces, and/or superimposes content onto a video, creating a video that appears authentic.”
+
+Up until now, the primary use of deepfake technology by malicious actors has been to fake the audio of business leaders in “whaling” attacks.
+
+Last month the FBI warned that such techniques were being used in combination with video conferencing to trick corporate employees into making wire transfers.",https://www.infosecurity-magazine.com/news/russia-uses-deepfake-zelensky/
+3,fad26b81-392e-4308-aae7-2b785b9f83ea,['Taylor Hatmaker'],2022-03-16 00:00:00,"Meta removed an altered video falsely depicting Ukrainian President Volodymyr Zelensky ordering troops to surrender Wednesday. The video is the latest alarming milestone in the parallel information war accompanying Russia’s brutal invasion of neighboring Ukraine, but it was a moment that Ukraine’s government and social media companies appear to have been prepared for.
+
+Meta Head of Security Policy Nathaniel Gleicher explained that the company removed the content for breaking its rules against “manipulated media,” a form of multimedia misinformation that often manifests as video edited to depict a public figure saying something that they never actually said.
+
+3/ More about our policy against manipulated media in our community standards: https://t.co/y0iEGbdU8D pic.twitter.com/u4IcXZVne7 — Nathaniel Gleicher (@ngleicher) March 16, 2022
+
+The misleading video was intercepted by Meta fairly quickly, but is apparently circulating widely on Facebook’s Russian counterpart VKontakte, according to the Atlantic Council’s Digital Forensic Research Lab. DFRLab also observed that a pro-Russia Telegram channel published a deepfake Wednesday depicting Zelensky calling on the country to surrender.
+
+National TV network Ukraine 24 also reported that its news ticker was hacked on Wednesday to similar ends. The ticker showed a message purportedly from Zelensky calling on the people of Ukraine to end their resistance against Russian invading forces.
+
+❗️ Russian hybrid warfare in action. Ukraine 24 TV channel was hacked: the news ticker started displaying President Zelenskyy's fake ""capitulation"" address. @ZelenskyyUa has already refuted the fake, stating the only people he can offer to lay down arms is the Russian troops. pic.twitter.com/MaZjk2hGzA — Stratcom Centre UA (@StratcomCentre) March 16, 2022
+
+Ukraine’s president was quick to counteract the disinformation with his own messaging on Telegram, shot in the same selfie video style that’s characterized Zelensky’s communications since the beginning of the invasion.
+
+In early March, Ukraine’s Centre for Strategic Communications cautioned that Russia might deploy altered videos to distort public perception of its invasion. The center, part of the Ukrainian government’s Ministry of Culture and Information Policy, focuses on “[countering] external threats, in particular information attacks of the Russian Federation.”
+
+“Imagine seeing Vladimir Zelensky on TV making a surrender statement,” the center wrote on its Facebook page on March 2. “You see it, you hear it – so it’s true. But this is not the truth… Be aware – this is a fake!”",https://techcrunch.com/2022/03/16/facebook-zelensky-deepfake/
+4,fad26b81-392e-4308-aae7-2b785b9f83ea,[],,"Facebook’s policy banning deepfakes was the latest to be put to the test amid Russia’s invasion of Ukraine. On Wednesday, the company confirmed it has removed a video that purportedly showed Ukrainian President Volodymyr Zelensky, but was actually a shoddy deepfake.
+
+“Earlier today, our teams identified and removed a deepfake video claiming to show President Zelensky issuing a statement he never did,” Meta’s head of Security Policy Nathaniel Gleicher said in a statement. “It appeared on a reportedly compromised website and then started showing across the internet.” He said the company pulled the video in line with its “manipulated media” policy, which has banned the use of deepfakes for more than two years.
+
+2/ We've quickly reviewed and removed this video for violating our policy against misleading manipulated media, and notified our peers at other platforms. — Nathaniel Gleicher (@ngleicher) March 16, 2022",https://www.engadget.com/facebook-removed-a-deepfake-video-of-zelensky-225532404.html
+5,fad26b81-392e-4308-aae7-2b785b9f83ea,[],,"Meta, the company formerly known as Facebook, says its security teams identified and took down a deepfake video showing Ukrainian President Zelensky delivering a statement that he did not actually deliver.
+
+Deepfake videos use technology to manipulate or generate fake media, for example, by using machine learning to put someone’s face on another person’s body in a video. Some technology can reproduce speech using existing samples of a person’s voice.
+
+Meta’s head of security policy, Nathaniel Gleicher, says the fake video of Zelensky appeared on a “reportedly compromised website and then started showing across the internet.”
+
+Meta reviewed and removed the video for violating its policy against misleading manipulated media, and notified other platforms, Gleicher says.
+
+The announcement does not say what the fake Zelensky said in the video.
+
+Advertisement
+
+Meta also owns Instagram and WhatsApp.
+
+Zelensky released a video online later dismissing the fake clip.
+
+2/ We've quickly reviewed and removed this video for violating our policy against misleading manipulated media, and notified our peers at other platforms. — Nathaniel Gleicher (@ngleicher) March 16, 2022
+
+Sky News reported that in the fake video, Zelensky told people to surrender to Russia, and said he was giving Russia the Donbas region of Ukraine.
+
+Examples said to be from the fake video that are still circulating online do not appear convincing.
+
+Advertisement",https://www.timesofisrael.com/liveblog_entry/facebook-says-it-took-down-deepfake-video-of-zelensky-making-a-speech/
+6,fad26b81-392e-4308-aae7-2b785b9f83ea,['Shweta Ganjoo'],2022-03-17 14:30:42+05:30,"Facebook’s parent company Meta has confirmed that it removed a deepfake video of the Ukrainian President Volodymyr Zelensky asking Ukrainians to ‘lay down arms’ in the weeks-old war against Russia. Also Read - How to upload HD videos on Facebook from iPhone, Android smartphone
+
+The deepfake video of President Zelensky was first broadcasted by a Ukrainian news site called ‘Ukraine 24’ after an alleged hack. The deepfake video shows President Zelenksy speaking behind a podium declaring that his country had decided to return Donbas to Russia. It also asked the Ukrainian ‘defenders’ to lay down their arms and return to their homes. Also Read - Apple and Meta to launch AR glasses by 2024: Expected price, specifications and more
+
+In the deepfake video seen by Motherboard’s Vice, Zelensky says, “…I advise you to lay down your arms and return to your families. You should not die in this war. I advise you to live, and I’m going to do the same.” Also Read - WhatsApp new drawing tool feature revealed: All you need to know
+
+The video doesn’t look doctored but there are telltale signs that point out that the video isn’t what it appears to be. As noted by The Verge, the video shows Zelensky’s head being more pixelated than his surrounding body. Additionally, his voice in the video seems to be much deeper than his real voice.
+
+As a matter of principle, I never post or link to fake or false content. But @MikaelThalen has helpfully whacked a label on this Zelensky one, so here goes. I’ve seen some well-made deepfakes. This, however, has to rank among the worst of all time.pic.twitter.com/6OTjGxT28a — Shayan Sardarizadeh (@Shayan86) March 16, 2022
+
+Confirming the news, Meta’s head of Security Policy Nathaniel Gleicher said, “Earlier today, our teams identified and removed a deepfake video claiming to show President Zelensky issuing a statement he never did. It appeared on a reportedly compromised website and then started showing across the internet.”
+
+“We’ve quickly reviewed and removed this video for violating our policy against misleading manipulated media, and notified our peers at other platforms,” he added in another tweet.
+
+2/ We’ve quickly reviewed and removed this video for violating our policy against misleading manipulated media, and notified our peers at other platforms. — Nathaniel Gleicher (@ngleicher) March 16, 2022
+
+After the video started circulating on social media, President Zelensky posted a video on Instagram debunking the video. “As for the latest childish provocation with advice to lay down arms, I only advise that the troops of the Russian Federation lay down their arms and return home…We are at home and defending Ukraine,” he said in the post.
+
+View this post on Instagram A post shared by Володимир Зеленський (@zelenskiy_official)
+
+What are deepfakes?
+
+The term ‘deepfake’ is a combination of two words – deep learning and fake. Now, deep learning is a form of artificial intelligence (AI) that uses large data sets to train itself to solve a problem. In case of deepfakes, scamsters are using AI to create real-looking fake videos by swapping faces in a video.
+
+There are ample examples of deepfakes available on the internet today. Remember the video where Jon Snow apologises for Game of Thrones’ disappointing ending or the video wherein Facebook-founder Mark Zuckerberg brags about having control of billions of people’s stolen data? If you have seen these videos, you have seen a deepfake.
+
+Are deepfakes only videos?
+
+No, not all deepfakes are videos. Deepfake technology can be used for making anything from voice clones to creating photos of people from scratch. Deepfake audios are also used for making deepfake videos more convincing.
+
+How are deepfakes created?
+
+Making a deepfake video isn’t easy. It involves a few steps and a large data set to make a face-swap video that looks real. First, a creator will have to train an AI with hours of video footage of the two people whose faces they want to swap. This will help the AI to understand what the people whose faces the creator aims to swap look like from every angle and under various lighting conditions. Once the AI has been trained, it will find similarities in the two faces and compress the image at the same time. Then a second AI algorithm will be taught to recover the compressed images.
+
+As The Guardian explains it, for making a deepfake video or swapping faces in a video, the creator needs to feed the encoded images of the person whose video needs to be created will be fed in the decoder of the second person, whose video has been recorded for replacement. Since there is a difference between the two videos, the AI will reconstruct the face of the second person with a face that resembles the first person. This process is repeated on every frame of the video and so the end result looks real.
+
+Another technique that creators use to create deepfakes is called generative adversarial network or GAN. In this, two AIs compete with each other. It has two elements – generator and discriminator and the idea is to train the generator AI by making the discriminator AI give its feedback. Overtime both the generator and discriminator improve and in the end, the generator ends up creating realistic images. This technique is used for creating images from scratch. However, they require a bigger data set and take longer to generate images. IEEE Spectrum notes that they are good for synthesising images but not videos.
+
+What are deepfakes used for?
+
+Deepfakes have already been used in the film-making industry. It has been used for inserting Harrison Ford’s young face onto Han Solo’s face in Solo: A Star Wars Story and Princess Leia in Rogue One. But it can also be used for scamming people and mis-represent politicians. In 2018, a Belgian political party released a video of Donald Trump calling on Belgium to withdraw from the Paris climate agreement. Trump never gave that speech – it was a deepfake.
+
+In the same year, Jordan Peele collaborated with Buzzfeed to create a deepfake of the former US President Barack Obama in Peele’s voice to raise awareness about deepfakes.
+
+While these are relatively harmless usages, deepfakes such as the one of the Ukrainian President Zelenksy can topple governments and cause wars.
+
+How to spot deepfakes?
+
+Poor-quality deepfakes are easier to spot. Unnatural blinking, bad lip-synching, problems with hair, skin or face or blurring along the line where the image was patched are some of the ways of spotting a deepfake.
+
+Besides this, tech companies such as Meta, Microsoft, Google and Twitter are also using AI-based algorithms for spotting deepfakes.",https://www.bgr.in/features/meta-removes-ukrainian-president-zelensky-deepfake-video-what-are-deepfakes-what-are-they-used-for-1247348/
+7,fad26b81-392e-4308-aae7-2b785b9f83ea,[],,"A deepfake video of Ukrainian president Volodymyr Zelenksy calling on his country’s troops to surrender to Russian forces reportedly made it onto a hacked Ukrainian news site today after going viral on Facebook, The Daily Dot reports.
+
+According to the report, it may be the first deepfake created to deceive opponents during Russia’s invasion of Ukraine.
+
+While the video isn’t the cleanest or convincing example of deepfake technologies — it’s clearly not the real Zelenksy in the video as, for one, the head is far too big for the body — it’s an ominous example of a troubling new weapon in the arsenal of a world power: faked videos of statements made by enemy political leaders.
+
+The real Zelenksy was quick to respond to the deepfake in a separate video posted to Facebook, calling for Russians to surrender instead.
+
+Advertisement
+
+Advertisement
+
+“If I can offer someone to lay down their arms, it’s the Russian military,” he said in the video. “Go home. Because we’re home. We are defending our land, our children, and our families.”
+
+According to disinformation watchdog the Atlantic Council’s Digital Forensic Research Lab (DFRLab), the video was aired on a hacked news program.
+
+“This is a fake!” Ukrainian outlet wrote in an Instagram post, as translated by Google. “Friends, we have repeatedly warned about this. Nobody is going to give up.”
+
+Facebook’s parent company Meta has since taken down the troubling video.
+
+Advertisement
+
+Advertisement
+
+“Earlier today, our teams identified and removed a deepfake video claiming to show President Zelensky issuing a statement he never did,” the company’s head of security policy Nathaniel Gleicher tweeted. “It appeared on a reportedly compromised website and then started showing across the internet.”
+
+“We’ve quickly reviewed and removed this video for violating our policy against misleading manipulated media, and notified our peers at other platforms,” Gleicher added in a follow-up.
+
+The topic of disinformation has hit fever pitch as Russian troops turn major Ukrainian cities into rubble. Hackers are waging a secondary war online, taking down government websites and interfering with military operations.
+
+It’s not even the only deepfake video to surface today, with a similar video of a deepfaked Russian president Vladimir Putin declaring victory also making the rounds.
+
+Advertisement
+
+Advertisement
+
+Meanwhile, Russia is shutting itself off from the world. The news comes after both Facebook and Instagram were completely blocked by Russian authorities earlier this month.
+
+But without major social media platforms, Russia has cut off a massive distribution channel of its own state propaganda as well.
+
+It’s unclear, notably, if the deepfake video actually had its targeted effect of sowing confusion or even convincing Ukrainians to surrender to the enemy. Whether a deepfake ever will remains an open question.
+
+READ MORE: Hackers drop deepfake of Zelenskyy ordering troops to surrender on Ukrainian news site [Daily Dot]
+
+Advertisement
+
+Advertisement
+
+More on Ukraine: Space Conference Censors Name of First Human in Space Because He Was Russian
+
+Care about supporting clean energy adoption? Find out how much money (and planet!) you could save by switching to solar power at UnderstandSolar.com. By signing up through this link, Futurism.com may receive a small commission.",https://futurism.com/deepfaked-video-ukrainian-president-surrender

@@ -1,0 +1,1626 @@
+,uid,article_author,article_date,article_text,article_url
+0,e77b4638-aa29-4408-a7d6-693854e4ad4f,[],,"JavaScript is not available.
+
+We’ve detected that JavaScript is disabled in this browser. Please enable JavaScript or switch to a supported browser to continue using twitter.com. You can see a list of supported browsers in our Help Center.
+
+Help Center",https://twitter.com/netblocks/status/1496832598764834824?lang=en
+1,e77b4638-aa29-4408-a7d6-693854e4ad4f,[],2022-02-25 00:00:00,"Internet access has been cut off in many parts of Ukraine for several days. Hacking, bombings… If the causes can be multiple, the consequences are the same. International observers and the country’s population fear a widespread blackout.
+
+As Russian tanks enter Ukrainian territory, internet shutdowns are increasing, especially in the country’s second largest city, Kharkiv. Coincidentally or not, during this same period, Russian cyberattacks disrupted many bank and government sites. Some international experts fear a widespread blackout, a possibility that would make Russia’s job that much easier.
+
+Denial of service (DDoS) attacks on the Ukrainian internet network have multiplied in recent weeks. However, these DDoS attacks do not seem to be the cause of the Internet incidents of recent days. The most important took place on Thursday, February 24. Much of the network around Kharkiv, Ukraine’s second largest city, was left partly without a connection.
+
+Network dropout for several hours
+
+The information provided by NetBlocks, an organization in charge of Internet observation, shows a significant drop in data from Triolan, one of the main operators in the country, of around 25% on the night of Wednesday, February 23. If at first, observers thought that the bombardments around the region could have damaged telecommunications installations, it now appears that the operator was the victim of a hack.
+
+⚠️ Update: #Ukraine‘s second-largest city #Kharkiv continues to take the brunt of network and telecoms disruptions, leaving many users cut off amid scenes of destruction as Russia targets the region. Kyiv is currently less impacted by outages. 📰 Report: https://t.co/S0qJQ7CJD3pic.twitter.com/FxgN1bHV3m — NetBlocks (@netblocks) February 24, 2022
+
+On its website, Triolan said to have been the target of several hacks of “key nodes” of his network. “A number of routers in our network have been disabled without remote recovery possible, with a total of 57 nodes in Kyiv, Kharkiv, Dnipro, Poltava, Odessa, Rivne and Zaporizhia“, details the Internet service provider, which also mentions damaged physical equipment.
+
+This Friday, the operator claims to be trying to repair its network, but many problems remain. The supplier’s DNS servers, which are used to link a domain name (such as www.lesnumeriques.com) to an IP address, are experiencing incidents. Triolan therefore advises Ukrainian users to configure them themselves with the DNS of Google (8.8.8.8 and 8.8.8.4) or Cloudflare (1.1.1.1).
+
+Cutting the Internet, an attack like any other
+
+Is Russia behind the hacking of network nodes? At present, no information has corroborated or invalidated such a possibility. However, in conflicts of this magnitude, shutting down, slowing down or censoring the internet is often beneficial to one of the parties involved.
+
+Felicia Anthonio, from digital rights organization Access Now, details at The Verge, the direct consequences of internet shutdowns in conflict situations. “Internet infrastructure becomes a target in order to control the flow of information and gain or maintain power during conflict, we have seen this in the destruction of Yemen’s telecom infrastructure after airstrikes by the ‘Saudi Arabia“, she explains to our colleagues.
+
+Although Russia is not directly behind the outages of recent days, Vladimir Putin’s country has demonstrated time and time again that it has the ability to severely affect the global Internet. As revealed by New York Times in 2015, Russia was taking a keen interest in undersea internet cables. At the time, the Russian fleet sailed very regularly near them, and were then able to spy on them and even cut them off. Based on this observation, there is no doubt that in seven years, Russia has improved.",https://www.arover.net/2022/02/25/ukraine-mysterious-internet-cuts-for-several-days/
+2,e77b4638-aa29-4408-a7d6-693854e4ad4f,"['Marc Santora', 'The New York Times', 'Megan Specia', 'Andrew Das', 'Makiko Inoue', 'Maria Varenikova', 'John Yoon', 'Amy Qin', 'Matina Stevis-Gridneff', 'Andrew E. Kramer']",2022-02-25 00:00:00,"KYIV, Ukraine — The Ukrainian defense forces, outmanned and outgunned, waged a ferocious resistance to the Russian invasion on Saturday, battling to keep control of the capital, Kyiv, and other cities around the country.
+
+President Volodymyr Zelensky of Ukraine posted a video on Twitter, telling the public not to believe false reports.
+
+He was alive. Kyiv had not fallen. Any reports of Ukraine laying down its arms was a lie, Mr. Zelensky said.
+
+“I’m here,” he said. “We are not putting down any arms. We will protect our country, because our weapons are our truth. The truth is that this is our land, our country, our children, and we will protect them all.”
+
+“That is it. That’s what I wanted to tell you. Glory to Ukraine.”
+
+His comments, released before 9 a.m., came as fighting intensified in Kyiv. What until three days ago had been a thriving European metropolis has been transformed into a battle zone. Russian troops pressed in from all directions.
+
+There was intense street fighting, and bursts of gunfire and explosions could be heard across the city, including its heart, Maidan square, where in 2014 Ukrainian protests led to the toppling of a pro-Moscow government.
+
+The Russian military has a decisive edge in cyberwarfare, tanks, heavy weaponry, missiles, fighter planes and warships. In sheer numbers, its military dwarfs that of Ukraine.
+
+Russia has established attack lines into three cities — Kyiv in the north, Kharkiv in the northeast and Kherson in the south — and Ukrainian troops are fighting to hold all three. The Pentagon reported late Friday that the Russians did not appear to be in control of a single major population center. Significantly, a senior U.S. defense official said, Ukrainian command and control remains intact.
+
+The Ukrainian government reported that hundreds of Russian soldiers had been killed in the war, along with scores of their own soldiers, while the Russian defense ministry issued a statement on Saturday morning that made no mention of any casualties or anything about the fight for Kyiv.
+
+The Russian invasion started with targeted airstrikes before dawn on Thursday, but on the third day of the war, bloody battles were often being waged in close quarters. Ukrainska Pravda, a Ukrainian news site, citing witnesses, reported combat 400 yards from Maidan Square in central Kyiv.
+
+All Ukrainian men of fighting are being drafted into service, and tens of thousands are signing up. Ukrainians were asked to make Molotov cocktails. And there were tearful scenes at airports in western Ukraine as wives kissed their husbands goodbye before they headed to front.
+
+The nation has rallied around its president, Mr. Zelensky, a former comedian.
+
+To him and other officials, the objective of the Russian invasion of a neighboring country that possessed no military threat is to topple the government.
+
+Mr. Zelensky has said that he is “target no. 1.”
+
+As battles were waged around the city on Saturday morning, there were reports of clashes near the city’s train station and along a central thoroughfare, Bohdan Khmelnitsky Street, leading from Victory Square toward the city center, according to the witness accounts. Along that street, closer to the city center, bursts of gunfire could be heard through the night.
+
+“We are stopping the horde, so far as we can,” the secretary of the Ukrainian Security and Defense Council, Oleksy Danilov, said around 7 a.m. “The situation is under control of the Armed Forces of Ukraine and citizens of Kyiv.”
+
+In dozens of interviews in the tense hours before the invasion and in the days after, Ukrainians struggled to understand how a country at peace so suddenly found itself at war. For many Ukrainians, the answer was found in Russia’s president, Vladimir V. Putin.
+
+This is Mr. Putin’s war. But what frightened people perhaps as much as the threat of missiles and bombs was that they did not know what he wanted.
+
+The fear was evident in the drive from Kyiv to a small village outside the city. Military convoys had replaced families going on vacation or visiting friends. Where once Kyiv was known as a city where the music played a touch too loud in its cafes, the incessant wail of air raid sirens drowned out all joy.
+
+The fear was evident in the faces of the people seeking safety in Western Ukraine, after they emerged from 20-hour train rides in packed carriages that were kept pitch-black to avoid being targeting by Russian rockets.
+
+From Lviv in the west to Odessa in the south and Kharkiv and nearly all points in between, people huddled in air raid shelters and lined up and bank machines and stocked up on essentials.
+
+While the Russians, for the moment, were not in control of any city, it was only the first phase of a conflict that could stretch into weeks or longer.",https://www.nytimes.com/live/2022/02/25/world/russia-ukraine-war
+3,e77b4638-aa29-4408-a7d6-693854e4ad4f,"['Globe Staff', 'Murat Yukselir', 'The Globe And Mail', 'Source', 'Graphic News Via Ap', 'Bloomberg And Reuters']",2022-02-25 01:50:19-05:00,"This digest has now been archived. Find the latest Russia-Ukraine updates here.
+
+A Ukrainian soldier sits injured in Kyiv, Ukraine, Friday, Feb. 25, 2022.Emilio Morenatti/The Associated Press
+
+Editor’s note: Our live coverage on this page has ended. Follow the latest Russia-Ukraine news and updates as the battle for Kyiv escalates.
+
+Russia has invaded Ukraine. Here are the latest updates:
+
+1:30 a.m. ET
+
+Russian, Ukrainian forces clash in streets of Kyiv
+
+Russian and Ukrainian forces clashed in Kyiv on Saturday as authorities urged citizens to help defend the city. Heavy, frequent artillery fire and intense gunfire, apparently some distance from the city centre, could be heard, a witness in Kyiv said. The Ukrainian military said Russian troops attacked an army base on a main avenue but the assault was repelled. Gunfire was heard after dawn near government buildings in the city centre, a witness said. The air force command reported heavy fighting near an air base at Vasylkiv southwest of the capital, which it said was under attack from Russian paratroopers. It also said one of its fighters had shot down a Russian transport plane, but those claims remain unverified.
+
+Ukrainian officials said Russian forces fired cruise missiles from the Black Sea at the cities of Sumy, Poltava and Mariupol and there was heavy fighting near the southern city of Mariupol.
+
+President Volodymyr Zelenskiy, speaking in a video message from outside his Kyiv office, was defiant.
+
+“We will not put down weapons, we will defend our state,” Zelenskiy said.
+
+-Reuters
+
+12:20 a.m. ET
+
+Biden approves $350-million in military aid for Ukraine
+
+U.S. President Joe Biden instructed the State Department to release $350-million in military aid to Ukraine on Friday as it struggles to repulse a Russian invasion.
+
+In a memorandum to Secretary of State Antony Blinken, Biden directed that $350-million allocated through the Foreign Assistance Act be designated for Ukraine’s defence.
+
+-Reuters
+
+11:51 p.m. ET
+
+China’s embassy in Ukraine reverses advice for citizens to identify themselves amid backlash
+
+Days after encouraging people to put Chinese flags on their cars if they were travelling, China’s embassy in Ukraine is now warning citizens in the country not to “display identifying signs.”
+
+The advice comes amid unconfirmed reports on social media of a backlash against Chinese in Ukraine after Beijing publicly backed Russia’s invasion of the country.
+
+On Friday night, Beijing’s representative abstained from a vote condemning Moscow’s actions at the United Nations Security Council. Earlier in the day, President Xi Jinping had a phone call with his Russian counterpart, Vladimir Putin, in which he urged negotiation with Kyiv but also acknowledged Russia’s “legitimate security concerns.”
+
+”The Chinese embassy in Ukraine would like to remind our compatriots that during the current security situation, we should attach great importance to friendly relations with the Ukrainian people, avoid disputes on specific issues and strive to resolve issues through friendly means,” the embassy said Friday night in a post on WeChat.
+
+”Minimize security risks by staying away from military installations, military personnel and gunmen. Do not take pictures of people in the crossfire, or without their consent.
+
+”Some 6,000 Chinese citizens live in Ukraine, according to the embassy, which earlier said there were charter flights available for those trying to leave the country.
+
+-James Griffiths in Hong Kong
+
+11:44 p.m. ET
+
+Meta to bar Russian state media from running ads, monetizing on platform
+
+Meta Platforms Inc is barring Russian state media from running ads or monetizing on its platform anywhere in the world, the parent company of social media giant Facebook said on Friday.
+
+“We also continue to apply labels to additional Russian state media,” its security policy head, Nathaniel Gleicher, said on Twitter. “These changes have already begun rolling out and will continue into the weekend.”
+
+-Reuters
+
+10:20 p.m. ET
+
+Ukraine says two commercial ships hit by Russian missiles near Odesa port
+
+Ukraine said Russian warships shelled a Moldovan-flagged chemical tanker and a Panamanian-flagged cargo ship due to load grain near Odesa port in the Black Sea.
+
+Ukraine’s infrastructure ministry said that the Moldovan-flagged vessel, the Millennial Spirit, was carrying 600 tonnes of diesel at the time of the attack from a Russian military ship.
+
+Earlier on Friday Moldova’s naval agency said the crew of the Millennial Spirit was Russian and that two of them had been seriously injured.
+
+According to the Ukrainian ministry, the cargo ship Namura Queen was also hit by Russian missiles on Friday.
+
+-Reuters
+
+10:16 p.m. ET
+
+How teachers are helping students make sense of Russia’s invasion of Ukraine
+
+A family sit in the Kyiv subway, using it as a bomb shelter in Kyiv, Ukraine, Friday, Feb. 25, 2022. In Ukraine's capital, many residents hurried underground for safety overnight Thursday and Friday as Russian forces fired on the city and moved closer.Emilio Morenatti/The Associated Press
+
+At a Ukrainian Saturday school in Oakville, Ont., students typically learn about their culture, participate in dance lessons and study the language.
+
+This weekend, however, classes at Oakville Ridna Shkola will have a more sombre tone: The younger children will write letters to soldiers and high-school students will listen to a guest speaker’s lecture about misinformation and how to find reliable sources of news about Russia’s invasion of Ukraine.
+
+“We want them to have an understanding of what the real facts are, what is really happening. And the most important thing is to distinguish between the true information and fake information,” said Oksana Levytska, principal at the school.
+
+Oakville Ridna Shkola is one of many institutions across the country that are providing spaces for young people to share how they feel during an uncertain time. Educators are balancing the possibility of spreading fear among students with the benefits of helping them understand the events unfolding in Ukraine.
+
+-Caroline Alphonso
+
+10:11 p.m. ET
+
+Japan considering imposing sanctions against Belarus
+
+Japan is considering imposing economic sanctions on Belarus, in line with the United States, for its support of Russia’s invasion of Ukraine, two government officials with knowledge of the matter told Reuters.
+
+It was not immediately clear which individuals or entities would be targeted by such sanctions. The officials told Reuters that Tokyo will coordinate with other members of the Group of Seven industrial powers.
+
+A Foreign Ministry spokesman declined comment. The office of Prime Minister Fumio Kishida could not immediately be reached for comment.
+
+-Reuters
+
+10:03 p.m. ET
+
+Ukraine’s military says it shot down Russian military transport plane with paratroopers on board
+
+According to a statement from the military’s General Staff, the Il-76 heavy transport plane was shot down near Vasylkiv, a city 40 kilometers south of Kyiv. The Russian military has not commented on the incident so far, and the report could not be immediately verified.
+
+-The Associated Press
+
+8:55 p.m. ET
+
+After day of protests, Ukrainian-Canadians focus on fundraising amid Russian advance
+
+People attend a rally in support of the people of Ukraine, in Vancouver, on Thursday, Feb. 24, 2022.DARRYL DYCK/The Associated Press
+
+Canadians rushed to provide war-torn Ukraine with material aid, selling donuts to raise money, offering furniture to future refugees, and trying to purchase military equipment for veterans on the front lines.
+
+After a day of protest, attention turned to the difficult task of giving a beleaguered nation the help its government was seeking, in ways large and small. The Ukrainian military took the dramatic step of asking international supporters for cash donations, while Canada’s federal government offered to match individual contributions to the Canadian Red Cross.
+
+Two more groups, the Ukrainian Canadian Congress and the Canada-Ukraine Foundation, teamed up at the end of January to launch a fundraising drive called the Ukraine Humanitarian Appeal. The pair has collected $2.4-million of its $5-million goal, according to the tally on CUF’s website.
+
+-Eric Andrew-Gee , Joe Friesen , Carrie Tait , Ntawnis Piapot
+
+8:22 p.m. ET
+
+In photos: 48 hours of war in six Ukrainian cities
+
+A woman and child peer out of the window of a bus as they leave Sievierodonetsk, the Luhansk region, eastern Ukraine, Thursday, Feb. 24, 2022.Vadim Ghirda/The Associated Press
+
+Explosions were seen across Ukraine from Lviv to Kharkiv and thousands have fled their homes. From their eastern and northern borders to the Black Sea coast, Ukrainians have mobilized to fight Russia’s invasion.
+
+While history unfolds, photojournalists are capturing remarkable images of the invasion, up close and sometimes at great risk to their safety. This is an overview of what they’ve seen so far, and where they saw it.
+
+-Globe Staff
+
+7:26 p.m. ET
+
+Canadian tech firms with Ukraine offices struggling to get employees out of country as Russian forces advance
+
+Canadian technology firms with offices and employees in Ukraine are trying to help staff flee the country, but efforts to get them access to Canada have so far largely gone nowhere.
+
+Chief executives at several tech companies said the Canadian government has not provided work visas or approved refugee applications for their Ukrainian staff.
+
+Sean Fraser, Canada’s Minister of Immigration, Refugees and Citizenship, said his department has already approved more than 1,800 Ukrainian immigration applications on a “priority basis,” and is expediting applications from Ukrainians who are trying to escape the conflict.
+
+But Anna Sainsbury, chief executive officer of Vancouver cybersecurity firm GeoComply Solutions Inc., said her experience has been far from what the immigration minister described. Her company has been attempting to get federal officials to create streamlined or priority immigration applications for Ukrainian employees since early February, but has not heard back from Ottawa.
+
+-Temur Durrani
+
+7:06 p.m. ET
+
+White House asks Congress for $6.4-billion for Ukraine crisis
+
+The White House asked Congress to approve $6.4-billion in aid to address the humanitarian and security crisis in Ukraine.
+
+The request included $2.9-billion in security and humanitarian assistance and $3.5-billion for the Department of Defense. The money would also cover the implementation and enforcement of the sanctions Biden is enacting to punish Russia for its aggression against Ukraine.
+
+Congressional aides said the administration had made the request on Friday at a briefing for staff from congressional leadership offices and relevant committees, including the appropriations committees that set spending.
+
+-Reuters
+
+7:06 p.m. ET
+
+B.C. Premier John Horgan condemns Putin
+
+British Columbia supports the people of Ukraine in their battle to turn back Russian military forces and President Vladimir Putin, says Premier John Horgan.
+
+B.C. is working with the federal government and will support whatever sanctions Canada decides to impose to help condemn Russian actions, he said Friday.
+
+“I want to add my condemnation to the wrongful actions of the government of Russia in taking away the liberties and threatening the lives of the people of Ukraine,” he told a news conference at Government House after announcing changes to his cabinet.
+
+-The Canadian Press
+
+6:26 p.m. ET
+
+Trudeau calls for Russia to be cut out of crucial SWIFT pay system in new wave of sanctions over Ukraine invasion
+
+Prime Minister Justin Trudeau is calling for Russia to be cut out of the SWIFT system for international banking payments.
+
+Trudeau, U.S. President Joe Biden and the European Union all imposed sanctions directly on Mr. Putin and his foreign minister, Sergey Lavrov, freezing any assets they own in these three jurisdictions.
+
+The Canadian Prime Minister went a step further and openly pushed for a ban on Russian banks using SWIFT, the service that allows for cross-border financial transactions, including paying for traded goods. It is particularly crucial for Russia to collect the fossil fuel royalty payments that fund its government.
+
+Prime Minister Justin Trudeau has announced Canada’s new sanctions against Russian President Vladimir Putin personally, as well as foreign minister Sergeĭ Lavrov, as the Russian invasion of Ukraine continues. Trudeau also announced Canada’s support of removing Russia from the international banking system SWIFT, and said personal donations from Canadians to Ukraine relief efforts would be matched by Ottawa up to $10-million. The Globe and Mail
+
+“We have made it clear that all options are on the table when it comes to imposing steep costs on Russia’s unjustified and unprovoked invasion,” Mr. Trudeau said. “Excluding Russian banks from SWIFT would make it even more difficult for President Putin to finance his brutalities.”
+
+Mr. Trudeau’s announcement now makes him the most vocal proponent of the measure among G7 leaders. British Prime Minister Boris Johnson has also favoured ejecting Russia from SWIFT, while the EU, led by Germany, has been most opposed.
+
+-Adrian Morrow, Steven Chase, Robert Fife
+
+Back to top
+
+6:02 p.m. ET
+
+Russia vetoes UN resolution to end Ukraine invasion
+
+Russia vetoed a UN Security Council resolution telling Moscow to stop attacking Ukraine and withdraw all troops immediately.
+
+The veto was expected, but the United States and its supporters argued that the effort would highlight Moscow’s international isolation.
+
+The 11-1 vote – with China, India and the United Arab Emirates abstaining – showed significant but not total opposition to Russia’s invasion of its smaller, militarily weaker neighbour.
+
+The resolution’s failure paves the way for backers to call for a swift vote on a similar measure in the 193-member UN General Assembly, where there are no vetoes. There was no immediate timetable for a potential Assembly vote.
+
+Unlike Security Council resolutions, General Assembly resolutions aren’t legally binding, but they can function as statements of world opinion. In an Assembly meeting Wednesday as Moscow’s invasion loomed, dozens of countries condemned Russia or expressed solidarity with Ukraine. Russia and ally Syria defended Moscow’s moves.
+
+-The Associated Press
+
+5:19 p.m. ET
+
+Canada to sanction Russian President Vladimir Putin
+
+Prime Minister Justin Trudeau says Canada will sanction Russian President Vladimir Putin as part of a third set of severe, co-ordinated sanctions against the country over its invasion of Ukraine.
+
+Canada will also bring in sanctions on Russia’s foreign minister, Sergey Lavrov, and Putin’s chief of staff.
+
+Trudeau says these men bear the greatest responsibility for the death and destruction occurring in Ukraine.
+
+The prime minister also says Canada is confirming its support to remove Russia from the SWIFT payment system, a critical part of the global banking system.
+
+-The Canadian Press
+
+5 p.m. ET
+
+Watch: Gunfire outside a hospital and the aftermath of battle as Russian forces move into Ukraine
+
+As Russian forces moved deeper into Ukraine on Friday, videos show weapons fire striking outside a hospital in southeast Ukraine and the aftermath of a battle for a key bridge over the Dnieper River. The Globe and Mail
+
+As Russian forces moved deeper into Ukraine on Friday, videos show weapons fire striking outside a hospital in southeast Ukraine and the aftermath of a battle for a key bridge over the Dnieper River.
+
+-The Globe and Mail
+
+4:53 p.m. ET
+
+Wall Street sharply higher for second day after Ukraine shock
+
+U.S. stocks ended up sharply for a second day on Friday, with the Dow registering its biggest daily percentage gain since November 2020 as the market rebounded from the sharp selloff leading up to Russia’s invasion of Ukraine.
+
+Oil prices fell below $100 a barrel, easing some concerns about higher energy costs.
+
+Investors also are assessing news that Russian President Vladimir Putin told his Chinese counterpart Xi Jinping in a call that Russia was willing to hold high-level talks with Ukraine, according to China’s Foreign Ministry.
+
+Some strategists say stock-selling may have been overdone. The S&P 500 confirmed earlier this week it was in a correction when it ended down more than 10% from its Jan. 3 record closing high.
+
+According to preliminary data, the S&P 500 gained 96.04 points, or 2.25%, to end at 4,384.74 points, while the Nasdaq Composite gained 223.28 points, or 1.66%, to 13,695.47. The Dow Jones Industrial Average rose 834.16 points, or 2.51%, to 34,058.55.
+
+-Reuters, Globe Staff
+
+4:27 p.m. ET
+
+Watch: Prime Minister Justin Trudeau discusses Canada’s response to Russian invasion of Ukraine
+
+Trudeau is holding a news conference on Parliament Hill to provide an update on Canada’s response to Russia’s invasion of Ukraine. He is joined by Deputy Prime Minister Chrystia Freeland, Anita Anand, Mélanie Joly, Sean Fraser, and Harjit Sajjan.
+
+4:06 p.m. ET
+
+Around the world, anti-war protestors gather to show support for Ukraine
+
+People demonstrate outside of U.K. Prime Minister Boris Johnson's residence on Feb. 25, 2022 in London.JEFF J MITCHELL/Getty Images
+
+Members of the Greek Communist Party (KKE) hold flags during a protest against the invasion of Ukraine by Russia, in Athens, Greece, February 25, 2022. REUTERS/Louiza VradiLOUIZA VRADI/Reuters
+
+More images from the protests and other demonstrations here.
+
+-Lacy Atalick
+
+3:36 p.m. ET
+
+Opinion: How Nord Stream 2 became a geopolitical blunder for both Russia and Germany
+
+No pipeline in decades has carried as much geopolitical risk as the Nord Stream 2, the megaproject that was supposed to bring Russia and Germany closer together economically, stuff Western Europe with cheap fuel and accelerate the demise of dirty coal power plants.
+
+Those risks, apparent from Day 1 in 2015, when NS2 was announced, finally overwhelmed the pipeline this week. NS2 is effectively, although not officially, dead; it now has zero chance of obtaining an operating licence from Berlin in the next few years, if ever. The war in Ukraine finally tipped it over the edge, an example of savage politics overwhelming serious commerce.
+
+A painted map of the Nord Stream 2 pipeline from Russia to Germany is shown at the natural gas receiving station in the Lubmin industrial estate in Lubmin, Germany, on Nov 16, 2021.Stefan Sauer/The Associated Press
+
+Many countries, not just Ukraine, opposed the pipeline. They argued it would make Germany and a few other countries slaves to Russian gas, opening the door to blackmail and intensifying Europe’s fossil fuel reliance when it should be devoting its might and creativity to renewable energy.
+
+The U.S. slapped sanctions on NS2, but they were too narrow and ultimately proved entirely ineffective. One of the targets was pipe-laying ships in the Baltic. The Russians solved that problem by finding ships that were not subject to the sanctions.
+
+In the end, Russia lost an enormous pipeline that could have earned Gazprom fortunes for decades and made Europe even more reliant on imported gas. Germany’s endorsement of NS2 until Mr. Scholz banished it, showed the country had woefully misjudged the pipeline’s geopolitical risks, making it look naive and feckless. There were no winners in this saga, just lessons.
+
+-Eric Reguly
+
+3:16 p.m. ET
+
+Canada to match individual donations to Red Cross for Ukraine
+
+The federal government is planning to match donations made to the Canadian Red Cross for humanitarian relief for Ukraine. The campaign, which is slated to begin Friday and run until March 18, would see the government match donations by Canadians dollar for dollar to a maximum of $10-million, said a senior government official who spoke on the condition of anonymity to discuss matters not yet public.
+
+The head of Save the Children Canada also urged Canadians to donate funds as part a US$19-million global appeal to help the humanitarian efforts on the ground as the fighting continued across Ukraine.
+
+The Globe and Mail has also compiled a list of organizations taking humanitarian donations for Ukraine.
+
+3:09 p.m. ET
+
+Russian troops stop near northeast city of Konotop, say Ukrainian land forces
+
+Russian troops have stopped near the northeast city of Konotop after suffering heavy losses during a fight, Ukraine’s land forces said.
+
+“They have a problem with fuel and supply,” the statement said, adding there were cases of looting by Russian soldiers in local shops.
+
+-Reuters
+
+2:49 p.m. ET
+
+Video shows invading Russian troops disabling highway camera
+
+Russian troops are seen disabling a highway camera as tanks and other vehicles press their invasion of Ukraine. The Associated Press
+
+1:53 p.m. ET
+
+Ontario Liberal leader asks LCBO to pull Russian products over Ukraine invasion
+
+The leader of Ontario’s Liberal Party is asking the LCBO to stop selling Russian products following that country’s invasion of Ukraine.
+
+Steven Del Duca wrote to the CEO of the provincial Crown liquor corporation asking that the LCBO pull Russian items until troops are withdrawn.
+
+In his Friday letter to George Soleas, Del Duca said Ontario should follow the lead of the federal government, which has issued sanctions against Russia and taken a stand against the invasion. He said Ontario can’t say it’s standing with Ukraine “while continuing to be (Vladimir) Putin’s customer.”
+
+The LCBO did not immediately respond to a request for comment.
+
+-The Canadian Press
+
+1:48 p.m. ET
+
+Auto makers idle production following Russia’s invasion, other firms also scramble
+
+Several companies, including auto makers Volkswagen and Renault and tire maker Nokian Tyres, on Friday outlined plans to shut or shift manufacturing operations following Russia’s invasion of Ukraine.
+
+The United States announced sweeping export restrictions against Russia on Thursday, hammering its access to global exports of goods ranging from commercial electronics and computers to semiconductors and aircraft parts. That could lead companies to alter manufacturing plans or seek alternative supply lines.
+
+The invasion was a factor in consulting firms J.D. Power and LMC Automotive slashing their 2022 global new-car sales outlook by 400,000 vehicles to 85.8 million units. The auto industry had already been dealing with a tight supply of vehicles due to the global semiconductor shortage.
+
+-Reuters
+
+1:41 p.m. ET
+
+Canadian phone companies waive charges for Ukraine calls, texts
+
+Canadian phone companies are waiving long-distance and text charges for calls to Ukraine amid Russia’s assault on the country.
+
+Bell Canada, Rogers Communications Inc., Telus Corp. and Shaw Communications Inc. have all announced customers will not be charged to help connect with loved ones in the embattled region.
+
+Rogers and its mobile subsidiary Fido Solutions say long-distance and text charges will be set aside, as will roaming fees for clients in Ukraine until the end of March.
+
+Telus is waiving all roaming charges for calls, text, and data overages for customers in that country, and long distance and SMS fees for those in Canada reaching out to friends and family there.
+
+Shaw and its Freedom Mobile subsidiary are holding off on long distance and text fees until March 31 as well.
+
+-The Canadian Press
+
+1:41 p.m. ET
+
+Opinion: A travel ban on Russians could avert further conflict in Ukraine
+
+As I write this in the Dominican Republic, thousands of Russian tourists are sunning themselves on local beaches, drinking tequila in the bars and partying to beat the band. Simultaneously, there are Russian rockets raining down on Kyiv, civilians dying in droves and a despot in the Kremlin with access to nuclear weapons, threatening any country that dares intervene while remaining oblivious to diplomatic entreaties and indifferent to all the announced international sanctions.
+
+If history is a guide, Vladimir Putin will see a bump in his domestic popularity if the invasion of Ukraine succeeds, and most Russians will shrug if the economy eventually shrinks again.
+
+Nevertheless, domestic opposition to the invasion remains one of the best hopes for taming Mr. Putin’s aggression. And while Russians have bravely taken to the streets in cities across the country, with hundreds already detained for doing so, more people there need to understand that their government’s terrible actions have painful consequences for them, and for how they are seen around the world. On this, the typical slate of economic sanctions do not appear to be doing the job.
+
+There is, however, another set of sanctions that would bite, and could quickly help turn popular opinion against Mr. Putin: An indefinite ban of travellers from Russia by democratic nations.
+
+-Sam Blyth
+
+1:40 p.m. ET
+
+Images show new deployments of forces, 150 helicopters in southern Belarus
+
+A satellite image shows military forces near Brest in the western Belarus on February 24, 2022.MAXAR TECHNOLOGIES/Reuters
+
+Satellite imagery taken on Friday showed several large deployments of ground forces and about 150 transport helicopters in southern Belarus, about 20 miles from the border with Ukraine, a private U.S. company said.
+
+The images showed one large helicopter deployment near the Belarusian town of Chojniki, which had over 90 helicopters parked on a road with the deployment extending for more than five miles. Images also showed a large deployment of ground forces with several hundred vehicles in convoy position in several fields.
+
+The images released by Maxar Technologies, which has been tracking the buildup of Russian forces for weeks, could not be independently verified by Reuters.
+
+-Reuters
+
+1:19 p.m. ET
+
+Russia booted from Eurovision Song Contest over invasion of Ukraine
+
+The European Broadcasting Union says that Russia will not be allowed an entry in this year’s Eurovision Song Contest.
+
+The union said in a statement Friday that given the unprecedented crisis in Ukraine, the inclusion of a Russian entry would bring the competition into “disrepute.”
+
+“The EBU is an apolitical member organization of broadcasters committed to upholding the values of public service,” the union said on Twitter. “We remain dedicated to protecting the values of a cultural competition which promotes international exchange and understanding, brings audiences together, celebrates diversity through music and unites Europe on one stage.”
+
+This year’s finale is being held in Turin, Italy, on May 14.
+
+Russia has not yet announced an entrant for the splashy contest.
+
+Ukraine will be represented by Kalush Orchestra, which organizers describe as a “hip-hop band with a fondness for folk.”
+
+-The Associated Press
+
+1:15 p.m. ET
+
+Battle for Kyiv rages as residents urged to fight
+
+The battle for this city of three million people began in earnest on Friday, as Russian troops and armoured vehicles entered parts of Ukraine’s capital, which started handing out weapons to citizens planning to resist.
+
+The Defence Ministry said Russian reconnaissance units were in the northern Obolon neighbourhood of the city, close to Kyiv’s historic Podil district, a place of cafés and cobblestoned streets that is now a frontline. “We ask citizens to inform about the movement of equipment!” the official statement said. “Make Molotov cocktails, neutralize the occupier!”
+
+Russia’s authoritarian President Vladimir Putin called on the Ukrainian army to overthrow the elected government of President Volodymyr Zelensky. “Take power in your own hands. It seems like it will be easier for us to agree with you than this gang of drug addicts and neo-Nazis,” Mr. Putin said, referring to Mr. Zelensky, who is Jewish.
+
+The Ukrainian government said they had destroyed three bridges on the northern approach to the capital to slow the Russian advance. A few hours later, as fighting moved closer to the centre of the city, the Interior Ministry announced it had distributed some 18,000 assault rifles to residents.
+
+Friday’s fighting followed a night of fierce bombing in and around Kyiv. In the eastern Pozniaky district of the city, a 10-storey apartment block had its windows blown out and façade badly damaged when a Russian cruise missile slammed into the ground directly in front of the residential building, leaving a two-metre-deep crater while narrowly missing a kindergarten. Three people were injured.
+
+Amnesty International said on Friday that Russia’s war against Ukraine “has been marked by indiscriminate attacks on civilian areas and strikes on protected objects such as hospitals,” and that at least six civilians had been confirmed as killed in the first day of attacks. Agnès Callamard, the group’s secretary-general, said some of the attacks on civilian areas “may be war crimes.”
+
+-Mark MacKinnon in Kyiv, Ukraine
+
+12:36 p.m. ET
+
+Moscow cracks down on protesters as Russian troops invade Ukraine
+
+Police on Thursday detained more than 1,600 Russians who protested against Russia’s multi-pronged military operation in Ukraine, while authorities threatened to block media reports that contain what Moscow described as “false information.”
+
+In acts of cautious, but unusual dissent, Russian pop stars, journalists, a television comedian and a footballer opposed the war online after President Vladimir Putin launched an invasion of Ukraine in the early hours of Thursday.
+
+By 2 p.m. ET, police had detained 1,667 people at rallies in 53 cities, the OVD-Info rights monitor said – easily the biggest tally since last year’s crushing of jailed Kremlin critic Alexei Navalny’s network ushered in an ice age in activism.
+
+Protesters defied a warning issued on Thursday by the Investigative Committee, a kind of Russian answer to the FBI, that explicitly threatened criminal action and even jail time for people calling for or taking part in protests.
+
+“I was detained on my way out of the house,” Marina Litvinovich, a Moscow-based activist, wrote on Telegram after she called on Russians in a Facebook post on Thursday morning to protest later that evening.
+
+-Reuters
+
+11:50 a.m. ET
+
+Europeans rush to Polish-Ukrainian border to pick up family or lend a helping hand
+
+From left to right; Jan Mihalicek, Marek Mahdal, and Martin Ladman drove from Prague to the border with Ukraine to offer refugees a free ride to the Czech capital as well as help with shelter and food, on Feb. 25, 2022.Anna Liminowicz /The Globe and Mail
+
+As Marek Mahdal watched news reports of Russian air strikes pounding Ukraine, he didn’t feel he could sit at home in Prague and do nothing.
+
+So he and two friends jumped in their cars Thursday night and drove 770-kilometres to the Polish-Ukrainian border crossing near Przemysl in eastern Poland. They arrived at around noon on Friday and stood on a sidewalk outside the pedestrian gate holding a sign written in Ukrainian that offered free rides to Prague and help finding shelter, food and work.
+
+“It’s unthinkable what’s happening and I would be really quite happy if someone showed up with this offer,” said Mr. Mahdal, a 22-year old student. “We’ve got the time and, most importantly, we’ve got the means.”
+
+The trio were part of an informal network of families, friends and do-gooders that have descended on the Polish border crossing to fetch loved ones, offer shelter or just spoon out free soup.
+
+-Paul Waldie in Przemysl, Poland
+
+11:55 a.m. ET
+
+Canada to match donations to Red Cross for Ukraine
+
+The Canadian Press has learned the federal government will match donations individuals make to the Canadian Red Cross to help bring humanitarian relief to Ukraine.
+
+The campaign, which will begin today and run until March 18, will see the government match donations by Canadians dollar for dollar to a maximum of $10 million.
+
+-The Canadian Press
+
+Ukrainian guards fired warning shots to prevent a stampede at Kyiv's central railway station on Feb. 25 as thousands of people tried to force their way onto evacuation trains.
+
+11:49 a.m. ET
+
+China blames U.S., NATO for provoking Putin, but Beijing wary of support for invasion
+
+Russia’s invasion of Ukraine this week shocked the world, even after months of sabre-rattling by Moscow, but China in particular seems to have been wrong-footed by the unprovoked attack.
+
+As Russian missiles began striking Ukrainian positions early Thursday morning, China’s representative to the United Nations was in the middle of telling the Security Council that “the door to a peaceful solution to the Ukraine issue is not fully shut, nor should it be shut.”
+
+After Beijing backed Russia’s calls for an end to NATO’s eastward expansion following a summit between Russian President Vladimir Putin and Chinese President Xi Jinping in early February, Chinese Foreign Minister Wang Yi said this week that “the sovereignty, independence and territorial integrity of all countries should be respected and safeguarded … and that applies equally to Ukraine.”
+
+Since the invasion began, Beijing has swung behind Russia, blaming Washington and NATO for provoking Mr. Putin’s invasion and reiterating Russian justifications for the war.
+
+-James Griffiths in Hong Kong
+
+11:28 a.m. ET
+
+From Tokyo to New York, thousands protest against Russian invasion of Ukraine
+
+Protesters turned out on public squares and outside Russian embassies in cities from Tokyo to Tel Aviv and New York on Thursday to denounce the invasion of Ukraine – while more than a thousand who tried to do the same in Russia were arrested.
+
+The earliest known protest occurred outside Russia’s embassy in Washington around 1 a.m. ET on Thursday, only three hours after President Vladimir Putin said he had launched his military operation.
+
+Pro-Ukraine demonstrators unfurl a large Ukraine flag in New York's Times Square on Thursday, Feb. 24, 2022. World leaders Thursday condemned Russia's invasion of Ukraine as ""barbaric.""Seth Wenig/The Associated Press 1 of 28
+
+People gather to protest against Russia's military operation in Ukraine, in front of the Russian Consulate in Poznan, Poland on Thursday.AGENCJA WYBORCZA.PL/Reuters 2 of 28
+
+Protesters gather in New York's Times Square before marching to the Russian Consulate to denounce Russia's invasion of Ukraine on Thursday, Feb. 24, 2022.VICTOR J. BLUE/The New York Times News Service 3 of 28
+
+People gather in support of Ukrainian people, in Paris, on Thursday, Feb. 24, 2022.Thibault Camus/The Associated Press 4 of 28
+
+A detained demonstrator shows a sign reading 'No War!' from a police bus in St. Petersburg, Russia, on Thursday, Feb. 24, 2022.Dmitri Lovetsky/The Associated Press 5 of 28
+
+A demonstrator burns a Russian flag during a protest by Ukrainian and Polish demonstrators against Russia's invasion of Ukraine, in front of the Russian embassy in Warsaw, Poland, on Feb. 24, 2022.AFP Contributor#AFP/AFP/Getty Images 6 of 28
+
+The Colosseum in Rome is illuminated in the colours of the Ukrainian flag in response to the Russian invasion of Ukraine on Feb. 24, 2022.FILIPPO MONTEFORTE/AFP/Getty Images 7 of 28
+
+Demonstrators take part in the protest against Russia's aggression towards Ukraine, in front of the Russian embassy in Warsaw, Poland on Feb. 24, 2022.WOJTEK RADWANSKI/AFP/Getty Images 8 of 28
+
+Georgians rally in support of Ukraine after Russia began its invasion of Ukraine overnight on Feb. 24, 2022, in Tbilisi, Georgia.Daro Sulakauri/Getty Images 9 of 28
+
+Demonstrators in Los Angeles protest in support of Ukraine after Russian President Vladimir Putin launched a full-scale invasion of Ukraine on Thursday, Feb. 24, 2022.PATRICK T. FALLON/AFP/Getty Images 10 of 28
+
+Demonstrators take part in a protest against the Russian invasion of Ukraine, in front of Russia's embassy in Vilnius, Lithuania, on Feb. 24.PETRAS MALUKAS/AFP/Getty Images 11 of 28
+
+Georgians in Tbilisi rally in support of Ukraine after Russia launched an invasion in Ukraine on Feb. 24, 2022.Daro Sulakauri/Getty Images 12 of 28
+
+Georgians rally in support of Ukraine after Russia began a large-scale attack on Ukraine overnight on Feb. 24, 2022 in Tbilisi, Georgia.Daro Sulakauri/Getty Images 13 of 28
+
+Demonstrators gather in support of Ukraine in front of the Russian Embassy in Sofia, Bulgaria on Feb. 24, 2022.DIMITAR KYOSEMARLIEV/AFP/Getty Images 14 of 28
+
+The New Castle is illuminated in the colors of Ukraine in Stuttgart, Germany, Thursday, Feb. 24, 2022.Christoph Schmidt/The Associated Press 15 of 28
+
+Protesters attend a demonstration organized by the Union of Ukrainians in France (Union des Ukrainiens de France) and others associations on Republique square in Paris on Feb. 24, 2022.THOMAS COEX/AFP/Getty Images 16 of 28
+
+Demonstrators in New York City protest in support of Ukraine after Russia unleashed air strikes and ordered ground troops across the border in Ukraine early on Thursday, Feb. 24, 2022.KENA BETANCUR/AFP/Getty Images 17 of 28
+
+St Georges Hall in Liverpool, England, is lit up in yellow and blue, the colours of the Ukraine flag, on Thursday Feb. 24.Peter Byrne/The Associated Press 18 of 28
+
+Demonstrators take part in the protest against Russia's invasion of Ukraine, in front of the Russian embassy in Warsaw, Poland on Feb. 24, 2022.WOJTEK RADWANSKI/AFP/Getty Images 19 of 28
+
+People take part in a protest outside the Russian Embassy in Budapest, Hungary after Russia launched a massive military operation against Ukraine on Thursday.MARTON MONUS/Reuters 20 of 28
+
+Demonstrators gather in support of the Ukrainian people, in Paris, on Thursday, Feb. 24, 2022.Thibault Camus/The Associated Press 21 of 28
+
+City hall in Sarajevo, Bosnia-Herzegovina is illuminated with Ukrainian national colours, as a sign of solidarity with people of Ukraine on Thursday, Feb. 24, 2022.Eldar Emric/The Associated Press 22 of 28
+
+Ukrainian citizens hold posters during a protest in support of Ukraine in front of the Russian Embassy in Santiago, Chile on February 24, 2022.MARTIN BERNETTI/AFP/Getty Images 23 of 28
+
+People gather to protest against Russia's massive military operation against Ukraine, in Krakow, Poland on Feb. 24, 2022.AGENCJA WYBORCZA.PL/Reuters 24 of 28
+
+Demonstrators holding a banner with the Ukraine national colours shout slogans near the Russian Embassy in Rome, on Thursday, Feb. 24, 2022.Cecilia Fabiano/ LaPresse/The Associated Press 25 of 28
+
+People take part in a demonstration in support of Ukraine, in the center of Tbilisi, Georgia, on Thursday, Feb. 24, 2022.Shakh Aivazov/The Associated Press 26 of 28
+
+People take part in a rally for Ukraine in front of Ukraine's embassy to Romania in Bucharest on Feb. 24, 2022.DANIEL MIHAILESCU/AFP/Getty Images 27 of 28
+
+People stand with Ukrainian flags and placards at a demonstration staged in front of the Downing Street gates, in central London, on Feb. 24, 2022 to protest against Russia's invasion of Ukraine.JUSTIN TALLIS/AFP/Getty Images 28 of 28
+
+Local news reports showed dozens of protesters in the U.S. capital waving Ukrainian flags and chanting “Stop Russian aggression!”
+
+In London, hundreds of demonstrators, many of them Ukrainian and some weeping, gathered outside Downing Street, home to the prime minister, urging Britain to do more.
+
+“We need help, we need someone to support us,” said one. “Ukraine is too small and the pressure is too big.”
+
+In Paris, one demonstrator told Reuters: “I feel that we are in a very dangerous moment for the whole world.”
+
+-Reuters
+
+Back to top
+
+11:18 a.m. ET
+
+No Russian pavilion, bans for ‘handful’ of firms at Mobile World Congress: organizer
+
+There will be no Russian pavilion at the telecoms industry’s biggest annual gathering and a “handful” of Russian firms will be barred from it because of sanctions imposed on Russia for its invasion of Ukraine, the event’s organizer said on Friday.
+
+The organizers of the Mobile World Congress condemned Moscow’s actions, but have no plans to cancel or postpone the gathering scheduled between Feb. 28 and March 3 in Barcelona, John Hoffman, the chief executive of event organizer GSMA, told Reuters.
+
+He said “a handful, a few” Russian companies and their executives would be banned but did not name them, saying the sanctions lists were evolving.
+
+“We are guided by the international sanctions and there are some companies that are identified on the sanction list and those will be barred from participating,” he said, adding GSMA would strictly follow U.S. sanctions as well as others.
+
+-Reuters
+
+11:16 a.m. ET
+
+Russian tennis star Andrey Rublev writes ‘No War Please’ after win
+
+Members of the crowd hold flags including an Ukrainian one during the semi-final match between Hubert Hurkacz of Poland and Andrey Rublev of Russia at the Dubai Championships on February 25, 2022.DAVID GRAY/Getty Images
+
+Russian tennis player Andrey Rublev wrote “No War Please” on a TV camera moments after advancing to the final at the Dubai Championships on Friday.
+
+The seventh-ranked Rublev had just beaten Poland’s Hubert Hurkacz 3-6, 7-5, 7-6 (5) in their semi-final match before writing his message on the camera – as is common after matches.
+
+Rublev wasn’t asked about the message during his on-court interview immediately following the match.
+
+Compatriot Daniil Medvedev spoke Thursday at the Mexico Open about waking up to news that his country had invaded Ukraine.
+
+“Watching the news from home, waking up here in Mexico, was not easy,” said Medvedev, who will become the No. 1 men’s player when rankings are announced next week.
+
+“By being a tennis player, I want to promote peace all over the world,” Medvedev continued. “We play in so many different countries. It’s just not easy to hear all this news. I’m all for peace.”
+
+-Reuters
+
+11:14 a.m. ET
+
+Swiss freeze bank accounts of Russians on EU sanctions list
+
+Switzerland told banks on Friday to freeze the assets of people and entities on a European Union sanctions blacklist that the neutral country has adopted to ensure it is not used to circumvent measures against Russia over its invasion of Ukraine.
+
+The instruction from the Swiss Financial Market Supervisory Authority (FINMA) ratchets up the pressure Bern is exerting in solidarity with the West while still trying to keep the door open to a potential role as a mediator.
+
+“Financial intermediaries are requested to block the corresponding assets immediately and to report such business relationships to (government agency) SECO in accordance with the provisions of the ordinance,” FINMA said on its website.
+
+The government had earlier amended its ordinance to include 363 individuals and four companies the EU put on its sanctions list this week to punish Moscow.
+
+FINMA did not specify how much money would be frozen. Russians held nearly 10.4 billion Swiss francs ($11.21 billion) in Switzerland in 2020, Swiss National Bank data show.
+
+-Reuters
+
+10:50 a.m. ET
+
+Russia accuses Ukraine of going silent on possible talks
+
+The Kremlin said on Friday it had offered to hold talks with Ukraine in the Belarusian capital Minsk after Ukraine said it was willing to discuss declaring itself a neutral country, but said Ukraine had instead proposed Warsaw as a venue.
+
+Kremlin spokesman Dmitry Peskov said the Ukrainians had then taken what he described as a quite a long timeout and that there was now a “pause” in contacts.
+
+During that pause, he said Ukrainian nationalists had deployed missile systems in residential areas in big cities.
+
+He did not provide evidence to back the assertion, but said it was a very dangerous development.
+
+There was no immediate comment from Ukrainian authorities.
+
+-Reuters
+
+10:45 a.m. ET
+
+Russia sanctions to add to higher energy, grain prices amid Ukraine war: IMF chief
+
+International Monetary Fund Managing Director Kristalina Georgieva said on Friday that international financial sanctions against Russia will add to the economic impacts of the war in Ukraine, which are primarily being transmitted through higher energy and grain prices, adding to inflation.
+
+Georgieva, speaking at a Georgetown Law School event on Black History Month, also said that greater financial market uncertainty caused by the conflict may cause capital “outflows from emerging markets, when we need exactly the opposite – more financing going there.”
+
+She also said that heightened regional tensions may impact economic activity in countries and regions surrounding Ukraine, such as Moldova and the Caucasus.
+
+“We have already seen actions taken in terms of sanctions that would add to the economic impact of this crisis, and will primarily transmit through energy prices, as well as grain, adding to what has been a growing concern of inflation and how it can be countered,” she said.
+
+Russia is among the world’s biggest oil exporters and also is a major grain exporter, along with Ukraine, whose Black Sea ports have been closed to shipping.
+
+-Reuters
+
+10:41 a.m. ET
+
+U.K. says Russian forces opened new route of advance toward Kyiv
+
+A view of the city of Kyiv, Ukraine on Thursday, Feb. 24, 2022.Emilio Morenatti/The Associated Press
+
+Britain said on Friday that Russian armoured forces had opened a new route of advance toward Kyiv, and that the bulk of troops remained more than 50 km from the centre of the city.
+
+“Russian armoured forces have opened a new route of advance toward Kyiv having failed to capture Chernihiv,” The Ministry of Defence said in an intelligence update. “The bulk of Russian forces advancing on Kyiv remain more than 50 km from the centre of the city.”
+
+-Reuters
+
+10:19 a.m. ET
+
+Insurance costs of shipping through Black Sea soar after Russia’s invasion of Ukraine
+
+Insurers have raised the cost of providing cover for merchant ships through the Black Sea, adding to soaring rates to transport goods through the region for vessels still willing to sail after Russia’s invasion of Ukraine.
+
+Ship owners pay annual war-risk insurance cover as well as an additional “breach” premium when entering high-risk areas. These separate premiums are calculated according to the value of the ship, or hull, for a seven-day period.
+
+Ship insurers have quoted the additional premium rate for seven days at anywhere between 1 per cent to 2 per cent and up to 5 per cent of insurance costs, from an estimated 0.025 per cent on Monday before Russia’s invasion began, according to indicative rates from marine insurance sources.
+
+This would mean additional costs of hundreds of thousands of dollars for a ship voyage depending on the destination.
+
+“Given the Russian offensive from land, sea and air, it would not be surprising if some insurers will be reluctant (to provide cover),” one insurance source said.
+
+A Moldovan-flagged chemical tanker was hit by a missile on Friday near Ukraine’s port of Odesa, seriously wounding two crew.
+
+On Thursday, a Turkish-owned ship was hit by a bomb off Odesa with no casualties and the ship sailed safely into Romanian waters.
+
+-Reuters
+
+10:11 a.m. ET
+
+Turkey says it cannot stop returning Russian warships from accessing Black Sea
+
+Turkey cannot stop Russian warships accessing the Black Sea via its straits, as Ukraine has requested, due to a clause in an international pact that allows vessels to return to their home base, the Turkish foreign minister said on Friday.
+
+Ukraine has appealed to Turkey to block Russian warships from passing through the Dardanelles and Bosphorus straits which lead to the Black Sea, after Moscow on Thursday launched a full-blown assault on Ukraine from land, air and sea.
+
+Russian forces landed at Ukraine’s Black and Azov Sea ports as part of the invasion.
+
+Under the 1936 Montreux Convention, Turkey has control over the straits and can limit the passage of warships during wartime or if threatened, but the request has put the NATO member in a difficult position as it tries to manage its Western commitments and close ties with Russia.
+
+-Reuters
+
+10:11 a.m. ET
+
+Canadian dollar gains as investors weigh targeted Russia sanctions
+
+The Canadian dollar strengthened against the greenback on Friday as preliminary domestic data showed wholesale trade rising in January and currency traders walked back some of the large moves seen the day before in reaction to Russia’s invasion of Ukraine.
+
+The safe-haven U.S. dollar fell against a basket of major currencies, and stocks globally rose as investors welcomed co-ordinated Western sanctions on Russia that targeted its banks but not did not block it from a global payments system and left its energy sector largely untouched.
+
+The price of oil, one of Canada’s major exports, gave back some recent gains, with U.S. crude oil futures falling 1.1 per cent to $91.76 a barrel.
+
+Investors doubt that the start of war in Ukraine will stop the Bank of Canada from hiking interest rates next week for the first time since October 2018. Money markets expect the central bank to lift its policy rate by 25 basis points to 0.50 per cent at its policy announcement next Wednesday and six times in total this year to fight inflation.
+
+The Canadian dollar gained 0.3 per cent to 1.2775 per greenback, or 78.28 U.S. cents, after trading in a range of 1.2754 to 1.2820.
+
+On Thursday, the currency touched its weakest intraday level in more than two months at 1.2877. It was on track to decline 0.2 per cent for the week.
+
+-Reuters
+
+9:45 a.m. ET
+
+Ukrainian minister says Russia has lost about 2,800 servicemen in attacks
+
+Russian forces have lost about 2,800 servicemen and 80 tanks during their assault on Ukraine, Deputy Defence Minister Hanna Malyar said on Friday.
+
+She added on her Facebook page that the Russian troops also lost about 516 armoured combat vehicles, 10 aircraft and seven helicopters as of 15:00 local time.
+
+-Reuters
+
+Anti-war protesters who took to the streets of St. Petersburg to protest Russia’s invasion of Ukraine on Thursday were met with arrests. Similar protests took place across the country and police detained more than 1,600 people in at least 53 cities. The Globe and Mail
+
+9:37 a.m. ET
+
+EU will accept all people fleeing the violence in Ukraine, Germany says
+
+The European Union will accept all people fleeing the violence caused by Russia’s invasion of Ukraine, German Foreign Minister Annalena Baerbock said on Friday.
+
+“We need to do everything to accept without delay the people who are now fleeing the bombs, the tanks,” she told reporters as she arrived for a meeting with her EU counterparts in Brussels.
+
+“We have tried everything to avert that day (of the invasion) but it has come all the same because the Russian president chose war over human lives. And this is why we will take in all the people that are fleeing now,” Baerbock said, adding she had already started to co-ordinate the distribution of Ukrainian refugees with countries such as Poland and Canada.
+
+-Reuters
+
+9:21 a.m. ET
+
+Pope Francis makes personal appeal in remarkable Russia embassy trip
+
+Pope Francis visited the Russian Embassy on Friday to personally “express his concern about the war,” the Vatican said, in an extraordinary, hands-on papal gesture that has no recent precedent.
+
+Usually, popes receive ambassadors and heads of state in the Vatican, and diplomatic protocol would have called for the Vatican foreign minister to summon the ambassador. For Francis, the Vatican head of state, the decision to leave the walled city state and travel a short distance to the Russian embassy to the Holy See was a sign of his anger at Moscow’s invasion of Ukraine and his willingness to appeal personally for an end to it.
+
+Vatican officials said they knew of no such previous papal initiative.
+
+Vatican spokesman Matteo Bruni confirmed the visit, and the Vatican said Francis travelled to and from the embassy in a small white car.
+
+“The Holy See press office confirms that the pope went to the Russian Embassy to the Holy See on Via della Conciliazione, clearly to express his concern about the war. He was there for just over a half-hour,” Bruni said.
+
+Francis has called for dialogue to end the conflict and has urged the faithful to set next Wednesday as a day of fasting and prayer for peace in Ukraine. But he has refrained from publicly calling out Russia, presumably for fear of antagonizing the Russian Orthodox Church.
+
+-The Associated Press
+
+9:20 a.m. ET
+
+Ukraine says military targeted by Belarusian hackers
+
+Ukrainian cybersecurity officials say hackers from neighbouring Belarus are targeting the private email addresses of Ukrainian military personnel “and related individuals.”
+
+In an announcement posted to Facebook, Ukraine’s Computer Emergency Response Team (CERT) said the hackers were using password-stealing emails to break into Ukrainian soldiers’ email accounts and using the compromised address books to send further malicious messages.
+
+The CERT said blamed a group code-named “UNC1151″ for the hacking, identifying its members as Minsk-based officers of Belarusian military.
+
+Ukraine has been buffeted by digital intrusions and denial of service actions both in the run-up to and during the Russian invasion which began earlier this week. Belarus has offered its territory as a launch pad for Russian forces, allowing Moscow’s forces to rapidly push toward Kyiv.
+
+-Reuters
+
+9:09 a.m. ET
+
+Two ships struck by Russian missiles in the Black Sea
+
+Before Russian attacks on Thursday, Ukrainian government officials and shipping companies had kept ports open, preserving the movement of ships across the Black Sea despite a huge exclusion zone imposed by Russia, which said it was conducting exercises in the area.
+
+On Friday, however, two ships were struck - a development with potentially significant implications for Black Sea shipping that is economically and logistically critical to Ukraine.
+
+Namura Queen, a Panamanian-flagged bulk carrier carrying grain, was hit, injuring one and igniting a fire.
+
+Millennial Spirit, a Moldovan-flagged bunker carrying 600 tonnes of oil and diesel, was also hit. Ten crew were rescued, two badly injured. All were Russian citizens, according to the Ministry of Infrastructure, which warned about an “ecological disaster.”
+
+It was “taken out by a Russian ship,” Andrey Stavnitser, one of Ukraine’s most important port investors, said in a Facebook post.
+
+“There is no communication with the vessel.”
+
+-Nathan VanderKlippe
+
+8:48 a.m. ET
+
+Britain’s spy chief claims intelligence scoop on Putin’s invasion of Ukraine
+
+Spies in the United States and Britain scored an intelligence scoop by uncovering Russian President Vladimir Putin’s decision to order the biggest attack on a European state since World War Two, Britain’s foreign spy chief said.
+
+For months, U.S. and British ministers and Western security sources had warned that Russia could invade Ukraine. They stepped up warnings that an invasion was imminent in the weeks and days ahead of Putin’s declaration.
+
+Ahead of the Russian invasion, Moscow repeatedly dismissed those claims as anti-Russian hysteria or disinformation designed to tempt Putin into a war.
+
+“U.S. and U.K. intelligence communities uncovered Putin’s plans for Ukraine,” Richard Moore, the chief of Britain’s Secret Intelligence Service, known as MI6, said on Twitter.
+
+“We exposed his attempts to engineer ‘false flag’, fake attacks to justify his invasion,” Moore said. “This attack was long planned, unprovoked, cruel aggression.”
+
+-Reuters
+
+8:39 a.m. ET
+
+Russian invasion could drive 5 million Ukrainians to flee abroad, UN says
+
+A Ukrainian mother walks with her daughter along the road from the Hungarian-Ukrainian border crossing near Beregsurany, Hungary.ATTILA KISBENEDEK/AFP/Getty Images
+
+Fuel, cash and medical supplies are running low in parts of Ukraine after Russia’s invasion, which could drive up to 5 million people to flee abroad, UN aid agencies said on Friday.
+
+At least 100,000 people are uprooted in Ukraine after fleeing their homes since Russia launched its assault on Thursday, while several thousand have already crossed into neighbouring countries including Moldova, Romania and Poland, UN refugee agency spokesperson Shabia Mantoo said.
+
+“We are looking at ranges of 1-3 million into Poland for example … A scenario of 1 to 5 mln including all surrounding countries,” Afshan Khan, UNICEF’s regional director for Europe and Central Asia, told a UN briefing in Geneva.
+
+U.N. human rights office spokesperson Ravina Shamdasani said that it had reports of at least 127 civilian casualties in Ukraine - 25 killed and 102 injured - “caused by shelling and air strikes.” This was likely a significant under-estimate, she said.
+
+-Reuters
+
+8:20 a.m. ET
+
+UEFA moves Champions League final from St. Petersburg to Paris in wake of Ukraine invasion
+
+UEFA has moved this year’s Champions League final from St. Petersburg to Paris in the wake of Russia’s invasion of Ukraine, European soccer’s governing body said in a statement on Friday.
+
+UEFA also said the home games of Ukrainian and Russian club and national teams competing in UEFA competitions would be played at neutral venues “until further notice.”
+
+The governing body thanked French President Emmanuel Macron for his “personal support and commitment” in taking on the final.
+
+It added that it would “fully support multi-stakeholder efforts to ensure the provision of rescue for football players and their families in Ukraine who face dire human suffering, destruction and displacement.”
+
+The Champions League final was set to be staged at Zenit St. Petersburg’s stadium on May 28 with thousands of supporters from across the continent expected to attend the showcase match in European club soccer.
+
+Kremlin spokesman Dmitry Peskov told reporters on a conference call: “It’s a shame that such a decision has been made. St. Petersburg could have provided all favourable conditions to hold this festival of soccer.”
+
+The move to strip St. Petersburg of the final follows calls from a group of European lawmakers who asked UEFA on Thursday to change the venue and stop considering Russian cities for major international soccer competitions.
+
+-Reuters
+
+8:07 a.m. ET
+
+Ukraine urges allies to stand by promises of unprecedented sanctions against Russia
+
+The West is under mounting pressure to take stronger measures against Russia over the invasion of Ukraine, after the world’s wealthy democracies failed to kick Moscow out of the SWIFT system of international payments and omitted other tough actions from sanctions packages announced this week.
+
+The Ukrainian government, along with legislators in the United States and Europe, called on leaders to make good on preinvasion promises of unprecedented economic pain for Russian President Vladimir Putin if he attacked Ukraine.
+
+The U.S., the European Union, the United Kingdom, Canada and several other countries on Thursday announced sanctions on Russian banks, oligarchs and technology exports. EU foreign ministers told reporters in Brussels on Friday that they would also freeze European assets belonging to Mr. Putin and his foreign minister, Sergey Lavrov.
+
+But the measures did not personally sanction Mr. Putin, block Russian exports of oil and natural gas or prohibit Western companies from doing business with Russia. They also allowed Russia to remain part of SWIFT, which banks depend on for performing cross-border transactions and Moscow uses to collect the fossil fuel royalty payments that fund its government.
+
+Early Friday, Ukraine’s government, besieged by Russian forces attacking Kyiv, called on Europe to do more.
+
+-Adrian Morrow in Washington, D.C.
+
+Back to top
+
+8 a.m. ET
+
+Opinion: The West needs to support the Ukrainians - for their sake and ours
+
+In the early fog of a war that is just beginning, I see four things the West needs to do. We need to secure the defence of every inch of NATO territory, especially at its eastern frontiers with Russia, Belarus and Ukraine, against all possible forms of attack, including cyber and hybrid ones.
+
+We have to offer all the support that we can to the Ukrainians, short of breaching the threshold that would bring the West into a direct hot war with Russia. Those Ukrainians who choose to stay and to resist will be fighting, by military but also civilian means, to defend the freedom of their country, as they have every possible right in law and conscience to do, and as we would do for our own countries.
+
+But there are still things we can do. Not only can we continue to supply weapons, communications and other equipment to those who are entirely legitimately resisting armed force with armed force. As important in the medium term, we can help those who will be using the well-tried techniques of civil resistance against a Russian occupation and any attempt to impose a puppet government. We must also stand ready to assist the many Ukrainians who will flee westward.
+
+-Timothy Garton Ash
+
+8 a.m. ET
+
+Russia ready to send delegation to Minsk for talks with Ukraine, says Kremlin spokesperson
+
+Russia is ready to send a delegation to the Belarusian capital Minsk for talks with Ukraine, Kremlin spokesman Dmitry Peskov said on Friday, a day after Moscow launched a massive invasion of its southern neighbour.
+
+Peskov told Russian news agencies Russia was willing to send a delegation including foreign and defence ministry officials.
+
+Ukraine has said it is willing to discuss declaring itself a neutral county. Peskov said demilitarization would need to be an essential part of that.
+
+-Reuters
+
+7:43 a.m. ET
+
+Russia says it captures aerodrome northwest of Kyiv
+
+Smoke rises near the town of Hostomel and the Antonov Airport, in northwest Kyiv. Russian and Ukrainian forces are battling for control of an airbase on the northern outskirts of Kyiv, a senior Ukrainian officer said.DANIEL LEAL/AFP/Getty Images
+
+Russia’s defence ministry said on Friday its forces had captured the strategic Hostomel aerodrome outside the Ukrainian capital Kyiv and landed paratroopers in the area.
+
+It said the Russian military had blocked access to Kyiv from the west, and separatist forces in eastern Ukraine had attacked Ukrainian army positions with Russian army support.
+
+-Reuters
+
+7:36 a.m. ET
+
+Merkel condemns Russian invasion as legacy comes under scrutiny
+
+Former German Chancellor Angela Merkel said Russia’s invasion of Ukraine marked a “deep rupture in Europe’s history following the end of the Cold War” even as her own legacy comes under fresh scrutiny in light of the assault.
+
+Merkel, who led Germany for 16 years until last December and was long seen as the West’s key interlocutor with Russian President Vladimir Putin, said she was following the unfolding events with “great worry and sympathy.”
+
+“There is no justification for this blatant breach of international law, and I wholeheartedly condemn it,” said Merkel, who grew up in the former communist East Germany and speaks fluent Russian.
+
+Germany has joined its European Union partners and other Western countries in agreeing sweeping economic sanctions on Russia. But until this week it had been less inclined than the United States or Britain to accept that an attack on Ukraine was imminent and had backed a heavier focus on dialogue with Moscow.
+
+-Reuters
+
+7:26 a.m. ET
+
+Kyiv residents told to make Molotov cocktails as they await Russian assault
+
+People shelter with their dog in a subway station on February 24, 2022 in Kyiv, Ukraine.Chris McGrath/Getty Images
+
+People in Kyiv were told to make Molotov cocktail petrol bombs on Friday as they hid in makeshift shelters and basements, awaiting a Russian assault on the Ukrainian capital.
+
+“Make Molotov cocktails, neutralize the occupier!” the Defence Ministry said, while local authorities told people in the northwestern Obolon area of the city to stay off the streets because “active hostilities” were approaching.
+
+Some residents took refuge in subway stations being used as air-raid shelters, or rushed to basements of apartments blocks or other buildings when air-raid warnings sounded.
+
+-Reuters
+
+7:25 a.m. ET
+
+Zelensky and Putin both say they are willing to negotiate as war rages in Ukraine
+
+Russian troops have entered Kyiv from the north, Ukraine’s Defence Ministry said in a statement that called on residents to prepare to fight, even as the presidents of both Russia and Ukraine said they were willing to negotiate.
+
+As Russian forces pushed toward his office in the centre of Kyiv, Ukrainian President Volodymyr Zelensky called for talks with Russian President Vladimir Putin.
+
+“I want to appeal once again to the President of the Russian Federation. Fighting is taking place all over Ukraine. Let’s sit down at the negotiating table to stop the deaths of people,” Mr. Zelensky said in a video address from inside the Presidential Administration building in the capital.
+
+Separately, Mr. Putin reportedly told Chinese President Xi Jinping that he was willing to hold high-level talks with Ukraine.
+
+“The United States and NATO have long ignored Russia’s reasonable security concerns, repeatedly reneged on their commitments, and continued to advance military deployment eastward, challenging Russia’s strategic bottom line,” Mr. Putin told Xi, according to China’s state-run CCTV. “Russia is willing to conduct high-level negotiations with Ukraine.”
+
+- Mark MacKinnon in Kyiv, Ukraine
+
+Back to top
+
+Olha Zapotochna with her ill son Arthur after crossing the Ukrainian-Polish border, in Medyka, Poland on Feb. 25.Maciek Nabrdalik/The New York Times News Service 1 of 45
+
+Smoke and flames rise over buildings during shelling near Kyiv, as Russia continues its invasion of Ukraine.GLEB GARANICH/Reuters 2 of 45
+
+A man holds a sleeping baby after arriving by bus to a supermarket parking lot from the Polish-Ukrainian border crossing.Omar Marques/Getty Images 3 of 45
+
+Ukrainians receive free food and drinks as they enter Romania after crossing the Danube river.DANIEL MIHAILESCU/AFP/Getty Images 4 of 45
+
+A woman holds Sofia, 4 year-old, in her arms after crossing the border from Ukraine at the Romanian-Ukrainian border.Andreea Alexandru/The Associated Press 5 of 45
+
+People gather at a rally in support of Ukraine in front of the Parliament on February 25 in Tbilisi, Georgia.Daro Sulakauri/Getty Images 6 of 45
+
+Protesters opposed to the Russian invasion of Ukraine demonstrate outside of Downing Street, the residence of British Prime Minister Boris Johnson.JEFF J MITCHELL/Getty Images 7 of 45
+
+A woman and her son look out from an evacuation train from Kyiv to Lviv at Kyiv central train station.UMIT BEKTAS/Reuters 8 of 45
+
+People at a temporary shelter in a civic centre after crossing the border into Hungary as they flee Ukraine on February 25, 2022.Janos Kummer/Getty Images 9 of 45
+
+People wait to board an evacuation train from Kyiv to Lviv at Kyiv central train station.UMIT BEKTAS/Reuters 10 of 45
+
+Volunteers from Krakow offer free soup, sandwiches and snacks to refugees. About 50 people from Krakow have come to help.Anna Liminowicz /The Globe and Mail 11 of 45
+
+The lone Ukrainian language school in Przemysl has turned its gym into a makeshift shelter that can accommodate 100 refugees.Anna Liminowicz /The Globe and Mail 12 of 45
+
+A Ukrainian cries as she waits for relatives at the Medyka Polish Ukrainian border crossing on February 25, 2022.Omar Marques/Getty Images 13 of 45
+
+Bomdo, a Ukrainian living in Poland hugs his son and daughter who crossed the Polish Ukrainian border with their mother on February 25, 2022 in Medyka, Poland.Omar Marques/Getty Images 14 of 45
+
+Empty bread shelves in a supermarket on February 25 in Kyiv, Ukraine.Pierre Crom/Getty Images 15 of 45
+
+A girl stands at the edge of the crater made by Russian cruise missile shot in Kyiv.ANTON SKYBA/The Globe and Mail 16 of 45
+
+A local resident tries to clean the debris after an explosion of the remnants of a Russian missile in Kyiv.ANTON SKYBA/The Globe and Mail 17 of 45
+
+Members of the State Emergency Service of Ukraine walk towards a rocket case stuck in the ground following recent shelling in Kharkiv, Ukraine on February 25, 2022.MAKSIM LEVIN/Reuters 18 of 45
+
+Medics transport a person wearing a military uniform into an ambulance near a damaged unidentified military truck near a residential area in Kyiv, Ukraine on February 25, 2022.OLGA YAKIMOVICH/Reuters 19 of 45
+
+A Ukrainian soldier sits injured in cross fire inside the city of Kyiv, Ukraine on February 25, 2022.Emilio Morenatti/The Associated Press 20 of 45
+
+Vehicles wait in line at a security checkpoint on February 25, 2022 in Kyiv, Ukraine.Anastasia Vlasova/Getty Images 21 of 45
+
+A Ukrainian serviceman checks a vehicle at a security checkpoint on February 25, 2022 in Kyiv, Ukraine.Anastasia Vlasova/Getty Images 22 of 45
+
+A woman and two children leave Ukraine after crossing the Slovak-Ukrainian border in Ubla, eastern Slovakia, close to the Ukrainian city of Welykyj Beresnyj, on Feb. 25, 2022.PETER LAZAR/AFP/Getty Images 23 of 45
+
+Russian army military vehicles are seen in Armyansk, Crimea, on Feb. 25, 2022.STRINGER/AFP/Getty Images 24 of 45
+
+Ukrainian servicemen on patrol on a road in Kharkiv talk with a civilian on Feb. 25, 2022.MAKSIM LEVIN/Reuters 25 of 45
+
+A Ukrainian Army soldier inspects fragments of a downed aircraft in Kyiv, Ukraine on February 25, 2022.Vadim Zamirovsky/The Associated Press 26 of 45
+
+Firefighters work at a damaged residential building on Koshytsa Street, a suburb of the Ukrainian capital Kyiv, where a military shell hit, on February 25, 2022.GENYA SAVILOV/AFP/Getty Images 27 of 45
+
+Natali Sevriukova reacts next to her home following a rocket attack in the city of Kyiv on February 25, 2022.Emilio Morenatti/The Associated Press 28 of 45
+
+A man looks out of the window of a damaged apartment in a residential block hit by an early morning missile strike on February 25, 2022 in Kyiv, Ukraine.Chris McGrath/Getty Images 29 of 45
+
+A man clears debris at a damaged residential building on Koshytsa Street in the Ukrainian capital Kyiv on February 25, 2022.DANIEL LEAL/AFP/Getty Images 30 of 45
+
+A child on a swing outside a residential building damaged by a missile on February 25, 2022 in Kyiv, Ukraine.Pierre Crom/Getty Images 31 of 45
+
+A woman walks around the wreckage of an unidentified aircraft that crashed into a house in a residential area in Kyiv, Ukraine on February 25, 2022.UMIT BEKTAS/Reuters 32 of 45
+
+People run to take shelter while sirens sound announcing new attacks in the city of Kyiv on February 25, 2022.Emilio Morenatti/The Associated Press 33 of 45
+
+Hundreds of residents from a residential building damaged by a missile gather in a bomb shelter in the basement of a school on February 25, 2022 in Kyiv, Ukraine.Pierre Crom/Getty Images 34 of 45
+
+People take pictures of the remains of a rocket in a residential area in the Ukrainian capital of Kyiv on February 25, 2022.GENYA SAVILOV/AFP/Getty Images 35 of 45
+
+The wreckage of a vehicle lies on a road in the Ukrainian capital of Kyiv on February 25, 2022.SERGEI SUPINSKY/AFP/Getty Images 36 of 45
+
+Ukrainian servicemen walk around fragments of a downed aircraft in Kyiv, Ukraine on February 25, 2022.Oleksandr Ratushniak/The Associated Press 37 of 45
+
+Servicemen of the Ukrainian National Guard take positions in central Kyiv, Ukraine on February 25, 2022.GLEB GARANICH/Reuters 38 of 45
+
+People leave Kyiv after Russia continues massive military operating against Ukraine on February 25, 2022.GLEB GARANICH/Reuters 39 of 45
+
+People rest on the floor of a metro station, which is being used as an air raid shelter, in Kyiv, Ukraine on February 25, 2022.IRAKLI GEDENIDZE/Reuters 40 of 45
+
+People queue to donate blood for the army at the Blood Service Center in the western Ukrainian city of Lviv on February 25, 2022.YURIY DYACHYSHYN/AFP/Getty Images 41 of 45
+
+People donate blood for the army at the Blood Service Center in the western Ukrainian city of Lviv on February 25, 2022.YURIY DYACHYSHYN/AFP/Getty Images 42 of 45
+
+Ukrainian families fleeing the conflict in their country are seen walking along a road near the Hungarian-Ukrainian border crossing near Beregsurany, Hungary on February 25, 2022.ATTILA KISBENEDEK/AFP/Getty Images 43 of 45
+
+People sit in a bus heading to the border crossing between Poland and Ukraine on February 25, 2022.KACPER PEMPEL/Reuters 44 of 45
+
+People from Ukraine who have fled the violence and crossed the border into Poland are offered coffee in Medyka on February 25, 2022.BRYAN WOOLSTON/Reuters 45 of 45
+
+7:10 a.m. ET
+
+NATO leaders meet to reassure allies near Russia, Ukraine
+
+U.S. President Joe Biden and his NATO counterparts will seek Friday to reassure member countries on the alliance’s eastern flank that their security is guaranteed as Russia’s large-scale invasion of Ukraine closes in on the capital Kyiv.
+
+With Ukrainian President Volodymyr Zelenskyy appealing for help, NATO members ranging from Russia’s neighbour Estonia in the north down around the west of conflict-hit Ukraine to Bulgaria on the Black Sea coast triggered urgent consultations about their security. Only Hungary refrained.
+
+The leaders, meeting via video conference, plan to take stock of NATO’s own military buildup. The world’s biggest security organization previously had around 5,000 troops stationed in the Baltic countries – Estonia, Latvia and Lithuania – and Poland, but has significantly beefed up its defenses over the last three months.
+
+“Make no mistake, we will defend every ally against any attack on every inch of NATO territory,” NATO Secretary General Jens Stoltenberg, who will chair the summit, told reporters Thursday. “An attack on one ally will trigger a response from the whole alliance.”
+
+The leaders are likely to consider Friday whether to activate the NATO Response Force, which can number up to 40,000 troops. A quickly deployable land brigade that is part of the NRF – made up of 5,000 troops and run by France alongside Germany, Poland, Portugal and Spain – is already on heightened alert.
+
+-The Associated Press
+
+6:49 a.m. ET
+
+Taiwan to join ‘democratic countries’ in sanctions on Russia
+
+Taiwan will join “democratic countries” in imposing sanctions on Russia over the invasion of Ukraine, the government said on Friday, with the world’s largest contract chipmaker TSMC saying it would comply with all export control rules.
+
+The crisis is being watched closely in Taiwan, which China claims as its own territory and which has faced increased military pressure from Beijing over the last two years.
+
+“We very harshly condemn such an act of invasion and will join democratic countries to jointly impose sanctions,” Premier Su Tseng-chang told reporters in Taipei without giving details.
+
+The foreign ministry echoed that message while Economy Minister Wang Mei-hua said the island would “harshly scrutinize” exports to Russia and “co-ordinate” with unspecified allies on further actions. She also did not elaborate.
+
+-Reuters
+
+6:36 a.m. ET
+
+Final moments of Ukrainian border guards’ fierce stand on Snake Island against Russian war ship become rallying cry
+
+A defiant last stand by a small group of Ukrainian border guards defending a Black Sea outpost has become a new rallying cry for a country under attack by Russian forces – and those in Russia who oppose the war.
+
+Thirteen people were stationed on Snake, or Zminiy Island, a low-lying piece of land 35 kilometres from the Ukraine coast that has long delineated the country’s southwestern border.
+
+On Thursday, as Russian forces invaded Ukraine from numerous directions, a warship approached the island, just 0.17 square kilometres in size, and ordered the men to stand down.
+
+“I suggest you surrender your weapons and capitulate. Otherwise, I will open fire,” a male voice says, in audio posted to the Internet that has now been viewed millions of times. “Do you copy?”
+
+“This is it,” one Ukrainian border guard says. “Should I tell him to go fuck himself?”
+
+“Just in case,” another man says.
+
+The first man then responds to the warship: “Russian warship, go fuck yourself.”
+
+Moments later, the Russian forces attacked, killing all 13 men.
+
+Their defiance earned praise from Ukrainian President Volodymyr Zelensky, who named the 13 men and said they had “died heroically.” Each man will be honoured as a “hero of Ukraine,” he said.
+
+-Nathan VanderKlippe in Moldova and Mark MacKinnon in Kyiv
+
+6:28 a.m. ET
+
+U.K. says NATO forces must not play active role in Ukraine
+
+British and NATO troops must not play an active role in the Ukraine conflict after Russia’s invasion, armed forces minister James Heappey said on Friday, saying the risks of miscalculation in such a scenario could become existential.
+
+“We must all in this house be clear that British and NATO troops should not (and) must not play an active role in Ukraine,” Heappey told parliament.
+
+“We must all be clear what the risk of miscalculation would be, and how existential that could very quickly become if people miscalculate and things escalate unnecessarily.”
+
+-Reuters
+
+6:16 a.m. ET
+
+Ukrainian President Volodymyr Zelensky says he is Russia’s ‘number one target’
+
+Ukrainian President Volodymyr Zelensky vowed on Friday to stay put in the capital Kyiv as Russian troops launched an all-out invasion of Ukraine from several fronts.
+
+“(The) enemy has marked me down as the number one target. “My family is the number two target. They want to destroy Ukraine politically by destroying the head of state.”
+
+As Russian forces pushed toward his office in the centre of Kyiv, Zelensky also called for talks with Russian President Vladimir Putin.
+
+“I want to appeal once again to the president of the Russian Federation. Fighting is taking place all over Ukraine. Let’s sit down at the negotiating table to stop the deaths of people,” Mr. Zelensky said in a video address from inside the Presidential Administration building in the capital.
+
+An estimated 100,000 people fled as explosions and gunfire rocked major cities. Mr. Zelensky said over 130 military personnel and civilians had been killed in the fighting.
+
+Russia’s target appears to be capturing Kyiv and toppling the government, according to U.S and Ukrainian officials.
+
+-Mark MacKinnon, with files from Reuters
+
+Back to top
+
+6:00 a.m. ET
+
+Opinion: Vladimir Putin’s invasion of Ukraine is a bigger gamble than he imagines
+
+It happened exactly as American intelligence officials said it would; the only unknown was the timing. On Thursday, Russian President Vladimir Putin filled in that final detail when he launched an invasion of Ukraine by land, air and sea.
+
+Ukrainians who just wanted to live their lives in peace awoke to shells, missiles and air attacks, striking at military bases and airports across the country, and around the capital of Kyiv. Russian troops streamed across multiple borders. The Ukrainian military fought back as best it could. Traffic jams of refugees streamed west.
+
+This unprovoked attack, justified by nothing more than invented grievances, takes the world back to a darker, lawless age. “President Putin has reintroduced war to the European continent,” the leaders of the G7, which includes Canada, said on Thursday.
+
+Mr. Putin’s assault on decency is so outrageous that strongly worded condemnations from the G7, and co-ordinated Canadian, U.S. and European sanctions – on Russia, its banks, its government officials and the oligarchs that benefit from Mr. Putin’s tyranny – feel inadequate.
+
+-The Editorial Board
+
+4:20 a.m. ET
+
+Russian troops push in to Kyiv
+
+Russian troops have entered Kyiv from the north, Ukraine’s Defence Ministry said in a statement that called on residents to prepare to fight.
+
+The Defence Ministry said Russian reconnaissance units were now in the Obolon neighbourhood, close to Kyiv’s historic Podil district. “We ask citizens to inform about the movement of equipment!” the statement said. “Make Molotov cocktails, neutralize the occupier!”
+
+The Ukrainian government said they had destroyed three bridges on the northern approach to the capital to slow the Russian advance.
+
+A few hours later, as fighting moved closer to the centre of the city, the Interior Ministry announced it had distributed some 18,000 assault rifles to residents.
+
+Overnight, there were loud explosions audible in the city. The site of one blast that was visited by The Globe on Friday appeared to have been caused by a projectile that landed metres from an apartment block in the city’s Darnitsky region, blowing windows and part of the outer wall off the 10-storey building. The Ukrainian military said it was a Russian cruise missile that had been shot down by the city’s air defences. Residents said many ambulances had arrived, but they were unsure how many people had been killed or injured.
+
+-Mark MacKinnon in Kyiv
+
+Back to top
+
+3:16 a.m. ET
+
+Russia to deploy paratroopers to guard Chernobyl site
+
+Russia will deploy paratroopers to help guard the closed Chernobyl nuclear power plant near Ukraine’s capital Kyiv, a spokesman for Russia’s defence ministry said on Friday.
+
+Radiation levels at the plant are normal, the spokesman told a briefing. Russian troops, which started a full-scale military operation in Ukraine on Thursday, have destroyed 118 Ukrainian military infrastructure sites, he said.
+
+-Reuters
+
+2:20 a.m. ET
+
+Russian columns approaching Kyiv from east
+
+As Russian troops continued pressing their offensive Friday, intense fighting also raged in the country’s east.
+
+Russian troops entered the city of Sumy near the border with Russia that sits on a highway leading to Kyiv from the east. The regional governor, Dmytro Zhivitsky, said Ukrainian forces fought Russian troops in the city overnight, but other Russian convoys kept rolling west toward the Ukrainian capital.
+
+“Military vehicles from Sumy are moving toward Kyiv,” Zhivitsky said. “Much equipment has passed through and is heading directly to the west.”
+
+Zhivitsky added that another northeastern city, Konotop, was also sieged. He urged residents of the region to fight the Russian forces.
+
+-The Associated Press
+
+2:17 a.m. ET
+
+ICC says may investigate possible war crimes
+
+International Criminal Court (ICC) prosecutor Karim Khan on Friday expressed his concern over the Russian invasion of Ukraine and said his court may investigate possible war crimes in the country.
+
+“I have been closely following recent developments in and around Ukraine with increasing concern,” Khan said in a statement. “I remind all sides conducting hostilities on the territory of Ukraine that my office may exercise its jurisdiction and investigate any act of genocide, crime against humanity or war crime committed within Ukraine.”
+
+Following the Russian annexation of Crimea in March 2014 and the subsequent fighting in eastern Ukraine between pro-Russian rebels and Ukrainian government forces, Ukraine accepted ICC jurisdiction for crimes against humanity and war crimes committed on its territory since February 2014.
+
+-Reuters
+
+1:57 a.m. ET
+
+Germany to offer troops, weapons, war ships to NATO
+
+Germany plans to offer troops, air defence systems and war ships to NATO to strengthen its eastern flank after Russia invaded Ukraine, German magazine Der Spiegel reported on Friday without providing sources.
+
+Germany could send an infantry company with around 150 soldiers and more than a dozen Boxer wheeled armoured vehicles in a timely manner, according to a package that the military has put together for Defence Minister Christine Lambrecht, the media outlet said.
+
+The defence ministry was not immediately available for comment.
+
+Germany also plans to offer “Patriot” anti-aircraft missile systems and a corvette and a frigate, it said. The ships would have to be withdrawn from other missions in the Mediterranean.
+
+A fleet service boat with sensor technology is already on its way to the Baltic Sea, according to Der Spiegel.
+
+-Reuters
+
+1:46 a.m. ET
+
+Ukrainian military battles Russian forces
+
+The Ukrainian military is reporting significant fighting northwest of the nation’s capital as Russian forces apparently try to advance on Kyiv from the north.
+
+The military said Friday morning a bridge across a river had been destroyed in the area of Ivankiv, about 60 kilometres (40 miles) northwest of Kyiv.
+
+“The hardest day will be today. The enemy’s plan is to break through with tank columns from the side of Ivankiv and Chernihiv to Kyiv. Russian tanks burn perfectly when hit by our ATGMs (anti-tank guided missiles),” Interior Ministry adviser Anton Gerashchenko said on Telegram.
+
+-The Associated Press Back to top
+
+12:55 a.m. ET
+
+Zelensky says Russian actions show sanctions not enough
+
+Ukrainian President Volodymyr Zelensky said on Friday that continued Russian aggression against his country showed that sanctions imposed on Moscow by the West were not enough.
+
+Zelensky said the world was continuing to observe what was going on in Ukraine from afar.
+
+He was speaking after Ukraine said its capital city Kyiv had been struck by Russian missiles in the early hours of Friday morning.
+
+-Reuters
+
+12:26 a.m. ET
+
+Russian world No. 1 Medvedev calls for peace
+
+Russian Daniil Medvedev said he wanted to promote peace around the world after a “roller-coaster day” when he was confirmed as the world’s top tennis player and his country invaded Ukraine.
+
+U.S. Open champion Medvedev, who took the court in Acapulco, Mexico, hours after Novak Djokovic’s quarter-final loss in Dubai meant the Russian would replace him at the top of the men’s rankings on Monday, said it was not easy watching the news.
+
+“By being a tennis player, I want to promote peace all over the world,” the 26-year-old said after reaching the semi-finals at the ATP 500 tournament by defeating Japan’s Yoshihito Nishioka.
+
+-Reuters
+
+12:10 a.m. ET, Feb. 25
+
+Analysis: Biden’s tool box for dealing with Putin’s invasion of Ukraine is limited
+
+Ground troops – out of the question. Contemplating a no-fly zone over Ukraine – far too late for that. Moral suasion – it produced nothing. Sanctions – they may bite but won’t prompt Russia to balk.
+
+What’s an American President possessing the world’s most powerful military force and at the head of an alliance of 28 countries on the continent of Europe to do?
+
+This is a vital question when a determined Russian President with nearly a million troops decides to have his way with a country possessing a military about a quarter that size and a fighter aircraft force a tenth the size of Russia’s?
+
+-David Shribman
+
+Thursday, February 24
+
+11:54 p.m. ET
+
+Ukrainian forces down aircraft over Kyiv
+
+Ukrainian forces downed an enemy aircraft over Kyiv in the early hours of Friday, which then crashed into a residential building and set it on fire, said Anton Herashchenko, an adviser to the interior minister.
+
+It was unclear whether the aircraft was manned or whether it could be a missile. Kyiv municipal authorities said at least eight people were injured when the object crashed into an apartment block.
+
+Ukraine’s Foreign Minister Dmytro Kuleba said Kyiv had come under a missile attack.
+
+A series of explosions were heard in Kyiv earlier, which Herashchenko said were the sounds of air defences firing at the aircraft. Further explosions could be heard just before dawn, a Reuters witness said.
+
+-Reuters
+
+11:22 p.m. ET
+
+Kyiv Mayor calls on residents to stay indoors
+
+A woman walks past Ukrainian military service members guarding a road that leads to a government block, after Russian President Vladimir Putin authorized a military operation in eastern Ukraine, in Kyiv, Ukraine, Feb. 24, 2022.UMIT BEKTAS/Reuters
+
+Kyiv Mayor Vitaly Klitschko had called on the city’s three million people to stay indoors unless they worked in critical sectors and said everyone should prepare go-bags with necessities such as medicine and documents.
+
+-Reuters
+
+11:02 p.m. ET
+
+Airline industry shifts attention to Russia risks after Ukraine closure
+
+Alaska’s Anchorage Airport said airlines have started making inquiries about capacity in case routes over Russia are impacted due to the Ukraine crisis, in a sign of the conflict’s growing fallout for the global aviation industry.
+
+The airport was a popular refuelling hub for long-haul flights during the Cold War, when Western airlines were unable to access Russian airspace on routes from Europe to Asia.
+
+Japan Airlines cancelled its Thursday evening flight to Moscow, citing potential safety risks, while Britain closed its airspace to Russian airlines, including Aeroflot, as the conflict’s impact on the industry widened beyond Ukraine to Russia.
+
+Airspace in Ukraine, Moldova, parts of Belarus and in southern Russia near the Ukraine border was closed, giving airlines a narrower range of routing options.
+
+Emirates said it had made minor routing changes to Stockholm, Moscow, St. Petersburg and some U.S. flights that were hit by the airspace closings, leading to slightly longer flight times.
+
+OPSGROUP, an aviation industry co-operative that shares information on flight risks, said any aircraft travelling through Russian airspace should have contingency plans in place for closed airspace due to risks or sanctions.
+
+-Reuters
+
+10:27 p.m. ET
+
+Several explosions heard in Kyiv early Friday as Russian forces pressed on with assault
+
+Explosions were heard in the Ukrainian capital of Kyiv early Friday local time as Russian forces pressed on with a full-scale invasion in the first full day of fighting and could eventually rewrite the global post-Cold War security order.
+
+After using air strikes on cities and military bases, Russian military units moved swiftly to take on Ukraine’s seat of government and its largest city in what U.S. officials suspect is a brazen attempt by Russian President Vladimir Putin to dismantle the government and replace it with his own regime.
+
+Ukrainian leaders pleaded for help as civilians piled into trains and cars to flee, and hotels in Kyiv were being evacuated amid early indications of an assault.
+
+One senior U.S. defense official described the attack so far as the first salvo in a multi-phase invasion aimed at seizing key population centers and “decapitating” Ukraine’s government.
+
+-The Associated Press Back to top
+
+10:03 p.m. ET
+
+Opinion: Are allies willing to bear the high cost of making Putin pay?
+
+“We cannot allow this to be the end of the post-World-War-Two rules-based order,” Chrystia Freeland told reporters on Thursday. “It could be.”
+
+Canada’s Deputy Prime Minister often talks about the rules-based order, and it can sound academic, but in this case it was an appropriately ominous warning.
+
+Russian President Vladimir Putin has, at any rate, shattered norms that the world counted on to deter catastrophe, using great-power military might to invade a democracy.
+
+Ukrainians now face bombs and bloody war, but Ms. Freeland’s point was that the threat is not only to Ukraine, but a challenge to the order that has protected democracies from domination by stronger powers. For a long time, autocrats didn’t dare do this, and if nothing is done now, someone – not necessarily just Mr. Putin – will do it again.
+
+Prime Minister Justin Trudeau insisted, more than once, that Mr. Putin can’t be allowed to benefit from invasion – and it should be obvious that Canada has every interest in uniting with other democracies to make Mr. Putin pay.
+
+The threat of sanctions didn’t deter Mr. Putin from invasion, but Mr. Biden argued that the effects of the measures – especially over time – will so weaken Russia’s economy that Mr. Putin will face a difficult choice.
+
+-Campbell Clark
+
+9:55 p.m. ET
+
+Russian embassy in Canada says NATO ‘created immediate danger’
+
+The Russian embassy is Canada released a statement Thursday that attempted to justify President Vladimir Putin’s actions.
+
+It said the “political-military situation” and NATO’s military posture in Europe “created a clear and immediate danger for Russia that could not have been mitigated by any other means than those Russia has to use today.”
+
+The embassy said Russia’s repeated efforts to negotiate a new security arrangement in Europe have been scorned by the West.
+
+It warned “attempts by the West to turn Ukraine into a kind of ‘anti- Russia’ will not succeed.”
+
+The embassy said for two decades Moscow had expressed concern over enlargement of NATO, a development it called “a clear threat to our security.” The embassy said Russia had proposed solutions premised on principles including “not strengthening security at the expense of others.” It said this included efforts to incentivize Ukraine to “join this dialogue.”
+
+The embassy said however Russia’s efforts were “put on the back burner or haughtily ridiculed.”
+
+It concluded by saying “the road to peace remains open” and that Russia remains receptive to “meaningful dialogue” on a new security arrangement in “Europe and the Euro-Atlantic.”
+
+-Steven Chase
+
+9:36 p.m. ET
+
+Afghan refugees stuck in Ukraine with no exit in sight
+
+Afghan refugee Jawed Haqmal stands alone in Maidan square in Kyiv, on Feb. 24, 2022.ANTON SKYBA/The Globe and Mail
+
+Afghan refugees who fled to Ukraine after the Taliban takeover of their home country are terrified that they have once again found themselves in a war zone, with no obvious exit.
+
+“Everything is finished,” said Jawed Haqmal, who worked as a translator for the Canadian military in Afghanistan and has been living in a Kyiv hotel with his family since the end of August. “Just like a war zone, everyone is running to the shelters, streets are full of the army. Just like war, the same as what was going on in front of the airport of Kabul on the last day. The same thing is going on here.”
+
+Haqmal’s family of 12 arrived in Ukraine after being evacuated from Afghanistan by Ukrainian special forces, a mission that was carried out following a request from The Globe and Mail to the office of Ukrainian President Volodymyr Zelensky. Their stay in Ukraine was supposed to be a temporary stop on their way to Canada. The family, and others, are now trapped in Ukraine due to a bureaucratic delay.
+
+Aidan Strickland, a spokesperson for Immigration Minister Sean Fraser, said IRCC “has been made aware of complex cases of Afghan citizens who are seeking resettlement to Canada, but are currently in Ukraine.”
+
+-Janice Dickson
+
+9:20 p.m. ET
+
+Ukrainian-Canadian community rallies as Russian forces attack Ukraine
+
+People in Vancouver attend a rally in support of the people of Ukraine, on Feb. 24, 2022.DARRYL DYCK/The Canadian Press
+
+Canada has the largest Ukrainian population in the world, outside Russia and Ukraine. About 1.4 million Canadians are of Ukrainian ancestry, not counting significant additional populations of non-ethnic Ukrainians, among them Mennonites, Jews, Poles, Romanians and Swedes.
+
+At the Ukrainian Cultural and Education Centre in Winnipeg, Yulia Zmerzla had a sleepless night watching the news in both Ukrainian and Russian. She came to Canada eight years ago and still has many friends and family in Ukraine, including her parents. “I spoke to my parents today, and they told me that life will never be the same again after today,” she said, through tears.
+
+On Thursday, demonstrations were popping up in Montreal, Toronto, Edmonton and Vancouver to denounce Russia’s attack on Ukraine, and fundraisers were being set up to raise money both for humanitarian aid and military supplies for the country.
+
+Jurij R. Klufas, president of the Ukrainian National Federation of Canada, said he, too, was having trouble reconciling the reality of what was happening in Ukraine, something he said seemed more like a relic of a primitive past, “when everybody used to resolve issues with war.”
+
+“It’s very troubling to see at this time, in modern society, having somebody push in a military way their colonial convictions from the last two centuries,” he said. “It’s kind of almost crazy, surreal, to be seeing this kind of thing happening in today’s modern society, and in Europe.”
+
+-Jana G. Pruden, Kathryn Helmore and Ntawnis Piapot, with files from Wendy Stueck and Oliver Moore
+
+9:04 p.m. ET
+
+Taiwan to join countries sanctioning Russia
+
+Taiwan Premier Su Tseng-chang said the island will join “democratic countries” to put sanctions on Russia over the invasion of Ukraine, although he did not give details.
+
+The crisis is being watched closely in Taiwan, which China claims as its own territory and has faced increased military pressure by Beijing over the last two years.
+
+”We very harshly condemn such an act of invasion and will join democratic countries to jointly impose sanctions,” Su told reporters in Taipei without giving details. Taiwan Economy Minister Wang Mei-hua told reporters the island will “harshly scrutinize” exports to Russia and “co-ordinate” with unspecified allies for further actions. She did not elaborate.
+
+-Reuters
+
+8:20 p.m. ET
+
+Ukraine’s president stays put as Russian invaders advance
+
+Ukrainian President Volodymyr Zelensky vowed on Friday to stay in Kyiv as his troops battled Russian invaders who are advancing toward the capital in the biggest attack on a European state since World War Two.
+
+U.S. and Ukrainian officials say Russia aims to capture Kyiv and topple the government.
+
+“(The) enemy has marked me down as the number one target,” Zelensky warned in a video message. “My family is the number two target. They want to destroy Ukraine politically by destroying the head of state.”
+
+“I will stay in the capital. My family is also in Ukraine.”
+
+-Reuters
+
+8:06 p.m. ET
+
+UN gives $20-million to scale up Ukraine humanitarian aid
+
+People rest in the Kyiv subway, using it as a bomb shelter in Kyiv, Ukraine, Thursday, Feb. 24, 2022.Emilio Morenatti/The Associated Press
+
+The United Nations announced it is immediately allocating $20 million to scale up UN humanitarian operations in Ukraine.
+
+Secretary-general Antonio Guterres made the announcement saying the UN and its humanitarian partners “are committed to staying and delivering, to support people in Ukraine in their time of need … regardless of who or where they are.”
+
+“With deaths rising, we are seeing images of fear, anguish and terror in every corner of Ukraine,” the UN chief said. “People – everyday innocent people – always pay the highest price.”
+
+UN humanitarian chief Martin Griffiths said the $20 million from the UN’s Central Emergency Response Fund will support emergency operations along the contact line in eastern Donetsk and Luhansk and in other areas of the country, and will “help with health care, shelter, food, and water and sanitation to the most vulnerable people affected by the conflict.”
+
+-The Associated Press
+
+8:06 p.m. ET
+
+Watch: History professor from Kyiv on Ukraine’s response to Russia invasion
+
+Olgah Martynyuk, a history professor at the Kyiv Polytechnic Institute, who left the city this morning by train to Przemysl, Poland. She’s speaking in a reception centre set up in the train station after her 14-hour journey. The Globe and Mail
+
+They came in a steady stream, looking weary and confused as they made their way through the train station in Przemysl, a small Polish city about 10 kilometres from the border with Ukraine. Some had come from Kyiv, others from Lviv, in western Ukraine, and still more from farther east.
+
+Olgah Martynyuk, a history professor at Kyiv’s Polytechnic Institute, made a mad rush for the train after hearing bombs drop around the capital Thursday morning. “I woke up from blasts in the morning and I packed up,” Prof. Martynyuk said as she sat in Przemysl’s train station after a 14-hour journey. She was happy to be safe but felt unsettled about leaving her country. “I still feel enormous guilt,” she said. “What did we do wrong that all of this is happening?”
+
+Poland has been bracing for months for the possibility of as many as one million refugees from Ukraine in the wake of a Russian invasion. Preparations have been slow to roll out, and on Thursday officials in Przemysl, the Polish city closest to the border, still appeared to be scrambling to come up with some kind of support structure.
+
+On Thursday night the train station was expecting as many as 2,000 refugees to arrive on two trains from Kyiv early Friday morning. But just two local officials were on hand to help. “I’m afraid that we will lose control,” one said.
+
+-Paul Waldie in Prezmysl, Poland and Nathan VanderKlippe in Odesa, Ukraine
+
+7:44 p.m. ET
+
+Energy: the one sanction against Russia the West isn’t",https://www.theglobeandmail.com/world/article-russia-ukraine-war-live-updates-ukrainian-military-reports-heavy/
+4,e77b4638-aa29-4408-a7d6-693854e4ad4f,[],,"El grupo hacker Anonymous ha declarado la guerra cibernética a Rusia por los ataques en Ucrania. Una cuenta de Twitter afín ha publicado sus últimos posibles movimientos.
+
+Según han fijado en su perfil de Twitter: “El colectivo Anonymous está oficialmente en guerra cibernética contra el gobierno ruso”, apuntan.
+
+The Anonymous collective is officially in cyber war against the Russian government. #Anonymous #Ukraine — Anonymous (@YourAnonOne) February 24, 2022
+
+Al poco tiempo, Rusia comenzó a reportar la caída de ciertos sitios webs del gobierno. Numerosas webs gubernamentales rusas, incluidas las del Kremlin y el Ministerio de Defensa, se han caído, informó el observatorio de internet Netblocks y confirmó EFE.
+
+Estas incidencias llegan tras el comienzo de una masiva operación de ciberataques contra Ucrania, que han perturbado las telecomunicaciones en algunas de las principales ciudades de ese país.
+
+Publicidad
+
+“Confirmado: múltiples webs gubernamentales en Rusia, incluidas las del Kremlin y la Duma Estatal, han caído ‘offline’; el incidente llega en medio de una avalancha de ciberataques contra la vecina Ucrania”, señaló Netblocks en su cuenta de Twitter.
+
+⚠️ Confirmed: Multiple government websites in #Russia including the Kremlin and the State Duma have fallen offline; the incident comes amid a spate of cyberattacks targeting neighboring Ukraine 📉 pic.twitter.com/K1pPQu7cHs — NetBlocks (@netblocks) February 24, 2022
+
+Además, se reportó la caída e interrupción de internet en Járkov o Kharkiv, la segunda ciudad de Ucrania.
+
+⚠️ Update: #Ukraine's second-largest city #Kharkiv continues to take the brunt of network and telecoms disruptions, leaving many users cut off amid scenes of destruction as Russia targets the region. Kyiv is currently less impacted by outages.
+
+
+
+📰 Report: https://t.co/S0qJQ7CJD3 pic.twitter.com/FxgN1bHV3m — NetBlocks (@netblocks) February 24, 2022
+
+Estas misma caída de señal esta sucediendo en Kyiv y Kherson, al sur de Ucrania.
+
+El pasado 16 de enero, Ucrania reveló ser ciberatacado por Rusia. Este ciberataque fue perpetrado en la madrugada del viernes 14 de enero y tuvo como objetivo sitios en internet de varios ministerios ucranianos, que estuvieron inaccesibles durante varias horas.
+
+Publicidad
+
+Su objetivo “no solamente es el de intimidar a la sociedad”, sino además “desestabilizar la situación en Ucrania (...), minando la confianza de los ucranianos en cuanto a su poder”, con “falsas informaciones sobre la vulnerabilidad de las infraestructuras informáticas del Estado” y respecto “a la (posible) fuga de datos personales de los ucranianos”, de acuerdo con el ministerio citado.
+
+Polonia
+
+El encargado del Gobierno polaco para seguridad informática, Janusz Cieszynski, confirmó este viernes que varios sitios web y sistemas de todo el país de comunicaciones son objeto de ataques informáticos.
+
+En declaraciones a una radio polaca, Cieszynski aseguró que, entre otras instituciones públicas, se atacó al sistema informático de la Cámara de Compensación polaca, que tramita los créditos bancarios y transferencias entre bancos y la administración.
+
+Según pudo comprobar Efe, la página de la agencia oficial de información polaca, Pap, y varias webs pertenecientes a medios de información polacos dejaron de estar disponibles de manera intermitente y muchos de ellos desactivaron los comentarios a informaciones relacionadas con Rusia.
+
+Por otro lado, la entidad polaca que regula los medios de comunicación decidió este viernes impedir la difusión en territorio polaco de Russia Today, Soyuz TV, Rossija 24 y los demás medios de habla rusa. (I)",https://eluniverso-el-universo-prod.cdn.arcpublishing.com/noticias/internacional/ciberataques-afectan-sitios-web-de-rusia-el-conflicto-se-siente-en-el-terreno-tecnologico-nota/?modulo=lo-ultimo-seccion&plantilla=ampliada&subseccion=Internacional
+5,e77b4638-aa29-4408-a7d6-693854e4ad4f,[],,"4
+
+L'accès à Internet subit des coupures dans de nombreuses régions d'Ukraine depuis plusieurs jours. Piratages, bombardements... Si les causes peuvent être multiples, les conséquences sont les mêmes. Les observateurs internationaux et la population du pays craignent un blackout généralisé.
+
+A mesure que les chars russes pénètrent sur le territoire ukrainien, les coupures d'Internet se multiplient, notamment dans la deuxième plus grande ville du pays, Kharkiv. Coïncidence ou non, sur cette même période, les cyberattaques de la Russie ont perturbé de nombreux sites de banques ou d'administrations. Certains experts internationaux craignent un blackout généralisé, une possibilité qui faciliterait d'autant plus la tâche à la Russie.
+
+Les attaques par déni de service (DDoS) sur le réseau internet ukrainien se sont multipliées ces dernières semaines. Toutefois, ces attaques DDoS ne semblent pourtant pas à l'origine des incidents internet de ces derniers jours. Le plus important a eu lieu jeudi 24 février. Une grande partie du réseau des alentours de Kharkiv, la deuxième plus grande ville d'Ukraine, s'est retrouvée en partie sans connexion.
+
+Décrochage du réseau pendant plusieurs heures
+
+Les informations fournies par NetBlocks, un organisme en charge de l'observation d'Internet, montrent un important décrochage des données de Triolan, un des principaux opérateurs du pays, de l'ordre de 25 % dans la nuit du mercredi 23 février. Si dans un premier temps, les observateurs ont pensé que les bombardements aux alentours de la région avaient pu endommager des installations de télécommunication, il apparaît aujourd'hui que l'opérateur a été victime d'un piratage.
+
+⚠️ Update: #Ukraine's second-largest city #Kharkiv continues to take the brunt of network and telecoms disruptions, leaving many users cut off amid scenes of destruction as Russia targets the region. Kyiv is currently less impacted by outages.
+
+
+
+📰 Report: https://t.co/S0qJQ7CJD3pic.twitter.com/FxgN1bHV3m — NetBlocks (@netblocks) February 24, 2022
+
+Sur son site internet, Triolan dit avoir été la cible de plusieurs piratages de ""nœuds clés"" de son réseau. ""Un certain nombre de routeurs de notre réseau ont été désactivés sans récupération possible à distance, avec un total de 57 nœuds à Kiev, Kharkiv, Dnipro, Poltava, Odessa, Rivne et Zaporijia"", détaille le fournisseur d'accès à Internet, qui évoque également des équipements physiques endommagés.
+
+Ce vendredi, l'opérateur affirme être en train de tenter de réparer son réseau, mais de nombreux problèmes subsistent. Les serveurs DNS du fournisseur, qui servent à relier un nom de domaine (comme www.lesnumeriques.com) à une adresse IP, connaissent des incidents. Triolan conseille donc aux utilisateurs ukrainiens de configurer eux-mêmes ces derniers avec les DNS de Google (8.8.8.8 et 8.8.8.4) ou Cloudflare (1.1.1.1).
+
+Couper Internet, une attaque comme une autre
+
+La Russie est-elle derrière le piratage des nœuds du réseau ? A l'heure actuelle, aucune information n'a corroboré ou infirmé une telle possibilité. Quoi qu’il en soit, dans les conflits de cette ampleur, couper, ralentir ou censurer internet est souvent bénéfique à l’une des parties en présence.
+
+Felicia Anthonio, de l'organisation de défense des droits numériques Access Now, détaille à The Verge, les conséquences directes des coupures internet dans les situations de conflit. ""L'infrastructure internet devient une cible afin de contrôler le flux d'informations et d'obtenir ou de maintenir le pouvoir pendant un conflit, nous l'avons constaté à travers la destruction de l'infrastructure télécom du Yémen après des frappes aériennes de l'Arabie saoudite"", détaille-t-elle à nos confrères.
+
+Même si la Russie n'est pas directement derrière les pannes de ces derniers jours, le pays de Vladimir Poutine a démontré à de nombreuses reprises qu'il était en capacité d'affecter sévèrement l'Internet mondial. Comme le révélait le New York Times en 2015, la Russie s'intéressait de près aux câbles sous-marins internet. A l'époque, la flotte russe naviguait très régulièrement à proximité de ces derniers, et étaient alors en capacité de les espionner et même de les couper. Partant de ce constat, on ne doute pas qu'en sept ans, la Russie se soit perfectionnée.",https://www.lesnumeriques.com/vie-du-net/ukraine-de-mysterieuses-coupures-internet-depuis-plusieurs-jours-n177461.html
+6,e77b4638-aa29-4408-a7d6-693854e4ad4f,[],,"Járkov, la segunda ciudad más grande de Ucrania, ha sido la más afectada por las interrupciones de la red y las telecomunicaciones en el marco del ataque concretado por Rusia.
+
+El portal Netblocks informó que “las métricas muestran una pérdida de conectividad en la red de Triolan, lo que corrobora los informes de los usuarios sobre la pérdida del servicio de línea fija. La interrupción comenzó en medio de informes de grandes explosiones en la región cuando Rusia anuncia una movilización militar y se ha intensificado en el transcurso del día”.
+
+⚠️ Update: #Ukraine's second-largest city #Kharkiv continues to take the brunt of network and telecoms disruptions, leaving many users cut off amid scenes of destruction as Russia targets the region. Kyiv is currently less impacted by outages.
+
+
+
+📰 Report: https://t.co/S0qJQ7CJD3 pic.twitter.com/FxgN1bHV3m — NetBlocks (@netblocks) February 24, 2022
+
+Adicionalmente, una nueva serie de ataques de denegación de servicio (DDOS) se generaron en contra de una serie de portales web del gobierno de Ucrania horas antes del ataque que se gestó durante la madrugada de este jueves 24 de febrero. El incidente fue la tercera oleada de ataques de este tipo contra Ucrania durante este año.
+
+Entre los sitios afectados se encontraron los portales de las siguientes instituciones:
+
+Ministerio de Relaciones Exteriores
+
+Ministerio de Defensa
+
+Ministerio del Interior
+
+Servicio de Seguridad de Ucrania
+
+Gabinete de Ministros
+
+Las interrupciones de la red no solo afectaron a sitios gubernamentales, ya que también se reporta el ataque al banco más importante del país, PrivatBank, junto a la Caja de Ahorros Estatal de Ucrania, entre otros.",https://www.lacuarta.com/tendencias/noticia/una-interrupcion-significativa-del-servicio-de-internet-afecta-a-zonas-de-ucrania/DCL25ELVLVEXNPG4N73EMLHBRE/
+7,e77b4638-aa29-4408-a7d6-693854e4ad4f,[],2022-02-24 14:49:27+00:00,"Dopo i bombardamenti, come era probabile che fosse, i cittadini dell'Ucraina hanno cominciato ad avere problemi di rete che li stanno isolando ancora di più
+
+Com’era ovvio che fosse, in Ucraina – sotto i bombardamenti dei russi che parlano di «de-militarizzare la zona» ma che, all’atto pratico, stanno attaccando su tutti i fronti colpendo anche obiettivi civili – nel corso della mattinata sono cominciati i primi problemi di rete. Per ora l’interruzione dei servizi di rete si è fatta sentire maggiormente nella città di Kharkiv poco dopo una delle esplosioni che si sono sentite questa mattina presto. Appena accaduto le prime a cadere sono state le linee fisse, con gli smartphone che ancora andavano, dando il via a un parziale down internet Ucraina che non può che non avrebbe potuto che peggiorare con il passare elle ore e la caduta di altre bombe.
+
+⚠️ Confirmed: Significant internet disruption registered in #Ukraine-controlled city of #Kharkiv shortly after huge explosions heard; users report loss of fixed-line service on provider Triolan while cellphones continue to work 📉 📰 Live Report: https://t.co/S0qJQ7CbNv pic.twitter.com/cVSJg2XtQf — NetBlocks (@netblocks) February 24, 2022
+
+
+
+LEGGI ANCHE >>> L’inevitabile diffusione di foto e video che, fuori contesto, vengono definiti «attacchi all’Ucraina»
+
+Down internet Ucraina: cosa sta succedendo?
+
+Per capire la portata della questione facciamo riferimento a NetBlocks, servizio che si occupa di monitorare lo stato delle reti internet nel mondo e che sin dalle prime esplosioni di questa mattina ha cominciato a ricevere segnalazioni dai cittadini ucraini e in particolare da quelli di Kharkiv, la seconda città per popolazione del paese.
+
+Cyberattacken gegen die Ukraine: Sollen zur Verunsicherung der Bevölkerung beitragen, sie von Informationen abschneiden & IT-Kräfte binden. Gleichzeitig hoffen die Angreifer so die Kommunikation der Ukraine zu stören, etwa des Verteidigungsministeriums. https://t.co/B8iBBQTPpS — Markus Sulzbacher (@msulzbacher) February 24, 2022
+
+In questo frangente, ovviamente, oltre al danno delle infrastrutture che può portare problemi di rete ci sono anche gli attacchi informatici volutamente condotti per «contribuire all’insicurezza della popolazione, isolarla dalle informazioni e vincolare il personale IT», come spiega il giornalista Markus Sulzbacher. Oltre a far sentire la popolazione isolata, acuendo lo stato di emergenza e di ansia, impedire al ministero della Difesa si coordinarsi e agire per contrastare gli attacchi russi fa parte della strategia.
+
+⚠️ Update: #Ukraine‘s second-largest city #Kharkiv continues to take the brunt of network and telecoms disruptions, leaving many users cut off amid scenes of destruction as Russia targets the region. Kyiv is currently less impacted by outages. 📰 Report: https://t.co/S0qJQ7CJD3 pic.twitter.com/FxgN1bHV3m — NetBlocks (@netblocks) February 24, 2022
+
+Uno degli ultimi aggiornamenti di NetBlocks vede Kharkiv che continua ad avere problemi di interruzione della rete e delle telecomunicazioni e Kiev che, almeno per ora, sta sperimentando meno interruzioni.
+
+⚠️ Update: A significant internet disruption has been registered in the strategic port city of #Mariupol, Donetsk. The incident comes amid reports of civilian casualties and the loss of telecoms services for many. 📰 Report: https://t.co/S0qJQ7CbNv pic.twitter.com/sa2jhSyHyW — NetBlocks (@netblocks) February 24, 2022
+
+Oltre a Kharkiv ora le interruzioni di rete stanno diventando massicce anche nella città portuale sudorientale di Mariupol. Le interruzioni arrivano nel bel mezzo delle notizie su vittime civili.",https://www.giornalettismo.com/down-internet-ucraina-bombe-attacchi-hacker/
+8,e77b4638-aa29-4408-a7d6-693854e4ad4f,[],,"Das Internet in der Ukraine zeigt erste Beeinträchtigungen, der große Schlag könnte aber erst folgen: Russland bringt gerade eine neue Schadsoftware in Stellung, die Daten vernichten soll
+
+Kriege werden heutzutage schon lange nicht mehr bloß am Boden, auf See oder in der Luft ausgetragen. Im Zeitalter der hybriden Kriegsführung spielt gerade das Internet eine immer wichtigere Rolle. Immerhin geht es darum, die Handlungsfähigkeit des Feindes so gut wie möglich einzuschränken. Der aktuelle Einmarsch Russlands in die Ukraine stellt dabei keine Ausnahme dar.
+
+Willkommen bei DER STANDARD
+
+Sie entscheiden darüber, wie Sie unsere Inhalte nutzen wollen. Ihr Gerät erlaubt uns derzeit leider nicht, die entsprechenden Optionen anzuzeigen.
+
+Bitte deaktivieren Sie sämtliche Hard- und Software-Komponenten, die in der Lage sind Teile unserer Website zu blockieren. Z.B. Browser-AddOns wie Adblocker oder auch netzwerktechnische Filter.",https://www.derstandard.de/story/2000133633575/cyberattacken-russlands-angriff-gegen-die-ukraine-laeuft-auch-ueber-das

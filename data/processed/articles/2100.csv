@@ -1,0 +1,412 @@
+,uid,article_author,article_date,article_text,article_url
+0,a9088efc-0178-4016-8ade-cbe96d89d393,[],,"""One of our guys at the warehouse said he had seen Ukrainian air defence intercept one of the rockets,"" he said. ""These were missiles, he could see the wings on the missile as it was intercepted.""",https://www.bbc.com/news/world-europe-61036740
+1,a9088efc-0178-4016-8ade-cbe96d89d393,['Searchresult.Author.Name'],2022-04-08 18:06:08+00:00,"As Russia expands its assault on Ukraine, the Atlantic Council’s Digital Forensic Research Lab (DFRLab) is keeping a close eye on Russia’s movements across the military, cyber, and information domains. With more than five years of experience monitoring the situation in Ukraine, as well as Russia’s use of propaganda and disinformation to undermine the United States, NATO, and the European Union, the DFRLab’s global team presents the latest installment of the Russian War Report.
+
+Tracking narratives
+
+Russia makes false claims while blaming Ukraine for Kramatorsk railway station attack
+
+Ukraine accuses Russia of using mobile crematoria in Mariupol
+
+Kremlin-linked accounts promote Telegram channel spreading disinformation under the guise of fact-checking
+
+Media policy
+
+Inconsistent messages from Russia on the use of VPNs
+
+Security
+
+Tracking Russian mercenaries in Ukraine
+
+War crimes and human rights abuses
+
+Amid reports of looting, Russian soldiers may be stealing civilian cars
+
+Russia makes false claims while blaming Ukraine for Kramatorsk railway station attack
+
+On April 8, missiles landed near Kramatorsk railway station, killing dozens of people and injuring more than 100. The exact scale of casualties is still being investigated. According to local authorities, at least four children died. One of the missiles found on the scene had the phrase “За детей” (“for the children”) scrawled on it. While the phrase is open to interpretation, some have speculated that it was intended to mean “for the children of Russia,” and thus part of Russia’s attempt to paint Ukraine as the aggressor.
+
+Ukrainian authorities had urged residents of Donetsk and Luhansk oblasts, including the city of Kramatorsk, to evacuate while it was still possible. Ukraine brought in multiple trains to bring residents away from the conflict, but the evacuation faced problems. On April 7, for example, three evacuation trains got stuck after Russia bombed railways near Barvinkove, the primary route westward from Sloviansk and Kramatorsk. The trains eventually departed after a delay of several hours. Meanwhile, buses from Vuhledar came under fire during an evacuation.
+
+At least six trains were scheduled to depart Kramatorsk on April 8, each leaving the station as soon as they reached capacity.
+
+Russia tried to blame Ukraine for attacking its own citizens. Russian Telegram channel Siloviki prematurely published information that Russians are “working on a cluster of armed forces of Ukraine at Kramatorsk railway station” and celebrated casualties among Ukrainian combatants. A few minutes after the initial post, they edited it, presumably after reports of civilian casualties proliferated. In the edited post, they said that when the Kramatorsk railway station was hit, “It was possibly a Tochka-U [missile] that the Armed Forces of Ukraine use.” Both posts were subsequently deleted, but the original post and the edited message were archived as a forwarded message on another pro-Kremlin channel. Another pro-Kremlin Telegram channel, Veteran Notes, published an ominous message on the evening of April 7, suggesting people who evacuate from Kramatorsk and Sloviansk not use railway transport.
+
+Kremlin-owned mainstream media picked up the narrative and continued claiming Ukraine had attacked its own civilians, insisting that Russia does not use the Tochka-U missile system. While it might not be on official lists of Russian equipment, researchers previously spotted footage of Tochka-U systems being deployed in Belarus over the course of March, disproving Russia’s claims of not using them.
+
+—Roman Osadchuk, Research Associate
+
+Ukraine accuses Russia of using mobile crematoria in Mariupol
+
+On April 6, the Mariupol City Council released a statement on Telegram accusing Russian forces of using mobile crematoria to cover up war crimes. According to the council’s statement, Russian leadership ordered troops to destroy evidence of crimes in Mariupol following the public backlash against the Bucha massacre. They alleged that Konstantin Ivashchenko, the self-appointed separatist mayor of Mariupol, coordinates the mobile crematoria with the help of local special brigades recruited by Russians. The council speculated that Mariupol’s death toll could be in the tens of thousands, though the scale of civilian casualties remains unknown. Turkey has offered to help evacuate the wounded and dead from Mariupol by sea, but the initiative requires Moscow’s approval. The council suggested that the Kremlin has yet to sign off on the plan because of the high number of civilian casualties. Ukrainian authorities have not provided evidence of Russian forces using mobile crematoria in Mariupol.
+
+Before the invasion, Ukraine and other countries noted the presence of Russian mobile crematoria near the Ukrainian border. On February 23, British Defense Secretary Ben Wallace announced that Russia would deploy mobile crematoria in Ukraine to hide evidence of casualties. On March 3, Ukrainian President Volodymyr Zelenskyy said that the Russians had brought mobile crematoria into Ukraine to burn the bodies of their dead service members. Zelenskyy argued that the Kremlin would not want Russian families to know that their children died fighting in Ukraine.
+
+In 2015, after the annexation of Crimea and the occupation of the Donbas region, Ukrainian authorities raised the issue of Russian mobile crematoria. On January 29 of that year, the head of the Ukraine Security Service stated that Russia brought several mobile crematoria into militant-held areas of Ukraine. At the time, US Reps. Mac Thornberry (R-TX) and Seth Moulton (D-MA) also noted that they had seen evidence of Russian mobile crematoria in Ukraine.
+
+—Givi Gigitashvili, Research Associate, Warsaw, Poland
+
+Kremlin-linked accounts promote Telegram channel spreading disinformation under the guise of fact-checking
+
+The War on Fakes Telegram channel continues to amplify Russian disinformation under the guise of fact-checking, according to DFRLab monitoring. First reported on by the DFRLab in early March, War on Fakes now has over 720,000 subscribers, despite losing about 30,000 from March 19 to April 2. On April 3, the Russian Ministry of Defense amplified a post by War on Fakes to discredit information about the Bucha massacre.
+
+The DFRLab has seen increased promotion of War on Fakes’ English-language content through new Telegram channels and Russian government Facebook accounts. Using the Meta-owned analysis tool CrowdTangle, the DFRLab examined accounts sharing links to War on Fakes’ English-language website. Throughout March and into April, Russian embassies and other government-affiliated accounts shared links to the website hundreds of times on Facebook. The combined reach of these accounts includes millions of users.
+
+A screenshot of CrowdTangle results for accounts that have shared a link to War on Fake’s English-language website. (Source: DFRLab via Crowdtangle)
+
+Although War on Fakes also has websites in Chinese, Arabic, French, and Spanish, none of these URLs were shared as widely; however, there were at least a few shares by Russian embassy accounts for each of these other language options.
+
+The War on Fakes Telegram channel has also begun promoting a similar channel called “For the Truth,” which describes itself as “created to refute fakes and bring the truth to the West in their language.” The channel posts in Russian and English, and appears to be writing longer-form articles, which it shares via the web publishing tool Telegra.ph. One of War on Fakes’ secondary channels also publishes long-form articles via Telegra.ph in Russian. For the Truth admits that they coordinate with War on Fakes in some of their posts.
+
+The DFRLab also identified what appears to be state-organized promotion of War on Fakes through Russia’s social media platform VKontakte. Hundreds of accounts and pages shared identical copy-and-pasted versions of a post promoting War on Fakes to Russian parents; most of the posts were published on March 9 and 10. The post’s text includes an emotional appeal to parents about the safety of their children and the need to protect them from false information about the war.
+
+Screenshot of a post made by a municipally funded secondary school in Russia on March 10. The screenshot has been auto-translated. (Source: VK.com/archive)
+
+A significant portion of the pages sharing this post are government-funded schools or clubs, including the Young Guard program of Murmansk and numerous secondary schools, kindergartens, and preschools. The DFRLab has previously witnessed municipal VK accounts being used to justify the invasion of Ukraine. Other groups sharing the text include a step aerobics group, the Karate Federation of Murmansk, and a youth soccer organization. The DFRLab also identified another grouping of local government and news accounts sharing a different copied-and-pasted text promoting War on Fakes. This data set includes thirty separate accounts that all shared posts on February 27 within an hour of each other. Included in the posts was a video—which appears to have been taken down—refuting the claim that a Russian rocket hit an apartment building in Ukraine.
+
+Screenshot of the same post shared by two different accounts on February 27. The posts have been auto-translated. (Sources: VK.com/archive, left; VK.com/archive, right)
+
+There appears to be some level of coordinated behavior behind these posts. When considering that the accounts have a connection to the Russian government, this provides evidence that the Kremlin is connected, or at the very least promoting, the War on Fakes operation.
+
+—Ingrid Dickinson, Young Global Professional, Washington DC
+
+Inconsistent messages from Russia on the use of VPNs
+
+Over the last several weeks, virtual private networks (VPNs) have become a popular tool to help Russian internet users connect to Western online platforms blocked by the Kremlin. In mid-March, several outlets began reporting on the increased demand for VPNs in Russia. According to WIRED, “Almost a million people from Russia had signed up since the war started, 20 times the usual rate.” Pro-Kremlin outlet RBC.ru also noted that the sudden proliferation of VPNs likely explained why Russian use of western social media platforms had not dropped off entirely.
+
+The Kremlin has not been supportive of the recent surge in VPN use, but messaging and enforcement has been inconsistent, as can be seen in this timeline put together by the DFRLab:
+
+March 15: Alexander Khinshtein, Chairman of the State Duma Committee on Information Politics, stated that twenty VPN services had been blocked in Russia, and federal censor Roskomnadzor would continue blocking others.
+
+March 17: TASS published a report by the cybersecurity firm Group-IB, which stated that blocking VPNs is “a very abstract task” and represents a technological challenge.
+
+March 18: The Russian Fund for the Development of Digital Economy misleadingly “warned” Russian internet users that VPN services are a threat to their data security.
+
+March 21: Russian outlets reported that many blocked VPN services continue to work in Russia, but at a slower speed.
+
+March 22: Alexander Khinshtein stated that a legislative ban on VPNs was not being considered in Russia.
+
+March 22: Andrei Klishas, head of the Federation Council Committee on Constitutional Legislation and State Building, stated there would be no punishment for using VPNs, even if the services are officially are banned.
+
+—Eto Buziashvili, Research Associate, Washington DC
+
+Tracking Russian mercenaries in Ukraine
+
+Kremlin-backed Wagner Group mercenaries have been documented for the first time in Ukraine, after reports stating that over 1,000 fighters had being deployed in the war. Germany’s foreign intelligence service, the Bundesnachrichtendienst, intercepted Russian communications, which according to Der Spiegel suggested that “members of the Russian mercenary unit called the Wagner Group played a leading role in the atrocities in Ukraine.” The group became infamous for its atrocities in Syria and other conflict zones.
+
+Recently surfaced images suggest that Wagner forces are back in Ukraine, where there are fears they may commit war crimes. (Source: @grey_zone/Archive)
+
+One of the individuals seen in the photos appears to be Yan Petrovskiy a.k.a. Velikyi Slavyan, serving in Wagner’s Rusich unit. In 2020, the DFRLab consulted with Norwegian journalists from NRK.no to identify him in Syria. Despite his efforts to conceal himself with a blurred face, Petrovskiy can be identified through distinctive features such as tattoos on his wrists, as well as his black watch, the side arm on his leg, and a “Valknut” patch on his chest made of three interlocking triangles. The Valknut, also known as the “knot of the slain,” represents the afterlife and is commonly used by the far right.
+
+The distinctive features in the photo suggest that the individual posing for the photo is Yan Petrovskiy. (Source: @grey_zone/Archive)
+
+Meanwhile, according to the additional reporting, Rusich unit commander Aleksey “Fritz” Milchakov was recently wounded, and Yan Petrovsky is reportedly now in charge.
+
+—Lukas Andriukaitis, Associate Director, Brussels, Belgium
+
+Amid reports of looting, Russian soldiers may be stealing civilian cars
+
+The monitoring group Belaruski Gayun published a new investigation on April 8 alleging that Russian soldiers are driving stolen Ukrainian vehicles. After receiving multiple requests from Ukrainian residents seeking help to find their stolen cars, Belaruski Gayun investigated civilian cars marked with a “V,” a symbol used by Russian troops to identify friendly forces. They discovered multiple cars in Belarus with this symbol and concluded that at least some of the vehicles were likely stolen from Ukrainian residents.
+
+Belaruski Gayun spotted civilian cars without registration plates that were part of a large convoy of Russian military equipment. One of the cars in the convoy featured the logo of Havrylivski Kurchata (“Havryliv Chickens”), a domestic Ukrainian brand sold by the agriculture holding company Agromars.
+
+Meanwhile, Russian Mediazona published a story about Dmytro Mayboroda, a Ukrainian mobile app developer, who lived under Russian occupation in Bervitsa, Kyiv Oblast. To ensure Russian soldiers would not steal his personal phone, he gave them phones he uses for app testing. After the withdrawal of Russian troops, Dmytro checked the phones locations and found out that more than one of them was now in Russia, including one he geolocated to a Russian military hospital in Dolgoprudny, Moscow Oblast.
+
+—Roman Osadchuk, Research Associate
+
+Image: This video footage and these images show the aftermath of a Russian missile attack on Kramatorsk railway station in the Donetsk Oblast in the East of the country, where thousands of peaceful Ukrainians were waiting to be evacuated on Friday morning (08April2022). Credit: Office of the President of Ukraine/Cover Images ]",https://www.atlanticcouncil.org/blogs/new-atlanticist/russian-war-report-russia-makes-false-claims-while-blaming-ukraine-for-kramatorsk-railway-station-attack/
+2,a9088efc-0178-4016-8ade-cbe96d89d393,"['Deutsche Welle', 'Www.Dw.Com']",,"The death toll following a missile attack on a train station filled with civilians seeking to evacuate has risen to 52, Donetsk regional governor Pavlo Kyrylenko said Friday.
+
+Kyrylenko said 12 people were killed instantly at the scene while an additional 40 people later died of injuries in the hospital.
+
+Among the dead were five children.
+
+Watch video 05:41 Russian strikes on train station 'deliberate,' says military analyst
+
+Civilians had gathered in the hopes of being moved to safer parts of the country when the station came under attack. Photographs and videos taken just after the blast showed the dead on the ground, many with limbs missing and in one case, a head severed.
+
+The remnants of the Russian rocket revealed ""for the children"" had been written on the side.
+
+What do we know about the attack?
+
+In a Facebook post, Zelenskyy said a Russian Tochka-U missile struck the Kramatorsk train station.
+
+Zelenskyy wrote, ""Lacking the strength and courage to stand up to us on the battlefield, [the Russians] are cynically destroying the civilian population.""
+
+He added, ""If it is not punished, it will never stop.""
+
+After the attack, Kramatorsk's mayor, Oleksandr Honcharenko, said authorities continued to work on resuming the evacuation of residents by buses and cars. During an online briefing, Honcharenko called for assistance with the effort.
+
+""Today we are starting an emergency evacuation of people with all public transport, all private transport. We are looking for drivers. Approximate 30-40 drivers are needed as of today,"" he said.
+
+Honcharenko added about 4,000 people were at the station when the attack occurred. With dozens of surgeons working to treat the injured, the hospital nearby was struggling to cope.
+
+Honcharenko said, ""There are many people in a serious condition, without arms or legs.""
+
+Watch video 01:42 Ukraine: Russia shifting strategy to 'liberate' Donbas
+
+Ukraine's prosecutor-general said most of those gathered were women and children.
+
+What has the reaction been to the attack?
+
+Ukrainian President Volodymyr Zelenskyy said Russia is an ""evil that has no limits"" in the aftermath of the attack.
+
+German Chancellor Olaf Scholz, in London with Prime Minister Boris Johnson on Friday, called the attack ""atrocious,"" also referring to other ""shocking"" images and reports out of Bucha, Mariupol and other places in Ukraine in recent weeks. Johnson, meanwhile, described the Kramatosk attack as ""uncoscionable.""
+
+UK Defense Secretary Ben Wallace said the attack amounted to a war crime, while Ursula von der Leyen called it ""atrocious"" during her visit to Kyiv on Friday.
+
+""There are almost no words for it,'' von der Leyen said, adding, ""The cynical behavior has almost no benchmark anymore.""
+
+US President Joe Biden spoke of a ""horrific atrocity"" while the French government called it a ""crime against humanity.""
+
+The US said it believes Russia used a short-range ballistic missile in its strike on the railway station in Kramatorsk.
+
+Watch video 01:28 Eastern Ukraine braces for more heavy fighting
+
+Russia has denied responsibility for the attack. Kremlin spokesman Dmitry Peskov claimed Russia does not use the type of missile identified in the attack.
+
+Military experts almost immediately dismissed that claim and pointed to the use of Tochka-U missiles already in the six week-old war following Russia's invasion of Ukraine.
+
+ar/msh (AFP, AP, Reuters)",https://www.dw.com/en/ukraine-52-people-die-in-rocket-strike-on-kramatorsk-train-station/a-61415393
+3,a9088efc-0178-4016-8ade-cbe96d89d393,['Taiwan News'],2022-04-08 18:55:00+08:00,"The mayor of Kramatorsk said 50 were killed including five children in a missile attack on a rail station as civilians were hoping to escape The mayor of Kramatorsk said 50 were killed including five children in a missile attack on a rail station as civilians were hoping to escape
+
+The death toll following a missile attack on a train station filled with civilians seeking to evacuate has risen to 50, Donetsk regional governor Pavlo Kyrylenko said Friday.
+
+Kyrylenko said 12 people were killed instantly at the scene while an additional 38 people later died of injuries in the hospital.
+
+Among the dead were five children.
+
+Civilians had gathered in the hopes of being moved to safer parts of the country when the station came under attack. Photographs and videos taken just after the blast showed the dead on the ground, many with limbs missing and in one case, a head severed.
+
+The remnants of the Russian rocket revealed ""for the children"" had been written on the side.
+
+What do we know about the attack?
+
+In a Facebook post, Zelenskyy said a Russian Tochka-U missile struck the Kramatorsk train station.
+
+Zelenskyy wrote, ""Lacking the strength and courage to stand up to us on the battlefield, [the Russians] are cynically destroying the civilian population.""
+
+He added, ""If it is not punished, it will never stop.""
+
+After the attack, Kramatorsk's mayor, Oleksandr Honcharenko, said authorities continued to work on resuming the evacuation of residents by buses and cars. During an online briefing, Honcharenko called for assistance with the effort.
+
+""Today we are starting an emergency evacuation of people with all public transport, all private transport. We are looking for drivers. Approximate 30-40 drivers are needed as of today,"" he said.
+
+Honcharenko added about 4,000 people were at the station when the attack occurred. With dozens of surgeons working to treat the injured, the hospital nearby was struggling to cope.
+
+Honcharenko said, ""There are many people in a serious condition, without arms or legs.""
+
+Ukraine's prosecutor-general said most of those gathered were women and children.
+
+What has the reaction been to the attack?
+
+Ukrainian President Volodymyr Zelenskyy said Russia is an ""evil that has no limits"" in the aftermath of the attack.
+
+German Chancellor Olaf Scholz, in London with Prime Minister Boris Johnson on Friday, called the attack ""atrocious,"" also referring to other ""shocking"" images and reports out of Bucha, Mariupol and other places in Ukraine in recent weeks. Johnson, meanwhile, described the Kramatosk attack as ""uncoscionable.""
+
+UK Defense Secretary Ben Wallace said the attack amounted to a war crime, while Ursula von der Leyen called it ""atrocious"" during her visit to Kyiv on Friday.
+
+""There are almost no words for it,'' von der Leyen said, adding, ""The cynical behavior has almost no benchmark anymore.""
+
+US President Joe Biden spoke of a ""horrific atrocity"" while the French government called it a ""crime against humanity.""
+
+The US said it believes Russia used a short-range ballistic missile in its strike on the railway station in Kramatorsk.
+
+Russia has denied responsibility for the attack. Kremlin spokesman Dmitry Peskov claimed Russia does not use the type of missile identified in the attack.
+
+Military experts almost immediately dismissed that claim and pointed to the use of Tochka-U missiles already in the six week-old war following Russia's invasion of Ukraine.
+
+ar/msh (AFP, AP, Reuters)",https://www.taiwannews.com.tw/en/news/4501537
+4,a9088efc-0178-4016-8ade-cbe96d89d393,[],2022-04-08 00:00:00,"Denys Karlovskyi – Friday, 8 April 2022, 17:00
+
+Oleksandr Honcharenko, Mayor of Kramatorsk, announced that all residents of Kramatorsk will be urgently evacuated from the railway station using cars and other vehicles.
+
+Source: Oleksandr Honcharenko in a Ukraine Media Center briefing; Ukrzaliznytsia [Ukrainian Railways] press service on Telegram
+
+According to Honcharenko: ""Today an emergency evacuation of civilians will begin using all available municipal and private transport.
+
+We are looking for drivers. Today we need around 30-40 drivers, we are 30 drivers short. Everyone who is not indifferent and wants to help can join.
+
+We will continue using buses to evacuate people to safer places, where further train connections will be available. We will do this from different locations in order to avoid big crowds of people.
+
+This [the evacuation] will take place from our city and from the neighbouring cities.""
+
+Details: Ukrzaliznytsia reported that trains will not stop at Kramatorsk station. An evacuation route from Slovyansk to Uzhhorod by train №45 is currently planned.
+
+Trains № 274, 276, 278, and 92 are expected to depart for Lviv, Chernivtsi, Ternopil, and Odessa, respectively.
+
+The trains will be departing as soon as they are full. The time is not publicly announced due to security concerns.
+
+The mayor of Kramatorsk is convinced that all 4,000 civilians who were at the Kramatorsk railway station at the time of the attack could have been killed if the rocket hit the station building, rather than exploding in the air.
+
+He thinks that the main goal of the attack was to sow panic and disrupt the Ukrainian government’s plans to safely evacuate local residents.
+
+Honcharenko said that several of the 100 people who had been injured in the attack had their limbs torn off in the explosion.
+
+Background:
+
+At 10:30 on 8 April Russian troops deployed a Tochka-U complex to carry out cluster shelling on the Kramatorsk railway station: 39 people were killed in the attack, including children, another 100 were wounded.
+
+President Volodymyr Zelenskyy of Ukraine responded to the attack by urging the world to react strongly, because unpunished evil will cause even more suffering in the future.
+
+Charles Michel, Head of the European Council, who is on an official visit to Kyiv, said that Ukraine urgently needs to be provided with even more weapons.",https://www.pravda.com.ua/eng/news/2022/04/8/7338166/
+5,a9088efc-0178-4016-8ade-cbe96d89d393,"['Aditi Sangal', 'Amy Woodyatt', 'Ben Church', 'Melissa Macaya', 'Jason Kurtz', 'Meg Wagner']",2022-04-08 04:00:26+00:00,"Smoke rises from the Kulinichi bread factory after it was hit by shelling in Kharkiv, Ukraine, onApril 7 2022. REUTERS/Thomas Peter (Thomas Peter/Reuters)
+
+Russian forces have shelled the city of Kharkiv, the regional military governor said Friday, amid continued heavy fighting in eastern Ukraine
+
+""Over the last 24 hours, Russian occupation forces have fired 48 times with artillery, mortars, tanks and multiple rocket launchers in Saltivka, Piatyhatky, Oleksiivka, Derhachi and in the city center,"" Oleh Syniehubov, the head of the Kharkiv regional military administration, said on Telegram.
+
+""As of now, there are 15 injured in Kharkiv and in the district.""
+
+Syniehubov said shelling seriously damaged a gas pipeline, and that emergency crews were working at the scene.
+
+The shelling of Kharkiv comes amid heavy fighting in the southern part of the region. Ukrainian authorities have urged civilians to evacuate a number of cities and settlements in eastern Ukraine.
+
+""Fighting continues in the Izium direction,"" he said. ""We continue evacuation, in particular from Barvinkove and Lozova.""
+
+Some background: Recent advances by Russian forces around Kharkiv could be setting the stage for the eastern city of Sloviansk to become the next target of Russia's offensive, according to the Institute for the Study of War, a Washington-based think tank.",https://www.cnn.com/europe/live-news/ukraine-russia-putin-news-04-08-22/h_a53bdded43ca47b60994a038ff05ae88
+6,a9088efc-0178-4016-8ade-cbe96d89d393,"['Aditi Sangal', 'Amy Woodyatt', 'Ben Church', 'Melissa Macaya', 'Jason Kurtz', 'Meg Wagner']",2022-04-08 04:00:26+00:00,"A man works to catalog bodies of civilians killed in and around Bucha before they are transported to the morgue at a cemetery on April 6, in Bucha, Ukraine. (Chris McGrath/Getty Images)
+
+The chairman of the Russian metals firm Rusal has called for an impartial investigation into the killing of civilians in Bucha.
+
+What happened? Shocking images of the carnage in Bucha were captured by Agence France-Presse on Saturday, the same day Ukraine declared the town liberated from Russian troops. Accounts of alleged Russian atrocities are emerging as its forces retreat from areas near Kyiv following a failed bid to encircle the capital.
+
+The town of Bucha has endured five weeks of near-constant firefights. Now officials and human rights groups are blaming the civilian deaths on the departed Russian forces.
+
+“Reports from the Ukrainian city of Bucha shocked us. We believe that this crime should be thoroughly investigated. We support an objective and impartial investigation of this crime and call for severe punishment for the perpetrators. No matter how hard it may seem in the context of ongoing information war,” Rusal Chairman Bernard Zonneveld said in a statement earlier this week.
+
+Zonneveld’s statement did not address who may be responsible for the atrocities but went on to say that “such incidents make this terrible tragedy all the more traumatic.”
+
+“We all wish an early end to this fratricidal conflict, which destroys lives, families and entire cities. And we want those responsible for such crimes to be punished appropriately,” the statement reads.
+
+Zonneveld, a Dutch citizen, added that Rusal is calling for an early peaceful resolution of this conflict “to preserve priceless human lives and return to normalcy.”
+
+The founder of Rusal, Russian billionaire Oleg Deripaska, who has called for peace in the past, said on Telegram last week that the war is “madness” and could have already been resolved through negotiations.
+
+Read more on the killings in Bucha:",https://www.cnn.com/europe/live-news/ukraine-russia-putin-news-04-08-22/h_a31e43a31f6c3891ddbcef4a3ece51a6
+7,a9088efc-0178-4016-8ade-cbe96d89d393,"['Olga Voitovych', 'Nathan Hodge', 'Andrea Carrubba Anadolu Agency Getty Images']",,Civilians gather at the Kramatorsk station to be evacuated from combat zones in eastern Ukraine on April 6.,https://www.wxow.com/news/top-stories/at-least-30-killed-in-train-station-missile-strike-in-eastern-ukraine-as-civilians-try/article_fd4986e5-de1d-5fc6-b66c-1fe228f7ff37.html
+8,a9088efc-0178-4016-8ade-cbe96d89d393,"['Samantha Lock', 'Joanna Walters', 'Jenn Selby', 'Léonie Chao-Fong', 'Clea Skopeliti', 'Rebecca Ratcliffe']",2022-04-09 00:00:00,"From 9 Apr 2022 10.08 Boris Johnson meets Volodymyr Zelenskiy in Kyiv The UK prime minister is holding a meeting with the Ukrainian president in the capital this afternoon. The Ukrainian embassy to the UK shared a photograph of the two leaders in talks: Surprise 😉 pic.twitter.com/AWa5RjYosD — Embassy of Ukraine to the UK (@UkrEmbLondon) April 9, 2022
+
+Updated at 10.10 EDT
+
+10 Apr 2022 01.19 Summary Ukraine’s president, Volodymyr Zelenskiy, has warned his country “does not have time to wait” while pushing for an oil embargo on Russia in his latest national address. “Oil is one of the two sources of Russian self-confidence, their sense of impunity,” he said.
+
+on Russia in his latest national address. “Oil is one of the two sources of Russian self-confidence, their sense of impunity,” he said. Zelenskiy said his country is ready for a tough battle with Russian forces amassing in the east of the country. “This will be a hard battle; we believe in this fight and our victory. We are ready to simultaneously fight and look for diplomatic ways to put an end to this war.”
+
+with Russian forces amassing in the east of the country. “This will be a hard battle; we believe in this fight and our victory. We are ready to simultaneously fight and look for diplomatic ways to put an end to this war.” The British prime minister, Boris Johnson, pledged a major new infusion of British arms and financial aid during a surprise trip to Kyiv on Saturday. Johnson said the UK and its partners and allies will provide support so that “Ukraine will never be invaded again”. The UK confirmed it will send 120 armoured vehicles and new anti-ship missile systems.
+
+during a surprise trip to Kyiv on Saturday. Johnson said the UK and its partners and allies will provide support so that “Ukraine will never be invaded again”. The UK confirmed it will send 120 armoured vehicles and new anti-ship missile systems. Johnson praised Zelenskiy’s “resolute leadership and the invincible heroism ”. “Putin’s monstrous aims are being thwarted,” Johnson said. The reputations of the Russian president, Vladimir Putin , and his government have been “permanently polluted” by war crimes against civilians in Ukraine, he added.
+
+”. “Putin’s monstrous aims are being thwarted,” Johnson said. The reputations of the Russian president, , and his government have been “permanently polluted” by war crimes against civilians in Ukraine, he added. Russia’s withdrawal from northern Ukraine has left evidence of “disproportionate targeting” of civilians, mass graves, the use of hostages as human shields , according to the latest British intelligence report. The report also claimed Russian forces continue to use improvised explosive devices (IEDs) to inflict casualties, lower Ukrainian morale and restrict freedom of movement.
+
+, according to the latest British intelligence report. The report also claimed Russian forces continue to use improvised explosive devices (IEDs) to inflict casualties, lower Ukrainian morale and restrict freedom of movement. The Ukrainian military said its soldiers thwarted eight Russian attacks in the territory of Donetsk and Luhansk regions, according to its latest operational report as of 6am this morning.
+
+in the territory of regions, according to its latest operational report as of 6am this morning. Five people have been killed in east Ukraine shelling, according to the Donetsk governor. Four were reported killed in the city of Vugledar, and one in the town of Novomikhaylovka.
+
+Four were reported killed in the city of Vugledar, and one in the town of Novomikhaylovka. Towns and villages surrounding Kyiv have been left reeling after Russia’s failed campaign to seize the capital. In the town of Borodianka, north-west of Kyiv, rescue teams are sorting through the rubble of houses destroyed in Russian bombardments, looking for those missing.
+
+Ukraine carried out a prisoner exchange with Russia on Saturday, the third such swap since the start of the war, with 12 soldiers confirmed to be coming home, the Ukrainian deputy prime minister, Iryna Vereshchuk , wrote online.
+
+the third such swap since the start of the war, with 12 soldiers confirmed to be coming home, the Ukrainian deputy prime minister, , wrote online. A total of 4,553 people were evacuated from Ukrainian cities through humanitarian corridors on Saturday , fewer than the 6,665 who escaped on Friday, Vereshchuk said. Ten humanitarian corridors to evacuate people from embattled areas across the country had been agreed on Saturday.
+
+, fewer than the 6,665 who escaped on Friday, Vereshchuk said. Ten humanitarian corridors to evacuate people from embattled areas across the country had been agreed on Saturday. The European Commission is pledging €1bn to support Ukraine and countries receiving refugees fleeing the war following Russia’s invasion, said the commission’s president, Ursula von der Leyen .
+
+and countries receiving refugees fleeing the war following Russia’s invasion, said the commission’s president, Ursula von der Leyen The Czech Republic has delivered tanks, multiple-rocket launchers, howitzers and infantry fighting vehicles to Ukraine among military shipments that have reached hundreds of millions of dollars and will continue, two Czech defence sources told Reuters.
+
+among military shipments that have reached hundreds of millions of dollars and will continue, two Czech defence sources told Reuters. The Austrian chancellor, Karl Nehammer, met Zelenskiy earlier on Saturday, following a visit to the city of Bucha to the north-west of Kyiv, where mass civilian graves and street killings by Russian forces were discovered last week.
+
+met Zelenskiy earlier on Saturday, following a visit to the city of Bucha to the north-west of Kyiv, where mass civilian graves and street killings by Russian forces were discovered last week. Russia has reorganised the command of its battle operations in Ukraine, installing a new general with extensive experience in Russian operations in Syria, according to western officials. The commander of Russia’s southern military district, Gen Alexander Dvornikov, now leads the invasion. “It speaks to a Russian acknowledgement that it is going extremely badly and they need to do something differently,” an official told CNN while a seperate source told the BBC: “We would expect the overall command and control to improve.”
+
+installing a new general with extensive experience in Russian operations in Syria, according to western officials. The commander of Russia’s southern military district, Gen Alexander Dvornikov, now leads the invasion. “It speaks to a Russian acknowledgement that it is going extremely badly and they need to do something differently,” an official told CNN while a seperate source told the BBC: “We would expect the overall command and control to improve.” Ukraine has banned all imports from Russia , one of its key trading partners before the war with annual imports valued at about $6 billion, and called on other countries to follow suit. Ukraine’s minister for economic development and trade, Yulia Svyrydenko, made the announcement in a statement on Saturday.
+
+, one of its key trading partners before the war with annual imports valued at about $6 billion, and called on other countries to follow suit. Ukraine’s minister for economic development and trade, Yulia Svyrydenko, made the announcement in a statement on Saturday. Nato is working on plans for a permanent military presence on its border in an effort to battle future Russian aggression , The Telegraph is reporting, citing Nato Secretary-General Jens Stoltenberg.
+
+, The Telegraph is reporting, citing Nato Secretary-General Jens Stoltenberg. Protesters staged a self-described “die-in” outside Downing St in London on Saturday, holding ‘babies’ and signs covered in fake blood in protest against the massacre in the town of Bucha. A similar protest took place outside the White House in Washington D.C.
+
+
+
+10 Apr 2022 00.35 Eight Russian attacks thwarted in Donetsk and Luhansk, Ukraine says The Ukrainian military has just published its latest operational report as of 6am this morning. Officials claim Russian forces are attempting to break through the Ukrainian defences in Izum in Kharkiv, east Ukraine, by relocating additional units to the area while also attempting to establish full control over the city of Mariupol. A partial blockade of Kharkiv and shelling of the city continues, Ukraine’s general staff of the armed forces said. The “constant arrival of wounded [Russian] soldiers” is putting strain on medical staff and overwhelming medical supplies, the report added.
+
+In the absence of a stable supply of spare parts and units, Russian troops are forced to “work around the clock” to restore and repair equipment, officials claimed. In the Luhansk region, the measures of Russian-occupation administrations on forced mobilisation of the population in temporarily occupied territories are being strengthened.
+
+According to the report, in the territory of Donetsk and Luhansk regions, Ukrainian soldiers thwarted eight Russian attacks, destroyed four tanks, eight units of armoured vehicles and 13 air targets including three aircraft, one helicopter, five UAVs and four winged missiles. This handout satellite image released by Maxar Technologies shows the northern end of a large military convoy consisting of hundreds of vehicles moving south through the Ukrainian town of Velykyi Burluk. Photograph: Satellite image ©2022 Maxar Tech/AFP/Getty Images
+
+Updated at 00.41 EDT
+
+10 Apr 2022 23.55 Finland is preparing for a potentially historic decision “before midsummer” on whether to apply to join Nato as a deterrent against Russian aggression. The Nordic nation of 5.5 million has traditionally been militarily non-aligned, in part to avoid provoking its eastern neighbour, with which it shares a 1,300km (830 mile) border. But Russia’s invasion of Ukraine has seen public support for joining Nato double from 30 to 60%, according to a series of polls. “Never underestimate the capacity of Finns to take rapid decisions when the world changes,” former Finnish prime minister Alexander Stubb told AFP. Himself a long-time Nato advocate, Stubb now believes Finland making a membership application is “a foregone conclusion” as Finns re-evaluate their relationship with their neighbour. Next week a government-commissioned national security review will be delivered to parliament, the Eduskunta, to help Finnish MPs make up their own minds, before it is put to a vote. “We will have very careful discussions but not taking any more time than we have to,” Prime Minister Sanna Marin told a news conference on Friday. “I think we will end the discussion before midsummer,” she added. “My guess is that the application will be filed sometime during the month of May” in time for the June Nato summit in Madrid, Stubb said.
+
+
+
+10 Apr 2022 23.05 Here is a little more information on what we know about Putin’s appointment of a new general to direct his war effort in Ukraine. Army Gen. Alexander Dvornikov, commander of Russia’s Southern Military District, has been named theatre commander of Russia’s military campaign in Ukraine, according to CNN who cited a US official and a European official. It speaks to a Russian acknowledgement that it is going extremely badly and they need to do something differently,” the European official said. A new assault is now expected to focus on the Donbas region, instead of multiple fronts. Dvornikov, 60, was the first commander of Russia’s military operations in Syria, after Putin sent troops there in September 2015 to back the government of Syrian President Bashar al-Assad. During Dvornikov’s command in Syria from September 2015 to June 2016, Russian aircraft backed the Assad regime and its allies as they laid siege to rebel-held eastern Aleppo, bombarding densely populated neighbourhoods and causing major civilian casualties. The city fell to Syrian government forces in December 2016. Commander of the Southern Military District Alexander Dvornikov is believed to have been named theatre commander of Russia’s military campaign in Ukraine. Photograph: Kommersant Photo Agency/REX/Shutterstock Russian forces have used a similarly heavy-handed approach in parts of Ukraine, striking residential buildings in major cities and demolishing much of the Ukrainian port city of Mariupol. “We will see how effective that proves to be,” the European official said. “The Russian doctrine, the Russian tactics remain pretty much as they’ve been since Afghanistan.” “They do things in the same old way,” the official added. Former UK ambassador to Russia, Sir Roderic Lyne, told Sky News on Saturday Moscow has appointed a new general with a “pretty savage track record in Syria to try to at least gain some territory in Donetsk that Putin could present as a victory.”
+
+
+
+10 Apr 2022 22.50 In case you missed Boris Johnson’s earlier address during a surprise trip to Kyiv, the British prime minister hailed the leadership of Ukrainian president Volodymyr Zelenskiy and signalled that the UK is ready to continue intensifying sanctions on Russia “week by week”.
+
+Johnson said that “we will provide support so that Ukraine will never be invaded again”. It is unclear yet if Johnson meant specifically the UK or Britain and its European and Nato allies. 02:33 Johnson promises 'support so that Ukraine is never invaded again' on surprise trip to Kyiv – video
+
+
+
+10 Apr 2022 22.25 Protesters staged a self-described “die-in” outside Downing St in London on Saturday. Demonstrators held ‘babies’ and signs covered in fake blood in protest against the massacre in the town of Bucha and atrocities reportedly committed by Russian forces in Ukraine. A similar protest took place outside the White House in Washington D.C where protesters lay on the ground as they re-enacted the murder of civilians in Bucha. Demonstrators staged a massive protest outside Downing St in London on Saturday. Photograph: Vuk Valcic/ZUMA Press Wire/REX/Shutterstock Demonstrators held ‘babies’ and signs covered in fake blood in protest against the massacre in the town of Bucha and atrocities reportedly committed by Russian forces in Ukraine. Photograph: Vuk Valcic/ZUMA Press Wire/REX/Shutterstock Protesters seen on the street outside Downing St, London, England, United Kingdom. Photograph: Vuk Valcic/ZUMA Press Wire/REX/Shutterstock Protesters lie on the ground as they re-enact the murder of civilians in Bucha during a rally at the White House for Ukraine. Photograph: Allison Bailey/NurPhoto/REX/Shutterstock
+
+
+
+10 Apr 2022 21.57 Ukraine bans all imports from Russia Ukraine has banned all imports from Russia, one of its key trading partners before the war with annual imports valued at about $6 billion, and called on other countries to follow suit. “Today we officially announced a complete termination of trade in goods with the aggressor state,” Ukraine’s minister for economic development and trade, Yulia Svyrydenko, said in a statement on Saturday. From now on, no Russian Federation’s products will be able to be imported into the territory of our state. The enemy’s budget will not receive these funds, which will reduce its potential to finance the war. Such a step of Ukraine can serve as an example for our Western partners and stimulate them to strengthen sanctions against Russia, including the implementation of the energy embargo and isolation of all Russian banks.” Since the start of Russia’s invasion of Ukraine on 24 February, exchange of goods and services between the two neighbouring countries has been virtually non-existent, but Saturday’s move makes the termination of imports a law.
+
+
+
+10 Apr 2022 21.45 Without oil embargo, Russia has 'sense of impunity', Zelenskiy says We have some more detail from Zelenskiy’s earlier late-night address. The Ukrainian president urged for “more painful restrictions” on Russia’s cash flow, primarily upon oil and gas. First of all this applies to the oil business. The democratic world can definitely give up Russian oil and make it toxic to all other states. Oil is one of the two sources of Russian self-confidence, their sense of impunity.” Zelenskiy also pushed for gas sanction, saying over time this “will also be shut down”. “It’s just inevitable. Not only for safety, but also for environmental reasons,” he added.
+
+
+
+10 Apr 2022 21.09 Towns and villages surrounding Kyiv have been left reeling after Russia’s failed campaign to seize the capital. The Russian retreat has revealed scores of civilian deaths and devastation inflicted upon homes, apartment buildings and civilian infrastructure. Images from Borodianka, about 50km north-west of Kyiv, reveal the extent of the destruction. A car rides in front of a destroyed apartment building in Borodianka, Ukraine. Photograph: Alexey Furman/Getty Images A handmade picture of Virgin Mary is seen among the rubble of a destroyed apartment building in Borodianka, Ukraine. Photograph: Alexey Furman/Getty Images Leo, 22, a volunteer from the US, prays by the destroyed apartment building in Borodianka. Photograph: Alexey Furman/Getty Images Rescue workers clear the rubble of an apartment building in Borodianka. Photograph: Alexey Furman/Getty Images Two cyclists push their bicycles in front of a destroyed apartment building in Borodianka. Photograph: Alexey Furman/Getty Images
+
+
+
+10 Apr 2022 21.03 Nato is working on plans for a permanent military presence on its border in an effort to battle future Russian aggression, The Telegraph is reporting, citing Nato Secretary-General Jens Stoltenberg. Nato was “in the midst of a very fundamental transformation” that will reflect “the long-term consequences” of Russian President Vladimir Putin’s actions, Stoltenberg said in an interview with the newspaper. “What we see now is a new reality, a new normal for European security. Therefore, we have now asked our military commanders to provide options for what we call a reset, a longer-term adaptation of Nato,” it cited Stoltenberg as saying. Stoltenberg, who recently said he would extend his term as head of the alliance by a year, also said in the interview that decisions on the reset would be made at a Nato summit to be held in Madrid in June.
+
+
+
+
+
+10 Apr 2022 20.57 Today so far It is 4am on Sunday in Ukraine as the country prepares for a feared escalation in attacks in the east and evacuations continue. During a surprise visit to the capital on Saturday, Britain’s prime minister Boris Johnson pledged more military and economic assistance for Ukraine. Here’s where things stand: Ukraine’s president Volodymyr Zelenskiy said his country is ready for a tough battle with Russian forces amassing in the east of the country. “This will be a hard battle, we believe in this fight and our victory. We are ready to simultaneously fight and look for diplomatic ways to put an end to this war,” he said.
+
+with Russian forces amassing in the east of the country. “This will be a hard battle, we believe in this fight and our victory. We are ready to simultaneously fight and look for diplomatic ways to put an end to this war,” he said. Zelenskiy said Ukraine “does not have time to wait” while pushing for an oil embargo on Russia in his latest national address. He also said he is committed to pressing for peace despite Russian attacks on civilians that have stunned the world, and renewed his plea for countries to send more weapons ahead of an expected surge in fighting in the country’s east, in an interview with the Associated Press.
+
+on Russia in his latest national address. He also said he is despite Russian attacks on civilians that have stunned the world, and renewed his plea for countries to send more weapons ahead of an expected surge in fighting in the country’s east, in an interview with the Associated Press. British prime minister Boris Johnson pledged a major new infusion of British arms and financial aid during a surprise trip to Kyiv on Saturday. Johnson said the UK and its partners and allies will provide support so that “Ukraine will never be invaded again”. The UK confirmed it will send 120 armoured vehicles and new anti-ship missile systems.
+
+Johnson said the UK and its partners and allies will provide support so that “Ukraine will never be invaded again”. The UK confirmed it will send 120 armoured vehicles and new anti-ship missile systems. Johnson praised Zelenskiy’s “resolute leadership and the invincible heroism ”. “Putin’s monstrous aims are being thwarted,” he said. The reputations of Vladimir Putin and his government have been “permanently polluted” by war crimes against civilians in Ukraine, he added.
+
+”. “Putin’s monstrous aims are being thwarted,” he said. The reputations of and his government have been “permanently polluted” by war crimes against civilians in Ukraine, he added. Russia’s withdrawal from northern Ukrainian has left evidence of “disproportionate targeting” of civilians, mass graves, the use of hostages as human shields , according to the latest British intelligence report. The report also claimed Russian forces continue to use improvised explosive devices (IEDs) to inflict casualties, lower morale, and restrict Ukrainian freedom of movement.
+
+, according to the latest British intelligence report. The report also claimed Russian forces continue to use improvised explosive devices (IEDs) to inflict casualties, lower morale, and restrict Ukrainian freedom of movement. Five people have been killed in east Ukraine shelling, according to the Donetsk governor. Four were reported killed in the city of Vugledar, and one in the town of Novomikhaylovka.
+
+Four were reported killed in the city of Vugledar, and one in the town of Novomikhaylovka. In the town of Borodianka , north-west of Kyiv, rescue teams are sorting through the rubble of houses destroyed in Russian bombardments, looking for those missing. H eavy Russian bombardment has razed residential buildings and Ukrainian authorities are attempting search, clear-up and, hopefully, some rescue activities.
+
+eavy Russian bombardment has razed residential buildings and Ukrainian authorities are attempting search, clear-up and, hopefully, some rescue activities. Ukraine carried out a prisoner exchange with Russia on Saturday, the third such swap since the start of the war, with 12 soldiers confirmed to be coming home, Ukrainian deputy prime minister Iryna Vereshchuk said in an online post.
+
+the third such swap since the start of the war, with 12 soldiers confirmed to be coming home, Ukrainian deputy prime minister said in an online post. A total of 4,553 people were evacuated from Ukrainian cities through humanitarian corridors on Saturday , fewer than the 6,665 who escaped on Friday, Ukraine’s deputy prime minister Iryna Vereshchuk said. Ten humanitarian corridors to evacuate people from embattled areas across the country had been agreed on Saturday.
+
+, fewer than the 6,665 who escaped on Friday, Ukraine’s deputy prime minister Iryna Vereshchuk said. Ten humanitarian corridors to evacuate people from embattled areas across the country had been agreed on Saturday. The European Commission is pledging 1bn euros to support Ukraine and countries receiving refugees fleeing the war following Russia’s invasion, Ursula von der Leyen said.
+
+
+
+The Czech Republic has delivered tanks, multiple rocket launchers, howitzers and infantry fighting vehicles to Ukraine among military shipments that have reached hundreds of millions of dollars and will continue, two Czech defence sources told Reuters.
+
+among military shipments that have reached hundreds of millions of dollars and will continue, two Czech defence sources told Reuters. Austrian chancellor, Karl Nehammer also met Volodymyr Zelenskiy earlier on Saturday, following a visit to the city of Bucha to the north west of Kyiv, where mass civilian graves and street killings by Russian forces were discovered last week.
+
+also met Volodymyr Zelenskiy earlier on Saturday, following a visit to the city of Bucha to the north west of Kyiv, where mass civilian graves and street killings by Russian forces were discovered last week. Russia has reorganised the command of its battle operations in Ukraine, installing a new general with extensive experience in Russian operations in Syria, according to a western official. The commander of Russia’s southern military district, Gen Alexander Dvornikov, now leads the invasion, the source told the BBC, adding: “We would expect the overall command and control to improve.”
+
+
+
+10 Apr 2022 20.28 Here is another look at British prime minister Boris Johnson’s surprise trip to Kyiv on Saturday. Video footage showed Johnson and Zelenskiy walking through the centre of the Ukrainian capital and talking to ordinary Kyivans. “This is what democracy looks like. This is what courage looks like. This is what true friendship between peoples and between nations looks like,” the Ukrainian defence ministry said alongside a clip of the pair. At a handshake distance. @BorisJohnson and @ZelenskyyUa walked through the center of Kyiv and talked to ordinary Kyivans. This is what democracy looks like. This is what courage looks like. This is what true friendship between peoples and between nations looks like. pic.twitter.com/ZcdL6NqNp2 — Defence of Ukraine (@DefenceU) April 9, 2022
+
+
+
+10 Apr 2022 20.20 A total of 4,553 people were evacuated from Ukrainian cities through humanitarian corridors on Saturday, fewer than the 6,665 who escaped on Friday, Ukraine’s deputy prime minister has said. Iryna Vereshchuk made the announcement in an update on her official Telegram late on Saturday. From Mariupol and Berdyansk, 3,425 people traveled to Zaporizhia by car or bus, she said. Of the evacuees, 192 were residents from Mariupol and 3,233 were residents of cities of the Zaporizhia region. Another 529 residents of Melitopol were also successfully evacuated.
+
+
+
+10 Apr 2022 20.11 Former Italian Prime Minister Silvio Berlusconi said he is “deeply disappointed and saddened” by the behaviour of his old friend Russian President Vladimir Putin over the Ukraine invasion. “I cannot and I do not want to hide that I am deeply disappointed by the behaviour of Vladimir Putin,” Berlusconi told a public meeting in Rome. “I’ve known him about twenty years ago and he always seemed to me to be a democrat and a man of peace,” the 85-year-old billionaire continued. Berlusconi, who served as head of the Italian government three times between 1994 and 2011, had previously refrained from publicly criticising Putin. When he was in power, Berlusconi maintained friendly personal ties with the Russian president, going so far as to invite him on vacation to his luxurious villa in Sardinia. “Faced with the horror of the massacres of civilians in Bucha and other places, real war crimes, Russia can not deny its responsibilities,” he said Saturday.
+
+",https://www.theguardian.com/world/live/2022/apr/09/russia-ukraine-war-latest-zelenskiy-calls-for-firm-global-response-to-war-at-kramatorsk-train-station-live

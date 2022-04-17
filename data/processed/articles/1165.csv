@@ -1,0 +1,912 @@
+,uid,article_author,article_date,article_text,article_url
+0,c00bc797-c937-4d71-ac9e-a5dadf038f95,['Caroline Vakil'],2022-03-25 15:37:07+00:00,"The Russian military spy service, the GRU, was behind a hack that affected the Ukrainian military’s communications at the start of Russia’s invasion into the country, U.S. intelligence analysts say, The Washington Post reported, citing U.S. officials familiar.
+
+An official from the communications company Viasat told the newspaper that satellite modems had been hacked last month, when the Russian invasion in Ukraine started. The Post noted that the impacted modems were part of the company’s satellite network in Europe.
+
+The Viasat official told the Post that distributors would be shipped new modems to be provided to those affected by the cyberattack.
+
+Ukrainian officials told the newspaper that other government agencies had been affected by the hack in addition to the military.
+
+“We do not have an attribution to share at this time and are looking at this closely,” Saloni Sharma, a spokeswoman for the National Security Council, told the newspaper regarding the matter.
+
+“As we have already said, we are concerned about the apparent use of cyber operations to disrupt communications systems in Ukraine and across Europe and affect businesses and individuals’ access to the Internet.”
+
+The Post noted that between 2014 and 2016, Ukraine had previously suffered several other cyberattacks from the GRU, including when its Central Election Commission was hacked and later when its energy grid suffered two attacks.
+
+The White House and the president have warned that Russia “is exploring options for potential cyberattacks” against the U.S.
+
+“I have previously warned about the potential that Russia could conduct malicious cyber activity against the United States, including as a response to the unprecedented economic costs we’ve imposed on Russia alongside our allies and partners,” President Biden said in a statement on Monday.
+
+“It’s part of Russia’s playbook. Today, my Administration is reiterating those warnings based on evolving intelligence that the Russian Government is exploring options for potential cyberattacks.”
+
+The Hill has reached out to the White House National Security Council, Russian Embassy in Washington, D.C., and Viasat for comment.",https://thehill.com/policy/cybersecurity/599747-us-officials-russia-behind-hack-of-ukrainian-satellite-communications-at/
+1,c00bc797-c937-4d71-ac9e-a5dadf038f95,[],2022-03-25 13:40:00+00:00,"Russia's military spy service, the GRU, is said to be behind the hacking of Viasat's European satellite network, KA-SAT.
+
+US intelligence analysts claim that Russian military spies carried out a successful attack against a satellite broadband service run by an American company on the day Russia attacked Ukraine, the Washington Post writes.
+
+While the US government hasn't announced who's the culprit behind the attack, US officials' familiars with the matter say that the GRU was behind the attack.
+
+Connection outages were observed on the day Russia invaded Ukraine, February 24. Viasat's officials claim that the cyberattack was carried out by compromising and exploiting systems that manage customer terminals.
+
+The incident affected tens of thousands of terminals across Europe, demonstrating the dangers of relying for communications on commercial satellites.
+
+While the attack affected satellite broadband services, it doesn't mean that orbiting satellites were affected. The recent attack resembles a ground segment attack, where threat actors target facilities associated with satellite data reception.
+
+Last week, The US Cybersecurity and Infrastructure Agency (CISA) and the FBI issued a statement urging local and international satellite communication (SATCOM) providers to strengthen their cybersecurity practices.
+
+""Given the current geopolitical situation, CISA's Shields Up initiative requests that all organizations significantly lower their threshold for reporting and sharing indications of malicious cyber activity,"" the statement said.
+
+The space front
+
+Space assets came into light several times after the Kremlin invaded Ukraine. Hacker group NB65 said they managed to impact the daily activities of Roscosmos, the Russian space agency.
+
+The head of Roscosmos, Dmitry Rogozin, dismissed such claims as false later adding that hacking a satellite would constitute a 'reason for war.'
+
+At the beginning of the month, hackers also urged Ukraine's 'IT army' to target Russia's satellite-based navigation system, GLONASS.
+
+Most modern satellites are little more than specialized computers in space. What that means is that the devices are not immune to hacking.
+
+However, threat actors don't need to hack into satellites to disrupt the infrastructure based on artificial moons. Malicious hackers could carry out an attack by breaching mission control or intercepting radio or optical communications.
+
+More from Cybernews:
+
+Threat actors hijack outdated WordPress sites
+
+Why cyber risk assessment is crucial for boards to get on top of cybersecurity
+
+30% of SMEs have no data security, says study
+
+Russian govt employees indicted for global attacks on energy firms
+
+Russian accused of selling stolen credit card data
+
+Subscribe to our newsletter",https://cybernews.com/cyber-war/russia-behind-a-satellite-broadband-service-hack-media/
+2,c00bc797-c937-4d71-ac9e-a5dadf038f95,[],,"Selected Reading
+
+Ukraine at D+29: Ukrainian counteroffensive appears in progress. ( The CyberWire ) As Ukrainian forces undertake a counteroffensive, Russian tactical, logistical, and leadership failures remain on display. Western governments continue to warn against the possibility of Russian cyberattacks, and fears of chemical escalation mount.
+
+Ukrainian forces advance east of Kyiv as Russians fall back ( Reuters ) Ukrainian troops are recapturing towns east of Kyiv and Russian forces who had been trying to seize the capital are falling back on overextended supply lines, Britain said on Friday, one of the strongest indications yet of a shift in momentum in the war.
+
+Counteroffensive in Ukraine Shifts Dynamic of War ( New York Times ) President Biden met with European leaders in Brussels to reinforce solidarity against Russia’s invasion and proposed excluding Russia from the G20. Ukraine said it had destroyed a Russian naval ship.
+
+We had to eat a stray dog, admit people forced into fight for survival by Russia’s ‘Butcher of Mariupol’ ( The Telegraph ) In city carpet bombed by Kremlin’s forces, harrowing stories emerge of a stench of corpses and constant burning amid ‘utter destruction’
+
+Russia-Ukraine latest news: ‘At least 300’ dead in Mariupol theatre bombing ( The Telegraph ) Some 300 people are now believed to have died in Russia’s bombing of a theatre sheltering civilians in the flattened Ukrainian city of Mariupol.
+
+Putin's war in Ukraine nearing possibly more dangerous phase ( AP NEWS ) President Vladimir Putin's war in Ukraine is approaching a new, potentially more dangerous phase after a month of fighting has left Russian forces stalled by an outnumbered foe.
+
+What we know — and don’t know — about how many people have been killed in the Russian invasion of Ukraine ( Washington Post ) As Russia’s invasion of Ukraine enters its third week, military and civilian casualties are mounting — but no one, not even the United Nations or the Ukrainian government, can provide an accurate count of how many people have been injured or killed.
+
+The US and NATO disagree over an estimate of 40,000 Russian casualties in Ukraine ( Task & Purpose ) ""We continue to have low confidence in those estimates""
+
+Russia running out of precision munitions in Ukraine war- Pentagon official ( Reuters ) Russia is running out of precision guided munitions and it is more likely to rely on so-called dumb bombs and artillery, a senior Pentagon official said on Thursday.
+
+Syrians watch in horror as Putin deploys the Aleppo playbook in Ukraine ( CNN ) Six years before its Ukraine war, Russia began another ruthless military operation thousands of kilometers away in Syria -- to prop up the Bashar al-Assad regime. Victims of that war say the scenes from Ukraine on their television screens look hauntingly familiar.
+
+Belarusian Exiles in Ukraine Join the Fight Against a Common Foe: Russia ( New York Times ) Eager, but ill equipped, some of Belarus’s exiles have formed a battalion in their host country, saying its fight against Vladimir Putin’s domination is the same as their homeland’s.
+
+Russia Crisis Military Assessment: Moscow’s increased threat against NATO intervention ( Atlantic Council ) Russia has abandoned its goals of rapid victory. Here's what it's focusing on instead, according to our military fellows.
+
+U.N. General Assembly again overwhelmingly isolates Russia over Ukraine ( Reuters ) Almost three-quarters of the U.N. General Assembly demanded aid access and civilian protection in Ukraine on Thursday, and criticized Russia for creating a ""dire"" humanitarian situation after Moscow invaded its neighbor one month ago.
+
+Ukraine War: G7 calls on Russia to stop military operations ( Newsweek ) President Joe Biden met with world leaders in Brussels to address Russia's invasion of Ukraine.
+
+Russian spies in Brussels lie low ahead of Biden visit ( POLITICO ) Belgian state security says the Russians are ‘less active’ and are observing the rules.
+
+What Will Putin Do If Russia Loses Ukraine? ( Wired ) As Russia's failures mount in its war against Ukraine, can Biden prevent an isolated Putin from doing the unthinkable?
+
+Ukraine and Russia conduct soldier-for-soldier prisoner swap ( Al Jazeera ) Ukrainian government says this was first equal exchange of captured troops since Russia’s invasion began a month ago.
+
+Ukrainian forces claim to destroy a Russian landing ship. ( New York Times ) The destruction of the ship would be a success for the Ukrainians as they seek to keep Russia from reinforcing and resupplying its forces as they struggle to gain momentum.
+
+Watch: Ukrainians claim to have destroyed Russian navy ship after Kremlin gave away location ( The Telegraph ) Kyiv’s forces zeroed in on target after Russian state media filmed the vessel unloading cargo of armoured vehicles bound for Mariupol
+
+Russian landing ship destroyed at Sea of Azov port, Ukrainian naval forces say ( CBC ) Ukraine's navy reported on Thursday that it had destroyed the Russian landing ship Orsk in the Sea of Azov, docked at the occupied Ukrainian port city of Berdyansk.
+
+Ukraine sinks Russian ship as Moscow accused of forcible deportations from Mariupol ( the Guardian ) Orsk landing vessel destroyed as Russian soldiers accused of deceiving those hiding into leaving shelters
+
+‘Unwell’ Russian defence minister Sergei Shoigu disappears from public view ( The Telegraph ) A close ally of the Russian president and potential successor, Sergei Shoigu gave his last public engagement on March 11
+
+Russian military secrets could be laid bare after Ukraine captures electronic warfare systems ( The Telegraph ) The Krasukha-4 unit, which was recovered from the battlefield near Kyiv, will be flown to the US for examination
+
+Live updates: Bulgarians protest Russia's war in Ukraine ( AP NEWS ) Thousands of people took to the streets of Bulgaria’s capital, Sofia, on Thursday to protest Russia’s invasion of Ukraine and to show solidarity with Ukrainians. The rally, organized on social networks, followed Ukrainian President Volodymyr Zelenskyy’s call on people around the world to protest the month-long war.
+
+Ukraine says Moscow is forcibly taking civilians to Russia ( AP NEWS ) Ukraine accused Moscow on Thursday of forcibly taking hundreds of thousands of civilians from shattered Ukrainian cities to Russia, where some may be used as “hostages” to pressure Kyiv to give up.
+
+Take Putin’s Nuclear Threats Over Ukraine Seriously, Not Literally ( World Politics Review ) While the risk of Russia’s invasion of Ukraine escalating into a nuclear conflict does exist, it is likely minimal. Even so, the war in Ukraine underscores the role that nuclear deterrence plays in conventional engagements, and the need for Western policymakers and strategists to think seriously about the dynamics that creates.
+
+White House ‘Tiger Team’ ready to strike back if Vladimir Putin launches nuclear war on Nato ( The Telegraph ) Team of national security advisers plans different scenarios and how United States and its allies should respond
+
+Deter Russia’s Use of Chemical Weapons in Ukraine ( Defense One ) How Biden handles threats will dissuade Moscow and other adversaries from using these weapons—or encourage it.
+
+Putin’s Afghanistan ( Foreign Affairs ) Ukraine and the lessons of the Soviet’s Afghan war.
+
+'All options are on the table' for eastern flank, says US Permanent Representative to NATO ( Atlantic Council ) At an Atlantic Council Front Page event, Julianne Smith laid out ways the United States and its allies can face up to Russia and strengthen European security.
+
+NATO Boosts Forces in East Amid Chemical Incidents Warning ( Bloomberg ) G-7 plans to warn Moscow on using chemical, nuclear material. Russia suffering casualties, economic pain after month of war.
+
+UK to double its troops in Eastern Europe as Nato strengthens defences ( The Telegraph ) Alliance signs off on the formation of four new battlegroups at an emergency summit in Brussels on the war in Ukraine
+
+Joe Biden: We will respond in kind if Vladimir Putin uses chemical weapons in Ukraine ( The Telegraph ) Nato leaders say reaction to WMD would be ‘very severe’, but rule out boots on ground
+
+Top Pentagon officials have not spoken to their Russian counterparts since invasion of Ukraine began ( CNN ) Senior Russian military leaders have declined calls from their US counterparts since before the invasion of Ukraine began, a Pentagon spokesman said Thursday.
+
+Zelenskyy pleads for aid as Biden, allies begin summits ( AP NEWS ) Ukrainian President Volodymyr Zelenskyy called for “military assistance without limitations” as he addressed an emergency NATO summit on Thursday, the first of three urgent meetings U.S.
+
+NATO Ignores Zelenskyy’s Plea For 1% of Its Tanks, Jets ( Defense One ) Alliance announces four new battlegroups as GOP calls for more direct aid to Ukraine.
+
+Ukraine Starts Using Facial Recognition To Identify Dead Russians And Tell Their Relatives ( Forbes ) Ukraine’s deputy prime minister says the tech will help provide transparency about how many Russian soldiers are dying in the war. Critics say the use of facial recognition in war zones is a disaster in the making.
+
+Ukraine uses facial recognition to identify dead Russian soldiers, minister says ( Reuters ) Ukraine is using facial recognition software to identify the bodies of Russian soldiers killed in combat and to trace their families to inform them of their deaths, Ukraine's vice prime minister told Reuters.
+
+A month into the Russian invasion, Ukraine is still mostly online ( The Record by Recorded Future ) Heroic efforts by frontline technicians and a robust, competitive telecom market helped keep the country connected.
+
+Researchers tie Ukraine cyber intrusion attempt to suspected Chinese threat actor ‘Scarab’ ( The Record by Recorded Future ) Ukraine’s Computer Emergency Response Team (CERT-UA) published evidence this week indicating that Chinese threat actors are targeting their systems publicly for the first time since Russia invaded Ukraine.
+
+Russia's Factory of Superheavy Elements is GURMO's Latest Breach ( Inside Cyber Warfare ) Included is the new DC-280 Cyclotron Particle Accelerator
+
+Is a nation‑state digital deterrent scenario so far‑fetched? ( WeLiveSecurity ) Why has the conflict in Ukraine not caused the much anticipated global cyber-meltdown? Is a nation-state digital deterrent scenario so far-fetched?
+
+Russian military behind hack of satellite communication devices in Ukraine at war’s outset, U.S. officials say ( Washington Post ) U.S. intelligence analysts have concluded that Russian military spy hackers were behind a cyberattack on a satellite broadband service that disrupted Ukraine’s military communications at the start of the war last month, according to U.S. officials familiar with the matter.
+
+Hackers Attacked Satellite Terminals Through Management Network, Viasat Officials Say ( Air Force Magazine ) The cyberattack of Viasat’s satellite broadband service was carried out by hackers compromising the system that manages customer terminals.
+
+Russian & Ukrainian Cyber Warfare ( TCecure ) Russian & Ukrainian Cyber Warfare Cyber warfare is a major tool of today’s warfare, and Russia’s invasion of Ukraine is no exception. Russian Cyber Warfare On the very first day of ground attacks, Ukrainian government officials were unable to access most government websites, including those for their Parliament,
+
+As ransomware group declares support for Russia, expect more cyberattacks in Canada, security experts say ( CBC ) Municipalities, corporations and individuals should be on the lookout for cyberattacks as war in Ukraine rages on, online security experts warn.
+
+Tactics, Techniques, and Procedures of Indicted State-Sponsored Russian Cyber Actors Targeting the Energy Sector ( CISA ) Actions to Take Today to Protect Energy Sector Networks: • Implement and ensure robust network segmentation between IT and ICS networks. • Enforce MFA to authenticate to a system. • Manage the creation of, modification of, use of—and permissions associated with—privileged accounts.
+
+FBI, CISA advise 13,000 orgs to have 'low threshold' for reporting cyberattacks ( The Record by Recorded Future ) The Cybersecurity and Infrastructure Security Agency (CISA) held an informational call with 13,000 organizations on Tuesday night, highlighting the need for them to be prepared in light of U.S. government concerns about threats of a potential Russian cyberattacks.
+
+Real-Life Hackers Reveal What You Can Do About The Threat Of Russian Cyberattacks ( HuffPost ) Biden warned this week that Russia may conduct cyberattacks in the U.S. Here's what you need to do ASAP.
+
+Energy is going to be a target of cyber attacks, says CrowdStrike co-founder ( YouTube ) Dmitri Alperovitch, Crowdstrike co-founder [now no longer with Crowdstrike], joins 'TechCheck' to discuss how acute cybersecurity concerns are right now, who a prime cybersecurity target cou...
+
+NetWitness Incident Response Team Urges Enterprises to Prepare for Potential Cyberattacks Related to Russia/Ukraine Conflict ( NetWitness.com ) Recent Warnings from the Biden Administration Point to Potential Cyber Threats Aimed at Critical Organizations
+
+Practical Steps for Responding to the CISA Warning on Russian Cyber Attacks ( CSO Online ) On February 25, 2022, two days after Russia began its military invasion of Ukraine, the U.S. Cybersecurity & Infrastructure Security Agency (CISA) issued a rare ‘Shields Up’ warning for U.S.-based organizations, stating: ""Every organization—large and small—must be prepared to respond to disruptive cyber activity.""
+
+How CEOs received Biden’s ‘very clear message’ on a looming Russian cyberattack ( Yahoo ) After weeks of relative public silence on the issue, President Biden went to business leaders Monday with a stark warning: he said Moscow is exploring cyberattacks, they could be coming soon, and businesses need to do more to be prepared.
+
+Biden tells governors to 'take urgent action' to protect infrastructure from Russian hackers ( POLITICO ) ""There are things that only you as governor can do,"" Biden told state leaders.
+
+Shields Up: A CEO's Guidance for Corporate Leaders on Cybersecurity Readiness ( CSO Online ) What CISA is asking on behalf of every CISO and every security practitioner is this: Cybersecurity is essential to your business, and we have reached a moment when it is at incredibly high risk. Give your security teams your full support by resourcing them, and then let them do what they do best—defend your systems, your data, and your organization.
+
+Biden's Russia Cyber Warning Befuddles Ill-Prepared Businesses ( Insurance Journal ) A day after U.S. President Joe Biden issued a stark warning that a Russian cyberattack ""is coming,"" members of his administration hosted a three-hour call
+
+Over 100 Building Controllers in Russia Vulnerable to Remote Hacker Attacks ( SecurityWeek ) A researcher has found more than 100 building controllers located in Russia that can be hacked remotely from the internet, but he claims his goal is not to cause damage.
+
+Anonymous claims to have hacked the Central Bank of Russia ( Security Affairs ) The Anonymous hacker collective claims to have hacked the Central Bank of Russia and stole accessed 35,000 documents. Anonymous continues to target Russian government organizations and private businesses, now it is claiming to have hacked the Central Bank of Russia. The popular hacker collective claims to have compromised the systems of the Central Bank of […]
+
+War in Ukraine Highlights Security Concerns for NGSO Satcom ( Satellite Today ) The war in Ukraine, and the hack of Viasat’s KA-SAT network, has highlighted the long-standing geopolitical reality for Low-Earth Orbit (LEO) and Medium-Earth Orbit (MEO) operators who serve government and critical industry customers, and the security issues that come with it, according to panelists at a SATELLITE 2022 session on Monday.
+
+Blacklisted by the U.S., pro-Russia accounts have still been posting propaganda on Twitter and YouTube ( Washington Post ) More than a dozen accounts across YouTube and Twitter were posting false narratives about the war in line with the Kremlin’s talking points, without labels or other limits
+
+Russia bans Google News, Russians download Wikipedia before it becomes next target ( Computing ) Russia's crackdown on external news sources continues
+
+Some prominent Russians quit jobs, refuse to support war ( AP NEWS ) The resignation of a senior Russian government official and his reported move abroad wasn't the first voluntary departure of a person from a state job since the start of Russia's war with Ukraine, but it certainly was one of the most striking.
+
+Russian activists sign open letter calling for end to war in Ukraine ( the Guardian ) Campaigners write manifesto in broadest anti-war statement by Russian human rights supporters
+
+Fed Up With Deadly Propaganda, Some Russian Journalists Quit ( New York Times ) At least four state television employees have publicly resigned, citing regret for their roles in promoting false narratives about Ukraine.
+
+Putin Has Popped the EU Defense Bubble ( Foreign Policy ) No, the European Union cannot make the continent secure.
+
+U.S. Hits Russian Lawmakers, Defense Sector With New Sanctions ( Bloomberg ) Move includes penalties on more than 400 individuals, entities. Putin adviser Herman Gref among sanctioned individuals.
+
+U.S. Targets Russia’s Giant Stash of Gold in New Sanctions ( Bloomberg ) The ban on business with Russia is the first for gold markets. Announcement comes as U.S. announces new Russian sanctions.
+
+EU Leaders to Agree on Modest Tightening of Sanctions on Russia ( Bloomberg ) Countries remain divided on tackling Russian energy supplies. European Union chiefs to stop short of big new package for now.
+
+Prime Minister concludes successful visit to Belgium and announces additional support for Ukraine ( Prime Minister of Canada ) To further build on Canada‘s coordinated response to Russia’s illegal, unprovoked, and unjustifiable aggression against Ukraine, the Prime Minister today announced additional measures to support Ukraine and hold Russia accountable for its invasion
+
+Russian cyber threat to US could invoke ANZUS Treaty ( The Sydney Morning Herald ) Such a decision could draw Australia into a retaliatory American cyber assault on Vladimir Putin’s regime, drawing Australia directly into any confrontation.
+
+Biden Calls for Russia to Be Removed From G-20 Over Ukraine ( Bloomberg ) Russia should be removed from the Group of 20 over its actions in Ukraine, President Joe Biden said.
+
+Western sanctions won't sway Kremlin, says Russia's former president Medvedev ( Reuters ) It is ""foolish"" to believe that Western sanctions against Russian businesses could have any effect on the Moscow government, Russian ex-president and deputy head of security council Dmitry Medvedev was quoted as saying on Friday.
+
+Russia moves to expel U.S. diplomats in tit-for-tat move ( Reuters ) The United States Embassy in Moscow on Wednesday received a list of its diplomats that were declared ""persona non grata"", a State Department spokesperson said, in what Russian media said was a response to a U.S. move ousting Russian staff at the United Nations.
+
+Putin’s War to Wipe Out 15 Years of Russian Economic Growth ( Bloomberg ) IIF economists see Russian GDP contracting by 15% in 2022. ‘Brain drain,’ technology bans to hurt economy in longer-term.
+
+Panicked Russians Don’t Believe Official Advice That Economy Is Fine ( Bloomberg ) Sugar, diapers, pet food among items in high demand in Russia. Economy is headed for deep recession after war, sanctions.
+
+ICC prosecutor calls for international support in Ukraine war-crimes probe ( Reuters ) The chief prosecutor of the International Criminal Court on Thursday asked a coalition of countries to back his war crimes investigation in Ukraine, saying ""things can get worse"" unless the international community acts now.
+
+Prosecuting Putin ( Foreign Policy ) Bringing the Russian president to trial will be a challenge. But war crimes lawyers are raring to go.
+
+Russian Central Bank Chief Tried to Quit Over Ukraine War ( Wall Street Journal ) Elvira Nabiullina is left to steer the nation’s economy through harsh sanctions.
+
+Action must be taken to award reparations to victims of Russian war crimes ( Atlantic Council ) The international community is overdue for an overhaul of the legal tools accessible to victims of state-sponsored crimes in the twenty-first century. Perhaps justice mechanisms for Ukraine and Syria can stymie such impunity once and for all.
+
+Russian stock market, crushed by war, opens with big limits ( AP NEWS ) The Russian stock market opened Thursday for limited trading under heavy restrictions for the first time since Moscow invaded Ukraine , coming almost a month after prices plunged and the market was shut down as a way to insulate the economy.
+
+Russia Puts Floor Under Stock Market Selloff as Trading Resumes ( Bloomberg ) Foreigners banned from selling as market reopens after closure. Share of individual investors in today’s trading was 58%: MOEX.
+
+U.K. Says Russian Mercenary Group Aims to Assassinate Ukraine’s President ( Wall Street Journal ) Wagner Group, which the EU calls a proxy force for Russia’s Defense Ministry, is being used to try to assassinate Ukrainian leader Volodymyr Zelensky.
+
+Who are the Wagner Group mercenaries and why are they being sanctioned? ( The Telegraph ) With an estimated 6,000 members, the mercenary organisation is notorious for entering conflict zones where plausible deniability is needed
+
+‘Vladimir Putin’s superyacht’ faces seizure from Italian marina ( The Telegraph ) The £500m vessel, called Scheherazade, could be sanctioned as investigation reveals staff are from Russia’s security service
+
+Sergei Lavrov’s ‘stepdaughter’, Polina Kovaleva, hit by new sanctions against Vladimir Putin’s cronies ( The Telegraph ) The daughter of the Russian foreign minister’s mistress has been added to the list alongside the paramilitary Wagner Group
+
+Spare Roman Abramovich from sanctions – he might be the key to peace, says Volodymyr Zelensky ( The Telegraph ) Kyiv said to have asked Washington to hold off on punishing oligarch in the hope of him acting as intermediary in talks to end Ukraine war
+
+Distributor dumps Kaspersky to show solidarity with Ukraine ( Register ) Security software vendor saddened but says its channel is holding firm
+
+Want to hurt Putin? Back a brain drain from Russia. ( Atlantic Council ) A low-cost policy option with a high impact on Russia, welcoming high-skill immigrants into the United States would dent Russia’s economy and fight propaganda.
+
+Ukraine war reverberates on Taiwan's 'frontline of democracy' ( Reuters ) Lin Jih-shou was brewing tea last month in his popular breakfast joint when he heard the buzz of a plane – a rare sound on the remote Taiwanese-held island of Dongyin near China's coast, which does not have an airport.
+
+Attacks, Threats, and Vulnerabilities
+
+North Korean hackers exploited Chrome zero-day bug for six weeks ( SearchSecurity ) Google said a Chrome zero-day flaw was exploited for multiple state-sponsored operations between January and February of 2022.
+
+North Korean hackers exploit Chrome zero-day weeks before patch ( BleepingComputer ) North Korean state hackers have exploited a zero-day, remote code execution vulnerability in Google Chrome web browser for more than a month before a patch became available, in attacks targeting news media, IT companies, cryptocurrency and fintech organizations.
+
+North Korean Actors Exploited Chrome Flaw to Target U.S. Orgs ( Decipher ) Google researchers have detailed campaigns by two North Korean government-backed groups that exploited a now-fixed Chrome flaw to target organizations across various industries.
+
+Countering threats from North Korea ( Google ) On February 10, Threat Analysis Group discovered two distinct North Korean government-backed attacker groups exploiting a remote code execution vulnerability in Chrome, CVE-2022-0609.
+
+New Mustang Panda hacking campaign targets diplomats, ISPs ( BleepingComputer ) An ongoing Mustang Panda campaign that has started at least eight months ago has been uncovered by threat analysts who also managed to sample and analyze custom malware loaders and a new Korplug variant.
+
+Chinese APT Combines Fresh Hodur RAT with Complex Anti-Detection ( Threatpost ) Mustang Panda’s already sophisticated cyberespionage campaign has matured even further with the introduction of a brand-new PlugX RAT variant.
+
+Mustang Panda hacking group takes advantage of Ukraine crisis in new attacks ( ZDNet ) Just as criminals seized on the pandemic, this group is trying to capitalize on Russia's invasion of Ukraine.
+
+Chinese 'Mustang Panda' Hackers Spotted Deploying New 'Hodur' Malware ( The Hacker News ) Hackers from China's Mustang Panda hacker group spotted deploying a new variant of Korplug malware, dubbed Hodur.
+
+New cyberespionage campaign targeting ISPs, research entities ( Help Net Security ) A still-ongoing cyberespionage campaign uses a previously undocumented Korplug variant by the Mustang Panda APT group.
+
+Italy Rail Operator Detects Signs of Hacking in System ( Bloomberg ) Ferrovie dello Stato halts in-station sales on possible breach. Attacks resembling CryptoLocker detected in company’s network.
+
+Vidar Malware Launcher Concealed in Help File ( Trustwave ) Appending a malicious file to an unsuspecting file format is one of the tricks our adversaries use to evade detection. Recently, we came across an interesting email campaign employing this technique to deliver the info stealer Vidar malware.
+
+New Vidar Infostealer Campaign Hidden in Help File ( SecurityWeek ) An email malware campaign is delivering the Vidar infostealer by hiding the malware in a Help file mechanism in order to avoid detection.
+
+Mēris and TrickBot standing on the shoulders of giants ( Avast Threat Labs ) This is the story of piecing together information and research leading to the discovery of one of the largest botnet-as-a-service cybercrime operations we’ve seen in a while. This research reveals that a cryptomining malware campaign we reported in 2018, Glupteba malware, significant DDoS attacks targeting several companies in Russia, including Yandex, as well as in […]
+
+Okta names Sitel in Lapsus$ security incident impacting up to 366 customers ( ZDNet ) The analogy ""walking away from your computer at a coffee shop"" has been used to describe the incident.
+
+Okta breach leads to questions on disclosure, reliance on third-party vendors ( CyberScoop ) Security experts questioned how long it took Okta to disclose the Lapsus$ breach and worried about a domino effect.
+
+Okta says security protocols limited hack, but response came too slow ( The Verge ) CSO David Bradbury called the hack ""an embarrassment"" for the Okta team
+
+All About LAPSUS$: What We Know About the Extortionist Group [Updated] ( Flashpoint ) Updated March 24, 2022: The City of London Police arrested seven individuals today, March 24, in connection with the extortionist group LAPSUS$, allegedly
+
+Who is Lapsus$, the theatrical cyber gang that hit Okta and Microsoft? ( TNW | Security ) A cybercrime gang called Lapsus$ has recently attacked some of tech's biggest companies. We investigated who they are and what they're doing.
+
+Lapsus$ Group - an emerging dark net threat actor leveraging insider threats-or was it? ( Silent Push ) Lapsus$ Group is an extortion group that gained public recognition in the last few weeks due to its attacks to NVIDIA and Samsung where they stole and leaked critical information from the companies.
+
+A Closer Look at the LAPSUS$ Data Extortion Group ( KrebsOnSecurity ) Microsoft and identity management platform Okta both disclosed this week breaches involving LAPSUS$, a relatively new cybercrime group that specializes in stealing data from big companies and threatening to publish the information unless a ransom demand is paid. Here's a…
+
+Greece’s national postal service restoring systems after ransomware attack ( The Record by Recorded Future ) Greece’s national postal service, ELTA, said it is in the process of fully restoring its systems following a ransomware attack that took place on Sunday night.
+
+Crypto scammers are filling inboxes with fake 'donate to Ukraine' emails ( Mashable ) Hundreds of thousands of these scam emails are being sent each day.
+
+Cybercriminals Unleash Ukrainian Crypto Scams ( Cyren ) Over 100K daily fake donation emails uncovered by the Cyren research team
+
+Information pollution significantly impacts online debates on COVID-19 in Latin America and the Caribbean, UNDP and Constella study warns ( PR Newswire ) Today, the United Nations Development Programme (UNDP) and Constella Intelligence released a first-of-its-kind joint publication that details...
+
+FBI warns of online ‘sextortion’ cases targeting teens ( Washington Post ) FBI officials issued a warning Thursday following an increase in “sextortion” reports of teenage boys being targeted online by scam artists who entice them to share explicit content and then later extort money from the victims, officials said.
+
+HubSpot Data Breach Ripples Through Crytocurrency Industry ( Threatpost ) ~30 crypto companies were affected, including BlockFi, Swan Bitcoin and NYDIG, providing an uncomfortable reminder about how much data CRM systems snarf up.
+
+Spokane Regional Health District warns of data breach ( KXLY ) Some of your personal information could have been affected by a data breach at the Spokane Regional Health District. SRHD said the information was accessed through a phishing email on Feb. 24. IT workers were alerted to the situation. Then, an internal investigation showed files with clients’ protected health information might have been “previewed” by the data thief....
+
+RTÉ on alert for cyber attack after delivery of two suspicious packages ( independent ) RTÉ is on high alert for a possible cyber attack after two suspicious packages were delivered to their regional offices this week.
+
+Legal Stakes Rise As Court Data Breach Grows ( Law360 ) It was about 11 p.m. when a restless software developer in Texas discovered that his hobby website, a free public records search engine, had been mentioned in a news story about a massive data breach.
+
+Grimes Said She Orchestrated Cyberattack That Shut Down ‘Hipster Runoff’ ( Vice ) In a Vanity Fair interview, Grimes tells the story of committing a federal crime and blackmailing the iconic one-man blogging machine.
+
+Security Patches, Mitigations, and Software Updates
+
+VMware fixes Carbon Black command injection, upload bugs ( Register ) Miscreants can exploit these to make a bad situation much worse
+
+Juniper pushes out monster patch ( iTnews ) Some third party bugs went back to 2003.
+
+mySCADA myPRO ( CISA ) 1. EXECUTIVE SUMMARY CVSS v3 8.8 ATTENTION: Exploitable remotely/low attack complexity Vendor: mySCADA Equipment: myPRO Vulnerability: Command Injection 2. RISK EVALUATION Successful exploitation of this vulnerability could allow arbitrary operating system commands injection.
+
+Yokogawa CENTUM and Exaopc ( CISA ) 1. EXECUTIVE SUMMARY CVSS v3 8.6 ATTENTION: Exploitable remotely/low skill level to exploit Vendor: Yokogawa Equipment: CENTUM and Exaopc Vulnerabilities: Use of Hard-coded Credentials, Relative Path Traversal, Improper Output Neutralization for Logs, OS Command Injection, Permissions, Privileges, and Access Controls, Uncontrolled Search Path Element 2.
+
+Trends
+
+IT executives unprepared for cybersecurity risks, according to KnowBe4 research ( iTWire ) IT decision-makers are complacent about risks from phishing and business email compromise, also known as CEO fraud, according to research by KnowBe4. Fewer than four in ten (38%) Australian IT decision makers say they are concerned about phishing as a risk to their organisation while even fewer are...
+
+FBI: $6.9 billion lost through internet crimes in 2021 ( The Record by Recorded Future ) Nearly $7 billion was lost through internet crimes in 2021, surpassing a record set in 2020 by about $1.7 billion, according to the FBI’s annual Internet Crime Report.
+
+Truecaller Insights 2021 U.S. Spam & Scam Report ( Truecaller Blog ) Truecaller Releases its Seventh Annual “Insights U.S. Spam & Scam Report,” Showing $29.8 Billion Lost to Scam Calls in Past Year
+
+Report Paints Bleak Picture of Cyber Threat Prevention ( ITPro Today ) One in five businesses have paid or would pay a ransom for their data, according to a new threat report from Thales.
+
+The Games We Play: Understanding Strategic Culture Through Games ( Modern War Institute ) This article is part of the contribution made by the US Army War College to the series “Compete and Win: Envisioning a Competitive Strategy for the Twenty-First Century.” The series endeavors to present expert commentary on diverse issues surrounding US competitive strategy and irregular warfare with peer and near-peer competitors in the physical, cyber, and […]
+
+1 in 5 businesses have paid or would pay a ransom for their data ( ChannelLife New Zealand ) Malware, ransomware and phishing are continuing to plague global organisations, 21% experiencing a ransomware attack in the last year.
+
+Marketplace
+
+Nucleus Security Raises $20M in Series B Funding to Accelerate Industry Adoption of Unified Vulnerability Management ( Business Wire ) Nucleus Security today announced that it has secured $20 million in Series B funding led by Lead Edge Capital, including Arthur Ventures.
+
+Clear Skye Raises $14 Million in Series A Funding to Power Next-Generation Cloud-Native Identity Security and Governance ( Business Wire ) Clear Skye closes $14M Series A funding to expand its team, global footprint, and reimagine the approach to enterprise identity governance & security.
+
+A Palo Alto Networks Exec Emerges With Her Own Cybersecurity Startup, Just As The Wartime Stakes Are Rising ( Forbes ) Cybersecurity companies are increasingly under a spotlight in an era ushered in by the Ukraine war. This is one company, led by a woman founder.
+
+The Remaking of Verisk as an Insurance-Focused Firm (Again) Is Underway ( Insurance Journal ) Last week, information services firm Verisk said it had taken steps that align with one investor's call for the firm to commit to being a standalone
+
+Dell’Oro Group: 2021 Market Share Leader Award ( Versa Networks ) With SASE initiatives becoming a high priority for many Gartner customers, this short report helps guide networking leaders to make the appropriate investments for both SASE and SD-WAN.
+
+White hat hacking pays bank — could it be right career for you? ( TNW | House-Of-Talent ) Thinking of a career change? White hat hackers are in high demand right now meaning plenty of career growth and handsome salaries.
+
+Products, Services, and Solutions
+
+Attivo Networks Extends Active Directory Assessment Capabilities to Azure Active Directory Covering Hybrid and Cloud Deployments ( Business Wire ) Attivo Networks Extends Active Directory Assessment Capabilities to Azure Active Directory Covering Hybrid and Cloud Deployments
+
+SCL Health Selects S3 Consulting to Modernize Identity Governance ( Yahoo Finance ) Strategic Security Solutions (S3), the leading provider of information security consulting services for identity and access management (IAM), governance, risk and compliance, and SAP Security, announced its successful partnership with SCL Health, to strengthen company-wide identity management. SCL Health is a faith-based, nonprofit healthcare organization dedicated to improving people's health to offer guidance and support in identity and access management.
+
+Virtru and Nightfall Partner to Launch Next-Gen HIPAA Compliance Solution for Email ( GlobeNewswire News Room ) Healthcare organizations can now protect, control, and audit protected health information (PHI) and other sensitive data shared via email, improving data...
+
+Crowdstrike’s Humio Platform Wins Data Technology Innovation Award for ( PRWeb ) Data Breakthrough, an independent market intelligence organization that recognizes the top companies, technologies and products in the global data technology ma
+
+Semperis Extends Breach Preparedness and Incident Response Services for Identity-Based Cyberattacks to Broader Customer Set ( Business Man ) Semperis extends its Breach Preparedness and Response services; Simon Hodgkinson joins the company's strategic advisory board.
+
+Praetorian's Nosey Parker detects secrets in code ( ITWeb ) Offensive cyber security company has added a new module for its recently announced Chariot Platform.
+
+WISeKey and Turing Cryptography Start Joint Sales Operations of Cybersecurity & Trust Services ( Yahoo Finance ) WISeKey and Turing Cryptography Start Joint Sales Operations of Cybersecurity & Trust Services WISeKey and Turing Cryptography join forces to roll out a full suite of TuringSign SSL/TLS services in the Asia-Pacific region secured by the OISTE/WISeKey Root of Trust. Turing Cryptography is a subsidiary of CrossCert, Inc. (“CrossCert” KOSDAQ: 041460), the only Global Certification Authority in South Korea. During the first quarter of 2022, commercial operations have ramped-up, with the launch in Ko
+
+Endace partners with Cubro to eliminate network blind spots and accelerate event investigation ( Help Net Security ) Endace and Cubro announced a partnership to deliver accurate and robust network security to their customers.
+
+Technologies, Techniques, and Standards
+
+VPNs are increasingly common - how much can you see? ( Corelight ) New Corelight VPN Insights package shines the light on a growing blindspot
+
+How we’re supporting the 2022 U.S. midterm elections ( Google ) How we're helping voters find election information, equipping campaigns with security tools, and protecting our platforms from abuse in the 2022 U.S. elections.
+
+A Sheep in Wolf's Clothing: Technology Alone is a Security Facade ( SecurityWeek ) Vendor agnostic technology, along with actionable, globally-sourced, and continually evolving threat intelligence augmented by humans, is needed to defend our enterprises.
+
+What is a SQL Injection Attack? ( CrowdStrike ) SQL injection is a code injection technique used by hackers to gain access to and modify information in your back-end database.
+
+Academia
+
+NJCU and Hudson County Community College Enter into Cybersecurity Degree Transfer Articulation Agreement ( NJCU ) New Jersey City University (NJCU) and Hudson County Community College (HCCC) have announced the signing of an articulation agreement for a Dual Admissions program in Cybersecurity. Beginning in September 2022, HCCC students can complete an Associate of Science in Computer Science-Cybersecurity at HCCC and move seamlessly onto attaining a Bachelor of Science in Cybersecurity at NJCU.
+
+Legislation, Policy, and Regulation
+
+Shlomo Kramer: “Governments will need to increase their cybersecurity budgets” ( CTech ) The Cato Networks CEO and former co-founder of Check Point was speaking at Calcalist’s Mind the Tech London 2022 conference
+
+EU negotiators agree new rules to rein in tech giants ( POLITICO ) ‘The Digital Markets Act puts an end to the ever-increasing dominance of Big Tech companies,’ says lead MEP.
+
+E.U. Takes Aim at Big Tech’s Power With Landmark Digital Act ( New York Times ) The European Union was expected to finalize the Digital Markets Act, the most sweeping legislation to regulate tech since a European privacy law was passed in 2018.
+
+U.S., EU Reach Preliminary Deal on Data Privacy ( Wall Street Journal ) The U.S. and the European Union reached a preliminary deal to allow data about Europeans to be stored on U.S. soil, heading off a growing threat to thousands of companies’ trans-Atlantic operations.
+
+Following cyberattack, communication satellite operators want more guidance on reporting ( C4ISRNet ) Satellite communications companies say new guidance for companies to increase their cyber incident reporting is a win for the industry and could help raise awareness about attacks.
+
+White House ‘driving fast’ to issue software security guidance for agencies ( Federal News Network ) Nearly a year after the cybersecurity executive order, officials are grappling with how to implement secure software guidelines.
+
+Guest opinion: Latest CIA revelations show clear need for privacy protections ( Standard-Examiner ) In an often overlooked attempt to restore the foundational principles of liberty, it’s states that are leading the way. In particular, Utah has emerged as a leader by working to ensure citizens are free from the unconstitutional searchers and invasive law enforcement investigative techniques. Federal norms involving bulk data collection highlight the need for states […]
+
+NSA Urges Agencies to Diversify Vendors as They Segment Their Networks ( Technology Solutions That Drive Government ) The National Security Agency recently offered agencies guidance on enhancing the security of their networks.
+
+The development of warfare cyberspace in the United States ( Modern Diplomacy ) Weapons and equipment are the foundation of military combat capability and an important factor in determining the outcome of wars. In the current situation of increasingly fierce competition among major powers and of increasingly evident militarization of cyberspace, all countries have increased capital investment; strengthened the development and deployment of cyberspace weapons and equipment; promoted […]
+
+Want to talk? FBI trolls Russian Embassy for disgruntled would-be spies ( Washington Post ) Recruitment ad hits social media feeds of mobile phones located outside or inside the diplomatic compound
+
+Bill Would Prohibit TSP From Investing In Russia | FedSmith.com ( FedSmith.com ) Recently introduced legislation would bar future TSP investments in Russian companies.
+
+It’s the beginning of a new era in Washington – and Putin is responsible | Robert Reich ( the Guardian ) There has been a quiet understanding that we’re on the brink of a new cold war, potentially even a hot one – which requires that we join together to survive
+
+Senate Armed Services advances Army Cyber Command nominee ( The Record by Recorded Future ) The Senate Armed Services Committee on Thursday advanced President Joe Biden’s pick to helm U.S. Army Cyber Command.
+
+Litigation, Investigation, and Law Enforcement
+
+Four Russian Government Employees Charged in Two Historical Hacking Campaigns Targeting Critical Infrastructure Worldwide ( US Department of Justice ) The Department of Justice unsealed two indictments today charging four defendants, all Russian nationals who worked for the Russian government, with attempting, supporting and conducting computer intrusions that together, in two separate conspiracies, targeted the global energy sector between 2012 and 2018. In total, these hacking campaigns targeted thousands of computers, at hundreds of companies and organizations, in approximately 135 countries.
+
+U.S. charges 4 Russian government workers with hacking energy sector ( Washington Post ) Deputy attorney general: Russian state-sponsored hackers ‘pose a serious and persistent threat to critical infrastructure’
+
+DOJ unseals charges against Russians in attempted hacks of infrastructure, including Trisis case ( CyberScoop ) One indictment refers to infamous hacking attempts on industrial control systems in 2017, and the other involves a spree from 2012-17.
+
+US charges four Russian hackers over cyber-attacks on global energy sector ( the Guardian ) Quartet accused in two major hacking campaigns between 2012 and 2018, indictment unsealed by justice department reads
+
+DOJ unseals indictments of four Russian gov’t officials for cyberattacks on energy companies ( The Record by Recorded Future ) The indictments of four Russian nationals were unsealed by the Justice Department on Thursday, revealing a widespread hacking campaign against energy companies around the world.
+
+US Charges Russian Hackers Over Infamous Triton, Havex Cyberattacks on Energy Sector ( SecurityWeek ) The U.S. Government has charged four Russian hackers said to be behind the high profile attacks known as Triton/Trisis and Dragonfly/Havex that targeted energy firms.
+
+Senate report examines REvil ransomware attacks on US firms ( The Record by Recorded Future ) The Senate Committee on Homeland Security and Governmental Affairs (HSGAC) released a ransomware report early Tuesday examining the approaches of three unnamed U.S. companies who were the targets of cyberattacks carried out by the Russia-based ransomware group REvil.
+
+Lapsus$: Oxford teen accused of being multi-millionaire cyber-criminal ( BBC News ) Police say they've arrested seven teenagers as part of their investigation into a hacking group.
+
+Okta hackers arrested amid Lapsus$ crackdown ( CRN Australia ) Seven teenagers arrested in England.
+
+The Chaos (and Cost) of the Lapsus$ Hacking Carnage ( SecurityWeek ) Security experts say the Lapsus$ gang’s “extortion and destruction” hacking spree is the work of an amateur gang allegedly led by a British teenager. What does this say about the state of cybersecurity?
+
+Move aside, Conti, Lapsus$ coming through! ( Security Scorecard ) The new cybercrime group is claiming some big victims. Is it a sophisticated threat actor…or just script kiddies?
+
+Two men arrested for $1.1 million NFT ‘rug pull’ scam ( The Verge ) The Frosties project shut down immediately after launch.
+
+Pair Charged for Orchestrating $1.1M Frosties NFT Rug Pull, Plotting Another ( Vice ) Two 20-year-old men have been charged for allegedly running the Frosties NFT rug pull scam, and U.S. prosecutors say they planned another.
+
+The Scandal in Denmark’s Military Intelligence: Too Much Transparency? ( Modern Diplomacy ) The participation of Denmark in all the key U.S. and NATO interventions in 1991–2020 did not free the country from reputational risks due to the persistent problems of equipping the Danish armed forces in accordance with the requirements of the North Atlantic Alliance. The recent news about a growing shortage of ammunition and shells in […]
+
+Scripps Health Faces Lawsuit Over Kronos Data Breach ( Health IT Security ) Employees claimed that Scripps Health failed to keep accurate records of hours worked following the Kronos data breach in December.
+
+Netskope Sues Fortinet To Thwart Patent Infringement Claims ( CRN ) Netskope sued fellow cybersecurity vendor Fortinet Thursday to shoot down patent infringement allegations Fortinet has been making in correspondence with Netskope.
+
+FBI Warns Payroll Professionals of Cyberattacks, Legal Liability ( Bloomberg Tax ) Following practical IT protocols can prevent payroll security breaches, a Federal Bureau of Investigation agent told payroll professionals on March 21.",https://thecyberwire.com/newsletters/daily-briefing/11/58
+3,c00bc797-c937-4d71-ac9e-a5dadf038f95,['Luc Olinga'],2022-03-26 18:30:24+00:00,"The CEO of Tesla and SpaceX has become one of Ukraine's biggest supporters since the unprovoked Russian invasion.
+
+Since the unprovoked invasion of Ukraine by Russia on February 24, Elon Musk has established himself as an important supporter of Ukraine.
+
+He has publicly expressed this support, a rare thing for a CEO of multinationals like Tesla (TSLA) - Get Tesla Inc Report and SpaceX. In doing so, he enabled other CEOs to do the same.
+
+Besides words, the billionaire has also taken various actions to help Ukraine and Ukrainians even though he is aware that he does not hold the key to ending this war. Musk sent multiple shipments of Starlink terminals -- the satellite internet service offered by his space company SpaceX -- to Ukraine.
+
+These terminals allow remote areas, towns, and villages destroyed by Russian bombing and Ukrainians in general to stay connected to the world. They essentially allow the country whose communications infrastructure was destroyed by the Russian army to continue to have access to a fast, secure and independent internet.
+
+This is very important because in an armed conflict each side tries to make its own propaganda to gain the sympathy of the world. Everything must therefore be done to prevent one side from winning the communication war. By sending Starlink terminals to Ukraine, Musk allows ordinary Ukrainians to continue to tell the inside story of their daily lives and avoid Moscow dictating and shaping the narrative.
+
+VALERY HACHE/AFP via Getty Images
+
+Russia Uses Massive Cyberattacks in Ukraine
+
+The billionaire also quietly sent some Tesla Powerwalls, an integrated battery system that stores solar energy, to Ukraine to help the war-torn country.
+
+But in addition to the war on the ground, Russia has engaged in another confrontation and this one concerns cyberattacks, in particular against communication infrastructures.
+
+U.S. intelligence analysts have concluded that Russian military spy hackers were behind a cyberattack on a satellite broadband service that disrupted Ukraine’s military communications at the start of the war last month, according to The Washington Post.
+
+Last month, before the invasion, Russian government hackers had probably broadly penetrated Ukrainian military, energy and other critical computer networks to collect intelligence and position themselves to potentially disrupt the systems.
+
+The recent outages, which began Feb. 24 — the day Russia invaded Ukraine — resulted from the hack of satellite modems belonging to tens of thousands of people in Ukraine and other countries in Europe, an official with the U.S. firm Viasat, headquartered in Carlsbad, Calif, told The Post. Agencies affected included civilians as well as Ukraine’s military and other government agencies, Ukrainian officials told the newspaper.
+
+The Viasat official told the Post that distributors would be shipped new modems to be provided to those affected by the cyberattack.
+
+These cyberattacks raise questions about the vulnerability of other broadband services with poorly-maintained firmware on their customer network infrastructure.
+
+Paul Hennessy/NurPhoto via Getty
+
+Starlink Terminals Not Hacked by Russians Yet
+
+But despite their power, these Russian cyberattacks have yet to affect Starlink internet stations which help Ukrainians stay in touch with the world, Musk just said.
+
+""Starlink, at least so far, has resisted all hacking & jamming attempts,"" Musk stated on Twitter on March 25.
+
+This statement by Musk is something of a relief for Ukraine and Ukrainians as it suggests that Russia does not control all communications to and from Ukraine. This is an important point because this conflict which has already caused hundreds of deaths and the displacement of millions of others is here to stay. No doubt the communication war will also intensify.
+
+Starlink technology is being used by civilians in areas under attack that have lost Internet service, and by government officials.
+
+""A new batch of Starlink stations!"" Ukrainian Deputy Prime Minister Mykhailo Fedorov posted on Twitter on March 18, with a photo showing the hardware. ""While Russia is blocking access to the Internet, Ukraine is becoming more open to the entire world. Ukraine is the truth. The truth always wins. Thank you, @elonmusk, the Government of Poland, and Orlen.""
+
+American President Joe Biden said this week that the unprovoked invasion of Ukraine, and the resulting sanctions on aggressor Russia, may lead to a rash of cybersecurity breaches unleashed by the Kremlin and other quasi-official sources in Russia.
+
+Biden said that his administration has ""evolving intelligence"" that cyber warfare will be part of Russia's striking back against American sanctions.
+
+""It’s part of Russia’s playbook. Today, my Administration is reiterating those warnings based on evolving intelligence that the Russian Government is exploring options for potential cyberattack,"" Biden said.",https://www.thestreet.com/technology/musk-has-a-new-message-for-ukrainians-fighting-russian-invasion
+4,c00bc797-c937-4d71-ac9e-a5dadf038f95,[],,"JavaScript is not available.
+
+We’ve detected that JavaScript is disabled in this browser. Please enable JavaScript or switch to a supported browser to continue using twitter.com. You can see a list of supported browsers in our Help Center.
+
+Help Center",https://twitter.com/RALee85/status/1507426892118429696
+5,c00bc797-c937-4d71-ac9e-a5dadf038f95,[],,"JavaScript is not available.
+
+We’ve detected that JavaScript is disabled in this browser. Please enable JavaScript or switch to a supported browser to continue using twitter.com. You can see a list of supported browsers in our Help Center.
+
+Help Center",https://twitter.com/esse_uma/status/1507427208134021124
+6,c00bc797-c937-4d71-ac9e-a5dadf038f95,"['Emma Snell', 'Ambassador Daniel Fried', 'Adil Ahmad Haque', 'Laura Dickinson', 'Christopher', 'Kip', 'Leila Nadya Sadat', 'Ryan Goodman', 'Tess Bridgeman', 'Lawrence Korb']",2022-03-25 12:09:17+00:00,"by Emma Snell
+
+Signup to receive the Early Edition in your inbox here.
+
+A curated weekday guide to major national security news and developments over the past 24 hours. Here’s today’s news.
+
+RUSSIA, UKRAINE – U.S. RESPONSE
+
+The U.S. and the European Commission today announced a new joint task force to reduce Europe’s reliance on Russian fossil fuels, as the West looks to further punish Russia for its invasion of Ukraine. The U.S. will increase liquefied natural gas exports to Europe by at least 15 billion cubic meters this year and expects to raise the amount in the coming years, the White House said. Ashley Parker, Tyler Pager and Emily Rauhala report for the Washington Post.
+
+Biden said yesterday that if Russia were to use chemical weapons in its invasion of Ukraine, the U.S. would respond. Reuters reports.
+
+President Biden announced plans yesterday for the U.S. to accept 100,000 Ukrainian refugees, and others feeling Russia’s war on Ukraine. The refugees would be brought into the United States through a variety of legal pathways, including the conventional U.S. refugee program as well as more agile mechanisms such as “humanitarian parole,” which the Biden administration used for tens of thousands of Afghans last year during Operation Allies Welcome. Ashley Parker, Abigail Hauslohner and Nick Miroff report for the Washington Post.
+
+Biden has called for Russia to be expelled from the Group of 20, as he met with world leaders yesterday to discuss the war in Ukraine. He said that he had raised the idea that if it was not possible to remove Russia, Ukraine should be allowed to attend the meetings and observe. Tarini Parti, Robert Wall and Catherine Lucey report for the Wall Street Journal.
+
+Russia has hit back at the U.S.’s demand to exclude it from the Group of 20 (G20), citing a need to develop other ways to foster international relations. Kremlin spokesperson Dmitry Peskov recognised the importance of the G20 format but said that “when a large part of its members are in the state of economic war with us by their own initiatives,” leaving the group would be “nothing fatal.” Natassia Astrasheuskaya reports for the Financial Times.
+
+Biden is scheduled to meet his Polish counterpart, Andrzej Duda, today following yesterday’s NATO summit. The two leaders are expected to focus on the growing refugee crisis, with the bulk of Ukrainians fleeing the fighting having crossed into Poland. Tarini Parti reports for the Wall Street Journal.
+
+The U.S. ambassador to Mexico has urged Mexican lawmakers to join the U.S. in supporting Kyiv against Russia’s invasion of Ukraine after his Russian counterpart encouraged Mexico to defy “Uncle Sam.” Reuters reports.
+
+U.S. intelligence analysts have concluded that Russian military spy hackers were behind a cyberattack on a satellite broadband service that disrupted Ukraine’s military communications at the start of the war last month, according to U.S. officials. However, the U.S. government has not announced its conclusion publicly. Ellen Nakashima reports for the Washington Post.
+
+RUSSIA, UKRAINE – GLOBAL RESPONSE
+
+NATO allies have agreed to provide Ukraine with equipment and training to deal with the fallout from a possible Russian attack using chemical, biological or even nuclear weapons, NATO’s secretary general, Jens Stoltenberg said yesterday. Stoltenberg, speaking to reporters after yesterday’s NATO summit, added that the alliance was worried Russia might deploy chemical or biological weapons — which are banned by international treaty — because it appeared that Moscow was creating a false narrative that the West was about to use them. Martina Stevis-Gridneff and Monika Pronczuk report for the New York Times.
+
+The U.N. General Assembly adopted a resolution addressing the dire humanitarian situation in Ukraine yesterday, passing the measure in an overwhelming vote that underscored Russia’s isolation. The resolution blames Russia for “creating one of the worst humanitarian crises in Europe in decades and demands that Moscow abides by humanitarian laws, including the protection of civilians and infrastructure, safe passage for humanitarian aid and an end to the war,” Farnaz Fassihi reports for the New York Times.
+
+The European Council released a statement yesterday accusing Russia of committing war crimes in Ukraine. “These war crimes must stop immediately. Those responsible, and their accomplices, will be held to account in accordance with international law,” said the European Union body, which comprises leaders of E.U. member states. Amy Cheng reports for the Washington Post.
+
+China’s ambassador to the U.S. has said that Beijing’s “no limits” friendship with Moscow, does in fact have limits, as Chinese President Xi Jinping faces increasing pressure from the West to distance himself from Russian leader Vladimir Putin. Lyric Li reports for the Washington Post.
+
+Speaking as he returned from the NATO summit, Turkish President Recap Tayyip Erdogan, who is expected to meet with Russian President Vladimir Putin over the weekend or next week, said that he would urge Putin to make an “honourable exit” from Ukraine by becoming an “architect” of a peace deal with Kyiv. Laura Pitel reports for the Financial Times.
+
+RUSSIA, UKRAINE – FIGHTING
+
+Four civilians have been killed and several others wounded in a Russian strike on a medical centre in Kharkiv, local police have said. BBC News reports.
+
+Russian forces have destroyed “the largest of the remaining fuel depots” near Kyiv, with a strike carried out with sea-launched Kalibr cruise missiles, Russian Ministery of Defense spokesman Igor Konashenkov claimed today. Radina Gigova reports for CNN.
+
+Ukrainian forces have reoccupied towns and defensive positives up to 35 kilometres east of Kyiv, according to the latest U.K. defence intelligence update. The Guardian reports.
+
+The northern Ukrainian city of Chernihiv has in effect been cut off by Russian forces, the regional governor said today. Reuters reports.
+
+Ukrainian officials have said that some 300 people could have died in the attack on a Mariupol theatre by Russian forces last week. BBC News reports.
+
+Ukrainian and Russian forces have conducted the first exchange of prisoners of war since Russia’s invasion of Ukraine began. “Today by order of President Zelensky, the first full-fledged exchange of prisoners of war took place. In exchange for 10 captured occupiers, we pulled out 10 of our servicemen,” Iryna Vereshchuk, Ukraine’s deputy prime minister, said. Roman Olearchyk reports for the Financial Times.
+
+Ukraine’s Prosecutor General’s Office has said that 135 children have been killed and 184 wounded since the Russian invasion of Ukraine began. BBC News reports.
+
+The U.K. government has said that Russian mercenary company Wagner Group is being used by Russia to try to assassinate Ukrainian President Volodymyr Zelenskyy. The group of hired soldiers was “reportedly tasked” with killing Zelenskyy, the U.K. government said, as it announced sanctions against Wagner Group. Maz Colchester reports for the Wall Street Journal.
+
+Russia is running out of precision-guided munitions and is more likely to rely on “dumb bombs” and artillery, a senior Pentagon official said yesterday. Reuters reports.
+
+The International Rescue Committee warned today that civilians are facing a catastrophic health crisis” as attacks on health infrastructure are limiting access to “life-saving services and supplies.” The IRC called for the protection of healthcare access “by ensuring the safety of providers and the free flow of medical supplies and equipment,” adding that “global leaders must prioritize support to the most vulnerable, including women, children and the elderly.” Radina Gigova reports for CNN.
+
+RUSSIA, UKRAINE – HUMANITARIAN CORRIDORS, REFUGEES AND DEPORTATIONS
+
+Ukrainians are being arbitrarily detained and subjected to enforced disappearances in Russian-controlled areas, according to reports verified by the U.N. At least 36 cases of civilians detentions have been verified, with families often denied any information about the fate of their loved ones. Matt Murphy and Robert Greenall report for BBC News.
+
+Two humanitarian corridors have been agreed on and will open today, including one direct from the besieged city of Mariupol, according to Ukrainian Deputy Prime Minister Iryna Vereshchuk. Adela Suliman and Annabelle Chapman report for the Washington Post.
+
+OTHER U.S. RELATIONS
+
+The Justice Department unsealed charges yesterday accusing four Russian officials of carrying out a series of cyberattacks targeting critical infrastructure in the United States, including a nuclear power plant in Kansas. The announcement, which covered hackings from 2012 to 2018, served as yet another warning from the Biden administration of Russia’s ability to conduct such operations. Katie Benner and Kate Conger report for the New York Times.
+
+President Biden, stepping back from a campaign vow, has embraced a longstanding U.S. approach of using the threat of a potential nuclear response to deter conventional and other non-nuclear dangers in addition to nuclear ones, U.S. officials said yesterday. Biden’s decision comes as he meets with allies in Europe in an effort to maintain a unified Western stance against Russian President Vladimir Putin’s invasion of Ukraine. Michael R. Gordon reports for the Wall Street Journal.
+
+A report from the German Marshall Fund of the United States has recommended that U.S. officials go on the offensive against China’s pervasive presence across top ranks of the U.N. and push back against China’s efforts to shut Taiwan out of U.N. agencies. Among other things, the United States should carry out “a sustained effort to lobby against the appointments and elections” of Chinese officials in high positions in U.N. agencies, the authors wrote. Edward Wong and Amy Qin report for the New York Times.
+
+OTHER GLOBAL DEVELOPMENTS
+
+Ethiopia’s government yesterday announced what it called an immediate “humanitarian truce” with forces it has been fighting for 17 months in the northern Tigray region, where food aid has not been delivered since December. Officials with the United Nations and several aid agencies greeted the developments with hope but also cautioned that an end to the humanitarian crisis and the bitter conflict was still far off. Abdi Latif Dahir and Simon Marks report for the New York Times.
+
+North Korean state media have emphasised that North Korea’s leader Kim Jong Un took a special interest in yesterday’s missile launch, broadcasting videos of him celebrating alongside “Hollywood style propaganda,” Michelle Ye Hee Lee reports for the Washington Post.
+
+U.N. Secretary General Antonio Guterres has strongly condemned North Korea’s launch of an intercontinental ballistic missile. In a statement, issued yesterday, Guterres said the move was a “clear violation of Security Council resolutions” and risks “significant escalation of tensions in the region.” UN News Centre reports.
+
+Sweden and Finland are both participating in NATO military exercises this week, despite neither being a member of the military alliance. Both nations are taking part in an exercise in which Norway is invaded and NATO subsequently invokes Article 5, which states that an attack against one NATO member is considered an attack on all NATO members. Courtney Kube reports for NBC news.
+
+Solomon Island police have received a shipment of replica firearms from China, raising concerns over its increasingly close relationship with Beijing. The police said the firearms were replicas donated by China for police training and denied accusations that the force had anything “to conceal or hide.” Georgina Kekea report for the Guardian.
+
+Heads of state from the West African regional group Ecowas are due to meet in Ghana today to discuss the political situation in Mali following last year’s coup. Mali’s interim president, Assimi Goita, will not be attending in person, and it is unclear whether he will join the summit by video link. BBC News reports.
+
+Women in Afghanistan are struggling with new Taliban rules requiring them to be accompanied by a male relative, one in a series of measures that they say threaten to remove them from public and professional life. Whilst the official new rules don’t bar women from traveling alone near their homes, women across the country say guardianship rules are being imposed on a far wider scale, and include needing a male relative to join them for basic tasks such as entering government buildings, seeing a doctor or catching a taxi. Margherita Stancati and Ehsanullah Amiri report for the Wall Street Journal.
+
+JAN. 6, 2021 ATTACK
+
+The House committee investigating the Jan. 6 attack said yesterday that it would consider contempt of Congress charges against two more allies of former President Donald J. Trump for refusing to comply with its subpoenas. The potential charges against Peter Navarro, former White House adviser, and Dan Scavino Jr., former deputy chief of staff, could result in jail time and must be approved by a vote of the House. The committee said it would hold a public vote on whether to recommend the charges on Monday. Luke Broadwater and Alan Feuer report for the New York Times.
+
+Virginia Thomas, wife of Supreme Court Justice Clarance Thomas, repeatedly pressed the White House Chief of Staff Mark Meadows to pursue efforts to overturn the 2020 presidential election in a series of text exchanges sent in the weeks after the vote. “The messages — 29 in all — reveal an extraordinary pipeline between Virginia Thomas, who goes by Ginni, and President Donald Trump’s top aide during a period when Trump and his allies were vowing to go to the Supreme Court in an effort to negate the election results,” Bob Woodward and Robert Costa report for the Washington Post.
+
+OTHER DOMESTIC DEVELOPMENTS
+
+Republican senators indicated yesterday that they don’t plan to take steps to significantly delay or block the confirmation of Supreme Court nominee Ketanji Brown Jackson. This comes a day after Ten of 11 Republicans on the Judiciary Committee signed a letter requesting confirmation hearing be adjourned until certain legal documents could be obtained – a request which was rejected by Senate Judiciary Committee Chairman Dck Durbin (D- Ill). Lindsay Wise, Siobhan Hughes and Laura Kusisto report for the Wall Street Journal.
+
+The Supreme Court yesterday blocked Texas from executing an inmate after the state refused to let his minister pray and lay hands on him in the death chamber. The ruling in Ramirez v. Collier allows Texas to proceed with Mr. Ramirez’s execution if it accommodates his pastor. If the state prefers to continue litigating, however, it may not conduct the execution until the issue is resolved. Jess Bravin reports for the Wall Street Journal
+
+In a lawsuit filed by the American Civil Liberties Union (ACLU) yesterday, three U.S. citizens accused federal immigration authorities of stopping them nearly every time they return to the country from traveling overseas and questioning them about their Muslim faith. The ACLU said in its suit, filed in the U.S. District Court in Los Angeles, that this practice amounts to religious discrimination and a violation of citizens’ First Amendment rights because citizens of other faiths aren’t routinely subjected to the same coercive religious questioning. Michelle Hackman reports for the Wall Street Journal.
+
+President Joe Biden plans to request $813.3 billion in national security spending — including $773 billion for the Pentagon — in the federal budget he will send to Congress on Monday, according to officials familiar with the plan. Antony Capaccio and Roxana Tiron report for Bloomberg.
+
+Ty Garbin, who plead guilty last year to conspiring to kidnap Gov. Gretchen Whitmer, testified this week at the trial of four other men accused of participating in the plot, saying that he had hoped his action would disrupt the 2020 election and perhaps start a civil war. “The plan was for us to basically be the ignition to it, and hopefully other states or other groups would follow,” Garbin added. Mitch Smith reports for the New York Times.
+
+Prosecutors have been sending back documents to people who turned over information about former President Donald Trump’s business, in a stark sign that the Manhattan District Attorney’s investigation into alleged financial crimes at the former president’s real estate empire may be winding down. Jose Pagliery and Asawin Suebsaeng report for the Daily Beast.
+
+Former President Donald Trump has filed a lawsuit against Hillary Clinton and more than two dozen other defendants, including the Democratic National Committee, alleging that they conspired to tarnish his image and the image of his campaign before the 2016 election. Talal Ansari reports for the Wall Street Journal.
+
+A lawyer for former President Trump yesterday argued yesterday that a federal appeals court should block a House committee from obtaining his tax returns. Cameron Thomas Norris, an attorney representing Trump in the dispute with the House Ways and Means Committee, told the court the Democratic lawmakers have no valid legislative purpose for their request to the Treasury Department. Harper Neidig reports for The Hill.
+
+COVID-19
+
+COVID-19 has infected over 79.88 million people and has now killed over 975,800 people in the United States, according to data compiled by Johns Hopkins University. Globally, there have been over 477.40 million confirmed coronavirus cases and over 6.10 million deaths. Sergio Hernandez, Sean O’Key, Amanda Watts, Byron Manley and Henrik Pettersson report for CNN.
+
+A map and analysis of the vaccine roll out across the U.S. is available at the New York Times.
+
+A map and analysis of all confirmed cases of the virus in the U.S. is available at the New York Times.
+
+U.S. and worldwide maps tracking the spread of the pandemic are available at the Washington Post.
+
+A state-by-state guide to lockdown measures and reopenings is provided by the New York Times.",https://www.justsecurity.org/80852/early-edition-march-25-2022/
+7,c00bc797-c937-4d71-ac9e-a5dadf038f95,[],,"Risks from the Cyberattacks in the RU-UA conflict
+
+Executive Summary
+
+With the ongoing conflict between Russia and Ukraine escalating, the risk remains high for those countries directly or indirectly involved.
+
+for those countries directly or indirectly involved. While cyberwarfare operations are expected to be leveraged to distract , disrupt, and destroy systems critical to Ukraine’s defense capabilities locally, there is a high probability that Russian operatives might also target a wide range of organizations beyond the region .
+
+, systems critical to Ukraine’s defense capabilities locally, there is a that Russian operatives might also . Russian Advanced Persistent Threats (APTs) are most likely to perpetrate cyber-attacks, but cybercriminal groups should NOT be discredited as they could be used by the Russian regime as well. Therefore, threat vector is hard to determine.
+
+as they could be used by the Russian regime as well. Therefore, threat vector is hard to determine. High number of hacktivists on both sides pose a risk of escalating the conflict or hitting neutral targets. Anonymous has already attacked business companies that still operate in Russia.
+
+business companies that still operate in Russia. The most important thing for organizations of all sizes is to make sure that the fundamentals of cyber security are in place to protect their devices, networks, and systems.
+
+Recommendations
+
+To make sure that the fundamentals of cyber security are in place do the following: Check your system patching, Verify access controls, Ensure defenses are working, Ensure logging and monitoring, Review your backups, Review your Incident plan, Check your internet footprint, Ensure phishing response, Check third party accesses in your organization . Ensure protection against DDoS, Ensure protection against Ransomware. More details on every point can be found in the“Recommendation for increasing organization’s Cybersecurity posture” section.
+
+. More details on every point can be found in the“Recommendation for increasing organization’s Cybersecurity posture” section. Vulnerability Management teams should focus on remediating vulnerabilities most commonly used by Russian groups for initial access.
+
+Blue Team members should get familiar with Russian APTs TTPs for better understanding of their Modus Operandi.
+
+Based on TTPs monitoring and detection rules should be set up .
+
+Share Indicators of Compromise (IoCs) from the Russian cyber-attacks with other organizations to strengthen defenses of the entire community.
+
+(IoCs) from the Russian cyber-attacks with other organizations to strengthen defenses of the entire community. Increase the vigilance of the Cybersecurity teams in your organizations.
+
+of the Cybersecurity teams in your organizations. Be vigilant of threat actors using this subject as a motive for social engineering attack.
+
+Introduction
+
+With the ongoing conflict between Russia and Ukraine escalating the risk remains high for those countries directly or indirectly involved. While cyberwarfare operations are expected to be leveraged to distract, disrupt, and destroy systems critical to Ukraine’s defense capabilities locally, there is a high probability that Russian operatives might also target a wide range of organizations beyond the region, including:
+
+Financial services organizations
+
+Energy producers and utilities
+
+Telecommunication and internet infrastructure organizations
+
+Public-facing entities that may be symbolic or host ‘messaging material’ (e.g. marketing, newspapers, etc.)
+
+Government agencies and related organizations.
+
+Cybereason believes,“cyberattacks could take many forms, some where the threat actors are clearly connected to Russia, and some more covert actions where obfuscation is employed to make direct attribution difficult if not impossible”.
+
+Mandiant, on the other hand, assess that Russia will engage in offensive cyber programs to increase cyber espionage against government targets to enhance decision advantage, and likely also conduct additional destructive or disruptive cyberattacks. Most likely, Russia will focus first on Ukraine, with Western/NATO allies also being possible targets.
+
+According to Bloomberg, in mid-February, “hackers gained access to computers belonging to current and former employees at nearly two dozen major natural gas suppliers and exporters, including Chevron Corp., Cheniere Energy Inc. and Kinder Morgan Inc., according to research shared exclusively with Bloomberg News.” The attacks targeted companies involved with the production of liquefied natural gas, or LNG. They occurred few days before Russia’s invasion of Ukraine. It’s not clear though, whether the attacks are directly related to the invasion of Ukraine. Resecurity’s investigation began last month when the firm’s researchers spotted a small number of hackers, including one linked to a wave of attacks in 2018 against European organizations that Microsoft Corp. attributed to Strontium, the company’s nickname for a hacking group associated with Russia’s GRU military intelligence service.
+
+
+
+Sectors facing elevated risk from Russian cyber operations. Source: Mandiant
+
+Good overview of Russian cyberoperations directed at Ukraine long before the war is outlined by the Recorded Future’s reporter Daryna Antoniuk in his recent article.
+
+Over the last few months there has been a new wave of cyber-attacks targeting Ukrainian entities involving attacks on the Ukrainian Defense Ministry website and regional banks, website defacements, DDOS attacks, a sophisticated multi-stage attack that delivered a highly destructive wiper dubbed WhisperGate disguised as ransomware that paralyzed numerous Ukrainian organizations, and recently a second data wiper attack that hit Ukrainian computer networks.
+
+A new worm named HermeticWizard was spotted that used to drop a second wiper known as HermeticWiper with the help of WMI and SMB spreader modules.
+
+ESET Research Labs analysts discovered a new data wiper they dubbed IsaacWiper. This new malware strain hasn’t been attributed to any known threat actors by ESET researchers, who also said they have yet to find links to other malware samples. IsaacWiper was used in a second series of attacks against a Ukrainian governmental network on February 24th and was found on a Ukrainian governmental network.
+
+On March 8, 2022, Trend Micro reported a new malware variant, dubbed “RURansom”, that targets Russia. Based on a malware sample obtained by MalwareHunterTeam, RURansom was initially suspected to be a ransomware, however, in-depth analysis revealed that RURansom to be a wiper because of its irreversible destruction of encrypted files. As of this writing, there is no evidence found that RURansom were actively used in real-world attacks. Trend Micro assessed that RURansom is still under development, which suggests that a new version of the wiper will be used in future targeted attacks.
+
+Wiper attacks timeline. Source: ESET
+
+Ransomware is typically a tool of cybercriminals, but designing an attack that mimics a cybercrime operation hides the underlying motive and works to the advantage of the attacker, especially in a situation where geopolitical conflicts on this level are concerned.
+
+In the first days of invasion, US and UK exposed new Russian malware (Cyclops Blink) targeting network devices that could be used for DDoS attacks. However, the botnet’s reach is rather limited. Security researchers, uncovered a large-scale phishing campaign, in which a new threat actor tracked as UAC-0056 (aka Lorec53 or Lori Bear) targeted government organization in Ukraine with a new stealer malware: OutSteel – It collects document files from the victim host. Its capabilities are keylogging, modifying the registry for persistence, checking open windows, and using time delays.
+
+Example of an email and a malicious document. Source: CERT-UA
+
+Proofpoint has identified a likely nation-state sponsored phishing campaign using a possibly compromised Ukrainian armed service member’s email account to target European government personnel involved in managing the logistics of refugees fleeing Ukraine. The email included a malicious macro attachment which attempted to download a Lua-based malware dubbed SunSeed. The infection chain used in this campaign bears significant similarities to a historic campaign Proofpoint observed in July 2021, making it likely the same threat actor is behind both clusters of activity.
+
+A similar activity was spotted by AWS. Charities and NGOs providing critical support to Ukraine are targeted in malware attacks aiming to disrupt their operations and relief efforts seeking to assist those affected by the conflict. Amazon detected these attacks while working with the employees of NGOs, charities, and aid organizations, including UNICEF, UNHCR, World Food Program, Red Cross, Polska Akcja Humanitarna, and Save the Children.
+
+Another such activity was reported by Google’s Threat Analysis Group, but additionally they found that Chinese threat actor is using the chaos to target European entities with lures related to the Ukrainian invasion. Threat actor sends out malicious ZIP files with payloads to infect victim’s machines. Proofpoint researchers have confirmed China-aligned APT actor TA416 activity. That group is showing an interest in refugee policies and logistics across the APT actor landscape. The campaign utilize web bugs to profile the victims before sending a variety of PlugX malware payloads via malicious URLs. TA416 has recently updated its PlugX variant, changing its encoding method and expanding its configuration capabilities.
+
+Cybercriminals seek to profit from the conflict. Dark web threat actors are offering network access and databases that could be relevant to those involved in the conflict. On top of that, scammers are creating fake charity websites, to collect donations from people willing to help the victims. Please be aware of such threat, when trying to find legitimate NGOs.
+
+Different hacking crews began picking sides as the conflict continues, issuing bans and threats for the supporters of the opposite side. One of the most prolific ransomware gangs, Conti group, sided with Russia and issued a warning that they would respond to cyber activity against Russia using all their resources “to strike back at the critical infrastructure of an enemy”.
+
+Conti’s warning. Source: BleepingComputer
+
+Conti ransomware group is attributed by Crowdstrike to group Wizard Spider. Threat actor has “high capabilities and is behind the core development and distribution of a sophisticated arsenal of criminal tools, that allow them to run multiple different type of operations. Active since 2016, their tools include TrickBot, Ryuk, Conti and BazarLoader”.
+
+Conti, being a financially motivated group, is more likely to target private sector entities than the Russian APTs. For now, Russian state-sponsored adversaries focus their resources on more critical targets (government entities, critical infrastructure, military, national CERTs, etc.). Therefore, private entities should focus their efforts to prevent and detect threats coming from Conti group.
+
+As Ryuk is being replaced by Conti and TrickBot’s shutting down it’s recommended to monitor TTPs related to the BazarLoader trojan that works as an initial access malware for further infection, and Conti ransomware itself.
+
+A member of the Conti ransomware group, believed to be Ukrainian of origin, has leaked the gang’s internal chats after the group’s post. The leaked data contains 339 JSON files, with each file consisting of a full day’s long. That individual is leaking more material on his twitter. Threat Intelligence researchers are analyzing the information, but it seems that the intel is legitimate.
+
+On March 1st, the researcher kept leaking more damaging Conti data, including an additional 148 JSON files containing 107,000 internal messages since June 2020, which is around when the Conti ransomware operation was first launched. Leak included the source code for the gang’s administrative panel, the BazarBackdoor API, screenshots of storage servers, and archive containing the source code for the Conti ransomware encryptor, decryptor, and builder.
+
+Hacktivism has become a major part of the cyber landscape in the RU-UA conflict. An international collective, hacktivist group, Anonymous declared war on Putin, Russia and their allies. Unidentified operators claimed that the “collective has leaked database of the Russian Ministry of Defense (MoD) mil[.]ru website”. This update came 7 hours after an announcement that the Russian MoD website is down. It’s still not confirmed if such an attack was successful and leaks are legitimate.
+
+We urge caution when assessing the validity and threats of such claims made by Anonymous. As the 2022 Russian Invasion of Ukraine is an ongoing international crisis, developments may be sourced by misinformation or coordinated disinformation campaigns. Opportunistic cybercriminal, hacktivist, and state-sponsored threat actors may capitalize on the tensions by declaring allegiances in exchange for publicity, financial gain, or unrelated criminal activity.
+
+On February 26th, Ukraine’s Minister for Digital Transformation Mykhaylo Fedorov announced that Ukraine is recruiting a volunteer “IT army” to conduct cyberattacks on thirty-one Russian entities, including government agencies, critical infrastructure, and banks. Soon after, a list of Russian targets was published. This list includes 31 targets, including Russian government agencies, government IP addresses, government storage devices and mail servers, three banks, large corporations supporting critical infrastructure, and even the popular Russian search engine and email portal, Yandex.
+
+Unvetted hacktivists pose a risk of further escalating the conflict as they continue to attack Russian critical infrastructure (i.e. Moscow Exchange, Transneft, etc.) Hacktivists might also hit other targets that have any connections with Russia as they might see them as enemies and enablers of the aggressors. Anonymous has already stated and attacked companies that still operate in Russia. They have targeted Auchan, Leroy Merlin and Decathlon with DDoS attacks and leaked the database of Nestle. However, Nestle denies cyberattack, says stolen data came from business test website.
+
+
+
+Statement of Anonymous. Source: Twitter
+
+Cyber Unit Technologies, a Kyiv-based cybersecurity firm started a campaign to reward hackers for taking down Russian websites and pledged an initial $100,000 to the program. Although some criminal gangs have expressed their allegiances on Twitter, the Cyber Unit Technologies representative emphasized that the company only seeks to work with professional white-hat hackers.
+
+More and more individuals around the world join the efforts and perform DoS attacks. It is important to remember that “performing denial of service attacks, breaching networks and computers, and defacing websites is still illegal in most countries, regardless of the target”, writes BleepingComputer. As explained by Robert Lee, CEO of cybersecurity firm Dragos, many hands targeting the same entity could compromise legitimate law enforcement and government operations, and activities of cybersecurity companies who have legal agreements with the US government. While governments aiding Ukraine may turn a blind eye to cyber activities targeting Russian entities, it is very important to think about the legal ramifications of conducting attacks before doing so.
+
+The Russian National Coordinating Center for Computer Incidents (NCCC) released a list containing 17,576 IP addresses and 166 domains that it is said to be behind a series of DDoS attacks on Russian infrastructure after the invasion. Some of the noticeable domains included FBI, CIA, and websites of several media publications such as the USA Today, 24News.ge, megatv.ge, and Ukraine’s Korrespondent magazine.
+
+Researchers are tracking indications of Border Gateway Protocol (BGP) hijacking events associated with Ukrainian domestic telecommunications networks prior to and during the Russian invasion of Ukraine. Thus far, they have identified at least 2 events of likely interest, the first occurring before the full-scale invasion of Ukraine and coinciding with cyber attack activity against Ukrainian entities, and the second transpiring after the invasion and targeting an entity in eastern Ukraine. According to Cisco, the initial event occurred on February 15, 2022 and consisted of network traffic belonging to “inq. Digital Nigeria” (AS16284) that was temporarily directed to PrivatBank in Ukraine (ASN 15742). The second BGP hijacking event occurred on February 24, 2022, based on data provided by Cisco BGPMon.
+
+CISA together with the FBI published a joint cybersecurity advisory on March 17 calling for U.S. and international satellite communication (SATCOM) network providers and customers to stay alert of possible threats and begin implementing a new set of mitigations.
+
+The warning follows the recent strike on Viasat’s KA-SAT satellite on February 24 which disrupted broadband satellite internet access in Ukraine, but also in other European countries. Falling on the same day, the cyberattack and the Russian invasion raised suspicion of Russia’s possible involvement in the operation.
+
+Talos Intelligence reported that “opportunistic cybercriminals are attempting to exploit Ukrainian sympathizers by offering malware purporting to be offensive cyber tools to target Russian entities.” Once downloaded, these files infect users. In one such instance, they observed a threat actor offering a distributed denial-of-service (DDoS) tool on Telegram intended to be used against Russian websites. The downloaded file is actually an information stealer that infects the unwitting victim with malware designed to dump credentials and cryptocurrency-related information.
+
+These observations serve as reminders that everyone must be on heightened alert to increased cyber threat activity as threat actors look for new ways to use Russia-Ukraine conflict as a theme. Such activity could take the form of email lures on news topics or donation solicitations, malicious links purporting to host relief funds or refugee support sites, malware masquerading as defensive or offensive security tools, and more.
+
+During the 3rd week of conflict researchers from ESET have discovered new data-destroying malware targeting Ukrainian organization and deleting data across systems on compromised networks. While designed to wipe data across Windows domains it’s deployed on, CaddyWiper (as it’s now called) will use the DsRoleGetPrimaryDomainInformation() function to check if a device is a domain controller. If so, the data on the domain controller will not be deleted. This is likely a tactic used by the attackers to maintain access inside the compromised networks of organizations they hit while still heavily disturbing operations by wiping other critical devices.
+
+CaddyWiper is the fourth data wiper malware deployed in attacks in Ukraine since the start of 2022, with ESET Research Labs analysts previously discovering two others and Microsoft a third.
+
+Meanwhile, CERT-UA warns of a new fake Windows antivirus updates that install Cobalt Strike and other malware. The phishing emails impersonate Ukrainian government agencies offering ways to increase network security and advise recipients to download “critical security updates,” which come in the form of a 60 MB file named “BitdefenderWindowsUpdatePackage.exe.”
+
+Threat Intelligence Researchers CyberKnow prepared a table of cyber-groups engaged in the ongoing conflict, which gives good overview of current cyber threat landscape.
+
+
+
+Cyber-groups engaged in the RU-UA conflict. Source: Cyberknow.medium
+
+Russian Cyber Operations Against Ukraine Timeline. Source: EQUINIX
+
+
+
+Russia-Ukraine “Cyberwar” Participants. Source: EQUINIX
+
+Recommendation for increasing organization’s Cybersecurity posture
+
+According to UK’s National Cyber Security Centre organizations of all sizes should make sure that the fundamentals of cyber security are in place to protect their devices, networks and systems. It is impossible for the organization to make widespread changes quickly in response to a change in threat, but organizations should make every effort to implement following actions as a priority.
+
+Check your system patching
+
+a. Ensure your users’ desktops, laptops and mobile devices are all patched, including third party software such as browsers and productivity suites.
+
+b. Check to make sure firmware on your organization’s devices is also patched.
+
+c. Ensure your internet-facing services are patched for known security vulnerabilities.
+
+d. Ensure, that your key business systems are all patched.
+
+e. Review existing business cases for known unpatched systems. Verify access controls
+
+a. Ensure that password policies (strong, unique, not shared) are implemented inside your organization.
+
+b. Review user accounts and remove any old or unused accounts.
+
+c. Enable multi-factor authentication (MFA) and check already enabled if properly configured.
+
+d. Review any accounts that have privileged or administrative access and remove old, unused or unrecognized accounts. Accounts that have privileged access or other rights should be carefully managed and, where possible, use MFA. Ensure defences are working
+
+a. Ensure your defensive software (AV, EDR, Firewalls) is properly configured and updated. Logging and monitoring
+
+a. Ensure robust logging collection, retention and monitoring of the logs. Review your backups
+
+a. Confirm that your backups are running correctly. Perform test restorations from your backups.
+
+b. Check that there is an offline copy of your backup – and that it is recent enough.
+
+c. Ensure machine state and any critical external credentials (such as private keys, access tokens) are also backed up, not just data. Incident plan
+
+a. Check your incident response plan is up to date.
+
+b. Confirm that escalation routes and contact details are all up to date.
+
+c. Ensure that the incident response plan contains clarity on who has the authority to make key decisions, especially out of normal office hours.
+
+d. Ensure your incident response plan and the communication mechanisms it uses will be available, even if your business systems are not. Check your internet footprint
+
+a. Check that records of your external internet-facing footprint are correct and up to date. This includes things like which IP addresses your systems use on the internet or which domain names belong to your organization. Ensure that domain registration data is held securely (check your password on your registry account, for example) and that any delegations are as expected.
+
+b. Perform an external vulnerability scan of your whole internet footprint and check that everything you need to patch has been patched. Internet-connected services with unpatched security vulnerabilities are an unmanageable risk. Phishing response
+
+a. Ensure that staff know how to report phishing emails. Ensure you have a process in place to deal with any reported phishing emails. Third party access
+
+a. If third party organizations have access to your IT networks or estate, make sure you have a comprehensive understanding of what level of privilege is extended into your systems, and to whom. Remove any access that is no longer required. Ensure you understand the security practices of your third parties.
+
+Another credible guidance for all organizations is SHIELDS UP initiative created by CISA. Their recommendations are divided into 3 sections on different level of entities: Guidance for All Organizations, Recommendations for Corporate Leaders and CEOs, Steps Americans (individuals) Can Take to Protect Themselves.
+
+CISA together with the FBI has warned organization that data wiping attacks targeting Ukraine could spill over to targets from other countries. The list of measured organizations should take as an immediate defense against such attacks includes:
+
+Setting antivirus and antimalware programs to conduct regular scans.
+
+Enabling strong spam filters to prevent phishing emails from reaching end users.
+
+Filtering network traffic.
+
+Updating software.
+
+Requiring multi-factor authentication.
+
+Technical Details of possible Russian operations
+
+CISA provided aggregated, technical details about Russian cyber-attacks that should be studied by Blue Team members for better understanding of their Modus Operandi.
+
+Historically, CISA states, Russian state-sponsored advanced persistent threat (APT) actors have used common but effective tactics—including spearphishing, brute force, and exploiting known vulnerabilities against accounts and networks with weak security—to gain initial access to target networks. Vulnerabilities known to be exploited by Russian state-sponsored APT actors for initial access include:
+
+CVE-2018-13379 FortiGate VPNs
+
+CVE-2019-1653 Cisco router
+
+CVE-2019-2725 Oracle WebLogic Server
+
+CVE-2019-7609 Kibana
+
+CVE-2019-9670 Zimbra software
+
+CVE-2019-10149 Exim Simple Mail Transfer Protocol
+
+CVE-2019-11510 Pulse Secure
+
+CVE-2019-19781 Citrix
+
+CVE-2020-0688 Microsoft Exchange
+
+CVE-2020-4006 VMWare (note: this was a zero-day at time.)
+
+CVE-2020-5902 F5 Big-IP
+
+CVE-2020-14882 Oracle WebLogic
+
+CVE-2021-26855 Microsoft Exchange (Note: this vulnerability is frequently observed used in conjunction with CVE-2021-26857, CVE-2021-26858, and CVE-2021-27065)
+
+Russian state-sponsored APT actors have also demonstrated sophisticated tradecraft and cyber capabilities by compromising third-party infrastructure, compromising third-party software, or developing and deploying custom malware. The actors have also demonstrated the ability to maintain persistent, undetected, long-term access in compromised environments—including cloud environments—by using legitimate credentials.
+
+For more information on recent and historical Russian state-sponsored malicious cyber activity, see the dedicated CISA website.
+
+Russian Advanced Persistent Threat and Cybercrime Groups TTPs
+
+The highest risk of cyberattacks comes from Russian APTs: Sandworm, APT28 and 29, Gamaredon, Turla, Energetic Bear but Russian cybercrime groups (Wizard Spider, Indrik Spider, REvil, ALPHV) can also be used by the Russian regime for malicious purposes. Therefore, monitoring for their TTPs (see the table below) inside the organization can increase the probability of finding the compromise.
+
+Table1: Common Tactics and Techniques Employed by Russian State-Sponsored APT Actors. Source: CISA
+
+For more information on TTPs specific to each group please visit MITRE dedicated websites: Energetic Bear, Turla, Gamaredon, APT29, APT28, Sandworm, Wizard Spider. Indrik Spider
+
+Detection Opportunities
+
+Following CISA’s guidance on detecting Russian APTs, organizations should implement the following:
+
+Robust logging collection and retention. Looking for behavioral evidence (TTPs) or network and host-based artifacts (IoCs).
+
+a. To detect password spray activity, review authentication logs for system and application login failures of valid accounts. Look for multiple, failed authentication attempts across multiple accounts.
+
+b. To detect use of compromised credentials in combination with a VPS, follow the below steps:
+
+– Look for suspicious “impossible logins,” such as logins with changing username, user agent strings, and IP address combinations or logins where IP addresses do not align to the expected user’s geographic location.
+
+– Look for one IP used for multiple accounts, excluding expected logins.
+
+– Look for “impossible travel.” Impossible travel occurs when a user logs in from multiple IP addresses that are a significant geographic distance apart (i.e., a person could not realistically travel between the geographic locations of the two IP addresses during the time period between the logins). Note: implementing this detection opportunity can result in false positives if legitimate users apply VPN solutions before connecting into networks.
+
+– Look for processes and program execution command-line arguments that may indicate credential dumping, especially attempts to access or copy the ntds.dit file from a domain controller.
+
+– Look for suspicious privileged account use after resetting passwords or applying user account mitigations.
+
+– Look for unusual activity in typically dormant accounts.
+
+– Look for unusual user agent strings, such as strings not typically associated with normal user activity, which may indicate bot activity.
+
+Red Canary provides guidance on how to detect particular techniques and is a good reference point for translating TTPs to detection rules. Please see Red Canary’s TOP 10 techniques from 2021 to better understand the creation of detection rules.
+
+Orange Cyberdefense CERT shares IoCs related to Russia-Ukraine 2022 conflict extracted from their Threat Intelligence platform. Those IoCs are collected automatically and provided without any prior verification. Right now, there are over 2000 indicators without any context, probably related to the past Russian APT’s activities. Alternative source is ETAC’s vetted IoCs, but it’s also quite robust. Both of those might be helpful, but it’s unlikely that the adversaries will reuse the indicators.
+
+The collection of Threat Reports, Vendor Support, OSINT sources, Data/Access brokers can be found on the curated-intel GitHub repository.",https://atos.net/en/lp/securitydive/risks-from-the-cyberattacks-ru-ua-conflict
+8,c00bc797-c937-4d71-ac9e-a5dadf038f95,[],2022-03-25 00:00:00,"War in Ukraine: What you need to know
+
+The latest: Kyiv region police said Friday that the bodies of more than 900 civilians had been tallied in the area — more than 350 of which were discovered in the Bucha suburb. The vast majority of them were found with gunshot wounds. Russia appears to be on the verge of capturing the devastated port city of Mariupol, which a regional leader said had been “wiped off the face of the earth.”
+
+The fight: Russian forces continue to mount sporadic attacks on civilian targets in a number of Ukrainian cities. Ukrainian prosecutors have been taking detailed testimony from victims to investigate Russian war crimes.
+
+The weapons: Ukraine is making use of weapons such as Javelin antitank missiles and Switchblade “kamikaze” drones, provided by the United States and other allies. Russia has used an array of weapons against Ukraine, some of which have drawn the attention and concern of analysts.
+
+In Russia: Putin has locked down the flow of information within Russia, where the war isn’t even being called a war. The last independent newsletter in Russia suspended its operations.
+
+Photos: Post photographers have been on the ground from the very beginning of the war — here’s some of their most powerful work.
+
+How you can help: Here are ways those in the U.S. can help support the Ukrainian people as well as what people around the world have been donating.
+
+Read our full coverage of the Russia-Ukraine crisis. Are you on Telegram? Subscribe to our channel for updates and exclusive video.",https://www.washingtonpost.com/world/2022/03/25/russia-ukraine-war-news-biden-live-updates/

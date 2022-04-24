@@ -31,3 +31,8 @@ python -m spacy download en_core_web_md
 python -m spacy download en_core_web_sm
 
 ```
+
+## Good References 
+|Type|Link|Reference|Thoughts|
+|-|-|-|-|
+|`paper`|[Detection of hyperpartisan news articles using natural language processing technique](./literature_review/Detection%20of%20hyperpartisan%20news%20articles%20using%20natural%20language%20processing%20technique.pdf)|[Elsevier](https://reader.elsevier.com/reader/sd/pii/S2667096822000088?token=A954ACDD1DD6A04D8CB01231618FCF95062684BC29388056A2A2387BD71B569D1F287C61EDB98424E8519326768CD3C2&originRegion=us-east-1&originCreation=20220424203741)|NA|

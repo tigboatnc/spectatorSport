@@ -5,6 +5,10 @@ import os
 # Read the source 
 df = pd.read_csv('../data/processed/author-parse-articles.csv')
 
+donelist = pd.read_csv('./donelist.csv')
+donelist_list = donelist['0'].to_list()
+# print(donelist.columns)
+
 # Getting Domains From News Websites 
 m = df['art_article_url'].str.extract('(?<=http://)(.*?)(?=/)|(?<=https://)(.*?)(?=/)')
 m = m[0].fillna(m[1]).fillna(df['art_article_url'])
@@ -27,15 +31,15 @@ done = []
 
 df_filtered = df_filtered.reset_index()
 
+import time
 
 while True : 
     
-
-    os.system("cls")
+    os.system("clear")
     
     index = random.randint(0, len(df_filtered))
     print(f'Reading Index {index}')
-    if df_filtered.loc[index]['ref_title'] == 0 :
+    if index in donelist_list :
         print('Already in list, Skipping')
         continue
     else:
@@ -50,8 +54,13 @@ while True :
         
         if flag == 0 :
             break 
-            
+
+        time.sleep(5)
+        print(f'appending index {index}')
         df_filtered.iat[index, df_filtered.columns.get_loc('art_processed')] = flag
-        df_filtered.to_csv(f'../data/processed/manual-parse-articles-{random.randint(0,90000))}.csv')
+        df_filtered.to_csv(f'../data/processed/manual-parse-articles-{random.randint(0,90000)}.csv')
+        donelist_list.append(index)
+        donelist.append(pd.Series(index),ignore_index=True )
+        donelist.to_csv('./donelist.csv')
     
     

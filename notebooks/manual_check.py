@@ -32,7 +32,7 @@ done = []
 df_filtered = df_filtered.reset_index()
 
 import time
-
+random_seed = random.randint(0,90000)
 while True : 
     
     os.system("clear")
@@ -58,7 +58,7 @@ while True :
         time.sleep(5)
         print(f'appending index {index}')
         df_filtered.iat[index, df_filtered.columns.get_loc('art_processed')] = flag
-        df_filtered.to_csv(f'../data/processed/manual-parse-articles-{random.randint(0,90000)}.csv')
+        df_filtered.to_csv(f'../data/processed/manual-parse-articles-{random_seed}.csv')
         donelist_list.append(index)
         donelist.append(pd.Series(index),ignore_index=True )
         donelist.to_csv('./donelist.csv')

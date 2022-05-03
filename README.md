@@ -1,6 +1,8 @@
 # Spectator Sport
 what in the love of god is media doing? 
 
+__Method 1__ : [link](https://colab.research.google.com/drive/1wyZBSNKz_5n1pS3lnufwi87idoRX56VB?usp=sharing)
+
 > NLP based analysis and insight experiments on the US media and its reporting on the Russian invasion of Ukraing (2022)
 
 ## Notebooks 

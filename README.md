@@ -2,9 +2,10 @@
 what in the love of god is media doing? 
 
 Scraping : [data scraping](./notebooks/Showcase%201%20-%20Data%20Gathering%20and%20Description.ipynb)
+Method 2 outputs : [split by reference](./nytimes%20-%20business%20insider.png)
+
 
 Method 2 : [split by reference](./notebooks/method%202.ipynb)
-
 
 
 

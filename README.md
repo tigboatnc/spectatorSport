@@ -5,7 +5,7 @@ Scraping : [data scraping](./notebooks/Showcase%201%20-%20Data%20Gathering%20and
  [scraping timelapse](assets/trim.mov)
 
 Method 1 outputs : [NYT - Business Insider](./nytimes%20-%20business%20insider.png)
-                  [split by reference](./cnn%20-%20aljazeera.png)
+                  [CNN - Aljazeera](./cnn%20-%20aljazeera.png)
                 
 
 

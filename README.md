@@ -1,8 +1,12 @@
 # Spectator Sport
 what in the love of god is media doing? 
 
-Scraping : [data scraping](./notebooks/Showcase%201%20-%20Data%20Gathering%20and%20Description.ipynb)
-Method 2 outputs : [split by reference](./nytimes%20-%20business%20insider.png)
+Scraping : [data scraping](./notebooks/Showcase%201%20-%20Data%20Gathering%20and%20Description.ipynb) <br/>
+ [scraping timelapse](assets/trim.mov)
+
+Method 1 outputs : [NYT - Business Insider](./nytimes%20-%20business%20insider.png)
+                  [split by reference](./cnn%20-%20aljazeera.png)
+                
 
 
 Method 2 : [split by reference](./notebooks/method%202.ipynb)

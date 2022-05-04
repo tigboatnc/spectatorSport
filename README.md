@@ -1,10 +1,9 @@
 # Spectator Sport
 what in the love of god is media doing? 
 
+Scraping : [data scraping](./notebooks/Showcase%201%20-%20Data%20Gathering%20and%20Description.ipynb)
 
-Method 1 : [data scraping](./notebooks/Showcase%201%20-%20Data%20Gathering%20and%20Description.ipynb)
-
-Method 1 : [data scraping](./notebooks/method%202.ipynb)
+Method 2 : [split by reference](./notebooks/method%202.ipynb)
 
 
 

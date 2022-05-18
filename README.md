@@ -35,15 +35,15 @@ This method was done using selenium and parametrized google search.
 
 ## Method 1 
 ### What is a story an organization is interested in publishing
-[Notebook]()
+[Google Colab](https://colab.research.google.com/drive/1wyZBSNKz_5n1pS3lnufwi87idoRX56VB?usp=sharing) `restart colab runtime after Env Setup Cell (known issue with google colab)`
+[Local Notebook](https://colab.research.google.com/drive/1wyZBSNKz_5n1pS3lnufwi87idoRX56VB?usp=sharing)  
 
 __Pipeline__
 1. Filter articles by news sources 
 2. Pick 2 news sources 
-3. Use LDA to find important topics in the full corpus of all the articles 
-4. 
-
-
+3. Use LDA to find important topics in the full corpus of all the articles for the two domains 
+4. Compare the two LDA models using Jaccard Distance
+5. Make correlations based on the jaccard matrix. 
 
 
 ## Method 2 

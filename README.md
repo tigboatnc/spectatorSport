@@ -44,7 +44,7 @@ This method was done using selenium and parametrized google search.
 
 > Colab Notebooks for both contain last run code outputs. 
 
-## Method 1 
+## Method 1 `+running instructions`
 ### What is a story an organization is interested in publishing
 [Google Colab](https://colab.research.google.com/drive/1wyZBSNKz_5n1pS3lnufwi87idoRX56VB?usp=sharing) `restart colab runtime after Env Setup Cell (known issue with google colab)` <br/>
 [Local Notebook](./notebooks/method_1.ipynb)  
@@ -58,7 +58,7 @@ __Pipeline for Method 1__
 
 --------
 
-## Method 2 
+## Method 2  `+running instructions`
 ### What is a story an organization is interested in publishing
 [Google Colab](https://colab.research.google.com/drive/1-mBDkKvSh2hWAfc6c2rGtkgyinJ994wk?usp=sharing) `restart colab runtime after Env Setup Cell (known issue with google colab)` <br/>
 [Local Notebook](./notebooks/method_2.ipynb)

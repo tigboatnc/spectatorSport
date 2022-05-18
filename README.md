@@ -47,7 +47,7 @@ This method was done using selenium and parametrized google search.
 ## Method 1 
 ### What is a story an organization is interested in publishing
 [Google Colab](https://colab.research.google.com/drive/1wyZBSNKz_5n1pS3lnufwi87idoRX56VB?usp=sharing) `restart colab runtime after Env Setup Cell (known issue with google colab)` <br/>
-[Local Notebook](https://colab.research.google.com/drive/1wyZBSNKz_5n1pS3lnufwi87idoRX56VB?usp=sharing)  
+[Local Notebook](./notebooks/method_1.ipynb)  
 
 __Pipeline for Method 1__
 1. Filter articles by news sources 

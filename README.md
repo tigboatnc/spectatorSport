@@ -90,8 +90,8 @@ Technically, the bigram most common with `force` in terms of frequency are liste
 
 
 
-Chao  
-George 
-Samarth 
+Chao  <br/>
+George <br/>
+Samarth <br/>
 
 

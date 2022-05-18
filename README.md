@@ -13,9 +13,15 @@ This forms the motivation of our project, __determining bias in news and if ther
 
 We pick the Russian Invasion of Ukraine as a subject matter as wartime data is extremely dense and compact in terms of content by design and try to compare reporting by different media outlets. 
 
+--------
+
+
 ## Requirements 
 
 `pip install selenium webdriver_manager pandas`
+
+--------
+
 
 ## Data Collection 
 
@@ -32,23 +38,60 @@ This method was done using selenium and parametrized google search.
 - For each reference there exist some articles that are collected based around this reference. 
 - The article dataset can be found in the file : [author-parse-articles.csv](./data/processed/author-parse-articles.csv)
 
+--------
+
+
+
+> Colab Notebooks for both contain last run code outputs. 
 
 ## Method 1 
 ### What is a story an organization is interested in publishing
-[Google Colab](https://colab.research.google.com/drive/1wyZBSNKz_5n1pS3lnufwi87idoRX56VB?usp=sharing) `restart colab runtime after Env Setup Cell (known issue with google colab)`
+[Google Colab](https://colab.research.google.com/drive/1wyZBSNKz_5n1pS3lnufwi87idoRX56VB?usp=sharing) `restart colab runtime after Env Setup Cell (known issue with google colab)` <br/>
 [Local Notebook](https://colab.research.google.com/drive/1wyZBSNKz_5n1pS3lnufwi87idoRX56VB?usp=sharing)  
 
-__Pipeline__
+__Pipeline for Method 1__
 1. Filter articles by news sources 
 2. Pick 2 news sources 
 3. Use LDA to find important topics in the full corpus of all the articles for the two domains 
 4. Compare the two LDA models using Jaccard Distance
 5. Make correlations based on the jaccard matrix. 
 
+--------
 
 ## Method 2 
+### What is a story an organization is interested in publishing
+[Google Colab](https://colab.research.google.com/drive/1-mBDkKvSh2hWAfc6c2rGtkgyinJ994wk?usp=sharing) `restart colab runtime after Env Setup Cell (known issue with google colab)` <br/>
+[Local Notebook](./notebooks/method_2.ipynb)
+
+__Pipeline for Method 2__
+1. Filter articles by news sources.
+2. Pick 2 news articles based on the same reference.
+3. Train LDA Models using all articles corpus. 
+3. Use LDA to find dominant topics in the full corpus of all the articles for the same reference.
+4. Create bigram model and ensure one of the words is keywords provided by LDA model.
+5. Compare the non-keywords frequency to make conclusion.
+
+-------
 
 ## Insights / Results 
 
+### Method 1 
+![Method 1 output](./assets/m1op.png)<br/>
+For method 1 we can see 2 media companies compared in terms of their topics, the amount of red indicates common reporting topics. 
+We believe that news companies which align themself similarly politically should have more red portion than blue. 
+
+### Method 2 
+![Method 2 output](./assets/m2op.png)<br/>
+For method 2 we can see that 2 articles from different news sources report similar keywords in the following context. 
+Technically, the bigram most common with `force` in terms of frequency are listed for 2 different media outlets. 
+
+
+
+
+
+
+Chao  
+George 
+Samarth 
 
 

@@ -1,40 +1,54 @@
-# Spectator Sport
-what in the love of god is media doing? 
+# Spectator Sport 
 
-__Method 1__ : [link](https://colab.research.google.com/drive/1wyZBSNKz_5n1pS3lnufwi87idoRX56VB?usp=sharing)
+## Using NLP to analyse reporting done by media outlets on Russian Invasion of Ukraine 
 
-> NLP based analysis and insight experiments on the US media and its reporting on the Russian invasion of Ukraing (2022)
+Media plays an important role in society as it acts as a stream of communication between the public and the governments and helps in shaping opinions in both directions ie. shaping public opinion on the one hand and reporting on public consensus in order for legislators to shape public policy. 
+However, in the current socio-economic climate, there is a growing distrust in the media as well as the governing bodies from the general public. This can mainly be attributed to the media being a for-profit business and the fact that major media outlets are now under people with an agenda. 
 
-## Notebooks 
-|Notebook|Description|Date|
-|-|-|-|
-|[1-raw_processing](./notebooks/1-raw_processing.ipynb)|Cleaning raw data and adding reporting time column|04-11-22|
-|[2-find_reporting](./notebooks/2-find_reporting.ipynb)|EDA|04-11-22|
-|[3-2-corpus_generation_selenium](./notebooks/3-2-corpus_generation_selenium.ipynb)|Scraping references from website|04-11-22|
+The current model of operation for media houses is extremely destructive for the society in our opinion as the monetization is based on ads that depend on clicks which in turn motivates the organizations to focus on evaluating news stories on the basis of the number of clicks a story gets as opposed to what is actually important for society as a whole to be aware of. 
 
-## Data
-|Data|Description|Date|
-|-|-|-|
-|[Raw Scrape](./data/raw/)|Raw data from telegram, twitter, facebook etc. which is geotagged|04-11-22|
-|[input-data.csv](./data/processed/input-data.csv)|Processing of Raw Scrape Data|04-11-22|
-|[articles/*.csv](./data/processed/articles/)|Scraped Articles Per Reference |04-11-22|
+This fracturing of news and the public has gotten to a point where each news outlet has it's own demographic and each can be categorized as leaning to one side of the political aisle and there is a stark distrust in the news leaning the other direction. 
+
+This forms the motivation of our project, __determining bias in news and if there is a way to segment news outlets based on the form of reporting done by leveraging NLP methods__. 
+
+We pick the Russian Invasion of Ukraine as a subject matter as wartime data is extremely dense and compact in terms of content by design and try to compare reporting by different media outlets. 
+
+## Requirements 
+
+`pip install selenium webdriver_manager pandas`
+
+## Data Collection 
+
+### Dataset 1 : __Reference__
+Data was sourced from liveuamap which is a cooroborator of on-ground communications sourced from twitter, telegram and other forms of communications. 
+The original dataset consists of __references__ scraped on a daily basis for a period of 2 months and can be found in the file : [raw/](./data/raw)
+- Each file name acts as a timestamp 
+- Each row represents a reference and contains : geotag, title, date-time data
+Data was collected autonomously using a selenium based web-scraper. 
+
+## Dataset 2 : __Article__
+A second dataset was made by searching for articles made based on previously collected references to find reporting by different news sources. 
+This method was done using selenium and parametrized google search. 
+- For each reference there exist some articles that are collected based around this reference. 
+- The article dataset can be found in the file : [author-parse-articles.csv](./data/processed/author-parse-articles.csv)
 
 
-## Todo 
-- [] Sync notebook 1 for operating on new file names `samarth` <_only mac support rn_>
-## People 
-Neg [git](https://github.com/tigboatnc) <br/>
-Geog [git](https://github.com/SwagYangJH) <br/>
-Overtak [git](https://github.com/HenryVarro666) <br/>
+## Method 1 
+### What is a story an organization is interested in publishing
+[Notebook]()
+
+__Pipeline__
+1. Filter articles by news sources 
+2. Pick 2 news sources 
+3. Use LDA to find important topics in the full corpus of all the articles 
+4. 
 
 
-```shell 
-python -m spacy download en_core_web_md
-python -m spacy download en_core_web_sm
 
-```
 
-## Good References 
-|Type|Link|Reference|Thoughts|
-|-|-|-|-|
-|`paper`|[Detection of hyperpartisan news articles using natural language processing technique](./literature_review/Detection%20of%20hyperpartisan%20news%20articles%20using%20natural%20language%20processing%20technique.pdf)|[Elsevier](https://reader.elsevier.com/reader/sd/pii/S2667096822000088?token=A954ACDD1DD6A04D8CB01231618FCF95062684BC29388056A2A2387BD71B569D1F287C61EDB98424E8519326768CD3C2&originRegion=us-east-1&originCreation=20220424203741)|NA|
+## Method 2 
+
+## Insights / Results 
+
+
+
